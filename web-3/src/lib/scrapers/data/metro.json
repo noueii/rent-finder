@@ -1,0 +1,7988 @@
+{
+	"filter": {
+		"perPage": 24,
+		"curPage": 0,
+		"countryCode": "jp",
+		"languageCode": "en",
+		"sortBy": {
+			"type": "ranking",
+			"order": "desc"
+		},
+		"flexMoveIn": 0
+	},
+	"units": [
+		{
+			"_property_id": 7535,
+			"property_id": 7535,
+			"property_item_id": 20511,
+			"property_unit_id": 42073,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "Oimachi Town House",
+					"ja": "大井町タウンハウス"
+				},
+				"fts": {
+					"en": "Oimachi Town House",
+					"ja": "大井町タウンハウス"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/shinagawa/oimachi-town-house/42073",
+				"ja": "/jp/apartment-rental/tokyo/shinagawa/oimachi-town-house/42073"
+			},
+			"visibility": 1,
+			"price": 75000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/ada7726f-fee4-4e76-adbc-8ff73ef74bb7..jpg",
+					"photo_order": 0,
+					"id": 222040
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/82743497-f69a-4e1e-b23a-7c91cbb1f223..jpg",
+					"photo_order": 1,
+					"id": 222041
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/e029caec-c9a2-4e4d-bce5-024eba5e755f..jpg",
+					"photo_order": 2,
+					"id": 222042
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/68e7514d-b8d2-492c-b024-e99d1b410ee8..jpg",
+					"photo_order": 3,
+					"id": 222043
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/a1a2c111-cf28-40c2-b977-81f062c0d0e6..jpg",
+					"photo_order": 4,
+					"id": 222044
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/49a41e2c-5ca8-4f56-9ec4-4c5090aa67e8..jpg",
+					"photo_order": 5,
+					"id": 222045
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/8f31c5d5-a08e-458a-97ef-b52d2791c852..jpg",
+					"photo_order": 6,
+					"id": 222046
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/4c56a585-6ece-4951-9bc0-e77f61e4e720..jpg",
+					"photo_order": 7,
+					"id": 222047
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/4f3ddf43-3621-481a-a7c5-7e4274a441d4..jpg",
+					"photo_order": 8,
+					"id": 222048
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/997098ad-dfe4-4381-860a-ad13be14bfd6..jpg",
+					"photo_order": 9,
+					"id": 222049
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/4e5c2dde-748a-4837-b2fc-0d9946a618c4..jpg",
+					"photo_order": 10,
+					"id": 222050
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/602d3106-5a3c-4e63-9915-06d33f6cc025..jpg",
+					"photo_order": 11,
+					"id": 222051
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/224e2eda-abbc-4f23-a433-ed14d8333eb0..jpg",
+					"photo_order": 12,
+					"id": 222052
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/c2bad9e0-01de-42b4-b6cd-992679605559..jpg",
+					"photo_order": 13,
+					"id": 222053
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/cd398a4a-0605-4d91-9aea-d731f8d5cb8d..jpg",
+					"photo_order": 14,
+					"id": 222054
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/05d71f99-f6ce-4a15-a5d3-3519bdd8cffd..jpg",
+					"photo_order": 15,
+					"id": 222055
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/4c34c787-f5c0-40ff-8e39-529a01461aff..jpg",
+					"photo_order": 16,
+					"id": 222056
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/1ea617ad-79f9-4014-84ae-dec55a978e1c..jpg",
+					"photo_order": 17,
+					"id": 222057
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/6275fe15-80e2-4b6d-8aca-d3b0bfac311d..jpg",
+					"photo_order": 18,
+					"id": 222058
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42073/images/f8854449-102a-4fc8-8c04-b5e24bf4c2da..jpg",
+					"photo_order": 19,
+					"id": 222059
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7535/images/50b2ffea-f7a7-41e6-976b-0f44f27f5183..jpg",
+					"photo_order": 0,
+					"id": 222061
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Shinagawa",
+					"ja": "品川区"
+				},
+				"street": {
+					"en": "Minami-Shinagawa",
+					"ja": "南品川"
+				},
+				"postcode": "140-0004",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Shinagawa",
+					"ja": "Shinagawa"
+				}
+			},
+			"coord": {
+				"lat": 35.6116246,
+				"lon": 139.7369733
+			},
+			"stations": [
+				{
+					"id": 391,
+					"name": {
+						"en": "Oimachi",
+						"ja": "大井町"
+					},
+					"coord": {
+						"lat": 35.6076153,
+						"lon": 139.7346592
+					},
+					"lines": [
+						{
+							"id": 41,
+							"name": {
+								"en": "Keihin-Tohoku",
+								"ja": "京浜東北"
+							},
+							"color": {
+								"rgba": {
+									"a": 0.61,
+									"b": 223,
+									"g": 201,
+									"r": 57
+								},
+								"rgbaString": "rgba(57, 201, 223, 0.61)"
+							},
+							"stations": [
+								159,
+								372,
+								391,
+								397,
+								420,
+								452,
+								483,
+								501
+							]
+						},
+						{
+							"id": 63,
+							"name": {
+								"en": "JR Chuo / Soubu",
+								"ja": "ＪＲ中央・総武線"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 9,
+									"g": 197,
+									"r": 213
+								},
+								"rgbaString": "rgba(213, 197, 9, 1)"
+							},
+							"stations": [
+								436,
+								490,
+								256
+							]
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 640
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 8
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 16.24,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "1k"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20511/images/92b03253-5dc3-460e-b53e-26005fa063b9..jpg",
+					"photo_order": 0,
+					"id": 222060
+				}
+			],
+			"stories": 6,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 20511,
+				"status": "active",
+				"updatedAt": "2025-04-16T04:30:01.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20511/images/92b03253-5dc3-460e-b53e-26005fa063b9..jpg",
+							"photo_order": 0,
+							"id": 222060
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "A",
+					"ja": "A"
+				}
+			},
+			"floor": "4",
+			"unit_nbr": "408"
+		},
+		{
+			"_property_id": 7579,
+			"property_id": 7579,
+			"property_item_id": 22616,
+			"property_unit_id": 45704,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "Brillia Towers Meguro North Residence",
+					"ja": "Ｂｒｉｌｌｉａ Ｔｏｗｅｒｓ目黒 ノースレジデンス"
+				},
+				"fts": {
+					"en": "Brillia Towers Meguro North Residence",
+					"ja": "Ｂｒｉｌｌｉａ Ｔｏｗｅｒｓ目黒 ノースレジデンス"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/shinagawa/shinagawa/brillia-towers-meguro-north-residence/45704",
+				"ja": "/jp/apartment-rental/shinagawa/shinagawa/brillia-towers-meguro-north-residence/45704"
+			},
+			"visibility": 1,
+			"price": 440000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45704/images/477de10a-2c66-4907-95ec-62c5d25aa2b9..jpg",
+					"photo_order": 0,
+					"id": 234552
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45704/images/224f51ff-948a-4263-83bb-5c09847538ec..jpg",
+					"photo_order": 1,
+					"id": 234553
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45704/images/e26b0a5d-9495-4dd6-9a15-8b1b0fb80b9d..jpg",
+					"photo_order": 2,
+					"id": 234554
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45704/images/9332ee17-8c48-42a5-9b25-8dd6074150ca..jpg",
+					"photo_order": 3,
+					"id": 234555
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45704/images/a4ad9e7e-e12e-4ec5-8cd9-aba122cccdae..jpg",
+					"photo_order": 4,
+					"id": 234556
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45704/images/c7480993-05b5-4caa-bb64-67b532dd4223..jpg",
+					"photo_order": 5,
+					"id": 234557
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45704/images/2712c9c0-fd6c-4d68-bf85-36d809521060..jpg",
+					"photo_order": 6,
+					"id": 234558
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45704/images/1f12df11-0684-46af-98f0-9e3a86d8f923..jpg",
+					"photo_order": 7,
+					"id": 234559
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45704/images/87978057-a892-4025-8c82-ad1cdcf8114b..jpg",
+					"photo_order": 8,
+					"id": 234560
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7579/images/9ce29ce3-41de-4296-bbbd-a5754e6c7f70..jpg",
+					"photo_order": 0,
+					"id": 223180
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Shinagawa",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Shinagawa",
+					"ja": "品川区"
+				},
+				"street": {
+					"en": "Kamiosaki",
+					"ja": "上大崎"
+				},
+				"postcode": "141-0021",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Shinagawa",
+					"ja": "Shinagawa"
+				}
+			},
+			"coord": {
+				"lat": 35.6330061,
+				"lon": 139.7167845
+			},
+			"stations": [
+				{
+					"id": 258,
+					"name": {
+						"en": "Meguro",
+						"ja": "目黒"
+					},
+					"coord": {
+						"lat": 35.6340929,
+						"lon": 139.7158331
+					},
+					"lines": [
+						{
+							"id": 19,
+							"name": {
+								"en": "Yamanote",
+								"ja": "山手線"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 33,
+									"g": 211,
+									"r": 126
+								},
+								"rgbaString": "rgba(126, 211, 33, 1)"
+							},
+							"stations": [
+								295,
+								296,
+								299,
+								303,
+								258,
+								318,
+								176,
+								147,
+								159,
+								357,
+								368,
+								371,
+								216,
+								271,
+								383,
+								192,
+								392,
+								154,
+								407,
+								425,
+								443,
+								190,
+								163,
+								228,
+								496,
+								501
+							]
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 300
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 3
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 63.09,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "2ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22616/images/08a87d93-71f5-48ff-b3c4-62539a212aa4..jpg",
+					"photo_order": 0,
+					"id": 234561
+				}
+			],
+			"stories": 40,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 22616,
+				"status": "active",
+				"updatedAt": "2025-06-11T03:44:53.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22616/images/08a87d93-71f5-48ff-b3c4-62539a212aa4..jpg",
+							"photo_order": 0,
+							"id": 234561
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "C",
+					"ja": "C"
+				}
+			},
+			"floor": "24",
+			"unit_nbr": "2409"
+		},
+		{
+			"_property_id": 7580,
+			"property_id": 7580,
+			"property_item_id": 22387,
+			"property_unit_id": 45294,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "Buena Vista Yoyogi",
+					"ja": "Ｂｕｅｎａ Ｖｉｓｔａ代々木"
+				},
+				"fts": {
+					"en": "Buena Vista Yoyogi",
+					"ja": "Ｂｕｅｎａ Ｖｉｓｔａ代々木"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/shibuya/buena-vista-yoyogi/45294",
+				"ja": "/jp/apartment-rental/tokyo/shibuya/buena-vista-yoyogi/45294"
+			},
+			"visibility": 1,
+			"price": 153000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45294/images/37d2501f-2bdd-4675-8646-7275e2270d3a..jpg",
+					"photo_order": 0,
+					"id": 233113
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45294/images/d128ea44-c949-4c8c-ae5b-fa052b22d265..jpg",
+					"photo_order": 1,
+					"id": 233114
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45294/images/975f84d3-dbea-46cf-ba3d-a2bc6c31a08f..jpg",
+					"photo_order": 2,
+					"id": 233115
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45294/images/39eda7a1-9ba7-413c-a8fc-e456fb42de3c..jpg",
+					"photo_order": 3,
+					"id": 233117
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45294/images/2cf0ac36-b380-453a-be92-0f584684f85c..jpg",
+					"photo_order": 4,
+					"id": 233118
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7580/images/32d8bffc-5d40-4fe8-ab37-511029866bce..jpg",
+					"photo_order": 0,
+					"id": 223193
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Shibuya",
+					"ja": "渋谷区"
+				},
+				"street": {
+					"en": "Yoyogi ",
+					"ja": "代々木"
+				},
+				"postcode": " 151-0053",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Shibuya",
+					"ja": "Shibuya"
+				}
+			},
+			"coord": {
+				"lat": 35.684902,
+				"lon": 139.6991334
+			},
+			"stations": [
+				{
+					"id": 357,
+					"name": {
+						"en": "Yoyogi",
+						"ja": "代々木"
+					},
+					"coord": {
+						"lat": 35.683033,
+						"lon": 139.7020555
+					},
+					"lines": [
+						{
+							"id": 19,
+							"name": {
+								"en": "Yamanote",
+								"ja": "山手線"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 33,
+									"g": 211,
+									"r": 126
+								},
+								"rgbaString": "rgba(126, 211, 33, 1)"
+							},
+							"stations": [
+								295,
+								296,
+								299,
+								303,
+								258,
+								318,
+								176,
+								147,
+								159,
+								357,
+								368,
+								371,
+								216,
+								271,
+								383,
+								192,
+								392,
+								154,
+								407,
+								425,
+								443,
+								190,
+								163,
+								228,
+								496,
+								501
+							]
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 400
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 5
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 27.04,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "1dk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22387/images/18c51808-0e0b-4a29-a14a-cc3d882522d0..jpg",
+					"photo_order": 0,
+					"id": 233119
+				}
+			],
+			"stories": 9,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 22387,
+				"status": "active",
+				"updatedAt": "2025-06-11T03:44:56.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22387/images/18c51808-0e0b-4a29-a14a-cc3d882522d0..jpg",
+							"photo_order": 0,
+							"id": 233119
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "B",
+					"ja": "B"
+				}
+			},
+			"floor": "7",
+			"unit_nbr": "702"
+		},
+		{
+			"_property_id": 7584,
+			"property_id": 7584,
+			"property_item_id": 22511,
+			"property_unit_id": 45514,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "CONFORT Tsukishima",
+					"ja": "ＣＯＮＦＯＲＴ月島"
+				},
+				"fts": {
+					"en": "CONFORT Tsukishima",
+					"ja": "ＣＯＮＦＯＲＴ月島"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/chuo/chuo/confort-tsukishima/45514",
+				"ja": "/jp/apartment-rental/chuo/chuo/confort-tsukishima/45514"
+			},
+			"visibility": 1,
+			"price": 195000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45514/images/028911b6-b66a-40dd-9722-272b35912656..jpg",
+					"photo_order": 0,
+					"id": 234565
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45514/images/7e1e56b6-7e0d-4328-926a-92d9d06db628..jpg",
+					"photo_order": 1,
+					"id": 234566
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45514/images/bfa2403c-9ddd-4cc7-aeff-1cc613adb672..jpg",
+					"photo_order": 2,
+					"id": 234567
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45514/images/f98d05a3-3f25-420a-a02b-27fe1d11633a..jpg",
+					"photo_order": 3,
+					"id": 234568
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45514/images/d3536f6e-6a6f-462a-8c94-02dac948c301..jpg",
+					"photo_order": 4,
+					"id": 234569
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45514/images/4514e253-5fc7-4bdb-9434-5b7a380eaa10..jpg",
+					"photo_order": 5,
+					"id": 234570
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45514/images/ec14d6f3-05f1-44e7-90a4-601d755a8bca..jpg",
+					"photo_order": 6,
+					"id": 234571
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7584/images/22e700ab-5c19-4aaf-be09-c90fe6a34700..jpg",
+					"photo_order": 0,
+					"id": 223257
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Chuo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Chuo",
+					"ja": "中央区"
+				},
+				"street": {
+					"en": "Tsukuda",
+					"ja": "佃"
+				},
+				"postcode": "104-0051",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Chuo",
+					"ja": "Chuo"
+				}
+			},
+			"coord": {
+				"lat": 35.6674179,
+				"lon": 139.7840097
+			},
+			"stations": [
+				{
+					"id": 240,
+					"name": {
+						"en": "Tsukishima",
+						"ja": "月島"
+					},
+					"coord": {
+						"lat": 35.6635905,
+						"lon": 139.7818227
+					},
+					"lines": [
+						{
+							"id": 8,
+							"name": {
+								"en": "Toei Oedo",
+								"ja": "都営大江戸線"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 104,
+									"g": 13,
+									"r": 224
+								},
+								"rgbaString": "rgba(224, 13, 104, 1)"
+							},
+							"stations": [
+								144,
+								145,
+								146,
+								294,
+								163,
+								309,
+								310,
+								240,
+								314,
+								347,
+								356,
+								357,
+								359,
+								361,
+								362,
+								364,
+								373,
+								376,
+								375,
+								389,
+								405,
+								288,
+								150,
+								410,
+								441,
+								442,
+								411
+							],
+							"image": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/line/8/images/upload_f7c99f6206980f8b19fabf20a3aa9a80_220742.png"
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 400
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 4
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 41.63,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "1ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22511/images/c0203113-c0e0-40d0-940f-52657a252a18..jpg",
+					"photo_order": 0,
+					"id": 234572
+				}
+			],
+			"stories": 7,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 22511,
+				"status": "active",
+				"updatedAt": "2025-07-13T07:58:00.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22511/images/c0203113-c0e0-40d0-940f-52657a252a18..jpg",
+							"photo_order": 0,
+							"id": 234572
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "B",
+					"ja": "B"
+				}
+			},
+			"floor": "5",
+			"unit_nbr": "503"
+		},
+		{
+			"_property_id": 7603,
+			"property_id": 7603,
+			"property_item_id": 22534,
+			"property_unit_id": 45559,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "Lapyuta",
+					"ja": "Ｌａｐｙｕｔａ"
+				},
+				"fts": {
+					"en": "Lapyuta",
+					"ja": "Ｌａｐｙｕｔａ"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/chuo/lapyuta/45559",
+				"ja": "/jp/apartment-rental/tokyo/chuo/lapyuta/45559"
+			},
+			"visibility": 1,
+			"price": 222000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45559/images/fbd851a6-19ec-4de2-92e3-e8ccc86db4ea..jpg",
+					"photo_order": 0,
+					"id": 234598
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45559/images/7783895d-34d5-4a83-b9cf-b93817a75350..jpg",
+					"photo_order": 1,
+					"id": 234599
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45559/images/66d122ba-2e88-46b5-9a04-eca01aa6b0d7..jpg",
+					"photo_order": 2,
+					"id": 234600
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45559/images/b17d96af-eb6f-4b1f-be5d-1552095378d8..jpg",
+					"photo_order": 3,
+					"id": 234601
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45559/images/1779d0dc-32b0-42f2-b010-2dfcf97c141d..jpg",
+					"photo_order": 4,
+					"id": 234602
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45559/images/4eafd53e-8965-4a2f-9dce-d167c505aa12..jpg",
+					"photo_order": 5,
+					"id": 234603
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45559/images/7efa87d7-882f-4cb2-b8d7-8e621a3f6a19..jpg",
+					"photo_order": 6,
+					"id": 234604
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45559/images/0119c76a-0836-44c9-9f3e-6e3919e562bf..jpg",
+					"photo_order": 7,
+					"id": 234605
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45559/images/6d441569-37ba-44cb-b6cc-934f852af63f..jpg",
+					"photo_order": 8,
+					"id": 234606
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45559/images/e0e8c170-0efc-4a7d-880e-78a5d24803d0..jpg",
+					"photo_order": 9,
+					"id": 234607
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45559/images/cf15d080-1ecc-4dbc-af6c-3bbc1ac2dd80..jpg",
+					"photo_order": 10,
+					"id": 234608
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7603/images/9c7f5c4d-9fef-4809-9115-207b71f05cd1..jpg",
+					"photo_order": 0,
+					"id": 223426
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Chuo",
+					"ja": "中央区"
+				},
+				"street": {
+					"en": "Nihonbashi Nakasu",
+					"ja": "日本橋中洲"
+				},
+				"postcode": "103-0008",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Chuo",
+					"ja": "Chuo"
+				}
+			},
+			"coord": {
+				"lat": 35.6841742,
+				"lon": 139.7913627
+			},
+			"stations": [
+				{
+					"id": 188,
+					"name": {
+						"en": "Ningyocho",
+						"ja": "人形町"
+					},
+					"coord": {
+						"lat": 35.6859289,
+						"lon": 139.7826297
+					},
+					"lines": [
+						{
+							"id": 24,
+							"name": {
+								"en": "Toei Asakusa",
+								"ja": "都営地下鉄浅草"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 41,
+									"g": 13,
+									"r": 243
+								},
+								"rgbaString": "rgba(243, 13, 41, 1)"
+							},
+							"stations": [
+								304,
+								184,
+								294,
+								334,
+								342,
+								348,
+								351,
+								366,
+								322,
+								188,
+								415,
+								418,
+								441,
+								497
+							]
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 1280
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 16
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 55.85,
+					"unit": "sqm"
+				},
+				"bedroomLabel": "2ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22534/images/f96a249e-502c-42be-b8c9-6d6deaea66f2..jpg",
+					"photo_order": 0,
+					"id": 234610
+				}
+			],
+			"stories": 13,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 22534,
+				"status": "active",
+				"updatedAt": "2025-07-13T08:54:52.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22534/images/f96a249e-502c-42be-b8c9-6d6deaea66f2..jpg",
+							"photo_order": 0,
+							"id": 234610
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "C",
+					"ja": "C"
+				}
+			},
+			"floor": "11",
+			"unit_nbr": "1102"
+		},
+		{
+			"_property_id": 7610,
+			"property_id": 7610,
+			"property_item_id": 20646,
+			"property_unit_id": 45155,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "MM Garden",
+					"ja": "ＭＭガーデン"
+				},
+				"fts": {
+					"en": "MM Garden",
+					"ja": "ＭＭガーデン"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/chuo/mm-garden/45155",
+				"ja": "/jp/apartment-rental/tokyo/chuo/mm-garden/45155"
+			},
+			"visibility": 1,
+			"price": 186000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45155/images/96587b44-9eda-4e02-b712-38dd2a689bb6..jpg",
+					"photo_order": 0,
+					"id": 233211
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45155/images/b5e97c6e-83ca-49f0-ab18-60459c6b3ae2..jpg",
+					"photo_order": 1,
+					"id": 233212
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45155/images/9ff75b87-eef2-455e-a019-3f32328f6e5e..jpg",
+					"photo_order": 2,
+					"id": 233213
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45155/images/7ca9065d-acd2-4f7a-b9ff-83da47b1e4e5..jpg",
+					"photo_order": 3,
+					"id": 233214
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45155/images/5d1aa967-2756-41e6-9d33-7af36aa9c851..jpg",
+					"photo_order": 4,
+					"id": 233215
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45155/images/679210a3-a996-46a3-a284-5dde273d5112..jpg",
+					"photo_order": 5,
+					"id": 233216
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45155/images/40c364d2-d027-4777-8147-7fdfe16e98db..jpg",
+					"photo_order": 6,
+					"id": 233217
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45155/images/91a49d64-00ce-4390-a0b1-4a7beb65e44e..jpg",
+					"photo_order": 7,
+					"id": 233218
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7610/images/9f782491-d8dd-452a-8137-66021b9ebe31..jpg",
+					"photo_order": 0,
+					"id": 223538
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Chuo",
+					"ja": "中央区"
+				},
+				"street": {
+					"en": "Shintomi",
+					"ja": "新富"
+				},
+				"postcode": " 104-0041",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Chuo",
+					"ja": "Chuo"
+				}
+			},
+			"coord": {
+				"lat": 35.6714858,
+				"lon": 139.7743245
+			},
+			"stations": [
+				{
+					"id": 239,
+					"name": {
+						"en": "Shintomicho",
+						"ja": "新富町"
+					},
+					"coord": {
+						"lat": 35.6705851,
+						"lon": 139.7735117
+					},
+					"lines": [
+						{
+							"id": 14,
+							"name": {
+								"en": "Yurakucho",
+								"ja": "有楽町線"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 16,
+									"g": 204,
+									"r": 219
+								},
+								"rgbaString": "rgba(219, 204, 16, 1)"
+							},
+							"stations": [
+								220,
+								221,
+								222,
+								223,
+								224,
+								225,
+								226,
+								227,
+								228,
+								229,
+								230,
+								231,
+								195,
+								233,
+								234,
+								235,
+								236,
+								237,
+								238,
+								239,
+								240,
+								241,
+								242,
+								243
+							]
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 200
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 2
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 40.72,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "1ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20646/images/6eb500fe-05da-4ca1-9781-1e5286024ab7..jpg",
+					"photo_order": 0,
+					"id": 223537
+				}
+			],
+			"stories": 10,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 20646,
+				"status": "active",
+				"updatedAt": "2025-07-13T08:54:47.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20646/images/6eb500fe-05da-4ca1-9781-1e5286024ab7..jpg",
+							"photo_order": 0,
+							"id": 223537
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "A",
+					"ja": "A"
+				}
+			},
+			"floor": "10",
+			"unit_nbr": "1002"
+		},
+		{
+			"_property_id": 7613,
+			"property_id": 7613,
+			"property_item_id": 20653,
+			"property_unit_id": 42240,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "NJK MARQUIS OMOTESANDO",
+					"ja": "ＮＪＫ ＭＡＲＱＵＩＳ ＯＭＯＴＥＳＡＮＤＯ"
+				},
+				"fts": {
+					"en": "NJK MARQUIS OMOTESANDO",
+					"ja": "ＮＪＫ ＭＡＲＱＵＩＳ ＯＭＯＴＥＳＡＮＤＯ"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/shibuya/njk-marquis-omotesando/42240",
+				"ja": "/jp/apartment-rental/tokyo/shibuya/njk-marquis-omotesando/42240"
+			},
+			"visibility": 1,
+			"price": 285000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42240/images/11beddee-4eaf-455c-98bd-8b4cf7cbe189..jpg",
+					"photo_order": 0,
+					"id": 223570
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42240/images/e812c331-76f1-4185-a6f7-0c8d289a759b..jpg",
+					"photo_order": 1,
+					"id": 223571
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42240/images/33d80398-8c7d-481f-8ae8-a58e132ba555..jpg",
+					"photo_order": 2,
+					"id": 223572
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42240/images/30209ddb-b9b3-4183-bbb5-efc358d7f3ec..jpg",
+					"photo_order": 3,
+					"id": 223573
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42240/images/a2f4ef91-be85-41cd-9961-0d3b5b2cfc24..jpg",
+					"photo_order": 4,
+					"id": 223574
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42240/images/551ceac0-935e-4111-95b4-77ba2e808dac..jpg",
+					"photo_order": 5,
+					"id": 223575
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42240/images/7ee41ae4-9fbd-45ac-b9e6-8ae30957cc34..jpg",
+					"photo_order": 6,
+					"id": 223576
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42240/images/14a638e9-9c80-4ca0-8d8b-b7ed39bf851d..jpg",
+					"photo_order": 7,
+					"id": 223577
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42240/images/554df3bd-1212-4e92-814a-f0f8812b03cf..jpg",
+					"photo_order": 8,
+					"id": 223578
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7613/images/48f799f8-767e-4f61-8629-379807e49f4f..jpg",
+					"photo_order": 0,
+					"id": 223580
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Shibuya",
+					"ja": "渋谷区"
+				},
+				"street": {
+					"en": "Shibuya",
+					"ja": "渋谷"
+				},
+				"postcode": " 150-0002",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Shibuya",
+					"ja": "Shibuya"
+				}
+			},
+			"coord": {
+				"lat": 35.6608809,
+				"lon": 139.7079343
+			},
+			"stations": [
+				{
+					"id": 147,
+					"name": {
+						"en": "Shibuya",
+						"ja": "渋谷"
+					},
+					"coord": {
+						"lat": 35.6580339,
+						"lon": 139.7016358
+					},
+					"lines": [
+						{
+							"id": 30,
+							"name": {
+								"en": "Toyoko",
+								"ja": "東横"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 121,
+									"g": 11,
+									"r": 207
+								},
+								"rgbaString": "rgba(207, 11, 121, 1)"
+							},
+							"stations": [
+								326,
+								382,
+								401,
+								402,
+								245,
+								421,
+								147
+							]
+						},
+						{
+							"id": 55,
+							"name": {
+								"en": "Tokyu-Setagaya",
+								"ja": "東急世田谷"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 35,
+									"g": 219,
+									"r": 235
+								},
+								"rgbaString": "rgba(235, 219, 35, 1)"
+							},
+							"stations": [
+								386,
+								450
+							]
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 600
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 8
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 44.38,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "1ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20653/images/34072c05-ec02-4e8a-acd5-ccc2eefa9e53..jpg",
+					"photo_order": 0,
+					"id": 223579
+				}
+			],
+			"stories": 15,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 20653,
+				"status": "active",
+				"updatedAt": "2025-07-13T07:59:10.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20653/images/34072c05-ec02-4e8a-acd5-ccc2eefa9e53..jpg",
+							"photo_order": 0,
+							"id": 223579
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "A",
+					"ja": "A"
+				}
+			},
+			"floor": "14",
+			"unit_nbr": "1403"
+		},
+		{
+			"_property_id": 7619,
+			"property_id": 7619,
+			"property_item_id": 20664,
+			"property_unit_id": 45237,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "Sakuras Gotanda",
+					"ja": "Ｓａｋｕｒａｓ Ｇｏｔａｎｄａ"
+				},
+				"fts": {
+					"en": "Sakuras Gotanda",
+					"ja": "Ｓａｋｕｒａｓ Ｇｏｔａｎｄａ"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/shinagawa/sakuras-gotanda/45237",
+				"ja": "/jp/apartment-rental/tokyo/shinagawa/sakuras-gotanda/45237"
+			},
+			"visibility": 1,
+			"price": 195000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45237/images/27ca027f-a8e5-499a-abc8-9f209a775903..jpg",
+					"photo_order": 0,
+					"id": 233234
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45237/images/291359b2-6883-405b-8f8d-2e0c7dd7333e..jpg",
+					"photo_order": 1,
+					"id": 233235
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45237/images/9a671905-0b04-4804-9b68-fd5d3ccf14c9..jpg",
+					"photo_order": 2,
+					"id": 233236
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45237/images/2c684b4a-07c0-4518-a517-3786969913d5..jpg",
+					"photo_order": 3,
+					"id": 233237
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45237/images/aadc17a3-8980-4645-9f97-f0f0c0798024..jpg",
+					"photo_order": 4,
+					"id": 233238
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45237/images/0d252289-5fcd-4c63-8f72-ba359d6dc5b0..jpg",
+					"photo_order": 5,
+					"id": 233239
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45237/images/f7aad1af-365b-4d1f-86be-fd90738bf3e0..jpg",
+					"photo_order": 6,
+					"id": 233240
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45237/images/bae76a81-de22-4b39-82b8-a0b58d63d7f4..jpg",
+					"photo_order": 7,
+					"id": 233241
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45237/images/5d8ebe36-7a46-4976-a2c1-95204bd27da4..jpg",
+					"photo_order": 8,
+					"id": 233242
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7619/images/d6140dff-affc-4b33-9b46-1f7fe001511a..jpg",
+					"photo_order": 0,
+					"id": 223641
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Shinagawa",
+					"ja": "品川区"
+				},
+				"street": {
+					"en": "Ohsaki",
+					"ja": "大崎"
+				},
+				"postcode": "141-0032",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Shinagawa",
+					"ja": "Shinagawa"
+				}
+			},
+			"coord": {
+				"lat": 35.6214309,
+				"lon": 139.7218869
+			},
+			"stations": [
+				{
+					"id": 257,
+					"name": {
+						"en": "Oshiage <SKYTREE>",
+						"ja": "押上〈スカイツリー前〉"
+					},
+					"coord": {
+						"lat": 35.710332,
+						"lon": 139.8132971
+					},
+					"lines": [
+						{
+							"id": 62,
+							"name": {
+								"en": "Tokyu Denentoshi",
+								"ja": "東急田園都市線"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 169,
+									"g": 207,
+									"r": 37
+								},
+								"rgbaString": "rgba(37, 207, 169, 1)"
+							},
+							"stations": [
+								435
+							]
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 300
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 3
+					}
+				},
+				{
+					"id": 333,
+					"name": {
+						"en": "Osakihirokoji",
+						"ja": "大崎広小路"
+					},
+					"coord": {
+						"lat": 35.6226121,
+						"lon": 139.7226044
+					},
+					"lines": [
+						{
+							"id": 33,
+							"name": {
+								"en": "Ikegami",
+								"ja": "池上"
+							},
+							"color": {
+								"rgba": {
+									"a": 0.36,
+									"b": 224,
+									"g": 16,
+									"r": 189
+								},
+								"rgbaString": "rgba(189, 16, 224, 0.36)"
+							},
+							"stations": [
+								303,
+								336,
+								333,
+								400,
+								417
+							]
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 240
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 3
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 42.67,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "1ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20664/images/8936e882-f24a-46f1-8083-3181e41098f7..jpg",
+					"photo_order": 0,
+					"id": 223639
+				}
+			],
+			"stories": 8,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 20664,
+				"status": "active",
+				"updatedAt": "2025-07-13T08:54:52.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20664/images/8936e882-f24a-46f1-8083-3181e41098f7..jpg",
+							"photo_order": 0,
+							"id": 223639
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "A",
+					"ja": "A"
+				}
+			},
+			"floor": "7",
+			"unit_nbr": "702"
+		},
+		{
+			"_property_id": 7629,
+			"property_id": 7629,
+			"property_item_id": 20683,
+			"property_unit_id": 42282,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "THE DOORS Hiroo",
+					"ja": "ＴＨＥ ＤＯＯＲＳ 広尾"
+				},
+				"fts": {
+					"en": "THE DOORS Hiroo",
+					"ja": "ＴＨＥ ＤＯＯＲＳ 広尾"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/shibuya/the-doors-hiroo/42282",
+				"ja": "/jp/apartment-rental/tokyo/shibuya/the-doors-hiroo/42282"
+			},
+			"visibility": 1,
+			"price": 1700000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42282/images/3c5abe29-6df7-4ec5-beba-ada99a119048..jpg",
+					"photo_order": 0,
+					"id": 223812
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42282/images/4c2cac09-76a7-4e39-87e4-c70e26f0e846..jpg",
+					"photo_order": 1,
+					"id": 223813
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42282/images/807f6f24-9da2-46dc-afe7-b0cd3a72a9d9..jpg",
+					"photo_order": 2,
+					"id": 223814
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42282/images/ea208478-9c35-4788-ab6c-ccaf5fd2fb06..jpg",
+					"photo_order": 3,
+					"id": 223815
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42282/images/6326d385-3347-4ea0-b8d0-10eb3d0d39d7..jpg",
+					"photo_order": 4,
+					"id": 223816
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42282/images/1aae02aa-abef-4eae-b18c-6ebf36f310af..jpg",
+					"photo_order": 5,
+					"id": 223817
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42282/images/4b4f3066-1910-407c-9a60-37f1f58054af..jpg",
+					"photo_order": 6,
+					"id": 223818
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42282/images/d2887740-0171-4c12-b003-5899ca2edfad..jpg",
+					"photo_order": 7,
+					"id": 223819
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42282/images/cb975f04-83f5-49b2-a1f8-08548bd16a26..jpg",
+					"photo_order": 8,
+					"id": 223820
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7629/images/3e19fdcf-241c-44b5-9e9a-d06d61bfa1da..jpg",
+					"photo_order": 0,
+					"id": 223822
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Shibuya",
+					"ja": "渋谷区"
+				},
+				"street": {
+					"en": "Hiroo",
+					"ja": "広尾"
+				},
+				"postcode": " 150-0012",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Shibuya",
+					"ja": "Shibuya"
+				}
+			},
+			"coord": {
+				"lat": 35.6569961,
+				"lon": 139.714599
+			},
+			"stations": [
+				{
+					"id": 148,
+					"name": {
+						"en": "Omote-Sando",
+						"ja": "表参道"
+					},
+					"coord": {
+						"lat": 35.6652511,
+						"lon": 139.7120921
+					},
+					"lines": [
+						{
+							"id": 13,
+							"name": {
+								"en": "Chiyoda",
+								"ja": "千代田線"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 119,
+									"g": 189,
+									"r": 8
+								},
+								"rgbaString": "rgba(8, 189, 119, 1)"
+							},
+							"stations": [
+								201,
+								202,
+								203,
+								148,
+								205,
+								206,
+								207,
+								169,
+								182,
+								210,
+								172,
+								212,
+								213,
+								214,
+								215,
+								216,
+								217,
+								218,
+								219
+							]
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 960
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 12
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 158.79,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "2ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20683/images/768f53fc-5bed-4af1-903d-53e2617c01a8..jpg",
+					"photo_order": 0,
+					"id": 223821
+				}
+			],
+			"stories": 9,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 20683,
+				"status": "active",
+				"updatedAt": "2025-07-13T08:54:38.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20683/images/768f53fc-5bed-4af1-903d-53e2617c01a8..jpg",
+							"photo_order": 0,
+							"id": 223821
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "A",
+					"ja": "A"
+				}
+			},
+			"floor": "6",
+			"unit_nbr": "600"
+		},
+		{
+			"_property_id": 7646,
+			"property_id": 7646,
+			"property_item_id": 20724,
+			"property_unit_id": 45228,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "Urbanex Nishi-Shinjuku II",
+					"ja": "アーバネックス西新宿II"
+				},
+				"fts": {
+					"en": "Urbanex Nishi-Shinjuku II",
+					"ja": "アーバネックス西新宿II"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/shinjuku/shinjuku/urbanex-nishi-shinjuku-ii/45228",
+				"ja": "/jp/apartment-rental/shinjuku/shinjuku/urbanex-nishi-shinjuku-ii/45228"
+			},
+			"visibility": 1,
+			"price": 240000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45228/images/1ba48304-d4cd-4f58-9dff-6be89d019504..jpg",
+					"photo_order": 0,
+					"id": 233265
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45228/images/75dd1dfd-ba7c-4413-8edc-04d19fae3652..jpg",
+					"photo_order": 1,
+					"id": 233266
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45228/images/688a97cf-c142-474f-adaf-15287d0d8059..jpg",
+					"photo_order": 2,
+					"id": 233267
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45228/images/8c565bbe-014f-4ce5-9661-d37103318d73..jpg",
+					"photo_order": 3,
+					"id": 233268
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45228/images/6d5e74a7-940e-404f-8113-ff4cecfcb00c..jpg",
+					"photo_order": 4,
+					"id": 233269
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7646/images/22e51269-9d49-4ab2-af1e-77b6d128210e..jpg",
+					"photo_order": 0,
+					"id": 224102
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Shinjuku",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Shinjuku",
+					"ja": "新宿区"
+				},
+				"street": {
+					"en": "Kita-Shinjuku",
+					"ja": "北新宿"
+				},
+				"postcode": " 169-0074",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Shinjuku",
+					"ja": "Shinjuku"
+				}
+			},
+			"coord": {
+				"lat": 35.698016,
+				"lon": 139.696642
+			},
+			"stations": [
+				{
+					"id": 161,
+					"name": {
+						"en": "Nishishinjuku",
+						"ja": "西新宿"
+					},
+					"coord": {
+						"lat": 35.6943768,
+						"lon": 139.6928867
+					},
+					"lines": [
+						{
+							"id": 10,
+							"name": {
+								"en": "Marunouchi",
+								"ja": "丸の内線"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 59,
+									"g": 5,
+									"r": 248
+								},
+								"rgbaString": "rgba(248, 5, 59, 1)"
+							},
+							"stations": [
+								161,
+								162,
+								163,
+								164,
+								165,
+								166,
+								151,
+								168,
+								169,
+								155,
+								171,
+								172,
+								173,
+								174,
+								367,
+								369,
+								370,
+								387,
+								413,
+								491,
+								228,
+								495,
+								499
+							],
+							"image": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/line/10/images/upload_2af2902af1425195fc6d95b9a533b595_220749.png"
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 640
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 8
+					}
+				},
+				{
+					"id": 359,
+					"name": {
+						"en": "Nishi-Shinjuku-Gochome",
+						"ja": "西新宿五丁目"
+					},
+					"coord": {
+						"lat": 35.6897323,
+						"lon": 139.6842379
+					},
+					"lines": [
+						{
+							"id": 10,
+							"name": {
+								"en": "Marunouchi",
+								"ja": "丸の内線"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 59,
+									"g": 5,
+									"r": 248
+								},
+								"rgbaString": "rgba(248, 5, 59, 1)"
+							},
+							"stations": [
+								161,
+								162,
+								163,
+								164,
+								165,
+								166,
+								151,
+								168,
+								169,
+								155,
+								171,
+								172,
+								173,
+								174,
+								367,
+								369,
+								370,
+								387,
+								413,
+								491,
+								228,
+								495,
+								499
+							],
+							"image": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/line/10/images/upload_2af2902af1425195fc6d95b9a533b595_220749.png"
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 600
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 8
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 40.47,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "2ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20724/images/2c3a21f5-d846-4d5f-bd91-72314bc812b0..jpg",
+					"photo_order": 0,
+					"id": 224101
+				}
+			],
+			"stories": 14,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 20724,
+				"status": "active",
+				"updatedAt": "2025-07-13T08:54:46.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20724/images/2c3a21f5-d846-4d5f-bd91-72314bc812b0..jpg",
+							"photo_order": 0,
+							"id": 224101
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "A",
+					"ja": "A"
+				}
+			},
+			"floor": "9",
+			"unit_nbr": "901"
+		},
+		{
+			"_property_id": 7695,
+			"property_id": 7695,
+			"property_item_id": 20806,
+			"property_unit_id": 42441,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "Crassa Meguro Kamurozaka",
+					"ja": "クラッサ目黒かむろ坂"
+				},
+				"fts": {
+					"en": "Crassa Meguro Kamurozaka",
+					"ja": "クラッサ目黒かむろ坂"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/shinagawa/crassa-meguro-kamurozaka/42441",
+				"ja": "/jp/apartment-rental/tokyo/shinagawa/crassa-meguro-kamurozaka/42441"
+			},
+			"visibility": 1,
+			"price": 305000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42441/images/67ef52ae-dfa6-4e4b-9408-93434b0bb1a2..jpg",
+					"photo_order": 0,
+					"id": 224666
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42441/images/206da817-194d-4793-87a1-084acba2291d..jpg",
+					"photo_order": 1,
+					"id": 224667
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42441/images/b167cde1-ca41-4675-b943-59fb48e2b693..jpg",
+					"photo_order": 2,
+					"id": 224668
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42441/images/0178f708-d9a3-4cd1-84be-8acbf1f146c7..jpg",
+					"photo_order": 3,
+					"id": 224669
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42441/images/1cc6f480-8ce1-4fef-9885-5eff74653f78..jpg",
+					"photo_order": 4,
+					"id": 224670
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42441/images/5b0b1326-359c-495a-abe7-513e78eaa59f..jpg",
+					"photo_order": 5,
+					"id": 224671
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42441/images/9d164ee2-8a56-4520-9321-7e4c190b867c..jpg",
+					"photo_order": 6,
+					"id": 224672
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42441/images/21bcb5fd-87f3-481a-a553-80f11653cd7e..jpg",
+					"photo_order": 7,
+					"id": 224673
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7695/images/7f4f30bb-544d-4102-ae9e-f44111248490..jpg",
+					"photo_order": 0,
+					"id": 224677
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Shinagawa",
+					"ja": "品川区"
+				},
+				"street": {
+					"en": "Nishi-Gotanda",
+					"ja": "西五反田"
+				},
+				"postcode": "141-0031",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Shinagawa",
+					"ja": "Shinagawa"
+				}
+			},
+			"coord": {
+				"lat": 35.6246428,
+				"lon": 139.7097059
+			},
+			"stations": [
+				{
+					"id": 330,
+					"name": {
+						"en": "Fudo-mae",
+						"ja": "不動前"
+					},
+					"coord": {
+						"lat": 35.6257683,
+						"lon": 139.713569
+					},
+					"lines": [
+						{
+							"id": 32,
+							"name": {
+								"en": "Meguro",
+								"ja": "目黒"
+							},
+							"color": {
+								"rgba": {
+									"a": 0.85,
+									"b": 240,
+									"g": 173,
+									"r": 18
+								},
+								"rgbaString": "rgba(18, 173, 240, 0.85)"
+							},
+							"stations": [
+								330,
+								403,
+								409,
+								430,
+								446,
+								258
+							]
+						},
+						{
+							"id": 55,
+							"name": {
+								"en": "Tokyu-Setagaya",
+								"ja": "東急世田谷"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 35,
+									"g": 219,
+									"r": 235
+								},
+								"rgbaString": "rgba(235, 219, 35, 1)"
+							},
+							"stations": [
+								386,
+								450
+							]
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 560
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 7
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 72.39,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "3ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20806/images/e2567df4-b7ad-489e-99fc-10a28807ca1c..jpg",
+					"photo_order": 0,
+					"id": 224676
+				}
+			],
+			"stories": 8,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 20806,
+				"status": "active",
+				"updatedAt": "2025-06-11T03:44:51.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20806/images/e2567df4-b7ad-489e-99fc-10a28807ca1c..jpg",
+							"photo_order": 0,
+							"id": 224676
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "B",
+					"ja": "B"
+				}
+			},
+			"floor": "2",
+			"unit_nbr": "206"
+		},
+		{
+			"_property_id": 7689,
+			"property_id": 7689,
+			"property_item_id": 20794,
+			"property_unit_id": 42428,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "Carna Oimachi",
+					"ja": "カーナ大井町"
+				},
+				"fts": {
+					"en": "Carna Oimachi",
+					"ja": "カーナ大井町"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/shinagawa/carna-oimachi/42428",
+				"ja": "/jp/apartment-rental/tokyo/shinagawa/carna-oimachi/42428"
+			},
+			"visibility": 1,
+			"price": 185000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42428/images/731201ff-a5af-4887-b9a7-79c0930b3bf3..jpg",
+					"photo_order": 0,
+					"id": 224620
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42428/images/6cb89ea8-e722-45ce-a834-6c77f7205214..jpg",
+					"photo_order": 1,
+					"id": 224621
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42428/images/76c6ae5f-de0d-41ac-94fe-d06d7afd1c56..jpg",
+					"photo_order": 2,
+					"id": 224622
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42428/images/ed91579a-27ac-4e43-b171-c3c37488018e..jpg",
+					"photo_order": 3,
+					"id": 224623
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42428/images/9c9d38a7-d978-4baa-a10e-70c09d48469e..jpg",
+					"photo_order": 4,
+					"id": 224624
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42428/images/df5f0e51-fcd6-43bb-b169-06daf5181452..jpg",
+					"photo_order": 5,
+					"id": 224625
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42428/images/16e31924-9e82-4a2d-9045-509445bf80c9..jpg",
+					"photo_order": 6,
+					"id": 224626
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42428/images/0802de48-9e73-42f1-8ddd-95be0e312747..jpg",
+					"photo_order": 7,
+					"id": 224627
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42428/images/99d84936-0371-48f6-b132-e4aa050f6f1c..jpg",
+					"photo_order": 8,
+					"id": 224628
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42428/images/9cf024ec-4b88-4664-a4ad-dfe0097cfdbc..jpg",
+					"photo_order": 9,
+					"id": 224630
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42428/images/ea38e05f-aef4-4db4-8208-16c8f25e1bef..jpg",
+					"photo_order": 10,
+					"id": 224631
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7689/images/2a0899b2-9b84-4ab3-8816-38f628ae34d9..jpg",
+					"photo_order": 0,
+					"id": 224633
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Shinagawa",
+					"ja": "品川区"
+				},
+				"street": {
+					"en": "Futaba",
+					"ja": "二葉"
+				},
+				"postcode": " 142-0043",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Shinagawa",
+					"ja": "Shinagawa"
+				}
+			},
+			"coord": {
+				"lat": 35.6090546,
+				"lon": 139.7292121
+			},
+			"stations": [
+				{
+					"id": 391,
+					"name": {
+						"en": "Oimachi",
+						"ja": "大井町"
+					},
+					"coord": {
+						"lat": 35.6076153,
+						"lon": 139.7346592
+					},
+					"lines": [
+						{
+							"id": 36,
+							"name": {
+								"en": "Oimachi",
+								"ja": "大井町"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 52,
+									"g": 165,
+									"r": 233
+								},
+								"rgbaString": "rgba(233, 165, 52, 1)"
+							},
+							"stations": [
+								335,
+								391,
+								260,
+								419,
+								439,
+								440,
+								447
+							]
+						},
+						{
+							"id": 55,
+							"name": {
+								"en": "Tokyu-Setagaya",
+								"ja": "東急世田谷"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 35,
+									"g": 219,
+									"r": 235
+								},
+								"rgbaString": "rgba(235, 219, 35, 1)"
+							},
+							"stations": [
+								386,
+								450
+							]
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 600
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 8
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 39.17,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "1ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20794/images/1c25f199-6fcb-4f9b-a918-8bc58b910781..jpg",
+					"photo_order": 0,
+					"id": 224632
+				}
+			],
+			"stories": 5,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 20794,
+				"status": "active",
+				"updatedAt": "2025-06-11T03:44:44.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20794/images/1c25f199-6fcb-4f9b-a918-8bc58b910781..jpg",
+							"photo_order": 0,
+							"id": 224632
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "A",
+					"ja": "A"
+				}
+			},
+			"floor": "5",
+			"unit_nbr": "502"
+		},
+		{
+			"_property_id": 7691,
+			"property_id": 7691,
+			"property_item_id": 22276,
+			"property_unit_id": 45128,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "Karuna Tsukiji",
+					"ja": "カルナ築地"
+				},
+				"fts": {
+					"en": "Karuna Tsukiji",
+					"ja": "カルナ築地"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/chuo/karuna-tsukiji/45128",
+				"ja": "/jp/apartment-rental/tokyo/chuo/karuna-tsukiji/45128"
+			},
+			"visibility": 1,
+			"price": 144000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45128/images/4ebf7dbf-93a9-46a9-bf57-901b87433192..jpg",
+					"photo_order": 0,
+					"id": 233335
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45128/images/9a45e3c9-3eb1-4c8e-9444-05173d59d176..jpg",
+					"photo_order": 1,
+					"id": 233336
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45128/images/bf207118-6348-4d00-8609-0e497cb4fe33..jpg",
+					"photo_order": 2,
+					"id": 233337
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45128/images/00426070-1393-4daa-b5e3-d63f290faf07..jpg",
+					"photo_order": 3,
+					"id": 233338
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45128/images/65ac00d2-bf16-4238-9106-033071525ff5..jpg",
+					"photo_order": 4,
+					"id": 233339
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45128/images/b17c15df-619f-4e63-8c3d-da49116eb8c4..jpg",
+					"photo_order": 5,
+					"id": 233340
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45128/images/9b1a0dfd-5ab7-44a6-84cd-d493ce9f0507..jpg",
+					"photo_order": 6,
+					"id": 233341
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45128/images/e264d2c1-290d-4850-8d49-e1bfedcbcdf5..jpg",
+					"photo_order": 7,
+					"id": 233342
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45128/images/cf4838c3-1c11-49ae-b5e9-a772a910e9e7..jpg",
+					"photo_order": 8,
+					"id": 233343
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7691/images/da5fc92a-6043-46d4-a9af-03a598e3236b..jpg",
+					"photo_order": 0,
+					"id": 224649
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Chuo",
+					"ja": "中央区"
+				},
+				"street": {
+					"en": "Tsukiji ",
+					"ja": "築地"
+				},
+				"postcode": " 104-0045",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Chuo",
+					"ja": "Chuo"
+				}
+			},
+			"coord": {
+				"lat": 35.6643883,
+				"lon": 139.7718573
+			},
+			"stations": [
+				{
+					"id": 185,
+					"name": {
+						"en": "Tsukiji",
+						"ja": "築地"
+					},
+					"coord": {
+						"lat": 35.6678799,
+						"lon": 139.772516
+					},
+					"lines": [
+						{
+							"id": 11,
+							"name": {
+								"en": "Hibiya",
+								"ja": "日比谷線"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 143,
+									"g": 142,
+									"r": 140
+								},
+								"rgbaString": "rgba(140, 142, 143, 1)"
+							},
+							"stations": [
+								175,
+								176,
+								177,
+								145,
+								179,
+								180,
+								169,
+								182,
+								155,
+								184,
+								185,
+								186,
+								187,
+								188,
+								189,
+								190,
+								501,
+								502
+							],
+							"image": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/line/11/images/upload_30afea9fabd76f9b6b69818dea6bdfe7_220750.png"
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 480
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 6
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 36.08,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "1ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22276/images/89fc0a00-b3b5-4289-9e6d-58ff0875e261..jpg",
+					"photo_order": 0,
+					"id": 233344
+				}
+			],
+			"stories": 10,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 22276,
+				"status": "active",
+				"updatedAt": "2025-07-13T07:59:23.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22276/images/89fc0a00-b3b5-4289-9e6d-58ff0875e261..jpg",
+							"photo_order": 0,
+							"id": 233344
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "B",
+					"ja": "B"
+				}
+			},
+			"floor": "6",
+			"unit_nbr": "602"
+		},
+		{
+			"_property_id": 7702,
+			"property_id": 7702,
+			"property_item_id": 20817,
+			"property_unit_id": 42455,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "Grand Stage Hills Hatanodai",
+					"ja": "グランステージヒルズ旗の台"
+				},
+				"fts": {
+					"en": "Grand Stage Hills Hatanodai",
+					"ja": "グランステージヒルズ旗の台"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/shinagawa/grand-stage-hills-hatanodai/42455",
+				"ja": "/jp/apartment-rental/tokyo/shinagawa/grand-stage-hills-hatanodai/42455"
+			},
+			"visibility": 1,
+			"price": 187000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42455/images/b775ef7b-70cc-4836-8038-3a58c0312a76..jpg",
+					"photo_order": 0,
+					"id": 224823
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42455/images/d5276b6b-13c5-4dcd-af15-d960b9f05c9a..jpg",
+					"photo_order": 1,
+					"id": 224824
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42455/images/30259e31-63e3-4d9b-8382-598cc5444f4f..jpg",
+					"photo_order": 2,
+					"id": 224825
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42455/images/096e1c5f-ebb4-43ff-b507-6ea8f9ca317d..jpg",
+					"photo_order": 3,
+					"id": 224826
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42455/images/a3353475-0e7b-4856-b619-e510b0a8e8da..jpg",
+					"photo_order": 4,
+					"id": 224827
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42455/images/9fa473a1-a878-4ae5-aaf1-d4fe4cd5f0a4..jpg",
+					"photo_order": 5,
+					"id": 224828
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42455/images/01dc9a89-99a6-4a1a-b5d9-9232359c98cd..jpg",
+					"photo_order": 6,
+					"id": 224829
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42455/images/67ad33a3-cff4-488a-a6ea-e4578ff7c4f8..jpg",
+					"photo_order": 7,
+					"id": 224830
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42455/images/c3e8f783-def7-4617-ad38-c62f917a0c5d..jpg",
+					"photo_order": 8,
+					"id": 224831
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7702/images/f73565a6-29b4-4fd4-a43d-0a4c1a031da8..jpg",
+					"photo_order": 0,
+					"id": 224834
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Shinagawa",
+					"ja": "品川区"
+				},
+				"street": {
+					"en": "Hatanodai",
+					"ja": "旗の台"
+				},
+				"postcode": "142-0064",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Shinagawa",
+					"ja": "Shinagawa"
+				}
+			},
+			"coord": {
+				"lat": 35.6068384,
+				"lon": 139.7009699
+			},
+			"stations": [
+				{
+					"id": 417,
+					"name": {
+						"en": "Hatanodai",
+						"ja": "旗の台"
+					},
+					"coord": {
+						"lat": 35.6048821,
+						"lon": 139.7027206
+					},
+					"lines": [
+						{
+							"id": 33,
+							"name": {
+								"en": "Ikegami",
+								"ja": "池上"
+							},
+							"color": {
+								"rgba": {
+									"a": 0.36,
+									"b": 224,
+									"g": 16,
+									"r": 189
+								},
+								"rgbaString": "rgba(189, 16, 224, 0.36)"
+							},
+							"stations": [
+								303,
+								336,
+								333,
+								400,
+								417
+							]
+						},
+						{
+							"id": 55,
+							"name": {
+								"en": "Tokyu-Setagaya",
+								"ja": "東急世田谷"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 35,
+									"g": 219,
+									"r": 235
+								},
+								"rgbaString": "rgba(235, 219, 35, 1)"
+							},
+							"stations": [
+								386,
+								450
+							]
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 480
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 6
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 44.2,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "1ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20817/images/fb0ea27f-f968-4b19-82ac-59c0939760a9..jpg",
+					"photo_order": 0,
+					"id": 224833
+				}
+			],
+			"stories": 3,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 20817,
+				"status": "active",
+				"updatedAt": "2025-07-13T08:54:52.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20817/images/fb0ea27f-f968-4b19-82ac-59c0939760a9..jpg",
+							"photo_order": 0,
+							"id": 224833
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "A",
+					"ja": "A"
+				}
+			},
+			"floor": "1",
+			"unit_nbr": "203"
+		},
+		{
+			"_property_id": 7707,
+			"property_id": 7707,
+			"property_item_id": 20825,
+			"property_unit_id": 42464,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "Green Residence Akasaka",
+					"ja": "グリーンレジデンス赤坂"
+				},
+				"fts": {
+					"en": "Green Residence Akasaka",
+					"ja": "グリーンレジデンス赤坂"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/minato/green-residence-akasaka/42464",
+				"ja": "/jp/apartment-rental/tokyo/minato/green-residence-akasaka/42464"
+			},
+			"visibility": 1,
+			"price": 259000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42464/images/310b7473-61a9-42a7-aa76-b876374bbbd2..jpg",
+					"photo_order": 0,
+					"id": 224870
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42464/images/7ec5a050-a26c-4993-ba24-c254128cae7d..jpg",
+					"photo_order": 1,
+					"id": 224871
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42464/images/bf5ec0bb-c580-4c37-88fb-6ee34235a30e..jpg",
+					"photo_order": 2,
+					"id": 224872
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42464/images/c67fae44-e48f-4b34-9d46-6da6421918c7..jpg",
+					"photo_order": 3,
+					"id": 224873
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42464/images/974670d0-ffd5-4074-9241-feed7a71f56a..jpg",
+					"photo_order": 4,
+					"id": 224874
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42464/images/10aa2fe1-273d-4710-85ae-bea6fdfd808b..jpg",
+					"photo_order": 5,
+					"id": 224875
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42464/images/514c1a2b-b40d-4cca-a843-1345ab684e87..jpg",
+					"photo_order": 6,
+					"id": 224876
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42464/images/e8cc5c36-b6fd-45ef-a560-7093bbb9226b..jpg",
+					"photo_order": 7,
+					"id": 224877
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42464/images/8f4b77f5-7e29-49ab-8c48-c7fda3b440af..jpg",
+					"photo_order": 8,
+					"id": 224878
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7707/images/46f8a7d1-77ce-4cd9-ba05-70f1d500080b..jpg",
+					"photo_order": 0,
+					"id": 224892
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Minato",
+					"ja": "港区"
+				},
+				"street": {
+					"en": "Akasaka",
+					"ja": "赤坂"
+				},
+				"postcode": "107-0052",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Minato",
+					"ja": "Minato"
+				}
+			},
+			"coord": {
+				"lat": 35.6715509,
+				"lon": 139.7296976
+			},
+			"stations": [
+				{
+					"id": 150,
+					"name": {
+						"en": "Aoyama-Itchome",
+						"ja": "青山一丁目"
+					},
+					"coord": {
+						"lat": 35.672979,
+						"lon": 139.7252383
+					},
+					"lines": [
+						{
+							"id": 9,
+							"name": {
+								"en": "Ginza",
+								"ja": "銀座線"
+							},
+							"color": {
+								"rgba": {
+									"a": 0.79,
+									"b": 35,
+									"g": 166,
+									"r": 245
+								},
+								"rgbaString": "rgba(245, 166, 35, 0.79)"
+							},
+							"stations": [
+								147,
+								148,
+								149,
+								150,
+								151,
+								153,
+								154,
+								155,
+								156,
+								157,
+								158,
+								159,
+								160,
+								263,
+								497,
+								501
+							],
+							"image": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/line/9/images/upload_b5cb6981c787b50593abede3a2fabe90_220748.png"
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 800
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 10
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 57.57,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "1ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20825/images/b8fe1c73-dd59-4bf2-82de-e13a113cab6e..jpg",
+					"photo_order": 0,
+					"id": 224891
+				}
+			],
+			"stories": 5,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 20825,
+				"status": "active",
+				"updatedAt": "2025-07-13T08:54:56.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20825/images/b8fe1c73-dd59-4bf2-82de-e13a113cab6e..jpg",
+							"photo_order": 0,
+							"id": 224891
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "A",
+					"ja": "A"
+				}
+			},
+			"floor": "1",
+			"unit_nbr": "101"
+		},
+		{
+			"_property_id": 7705,
+			"property_id": 7705,
+			"property_item_id": 22221,
+			"property_unit_id": 45032,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "Grand Palace Tokyo Yaesu Avenue",
+					"ja": "グランパレス東京八重洲アベニュー"
+				},
+				"fts": {
+					"en": "Grand Palace Tokyo Yaesu Avenue",
+					"ja": "グランパレス東京八重洲アベニュー"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/chuo/grand-palace-tokyo-yaesu-avenue/45032",
+				"ja": "/jp/apartment-rental/tokyo/chuo/grand-palace-tokyo-yaesu-avenue/45032"
+			},
+			"visibility": 1,
+			"price": 142000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45032/images/cfdc44ae-4fec-4448-9e33-651cdf964f52..jpg",
+					"photo_order": 0,
+					"id": 233368
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45032/images/bab6fd7c-2920-4c07-a657-1ba853ed5989..jpg",
+					"photo_order": 1,
+					"id": 233369
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45032/images/5394a9fb-24ca-47e6-a606-221d41a22f97..jpg",
+					"photo_order": 2,
+					"id": 233370
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45032/images/7f3d6b4e-51ab-444f-a67a-390c7690ecd7..jpg",
+					"photo_order": 3,
+					"id": 233371
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45032/images/e59b52bc-5c2a-45f5-9b2a-7ec27926ff1b..jpg",
+					"photo_order": 4,
+					"id": 233372
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45032/images/a09cd7a8-35fc-43d4-a3ed-c9a152218072..jpg",
+					"photo_order": 5,
+					"id": 233373
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45032/images/58a46325-cf89-4956-85e0-7838d0d32ca4..jpg",
+					"photo_order": 6,
+					"id": 233374
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45032/images/841c89cc-21e6-403b-89d9-8d7241d57aee..jpg",
+					"photo_order": 7,
+					"id": 233375
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45032/images/24a6ca56-10b5-4b95-9db2-46a9b65d47ab..jpg",
+					"photo_order": 8,
+					"id": 233377
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45032/images/2491c212-53f7-4d8e-9106-80e30650590e..jpg",
+					"photo_order": 9,
+					"id": 233378
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7705/images/221437c5-d00e-492b-953f-fc185b1f47d8..jpg",
+					"photo_order": 0,
+					"id": 224864
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Chuo",
+					"ja": "中央区"
+				},
+				"street": {
+					"en": "Shinkawa",
+					"ja": "新川"
+				},
+				"postcode": "104-0033",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Chuo",
+					"ja": "Chuo"
+				}
+			},
+			"coord": {
+				"lat": 35.674067,
+				"lon": 139.782271
+			},
+			"stations": [
+				{
+					"id": 186,
+					"name": {
+						"en": "Hatchobori",
+						"ja": "八丁堀"
+					},
+					"coord": {
+						"lat": 35.6746248,
+						"lon": 139.7768846
+					},
+					"lines": [
+						{
+							"id": 27,
+							"name": {
+								"en": "Keiyo",
+								"ja": "京葉"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 24,
+									"g": 9,
+									"r": 228
+								},
+								"rgbaString": "rgba(228, 9, 24, 1)"
+							},
+							"stations": [
+								186,
+								437
+							]
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 480
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 6
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 28.8,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "1k"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22221/images/5762c44a-053a-410f-8d6c-703617e8a4f5..jpg",
+					"photo_order": 0,
+					"id": 233379
+				}
+			],
+			"stories": 11,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 22221,
+				"status": "active",
+				"updatedAt": "2025-07-13T08:54:43.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22221/images/5762c44a-053a-410f-8d6c-703617e8a4f5..jpg",
+							"photo_order": 0,
+							"id": 233379
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "B",
+					"ja": "B"
+				}
+			},
+			"floor": "10",
+			"unit_nbr": "1003"
+		},
+		{
+			"_property_id": 7713,
+			"property_id": 7713,
+			"property_item_id": 20834,
+			"property_unit_id": 42475,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "KOKUYOLE Nihonbashi",
+					"ja": "コクヨーレ日本橋"
+				},
+				"fts": {
+					"en": "KOKUYOLE Nihonbashi",
+					"ja": "コクヨーレ日本橋"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/chuo/kokuyole-nihonbashi/42475",
+				"ja": "/jp/apartment-rental/tokyo/chuo/kokuyole-nihonbashi/42475"
+			},
+			"visibility": 1,
+			"price": 159000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42475/images/545a473d-0d35-46e7-9e30-6d3901948fc6..jpg",
+					"photo_order": 0,
+					"id": 224934
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42475/images/9f70de61-0d64-414d-9d51-c646781078e3..jpg",
+					"photo_order": 1,
+					"id": 224935
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42475/images/b0db80bc-09cc-4248-80dc-4280ff1130fe..jpg",
+					"photo_order": 2,
+					"id": 224936
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42475/images/2792977a-2ccd-4dce-80a0-2065c21d1d5a..jpg",
+					"photo_order": 3,
+					"id": 224937
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42475/images/05ad0e44-6835-4949-ad19-9456033bcb17..jpg",
+					"photo_order": 4,
+					"id": 224932
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42475/images/3baf851f-d304-462b-809a-f2d3e98130c0..jpg",
+					"photo_order": 5,
+					"id": 224933
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42475/images/bf96635a-96e8-4e6c-abf4-ad5e59e5d08e..jpg",
+					"photo_order": 6,
+					"id": 224938
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42475/images/b75009cf-f6a6-428b-b0d8-0c20645df8cb..jpg",
+					"photo_order": 7,
+					"id": 224939
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42475/images/a20290bc-b862-44e3-9ba5-dd609b047c15..jpg",
+					"photo_order": 8,
+					"id": 224941
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7713/images/c832daab-cc91-458b-93b1-8bbd75a0d449..jpg",
+					"photo_order": 0,
+					"id": 224956
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Chuo",
+					"ja": "中央区"
+				},
+				"street": {
+					"en": "Nihonbashi Horidume-cho",
+					"ja": "日本橋堀留町"
+				},
+				"postcode": "103-0012",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Chuo",
+					"ja": "Chuo"
+				}
+			},
+			"coord": {
+				"lat": 35.6895282,
+				"lon": 139.7805037
+			},
+			"stations": [
+				{
+					"id": 188,
+					"name": {
+						"en": "Ningyocho",
+						"ja": "人形町"
+					},
+					"coord": {
+						"lat": 35.6859289,
+						"lon": 139.7826297
+					},
+					"lines": [
+						{
+							"id": 11,
+							"name": {
+								"en": "Hibiya",
+								"ja": "日比谷線"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 143,
+									"g": 142,
+									"r": 140
+								},
+								"rgbaString": "rgba(140, 142, 143, 1)"
+							},
+							"stations": [
+								175,
+								176,
+								177,
+								145,
+								179,
+								180,
+								169,
+								182,
+								155,
+								184,
+								185,
+								186,
+								187,
+								188,
+								189,
+								190,
+								501,
+								502
+							],
+							"image": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/line/11/images/upload_30afea9fabd76f9b6b69818dea6bdfe7_220750.png"
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 400
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 5
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 35.26,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "1ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20834/images/774c5716-9d77-4548-9fcf-4277f8bfcd61..jpg",
+					"photo_order": 0,
+					"id": 224954
+				}
+			],
+			"stories": 12,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 20834,
+				"status": "active",
+				"updatedAt": "2025-07-13T08:54:47.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20834/images/774c5716-9d77-4548-9fcf-4277f8bfcd61..jpg",
+							"photo_order": 0,
+							"id": 224954
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "A",
+					"ja": "A"
+				}
+			},
+			"floor": "7",
+			"unit_nbr": "707"
+		},
+		{
+			"_property_id": 7713,
+			"property_id": 7713,
+			"property_item_id": 20834,
+			"property_unit_id": 42476,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "KOKUYOLE Nihonbashi",
+					"ja": "コクヨーレ日本橋"
+				},
+				"fts": {
+					"en": "KOKUYOLE Nihonbashi",
+					"ja": "コクヨーレ日本橋"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/chuo/kokuyole-nihonbashi/42476",
+				"ja": "/jp/apartment-rental/tokyo/chuo/kokuyole-nihonbashi/42476"
+			},
+			"visibility": 1,
+			"price": 173000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42476/images/71b5e6d0-b981-490c-a472-89679a95a677..jpg",
+					"photo_order": 0,
+					"id": 224945
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42476/images/f7d4a22d-f151-4984-b226-e1b5e8264114..jpg",
+					"photo_order": 1,
+					"id": 224946
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42476/images/90b825e1-2e9d-42de-88d4-26b58d7f62fb..jpg",
+					"photo_order": 2,
+					"id": 224947
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42476/images/2f39e8a4-8424-4a74-bc8f-99e2b9e93007..jpg",
+					"photo_order": 3,
+					"id": 224948
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42476/images/c91d5ecc-0bd1-4db8-a397-737d97f9c90f..jpg",
+					"photo_order": 4,
+					"id": 224949
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42476/images/69bb63c3-f6b3-44fb-a723-9e1e651d498a..jpg",
+					"photo_order": 5,
+					"id": 224950
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42476/images/c0a25e6d-f55b-4cc6-baa3-66f47802b3f9..jpg",
+					"photo_order": 6,
+					"id": 224951
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42476/images/77aa3240-a214-4265-8632-8c9b59782b44..jpg",
+					"photo_order": 7,
+					"id": 224952
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42476/images/bb049734-cc8a-42e2-905a-b438a130b8a2..jpg",
+					"photo_order": 8,
+					"id": 224953
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7713/images/c832daab-cc91-458b-93b1-8bbd75a0d449..jpg",
+					"photo_order": 0,
+					"id": 224956
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Chuo",
+					"ja": "中央区"
+				},
+				"street": {
+					"en": "Nihonbashi Horidume-cho",
+					"ja": "日本橋堀留町"
+				},
+				"postcode": "103-0012",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Chuo",
+					"ja": "Chuo"
+				}
+			},
+			"coord": {
+				"lat": 35.6895282,
+				"lon": 139.7805037
+			},
+			"stations": [
+				{
+					"id": 188,
+					"name": {
+						"en": "Ningyocho",
+						"ja": "人形町"
+					},
+					"coord": {
+						"lat": 35.6859289,
+						"lon": 139.7826297
+					},
+					"lines": [
+						{
+							"id": 11,
+							"name": {
+								"en": "Hibiya",
+								"ja": "日比谷線"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 143,
+									"g": 142,
+									"r": 140
+								},
+								"rgbaString": "rgba(140, 142, 143, 1)"
+							},
+							"stations": [
+								175,
+								176,
+								177,
+								145,
+								179,
+								180,
+								169,
+								182,
+								155,
+								184,
+								185,
+								186,
+								187,
+								188,
+								189,
+								190,
+								501,
+								502
+							],
+							"image": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/line/11/images/upload_30afea9fabd76f9b6b69818dea6bdfe7_220750.png"
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 400
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 5
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 35.26,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "1ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20834/images/774c5716-9d77-4548-9fcf-4277f8bfcd61..jpg",
+					"photo_order": 0,
+					"id": 224954
+				}
+			],
+			"stories": 12,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 20834,
+				"status": "active",
+				"updatedAt": "2025-07-13T08:54:47.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20834/images/774c5716-9d77-4548-9fcf-4277f8bfcd61..jpg",
+							"photo_order": 0,
+							"id": 224954
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "A",
+					"ja": "A"
+				}
+			},
+			"floor": "8",
+			"unit_nbr": "806"
+		},
+		{
+			"_property_id": 7728,
+			"property_id": 7728,
+			"property_item_id": 20861,
+			"property_unit_id": 42511,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "Ceresa Nihonbashi Horidomecho",
+					"ja": "セレサ日本橋堀留町"
+				},
+				"fts": {
+					"en": "Ceresa Nihonbashi Horidomecho",
+					"ja": "セレサ日本橋堀留町"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/chuo/ceresa-nihonbashi-horidomecho/42511",
+				"ja": "/jp/apartment-rental/tokyo/chuo/ceresa-nihonbashi-horidomecho/42511"
+			},
+			"visibility": 1,
+			"price": 174000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42511/images/3631677d-4453-4cc6-bf72-5d321200c036..jpg",
+					"photo_order": 0,
+					"id": 225091
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42511/images/4bcf3a26-d36f-4779-ba5c-66d08ab5dd52..jpg",
+					"photo_order": 1,
+					"id": 225092
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42511/images/a95f72ff-4853-426b-ac5a-bdf5e2d50fa9..jpg",
+					"photo_order": 2,
+					"id": 225093
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42511/images/1a09f18f-982c-4c1f-a613-976e1e8211ce..jpg",
+					"photo_order": 3,
+					"id": 225094
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42511/images/ad6a5cd8-c3fd-48fe-b3a6-53c5d7c01e9b..jpg",
+					"photo_order": 4,
+					"id": 225095
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42511/images/2b69ec4d-8dbc-40f3-abd1-5f6eaf49d78f..jpg",
+					"photo_order": 5,
+					"id": 225096
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42511/images/3d1cf70b-90be-4e4f-be40-40a29196e36a..jpg",
+					"photo_order": 6,
+					"id": 225097
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42511/images/de521e6a-208e-497a-acb9-6dc0b97fb8fa..jpg",
+					"photo_order": 7,
+					"id": 225098
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42511/images/11dbcd3b-ff64-4528-9e97-48636415cb8b..jpg",
+					"photo_order": 8,
+					"id": 225099
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7728/images/5eba45b7-039d-4501-9bfd-baa14b7100fc..jpg",
+					"photo_order": 0,
+					"id": 225101
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Chuo",
+					"ja": "中央区"
+				},
+				"street": {
+					"en": "Nihonbashi Horidume-cho",
+					"ja": "日本橋堀留町"
+				},
+				"postcode": "103-0012",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Chuo",
+					"ja": "Chuo"
+				}
+			},
+			"coord": {
+				"lat": 35.6872632,
+				"lon": 139.7811737
+			},
+			"stations": [
+				{
+					"id": 188,
+					"name": {
+						"en": "Ningyocho",
+						"ja": "人形町"
+					},
+					"coord": {
+						"lat": 35.6859289,
+						"lon": 139.7826297
+					},
+					"lines": [
+						{
+							"id": 11,
+							"name": {
+								"en": "Hibiya",
+								"ja": "日比谷線"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 143,
+									"g": 142,
+									"r": 140
+								},
+								"rgbaString": "rgba(140, 142, 143, 1)"
+							},
+							"stations": [
+								175,
+								176,
+								177,
+								145,
+								179,
+								180,
+								169,
+								182,
+								155,
+								184,
+								185,
+								186,
+								187,
+								188,
+								189,
+								190,
+								501,
+								502
+							],
+							"image": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/line/11/images/upload_30afea9fabd76f9b6b69818dea6bdfe7_220750.png"
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 200
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 2
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 41.78,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "1ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20861/images/bc03c1e3-3874-401c-a99f-653b3c531768..jpg",
+					"photo_order": 0,
+					"id": 225100
+				}
+			],
+			"stories": 14,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 20861,
+				"status": "active",
+				"updatedAt": "2025-07-13T08:00:43.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20861/images/bc03c1e3-3874-401c-a99f-653b3c531768..jpg",
+							"photo_order": 0,
+							"id": 225100
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "A",
+					"ja": "A"
+				}
+			},
+			"floor": "8",
+			"unit_nbr": "804"
+		},
+		{
+			"_property_id": 7744,
+			"property_id": 7744,
+			"property_item_id": 22491,
+			"property_unit_id": 45480,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "Trestage Meguro",
+					"ja": "トレステージ目黒"
+				},
+				"fts": {
+					"en": "Trestage Meguro",
+					"ja": "トレステージ目黒"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/meguro/trestage-meguro/45480",
+				"ja": "/jp/apartment-rental/tokyo/meguro/trestage-meguro/45480"
+			},
+			"visibility": 1,
+			"price": 196000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45480/images/610c0530-e1d8-4160-8b51-a15710f6dd54..jpg",
+					"photo_order": 0,
+					"id": 234867
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45480/images/60862259-4abb-415d-8db0-714ee2a91d06..jpg",
+					"photo_order": 1,
+					"id": 234868
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45480/images/e9e1e810-4398-4020-9240-bd8bde627176..jpg",
+					"photo_order": 2,
+					"id": 234869
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45480/images/b70afce9-264b-4a76-b0d5-2e12e6649077..jpg",
+					"photo_order": 3,
+					"id": 234870
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45480/images/b8753005-eaf3-4e41-9333-2406153c09f1..jpg",
+					"photo_order": 4,
+					"id": 234871
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45480/images/a3ffd939-57c8-4f68-99bc-05d846378f2b..jpg",
+					"photo_order": 5,
+					"id": 234872
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45480/images/86c57f19-9f20-43f4-b954-367c2cae0a21..jpg",
+					"photo_order": 6,
+					"id": 234873
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45480/images/888918d0-bc12-4ec9-b9ae-d3ccba0b232e..jpg",
+					"photo_order": 7,
+					"id": 234874
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45480/images/a52feeea-cfe8-4ad4-b389-256d4f6ca27d..jpg",
+					"photo_order": 8,
+					"id": 234875
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45480/images/266e1887-bc09-4b80-9ddc-85d7bd28d7bc..jpg",
+					"photo_order": 9,
+					"id": 234877
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45480/images/3f5f0509-7b04-4a9a-bbd3-965b01b9f516..jpg",
+					"photo_order": 10,
+					"id": 234878
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7744/images/upload_95b0ea3e5bbd17283fda43fc96e80e6f_228766.jpg",
+					"photo_order": 0,
+					"id": 228766
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Meguro",
+					"ja": "目黒区"
+				},
+				"street": {
+					"en": "Shimo-Meguro",
+					"ja": "下目黒"
+				},
+				"postcode": "153-0064",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Meguro",
+					"ja": "Meguro"
+				}
+			},
+			"coord": {
+				"lat": 35.6314214,
+				"lon": 139.7097591
+			},
+			"stations": [
+				{
+					"id": 258,
+					"name": {
+						"en": "Meguro",
+						"ja": "目黒"
+					},
+					"coord": {
+						"lat": 35.6340929,
+						"lon": 139.7158331
+					},
+					"lines": [
+						{
+							"id": 19,
+							"name": {
+								"en": "Yamanote",
+								"ja": "山手線"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 33,
+									"g": 211,
+									"r": 126
+								},
+								"rgbaString": "rgba(126, 211, 33, 1)"
+							},
+							"stations": [
+								295,
+								296,
+								299,
+								303,
+								258,
+								318,
+								176,
+								147,
+								159,
+								357,
+								368,
+								371,
+								216,
+								271,
+								383,
+								192,
+								392,
+								154,
+								407,
+								425,
+								443,
+								190,
+								163,
+								228,
+								496,
+								501
+							]
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 720
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 9
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 42.33,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "1ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22491/images/15c99c6b-3ee6-4a13-887d-f83b8dba4e11..jpg",
+					"photo_order": 0,
+					"id": 234901
+				}
+			],
+			"stories": 18,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 22491,
+				"status": "active",
+				"updatedAt": "2025-06-11T03:44:57.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22491/images/15c99c6b-3ee6-4a13-887d-f83b8dba4e11..jpg",
+							"photo_order": 0,
+							"id": 234901
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "E",
+					"ja": "E"
+				}
+			},
+			"floor": "2",
+			"unit_nbr": "206"
+		},
+		{
+			"_property_id": 7751,
+			"property_id": 7751,
+			"property_item_id": 22527,
+			"property_unit_id": 45552,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "Park Axis Roppongi Hinokicho Park",
+					"ja": "パークアクシス六本木檜町公園"
+				},
+				"fts": {
+					"en": "Park Axis Roppongi Hinokicho Park",
+					"ja": "パークアクシス六本木檜町公園"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/minato/park-axis-roppongi-hinokicho-park/45552",
+				"ja": "/jp/apartment-rental/tokyo/minato/park-axis-roppongi-hinokicho-park/45552"
+			},
+			"visibility": 1,
+			"price": 215000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45552/images/17c11612-e08c-4895-8111-6e26098b49a3..jpg",
+					"photo_order": 0,
+					"id": 234930
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45552/images/0b2b6768-aa73-45a6-bae6-08e8c83b2aeb..jpg",
+					"photo_order": 1,
+					"id": 234931
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45552/images/f74971c0-c0dd-41e2-a766-0302213bad7e..jpg",
+					"photo_order": 2,
+					"id": 234932
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45552/images/695885f3-2ce5-4c7e-a6ba-bc9f0b8ccdc9..jpg",
+					"photo_order": 3,
+					"id": 234934
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7751/images/b7d9dfe6-5973-433c-9a2c-7117964c24b6..jpg",
+					"photo_order": 0,
+					"id": 225393
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Minato",
+					"ja": "港区"
+				},
+				"street": {
+					"en": "Akasaka",
+					"ja": "赤坂"
+				},
+				"postcode": " 107-0052",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Minato",
+					"ja": "Minato"
+				}
+			},
+			"coord": {
+				"lat": 35.6673597,
+				"lon": 139.7332607
+			},
+			"stations": [
+				{
+					"id": 145,
+					"name": {
+						"en": "Roppongi",
+						"ja": "六本木"
+					},
+					"coord": {
+						"lat": 35.6627251,
+						"lon": 139.7312165
+					},
+					"lines": [
+						{
+							"id": 11,
+							"name": {
+								"en": "Hibiya",
+								"ja": "日比谷線"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 143,
+									"g": 142,
+									"r": 140
+								},
+								"rgbaString": "rgba(140, 142, 143, 1)"
+							},
+							"stations": [
+								175,
+								176,
+								177,
+								145,
+								179,
+								180,
+								169,
+								182,
+								155,
+								184,
+								185,
+								186,
+								187,
+								188,
+								189,
+								190,
+								501,
+								502
+							],
+							"image": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/line/11/images/upload_30afea9fabd76f9b6b69818dea6bdfe7_220750.png"
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 500
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 7
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 36.75,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "1ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22527/images/870a471b-2cba-4c34-8831-794236e601bf..jpg",
+					"photo_order": 0,
+					"id": 234935
+				}
+			],
+			"stories": 6,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 22527,
+				"status": "active",
+				"updatedAt": "2025-06-11T03:44:48.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22527/images/870a471b-2cba-4c34-8831-794236e601bf..jpg",
+							"photo_order": 0,
+							"id": 234935
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "D",
+					"ja": "D"
+				}
+			},
+			"floor": "4",
+			"unit_nbr": "406"
+		},
+		{
+			"_property_id": 7752,
+			"property_id": 7752,
+			"property_item_id": 20905,
+			"property_unit_id": 42562,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "Park Axis Minami Aoyama 7-chome",
+					"ja": "パークアクシス南青山七丁目"
+				},
+				"fts": {
+					"en": "Park Axis Minami Aoyama 7-chome",
+					"ja": "パークアクシス南青山七丁目"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/minato/park-axis-minami-aoyama-7-chome/42562",
+				"ja": "/jp/apartment-rental/tokyo/minato/park-axis-minami-aoyama-7-chome/42562"
+			},
+			"visibility": 1,
+			"price": 195000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42562/images/39aec69a-cd30-494c-9fab-393b44e36f89..jpg",
+					"photo_order": 0,
+					"id": 225406
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42562/images/0d66db3e-66e6-4d09-98aa-ded53abe1128..jpg",
+					"photo_order": 1,
+					"id": 225407
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42562/images/00000a46-c46b-4d46-9885-02f6a708b6a2..jpg",
+					"photo_order": 2,
+					"id": 225408
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42562/images/757b3c58-3d07-4d5c-8c98-541c88ebdeec..jpg",
+					"photo_order": 3,
+					"id": 225409
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42562/images/6198822e-32c2-490d-8b57-f71177130c1d..jpg",
+					"photo_order": 4,
+					"id": 225410
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42562/images/f3718f6a-43db-4953-8600-18c16dc93d67..jpg",
+					"photo_order": 5,
+					"id": 225411
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42562/images/e5bcf561-d7b0-457b-a987-e6f0918ebbb8..jpg",
+					"photo_order": 6,
+					"id": 225412
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/42562/images/22d7a417-5e84-4c43-ad0e-d57a59d46a73..jpg",
+					"photo_order": 7,
+					"id": 225413
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7752/images/51c17b49-738e-46f7-911d-4893e8c612ec..jpg",
+					"photo_order": 0,
+					"id": 225416
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Minato",
+					"ja": "港区"
+				},
+				"street": {
+					"en": "Minamiaoyama",
+					"ja": "南青山"
+				},
+				"postcode": " 107-0062",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Minato",
+					"ja": "Minato"
+				}
+			},
+			"coord": {
+				"lat": 35.6588354,
+				"lon": 139.7186628
+			},
+			"stations": [
+				{
+					"id": 148,
+					"name": {
+						"en": "Omote-Sando",
+						"ja": "表参道"
+					},
+					"coord": {
+						"lat": 35.6652511,
+						"lon": 139.7120921
+					},
+					"lines": [
+						{
+							"id": 9,
+							"name": {
+								"en": "Ginza",
+								"ja": "銀座線"
+							},
+							"color": {
+								"rgba": {
+									"a": 0.79,
+									"b": 35,
+									"g": 166,
+									"r": 245
+								},
+								"rgbaString": "rgba(245, 166, 35, 0.79)"
+							},
+							"stations": [
+								147,
+								148,
+								149,
+								150,
+								151,
+								153,
+								154,
+								155,
+								156,
+								157,
+								158,
+								159,
+								160,
+								263,
+								497,
+								501
+							],
+							"image": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/line/9/images/upload_b5cb6981c787b50593abede3a2fabe90_220748.png"
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 1040
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 13
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 32.76,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "1ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20905/images/340fa57b-f02b-447e-8527-b683b23430b8..jpg",
+					"photo_order": 0,
+					"id": 225415
+				}
+			],
+			"stories": 10,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 20905,
+				"status": "active",
+				"updatedAt": "2025-06-11T03:44:44.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/20905/images/340fa57b-f02b-447e-8527-b683b23430b8..jpg",
+							"photo_order": 0,
+							"id": 225415
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "B",
+					"ja": "B"
+				}
+			},
+			"floor": "2",
+			"unit_nbr": "205"
+		},
+		{
+			"_property_id": 7761,
+			"property_id": 7761,
+			"property_item_id": 22321,
+			"property_unit_id": 45204,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "Park Axis Ochanomizu Hilltop",
+					"ja": "パークアクシス御茶ノ水ヒルトップ"
+				},
+				"fts": {
+					"en": "Park Axis Ochanomizu Hilltop",
+					"ja": "パークアクシス御茶ノ水ヒルトップ"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/chiyoda/park-axis-ochanomizu-hilltop/45204",
+				"ja": "/jp/apartment-rental/tokyo/chiyoda/park-axis-ochanomizu-hilltop/45204"
+			},
+			"visibility": 1,
+			"price": 155000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45204/images/e83ad037-c80a-4211-96ab-1c5d774a8528..jpg",
+					"photo_order": 0,
+					"id": 233400
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45204/images/2bc75de8-4ddf-45d9-9cbb-fe77f6ca2da6..jpg",
+					"photo_order": 1,
+					"id": 233402
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45204/images/c520c47b-fb4c-4b42-a6a4-369b4db7daba..jpg",
+					"photo_order": 2,
+					"id": 233401
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45204/images/931c74ed-0412-47ef-ac12-ce6d68124bf6..jpg",
+					"photo_order": 3,
+					"id": 233403
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45204/images/2c4183de-9280-4153-b558-f68328576da2..jpg",
+					"photo_order": 4,
+					"id": 233404
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45204/images/8c7e7df3-6340-4d69-8f6c-b14685985227..jpg",
+					"photo_order": 5,
+					"id": 233405
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45204/images/e08fc2a8-8c80-459d-9125-6d3e94e5758c..jpg",
+					"photo_order": 6,
+					"id": 233406
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45204/images/87e15e21-10e3-4653-a5d5-43ee2e536248..jpg",
+					"photo_order": 7,
+					"id": 233399
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45204/images/242cb01e-761e-4b23-b4e0-57afef8cb4b2..jpg",
+					"photo_order": 8,
+					"id": 233407
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45204/images/247241c5-3bda-4ffc-a079-98cf17f9db1d..jpg",
+					"photo_order": 9,
+					"id": 233408
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7761/images/b9819768-7dbb-4031-abc1-21c88fa31150..jpg",
+					"photo_order": 0,
+					"id": 225554
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Chiyoda",
+					"ja": "千代田区"
+				},
+				"street": {
+					"en": "Kanda Surugadai",
+					"ja": "神田駿河台"
+				},
+				"postcode": "101-0062 ",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Chiyoda",
+					"ja": "Chiyoda"
+				}
+			},
+			"coord": {
+				"lat": 35.7007415,
+				"lon": 139.7592596
+			},
+			"stations": [
+				{
+					"id": 250,
+					"name": {
+						"en": "Jimbocho",
+						"ja": "神保町"
+					},
+					"coord": {
+						"lat": 35.6959319,
+						"lon": 139.7576272
+					},
+					"lines": [
+						{
+							"id": 15,
+							"name": {
+								"en": "Hanzomon",
+								"ja": "半蔵門線"
+							},
+							"color": {
+								"rgba": {
+									"a": 0.54,
+									"b": 219,
+									"g": 95,
+									"r": 196
+								},
+								"rgbaString": "rgba(196, 95, 219, 0.54)"
+							},
+							"stations": [
+								147,
+								235,
+								248,
+								196,
+								250,
+								172,
+								158,
+								253,
+								254,
+								255,
+								256,
+								257,
+								148,
+								150
+							]
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 880
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 11
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 26.37,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "1r"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22321/images/a938ee54-ed36-4699-8853-2cbd8f38ead6..jpg",
+					"photo_order": 0,
+					"id": 233421
+				}
+			],
+			"stories": 14,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 22321,
+				"status": "active",
+				"updatedAt": "2025-06-06T09:43:58.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22321/images/a938ee54-ed36-4699-8853-2cbd8f38ead6..jpg",
+							"photo_order": 0,
+							"id": 233421
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "C",
+					"ja": "C"
+				}
+			},
+			"floor": "8",
+			"unit_nbr": "806"
+		},
+		{
+			"_property_id": 7775,
+			"property_id": 7775,
+			"property_item_id": 22515,
+			"property_unit_id": 45520,
+			"manage_type": "building",
+			"country_code": "JP",
+			"property_name": {
+				"ms": {
+					"en": "Park Axis Higashi Nihonbashi Station Gate",
+					"ja": "パークアクシス東日本橋ステーションゲート"
+				},
+				"fts": {
+					"en": "Park Axis Higashi Nihonbashi Station Gate",
+					"ja": "パークアクシス東日本橋ステーションゲート"
+				}
+			},
+			"permalinks": {
+				"en": "/jp-en/apartment-rental/tokyo/chuo/park-axis-higashi-nihonbashi-station-gate/45520",
+				"ja": "/jp/apartment-rental/tokyo/chuo/park-axis-higashi-nihonbashi-station-gate/45520"
+			},
+			"visibility": 1,
+			"price": 223000,
+			"photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45520/images/d07c44d2-a609-4b18-b88c-012c5a9ee158..jpg",
+					"photo_order": 0,
+					"id": 235019
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45520/images/26325bbc-7fdc-4986-879b-72e6453cff38..jpg",
+					"photo_order": 1,
+					"id": 235020
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45520/images/be9f5ef2-d410-49eb-a237-d13374525ff2..jpg",
+					"photo_order": 2,
+					"id": 235021
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45520/images/1ccbc778-dac0-4caa-b511-9bd8293ff348..jpg",
+					"photo_order": 3,
+					"id": 235022
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45520/images/f690319b-3c62-4269-aaaa-f140ac7f8f10..jpg",
+					"photo_order": 4,
+					"id": 235023
+				},
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/unitPhoto/45520/images/78abb8e1-2585-448c-adf9-d05dd7dad2ac..jpg",
+					"photo_order": 5,
+					"id": 235024
+				}
+			],
+			"property_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/buildingPhoto/7775/images/ce4da038-bbb7-4a7f-8fc6-1b137f9881ab..jpg",
+					"photo_order": 0,
+					"id": 225953
+				}
+			],
+			"location": {
+				"city": {
+					"en": "Tokyo",
+					"ja": "東京"
+				},
+				"district": {
+					"en": "Chuo",
+					"ja": "中央区"
+				},
+				"street": {
+					"en": "Higashi-Nihonbashi",
+					"ja": "東日本橋"
+				},
+				"postcode": "103-0004",
+				"address_components": {},
+				"neighbourhood": {
+					"en": "Chuo",
+					"ja": "Chuo"
+				}
+			},
+			"coord": {
+				"lat": 35.6917091,
+				"lon": 139.7828828
+			},
+			"stations": [
+				{
+					"id": 189,
+					"name": {
+						"en": "Kodenmacho",
+						"ja": "小伝馬町"
+					},
+					"coord": {
+						"lat": 35.6907124,
+						"lon": 139.7785074
+					},
+					"lines": [
+						{
+							"id": 11,
+							"name": {
+								"en": "Hibiya",
+								"ja": "日比谷線"
+							},
+							"color": {
+								"rgba": {
+									"a": 1,
+									"b": 143,
+									"g": 142,
+									"r": 140
+								},
+								"rgbaString": "rgba(140, 142, 143, 1)"
+							},
+							"stations": [
+								175,
+								176,
+								177,
+								145,
+								179,
+								180,
+								169,
+								182,
+								155,
+								184,
+								185,
+								186,
+								187,
+								188,
+								189,
+								190,
+								501,
+								502
+							],
+							"image": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/line/11/images/upload_30afea9fabd76f9b6b69818dea6bdfe7_220750.png"
+						}
+					],
+					"distance": {
+						"unit": "m",
+						"value": 800
+					},
+					"walkingTime": {
+						"unit": "min",
+						"value": 10
+					}
+				}
+			],
+			"layout": {
+				"size": {
+					"val": 43.04,
+					"unit": "sqm"
+				},
+				"bathrooms": "1",
+				"bedroomLabel": "1ldk"
+			},
+			"status": "active",
+			"layout_photos": [
+				{
+					"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22515/images/75a38996-1204-494d-be14-779d1dda79ce..jpg",
+					"photo_order": 0,
+					"id": 235025
+				}
+			],
+			"stories": 14,
+			"availability": "2025-06-20",
+			"item": {
+				"itemId": 22515,
+				"status": "active",
+				"updatedAt": "2025-06-11T03:44:48.000Z",
+				"media": {
+					"photos": [],
+					"layout": [
+						{
+							"url": "https://mr-bento-upload.s3.ap-southeast-1.amazonaws.com/itemLayout/22515/images/75a38996-1204-494d-be14-779d1dda79ce..jpg",
+							"photo_order": 0,
+							"id": 235025
+						}
+					],
+					"virtualTour": []
+				},
+				"title": {
+					"en": "E",
+					"ja": "E"
+				}
+			},
+			"floor": "13",
+			"unit_nbr": "1305"
+		}
+	],
+	"properties": [
+		{
+			"id": 9889,
+			"coord": {
+				"lat": 35.7650103,
+				"lon": 139.729518
+			}
+		},
+		{
+			"id": 9023,
+			"coord": {
+				"lat": 35.7045559,
+				"lon": 139.8184587
+			}
+		},
+		{
+			"id": 9880,
+			"coord": {
+				"lat": 35.7425526,
+				"lon": 139.7349025
+			}
+		},
+		{
+			"id": 10269,
+			"coord": {
+				"lat": 35.5633762,
+				"lon": 139.70936
+			}
+		},
+		{
+			"id": 9878,
+			"coord": {
+				"lat": 35.5633762,
+				"lon": 139.70936
+			}
+		},
+		{
+			"id": 9903,
+			"coord": {
+				"lat": 35.5810924,
+				"lon": 139.7258886
+			}
+		},
+		{
+			"id": 9061,
+			"coord": {
+				"lat": 35.7190827,
+				"lon": 139.7889705
+			}
+		},
+		{
+			"id": 9169,
+			"coord": {
+				"lat": 35.7037662,
+				"lon": 139.7893328
+			}
+		},
+		{
+			"id": 9067,
+			"coord": {
+				"lat": 35.6991697,
+				"lon": 139.8131678
+			}
+		},
+		{
+			"id": 7774,
+			"coord": {
+				"lat": 35.6910384,
+				"lon": 139.7826014
+			}
+		},
+		{
+			"id": 9054,
+			"coord": {
+				"lat": 35.6930408,
+				"lon": 139.8033968
+			}
+		},
+		{
+			"id": 9094,
+			"coord": {
+				"lat": 35.660098,
+				"lon": 139.7925663
+			}
+		},
+		{
+			"id": 9201,
+			"coord": {
+				"lat": 35.6930408,
+				"lon": 139.8033968
+			}
+		},
+		{
+			"id": 7644,
+			"coord": {
+				"lat": 35.6928173,
+				"lon": 139.7813434
+			}
+		},
+		{
+			"id": 9025,
+			"coord": {
+				"lat": 35.709638,
+				"lon": 139.7572445
+			}
+		},
+		{
+			"id": 9065,
+			"coord": {
+				"lat": 35.7084599,
+				"lon": 139.7848531
+			}
+		},
+		{
+			"id": 9144,
+			"coord": {
+				"lat": 35.7023769,
+				"lon": 139.7702489
+			}
+		},
+		{
+			"id": 9660,
+			"coord": {
+				"lat": 35.6080762,
+				"lon": 139.7049074
+			}
+		},
+		{
+			"id": 9694,
+			"coord": {
+				"lat": 35.7204169,
+				"lon": 139.6780769
+			}
+		},
+		{
+			"id": 7678,
+			"coord": {
+				"lat": 35.6670457,
+				"lon": 139.7198255
+			}
+		},
+		{
+			"id": 7776,
+			"coord": {
+				"lat": 35.6292194,
+				"lon": 139.7256197
+			}
+		},
+		{
+			"id": 7880,
+			"coord": {
+				"lat": 35.6004447,
+				"lon": 139.7217282
+			}
+		},
+		{
+			"id": 9096,
+			"coord": {
+				"lat": 35.7026615,
+				"lon": 139.7664117
+			}
+		},
+		{
+			"id": 9281,
+			"coord": {
+				"lat": 35.6373909,
+				"lon": 139.6051976
+			}
+		},
+		{
+			"id": 9663,
+			"coord": {
+				"lat": 35.7727595,
+				"lon": 139.6884041
+			}
+		},
+		{
+			"id": 9681,
+			"coord": {
+				"lat": 35.5983939,
+				"lon": 139.722215
+			}
+		},
+		{
+			"id": 9695,
+			"coord": {
+				"lat": 35.5981927,
+				"lon": 139.7226519
+			}
+		},
+		{
+			"id": 10151,
+			"coord": {
+				"lat": 35.6159723,
+				"lon": 139.7160301
+			}
+		},
+		{
+			"id": 7594,
+			"coord": {
+				"lat": 35.5983939,
+				"lon": 139.722215
+			}
+		},
+		{
+			"id": 7714,
+			"coord": {
+				"lat": 35.69011,
+				"lon": 139.700539
+			}
+		},
+		{
+			"id": 7782,
+			"coord": {
+				"lat": 35.63557360000001,
+				"lon": 139.7240407
+			}
+		},
+		{
+			"id": 7884,
+			"coord": {
+				"lat": 35.6520938,
+				"lon": 139.7321153
+			}
+		},
+		{
+			"id": 9204,
+			"coord": {
+				"lat": 35.6526497,
+				"lon": 139.7485355
+			}
+		},
+		{
+			"id": 9617,
+			"coord": {
+				"lat": 35.6845348,
+				"lon": 139.6496729
+			}
+		},
+		{
+			"id": 9782,
+			"coord": {
+				"lat": 35.6396443,
+				"lon": 139.7106893
+			}
+		},
+		{
+			"id": 9876,
+			"coord": {
+				"lat": 35.7449824,
+				"lon": 139.7256155
+			}
+		},
+		{
+			"id": 10246,
+			"coord": {
+				"lat": 35.6933182,
+				"lon": 139.7780281
+			}
+		},
+		{
+			"id": 7572,
+			"coord": {
+				"lat": 35.6396443,
+				"lon": 139.7106893
+			}
+		},
+		{
+			"id": 7593,
+			"coord": {
+				"lat": 35.5981927,
+				"lon": 139.7226519
+			}
+		},
+		{
+			"id": 7696,
+			"coord": {
+				"lat": 35.6863209,
+				"lon": 139.7161675
+			}
+		},
+		{
+			"id": 7886,
+			"coord": {
+				"lat": 35.6312684,
+				"lon": 139.7498754
+			}
+		},
+		{
+			"id": 7906,
+			"coord": {
+				"lat": 35.6279704,
+				"lon": 139.7198685
+			}
+		},
+		{
+			"id": 9138,
+			"coord": {
+				"lat": 35.7008255,
+				"lon": 139.7909907
+			}
+		},
+		{
+			"id": 9689,
+			"coord": {
+				"lat": 35.7051863,
+				"lon": 139.7736346
+			}
+		},
+		{
+			"id": 9697,
+			"coord": {
+				"lat": 35.690912,
+				"lon": 139.7635118
+			}
+		},
+		{
+			"id": 9860,
+			"coord": {
+				"lat": 35.5848952,
+				"lon": 139.731294
+			}
+		},
+		{
+			"id": 9902,
+			"coord": {
+				"lat": 35.6842289,
+				"lon": 139.7000752
+			}
+		},
+		{
+			"id": 9925,
+			"coord": {
+				"lat": 35.7442998,
+				"lon": 139.7224591
+			}
+		},
+		{
+			"id": 10253,
+			"coord": {
+				"lat": 35.5604141,
+				"lon": 139.7141548
+			}
+		},
+		{
+			"id": 7612,
+			"coord": {
+				"lat": 35.6841863,
+				"lon": 139.6999519
+			}
+		},
+		{
+			"id": 7622,
+			"coord": {
+				"lat": 35.6229318,
+				"lon": 139.6772595
+			}
+		},
+		{
+			"id": 7702,
+			"coord": {
+				"lat": 35.6068384,
+				"lon": 139.7009699
+			}
+		},
+		{
+			"id": 7707,
+			"coord": {
+				"lat": 35.6715509,
+				"lon": 139.7296976
+			}
+		},
+		{
+			"id": 7847,
+			"coord": {
+				"lat": 35.6536956,
+				"lon": 139.7085721
+			}
+		},
+		{
+			"id": 7852,
+			"coord": {
+				"lat": 35.7061977,
+				"lon": 139.7418714
+			}
+		},
+		{
+			"id": 7859,
+			"coord": {
+				"lat": 35.6735803,
+				"lon": 139.6676904
+			}
+		},
+		{
+			"id": 7862,
+			"coord": {
+				"lat": 35.6964344,
+				"lon": 139.7716147
+			}
+		},
+		{
+			"id": 7866,
+			"coord": {
+				"lat": 35.5993521,
+				"lon": 139.7237934
+			}
+		},
+		{
+			"id": 9002,
+			"coord": {
+				"lat": 35.6537506,
+				"lon": 139.6253659
+			}
+		},
+		{
+			"id": 9007,
+			"coord": {
+				"lat": 35.70793099999999,
+				"lon": 139.6882559
+			}
+		},
+		{
+			"id": 9010,
+			"coord": {
+				"lat": 35.7357441,
+				"lon": 139.7186143
+			}
+		},
+		{
+			"id": 9029,
+			"coord": {
+				"lat": 35.7088001,
+				"lon": 139.7500711
+			}
+		},
+		{
+			"id": 9048,
+			"coord": {
+				"lat": 35.7042385,
+				"lon": 139.8074348
+			}
+		},
+		{
+			"id": 9077,
+			"coord": {
+				"lat": 35.647523,
+				"lon": 139.6823238
+			}
+		},
+		{
+			"id": 9191,
+			"coord": {
+				"lat": 35.666789,
+				"lon": 139.7850097
+			}
+		},
+		{
+			"id": 9650,
+			"coord": {
+				"lat": 35.6989852,
+				"lon": 139.7480565
+			}
+		},
+		{
+			"id": 9817,
+			"coord": {
+				"lat": 35.6893444,
+				"lon": 139.7198612
+			}
+		},
+		{
+			"id": 9893,
+			"coord": {
+				"lat": 35.6875016,
+				"lon": 139.6171695
+			}
+		},
+		{
+			"id": 9918,
+			"coord": {
+				"lat": 35.7264693,
+				"lon": 139.701017
+			}
+		},
+		{
+			"id": 9945,
+			"coord": {
+				"lat": 35.7462513,
+				"lon": 139.7250716
+			}
+		},
+		{
+			"id": 10241,
+			"coord": {
+				"lat": 35.6933982,
+				"lon": 139.7692575
+			}
+		},
+		{
+			"id": 10254,
+			"coord": {
+				"lat": 35.5699857,
+				"lon": 139.7002024
+			}
+		},
+		{
+			"id": 10271,
+			"coord": {
+				"lat": 35.7124548,
+				"lon": 139.7853287
+			}
+		},
+		{
+			"id": 7582,
+			"coord": {
+				"lat": 35.6861535,
+				"lon": 139.7364627
+			}
+		},
+		{
+			"id": 7610,
+			"coord": {
+				"lat": 35.6714858,
+				"lon": 139.7743245
+			}
+		},
+		{
+			"id": 7629,
+			"coord": {
+				"lat": 35.6569961,
+				"lon": 139.714599
+			}
+		},
+		{
+			"id": 7677,
+			"coord": {
+				"lat": 35.6630949,
+				"lon": 139.734477
+			}
+		},
+		{
+			"id": 7695,
+			"coord": {
+				"lat": 35.6246428,
+				"lon": 139.7097059
+			}
+		},
+		{
+			"id": 7713,
+			"coord": {
+				"lat": 35.6895282,
+				"lon": 139.7805037
+			}
+		},
+		{
+			"id": 7744,
+			"coord": {
+				"lat": 35.6314214,
+				"lon": 139.7097591
+			}
+		},
+		{
+			"id": 7745,
+			"coord": {
+				"lat": 35.6635687,
+				"lon": 139.7004717
+			}
+		},
+		{
+			"id": 7750,
+			"coord": {
+				"lat": 35.654563,
+				"lon": 139.7334616
+			}
+		},
+		{
+			"id": 7751,
+			"coord": {
+				"lat": 35.6673597,
+				"lon": 139.7332607
+			}
+		},
+		{
+			"id": 7752,
+			"coord": {
+				"lat": 35.6588354,
+				"lon": 139.7186628
+			}
+		},
+		{
+			"id": 7753,
+			"coord": {
+				"lat": 35.6519376,
+				"lon": 139.7354089
+			}
+		},
+		{
+			"id": 7761,
+			"coord": {
+				"lat": 35.7007415,
+				"lon": 139.7592596
+			}
+		},
+		{
+			"id": 7765,
+			"coord": {
+				"lat": 35.6823298,
+				"lon": 139.7852147
+			}
+		},
+		{
+			"id": 7779,
+			"coord": {
+				"lat": 35.6635201,
+				"lon": 139.6967908
+			}
+		},
+		{
+			"id": 7788,
+			"coord": {
+				"lat": 35.6648258,
+				"lon": 139.7505741
+			}
+		},
+		{
+			"id": 7821,
+			"coord": {
+				"lat": 35.6567329,
+				"lon": 139.7779832
+			}
+		},
+		{
+			"id": 7850,
+			"coord": {
+				"lat": 35.65957700000001,
+				"lon": 139.718268
+			}
+		},
+		{
+			"id": 7856,
+			"coord": {
+				"lat": 35.6375621,
+				"lon": 139.7484781
+			}
+		},
+		{
+			"id": 7860,
+			"coord": {
+				"lat": 35.6548607,
+				"lon": 139.7134008
+			}
+		},
+		{
+			"id": 7863,
+			"coord": {
+				"lat": 35.6675609,
+				"lon": 139.773438
+			}
+		},
+		{
+			"id": 7868,
+			"coord": {
+				"lat": 35.6384607,
+				"lon": 139.7269381
+			}
+		},
+		{
+			"id": 7877,
+			"coord": {
+				"lat": 35.6910226,
+				"lon": 139.7319326
+			}
+		},
+		{
+			"id": 7879,
+			"coord": {
+				"lat": 35.6749641,
+				"lon": 139.7327989
+			}
+		},
+		{
+			"id": 7881,
+			"coord": {
+				"lat": 35.7104205,
+				"lon": 139.7099855
+			}
+		},
+		{
+			"id": 7901,
+			"coord": {
+				"lat": 35.6673691,
+				"lon": 139.6884853
+			}
+		},
+		{
+			"id": 8859,
+			"coord": {
+				"lat": 35.662366,
+				"lon": 139.6881662
+			}
+		},
+		{
+			"id": 8879,
+			"coord": {
+				"lat": 35.6715385,
+				"lon": 139.7396869
+			}
+		},
+		{
+			"id": 9012,
+			"coord": {
+				"lat": 35.6980364,
+				"lon": 139.8186332
+			}
+		},
+		{
+			"id": 9017,
+			"coord": {
+				"lat": 35.7174354,
+				"lon": 139.7370016
+			}
+		},
+		{
+			"id": 9042,
+			"coord": {
+				"lat": 35.71509350000001,
+				"lon": 139.7844391
+			}
+		},
+		{
+			"id": 9090,
+			"coord": {
+				"lat": 35.6438646,
+				"lon": 139.6161239
+			}
+		},
+		{
+			"id": 9115,
+			"coord": {
+				"lat": 35.6564418,
+				"lon": 139.6722715
+			}
+		},
+		{
+			"id": 9124,
+			"coord": {
+				"lat": 35.6962249,
+				"lon": 139.82223
+			}
+		},
+		{
+			"id": 9142,
+			"coord": {
+				"lat": 35.6950689,
+				"lon": 139.7696051
+			}
+		},
+		{
+			"id": 9147,
+			"coord": {
+				"lat": 35.7000909,
+				"lon": 139.7863366
+			}
+		},
+		{
+			"id": 9177,
+			"coord": {
+				"lat": 35.6523541,
+				"lon": 139.7343609
+			}
+		},
+		{
+			"id": 9185,
+			"coord": {
+				"lat": 35.6946667,
+				"lon": 139.8268356
+			}
+		},
+		{
+			"id": 9187,
+			"coord": {
+				"lat": 35.6709157,
+				"lon": 139.7782601
+			}
+		},
+		{
+			"id": 9189,
+			"coord": {
+				"lat": 35.7004598,
+				"lon": 139.8137279
+			}
+		},
+		{
+			"id": 9315,
+			"coord": {
+				"lat": 35.6438646,
+				"lon": 139.6161239
+			}
+		},
+		{
+			"id": 9610,
+			"coord": {
+				"lat": 35.6995837,
+				"lon": 139.6771
+			}
+		},
+		{
+			"id": 9640,
+			"coord": {
+				"lat": 35.7066969,
+				"lon": 139.7886535
+			}
+		},
+		{
+			"id": 9645,
+			"coord": {
+				"lat": 35.707529,
+				"lon": 139.6529691
+			}
+		},
+		{
+			"id": 9662,
+			"coord": {
+				"lat": 35.6428397,
+				"lon": 139.7200004
+			}
+		},
+		{
+			"id": 9676,
+			"coord": {
+				"lat": 35.7033635,
+				"lon": 139.7452259
+			}
+		},
+		{
+			"id": 9691,
+			"coord": {
+				"lat": 35.7059307,
+				"lon": 139.7232127
+			}
+		},
+		{
+			"id": 9708,
+			"coord": {
+				"lat": 35.6968498,
+				"lon": 139.7275666
+			}
+		},
+		{
+			"id": 9725,
+			"coord": {
+				"lat": 35.6703548,
+				"lon": 139.7227482
+			}
+		},
+		{
+			"id": 9762,
+			"coord": {
+				"lat": 35.6214309,
+				"lon": 139.7218869
+			}
+		},
+		{
+			"id": 9770,
+			"coord": {
+				"lat": 35.6847021,
+				"lon": 139.791034
+			}
+		},
+		{
+			"id": 9816,
+			"coord": {
+				"lat": 35.6817822,
+				"lon": 139.7880944
+			}
+		},
+		{
+			"id": 9845,
+			"coord": {
+				"lat": 35.6541807,
+				"lon": 139.7434223
+			}
+		},
+		{
+			"id": 9856,
+			"coord": {
+				"lat": 35.7338427,
+				"lon": 139.7575726
+			}
+		},
+		{
+			"id": 9858,
+			"coord": {
+				"lat": 35.7819063,
+				"lon": 139.7216264
+			}
+		},
+		{
+			"id": 9863,
+			"coord": {
+				"lat": 35.5939539,
+				"lon": 139.7123993
+			}
+		},
+		{
+			"id": 9869,
+			"coord": {
+				"lat": 35.5523893,
+				"lon": 139.7302613
+			}
+		},
+		{
+			"id": 9895,
+			"coord": {
+				"lat": 35.7416008,
+				"lon": 139.7528698
+			}
+		},
+		{
+			"id": 9899,
+			"coord": {
+				"lat": 35.674277,
+				"lon": 139.6904909
+			}
+		},
+		{
+			"id": 9913,
+			"coord": {
+				"lat": 35.7081589,
+				"lon": 139.6356693
+			}
+		},
+		{
+			"id": 9943,
+			"coord": {
+				"lat": 35.6055087,
+				"lon": 139.6945401
+			}
+		},
+		{
+			"id": 10110,
+			"coord": {
+				"lat": 35.7349967,
+				"lon": 139.6572991
+			}
+		},
+		{
+			"id": 10214,
+			"coord": {
+				"lat": 35.6863582,
+				"lon": 139.8220518
+			}
+		},
+		{
+			"id": 10284,
+			"coord": {
+				"lat": 35.6930158,
+				"lon": 139.7833074
+			}
+		},
+		{
+			"id": 10290,
+			"coord": {
+				"lat": 35.6373909,
+				"lon": 139.6051976
+			}
+		},
+		{
+			"id": 10304,
+			"coord": {
+				"lat": 35.6541807,
+				"lon": 139.7434223
+			}
+		},
+		{
+			"id": 7535,
+			"coord": {
+				"lat": 35.6116246,
+				"lon": 139.7369733
+			}
+		},
+		{
+			"id": 7573,
+			"coord": {
+				"lat": 35.6926999,
+				"lon": 139.766337
+			}
+		},
+		{
+			"id": 7579,
+			"coord": {
+				"lat": 35.6330061,
+				"lon": 139.7167845
+			}
+		},
+		{
+			"id": 7580,
+			"coord": {
+				"lat": 35.684902,
+				"lon": 139.6991334
+			}
+		},
+		{
+			"id": 7583,
+			"coord": {
+				"lat": 35.6980924,
+				"lon": 139.729538
+			}
+		},
+		{
+			"id": 7584,
+			"coord": {
+				"lat": 35.6674179,
+				"lon": 139.7840097
+			}
+		},
+		{
+			"id": 7585,
+			"coord": {
+				"lat": 35.6856499,
+				"lon": 139.7404053
+			}
+		},
+		{
+			"id": 7592,
+			"coord": {
+				"lat": 35.6678069,
+				"lon": 139.7628032
+			}
+		},
+		{
+			"id": 7596,
+			"coord": {
+				"lat": 35.674277,
+				"lon": 139.6904909
+			}
+		},
+		{
+			"id": 7603,
+			"coord": {
+				"lat": 35.6841742,
+				"lon": 139.7913627
+			}
+		},
+		{
+			"id": 7613,
+			"coord": {
+				"lat": 35.6608809,
+				"lon": 139.7079343
+			}
+		},
+		{
+			"id": 7619,
+			"coord": {
+				"lat": 35.6214309,
+				"lon": 139.7218869
+			}
+		},
+		{
+			"id": 7621,
+			"coord": {
+				"lat": 35.6460844,
+				"lon": 139.7351057
+			}
+		},
+		{
+			"id": 7633,
+			"coord": {
+				"lat": 35.6518166,
+				"lon": 139.6959602
+			}
+		},
+		{
+			"id": 7642,
+			"coord": {
+				"lat": 35.6848554,
+				"lon": 139.7804746
+			}
+		},
+		{
+			"id": 7646,
+			"coord": {
+				"lat": 35.698016,
+				"lon": 139.696642
+			}
+		},
+		{
+			"id": 7659,
+			"coord": {
+				"lat": 35.7137174,
+				"lon": 139.6898998
+			}
+		},
+		{
+			"id": 7660,
+			"coord": {
+				"lat": 35.6805072,
+				"lon": 139.7064149
+			}
+		},
+		{
+			"id": 7689,
+			"coord": {
+				"lat": 35.6090546,
+				"lon": 139.7292121
+			}
+		},
+		{
+			"id": 7691,
+			"coord": {
+				"lat": 35.6643883,
+				"lon": 139.7718573
+			}
+		},
+		{
+			"id": 7697,
+			"coord": {
+				"lat": 35.6981186,
+				"lon": 139.7151643
+			}
+		},
+		{
+			"id": 7699,
+			"coord": {
+				"lat": 35.690176,
+				"lon": 139.76818
+			}
+		},
+		{
+			"id": 7705,
+			"coord": {
+				"lat": 35.674067,
+				"lon": 139.782271
+			}
+		},
+		{
+			"id": 7724,
+			"coord": {
+				"lat": 35.6893757,
+				"lon": 139.723691
+			}
+		},
+		{
+			"id": 7728,
+			"coord": {
+				"lat": 35.6872632,
+				"lon": 139.7811737
+			}
+		},
+		{
+			"id": 7733,
+			"coord": {
+				"lat": 35.664868,
+				"lon": 139.6875139
+			}
+		},
+		{
+			"id": 7736,
+			"coord": {
+				"lat": 35.6883595,
+				"lon": 139.6811984
+			}
+		},
+		{
+			"id": 7754,
+			"coord": {
+				"lat": 35.5960975,
+				"lon": 139.7403856
+			}
+		},
+		{
+			"id": 7757,
+			"coord": {
+				"lat": 35.6923624,
+				"lon": 139.7785074
+			}
+		},
+		{
+			"id": 7771,
+			"coord": {
+				"lat": 35.6704792,
+				"lon": 139.7048304
+			}
+		},
+		{
+			"id": 7775,
+			"coord": {
+				"lat": 35.6917091,
+				"lon": 139.7828828
+			}
+		},
+		{
+			"id": 7783,
+			"coord": {
+				"lat": 35.6984385,
+				"lon": 139.7574582
+			}
+		},
+		{
+			"id": 7789,
+			"coord": {
+				"lat": 35.6643486,
+				"lon": 139.7057902
+			}
+		},
+		{
+			"id": 7793,
+			"coord": {
+				"lat": 35.6755257,
+				"lon": 139.7369217
+			}
+		},
+		{
+			"id": 7800,
+			"coord": {
+				"lat": 35.6903321,
+				"lon": 139.7319286
+			}
+		},
+		{
+			"id": 7825,
+			"coord": {
+				"lat": 35.6585276,
+				"lon": 139.714937
+			}
+		},
+		{
+			"id": 7831,
+			"coord": {
+				"lat": 35.6928888,
+				"lon": 139.7690817
+			}
+		},
+		{
+			"id": 7834,
+			"coord": {
+				"lat": 35.7029841,
+				"lon": 139.7387262
+			}
+		},
+		{
+			"id": 7851,
+			"coord": {
+				"lat": 35.6607328,
+				"lon": 139.7233623
+			}
+		},
+		{
+			"id": 7855,
+			"coord": {
+				"lat": 35.6978925,
+				"lon": 139.7584396
+			}
+		},
+		{
+			"id": 7882,
+			"coord": {
+				"lat": 35.6432074,
+				"lon": 139.6994808
+			}
+		},
+		{
+			"id": 7888,
+			"coord": {
+				"lat": 35.6541807,
+				"lon": 139.7434223
+			}
+		},
+		{
+			"id": 7940,
+			"coord": {
+				"lat": 35.6702843,
+				"lon": 139.7225304
+			}
+		},
+		{
+			"id": 7984,
+			"coord": {
+				"lat": 35.696665,
+				"lon": 139.756691
+			}
+		},
+		{
+			"id": 7998,
+			"coord": {
+				"lat": 35.7074421,
+				"lon": 139.7362059
+			}
+		},
+		{
+			"id": 8033,
+			"coord": {
+				"lat": 35.6541807,
+				"lon": 139.7434223
+			}
+		},
+		{
+			"id": 8159,
+			"coord": {
+				"lat": 35.6183803,
+				"lon": 139.6855487
+			}
+		},
+		{
+			"id": 8364,
+			"coord": {
+				"lat": 35.6384788,
+				"lon": 139.7229687
+			}
+		},
+		{
+			"id": 8366,
+			"coord": {
+				"lat": 35.668515,
+				"lon": 139.7794261
+			}
+		},
+		{
+			"id": 8367,
+			"coord": {
+				"lat": 35.7049976,
+				"lon": 139.7399545
+			}
+		},
+		{
+			"id": 8370,
+			"coord": {
+				"lat": 35.6605644,
+				"lon": 139.7153097
+			}
+		},
+		{
+			"id": 8374,
+			"coord": {
+				"lat": 35.6681848,
+				"lon": 139.6756646
+			}
+		},
+		{
+			"id": 8382,
+			"coord": {
+				"lat": 35.6613454,
+				"lon": 139.7052921
+			}
+		},
+		{
+			"id": 8384,
+			"coord": {
+				"lat": 35.6262929,
+				"lon": 139.7351866
+			}
+		},
+		{
+			"id": 8395,
+			"coord": {
+				"lat": 35.6548549,
+				"lon": 139.7145937
+			}
+		},
+		{
+			"id": 8843,
+			"coord": {
+				"lat": 35.68552580000001,
+				"lon": 139.7161357
+			}
+		},
+		{
+			"id": 8872,
+			"coord": {
+				"lat": 35.6768546,
+				"lon": 139.6778377
+			}
+		},
+		{
+			"id": 8891,
+			"coord": {
+				"lat": 35.6811706,
+				"lon": 139.787652
+			}
+		},
+		{
+			"id": 8894,
+			"coord": {
+				"lat": 35.6980567,
+				"lon": 139.6963425
+			}
+		},
+		{
+			"id": 8926,
+			"coord": {
+				"lat": 35.6645202,
+				"lon": 139.7282663
+			}
+		},
+		{
+			"id": 9001,
+			"coord": {
+				"lat": 35.66775,
+				"lon": 139.653615
+			}
+		},
+		{
+			"id": 9005,
+			"coord": {
+				"lat": 35.6742116,
+				"lon": 139.7937284
+			}
+		},
+		{
+			"id": 9006,
+			"coord": {
+				"lat": 35.7008554,
+				"lon": 139.7956341
+			}
+		},
+		{
+			"id": 9008,
+			"coord": {
+				"lat": 35.6976006,
+				"lon": 139.8066257
+			}
+		},
+		{
+			"id": 9015,
+			"coord": {
+				"lat": 35.672174,
+				"lon": 139.8145266
+			}
+		},
+		{
+			"id": 9016,
+			"coord": {
+				"lat": 35.7078494,
+				"lon": 139.7923776
+			}
+		},
+		{
+			"id": 9018,
+			"coord": {
+				"lat": 35.72666510000001,
+				"lon": 139.6977513
+			}
+		},
+		{
+			"id": 9019,
+			"coord": {
+				"lat": 35.6922825,
+				"lon": 139.6771657
+			}
+		},
+		{
+			"id": 9020,
+			"coord": {
+				"lat": 35.6990288,
+				"lon": 139.8067934
+			}
+		},
+		{
+			"id": 9022,
+			"coord": {
+				"lat": 35.7027234,
+				"lon": 139.7888882
+			}
+		},
+		{
+			"id": 9030,
+			"coord": {
+				"lat": 35.6913701,
+				"lon": 139.8043333
+			}
+		},
+		{
+			"id": 9031,
+			"coord": {
+				"lat": 35.7139976,
+				"lon": 139.8221407
+			}
+		},
+		{
+			"id": 9038,
+			"coord": {
+				"lat": 35.734713,
+				"lon": 139.7255197
+			}
+		},
+		{
+			"id": 9040,
+			"coord": {
+				"lat": 35.6946667,
+				"lon": 139.8268356
+			}
+		},
+		{
+			"id": 9041,
+			"coord": {
+				"lat": 35.6608999,
+				"lon": 139.7921293
+			}
+		},
+		{
+			"id": 9060,
+			"coord": {
+				"lat": 35.69265410000001,
+				"lon": 139.8026394
+			}
+		},
+		{
+			"id": 9063,
+			"coord": {
+				"lat": 35.7056783,
+				"lon": 139.7887682
+			}
+		},
+		{
+			"id": 9071,
+			"coord": {
+				"lat": 35.6994165,
+				"lon": 139.807744
+			}
+		},
+		{
+			"id": 9072,
+			"coord": {
+				"lat": 35.7155552,
+				"lon": 139.7841595
+			}
+		},
+		{
+			"id": 9074,
+			"coord": {
+				"lat": 35.6395654,
+				"lon": 139.6658176
+			}
+		},
+		{
+			"id": 9082,
+			"coord": {
+				"lat": 35.676711,
+				"lon": 139.7892729
+			}
+		},
+		{
+			"id": 9083,
+			"coord": {
+				"lat": 35.6147413,
+				"lon": 139.6392316
+			}
+		},
+		{
+			"id": 9088,
+			"coord": {
+				"lat": 35.7079579,
+				"lon": 139.7912904
+			}
+		},
+		{
+			"id": 9097,
+			"coord": {
+				"lat": 35.6610022,
+				"lon": 139.8054747
+			}
+		},
+		{
+			"id": 9099,
+			"coord": {
+				"lat": 35.6373909,
+				"lon": 139.6051976
+			}
+		},
+		{
+			"id": 9100,
+			"coord": {
+				"lat": 35.6514482,
+				"lon": 139.6315513
+			}
+		},
+		{
+			"id": 9101,
+			"coord": {
+				"lat": 35.72227,
+				"lon": 139.7376602
+			}
+		},
+		{
+			"id": 9107,
+			"coord": {
+				"lat": 35.6376947,
+				"lon": 139.610342
+			}
+		},
+		{
+			"id": 9108,
+			"coord": {
+				"lat": 35.7095263,
+				"lon": 139.796443
+			}
+		},
+		{
+			"id": 9110,
+			"coord": {
+				"lat": 35.7162398,
+				"lon": 139.7427614
+			}
+		},
+		{
+			"id": 9113,
+			"coord": {
+				"lat": 35.6321968,
+				"lon": 139.6750656
+			}
+		},
+		{
+			"id": 9114,
+			"coord": {
+				"lat": 35.7345359,
+				"lon": 139.7481187
+			}
+		},
+		{
+			"id": 9118,
+			"coord": {
+				"lat": 35.7318595,
+				"lon": 139.7431904
+			}
+		},
+		{
+			"id": 9119,
+			"coord": {
+				"lat": 35.6862166,
+				"lon": 139.780964
+			}
+		},
+		{
+			"id": 9121,
+			"coord": {
+				"lat": 35.6972771,
+				"lon": 139.7784268
+			}
+		},
+		{
+			"id": 9123,
+			"coord": {
+				"lat": 35.7154104,
+				"lon": 139.7662662
+			}
+		},
+		{
+			"id": 9130,
+			"coord": {
+				"lat": 35.662265,
+				"lon": 139.8038584
+			}
+		},
+		{
+			"id": 9134,
+			"coord": {
+				"lat": 35.7135972,
+				"lon": 139.7091288
+			}
+		},
+		{
+			"id": 9136,
+			"coord": {
+				"lat": 35.7130218,
+				"lon": 139.8296445
+			}
+		},
+		{
+			"id": 9137,
+			"coord": {
+				"lat": 35.7165066,
+				"lon": 139.7978392
+			}
+		},
+		{
+			"id": 9139,
+			"coord": {
+				"lat": 35.6869534,
+				"lon": 139.8075393
+			}
+		},
+		{
+			"id": 9148,
+			"coord": {
+				"lat": 35.6920607,
+				"lon": 139.7195094
+			}
+		},
+		{
+			"id": 9162,
+			"coord": {
+				"lat": 35.6976006,
+				"lon": 139.8066257
+			}
+		},
+		{
+			"id": 9166,
+			"coord": {
+				"lat": 35.6836935,
+				"lon": 139.7422406
+			}
+		},
+		{
+			"id": 9170,
+			"coord": {
+				"lat": 35.613797,
+				"lon": 139.7107435
+			}
+		},
+		{
+			"id": 9171,
+			"coord": {
+				"lat": 35.6824101,
+				"lon": 139.7897202
+			}
+		},
+		{
+			"id": 9175,
+			"coord": {
+				"lat": 35.6304976,
+				"lon": 139.7305258
+			}
+		},
+		{
+			"id": 9184,
+			"coord": {
+				"lat": 35.7097059,
+				"lon": 139.8052466
+			}
+		},
+		{
+			"id": 9190,
+			"coord": {
+				"lat": 35.6178626,
+				"lon": 139.7004495
+			}
+		},
+		{
+			"id": 9196,
+			"coord": {
+				"lat": 35.6862094,
+				"lon": 139.8217166
+			}
+		},
+		{
+			"id": 9202,
+			"coord": {
+				"lat": 35.7056783,
+				"lon": 139.7596575
+			}
+		},
+		{
+			"id": 9209,
+			"coord": {
+				"lat": 35.66824140000001,
+				"lon": 139.7731449
+			}
+		},
+		{
+			"id": 9212,
+			"coord": {
+				"lat": 35.6604118,
+				"lon": 139.7596933
+			}
+		},
+		{
+			"id": 9215,
+			"coord": {
+				"lat": 35.7155552,
+				"lon": 139.7841595
+			}
+		},
+		{
+			"id": 9233,
+			"coord": {
+				"lat": 35.6596023,
+				"lon": 139.7166267
+			}
+		},
+		{
+			"id": 9242,
+			"coord": {
+				"lat": 35.6697835,
+				"lon": 139.7201632
+			}
+		},
+		{
+			"id": 9245,
+			"coord": {
+				"lat": 35.6653401,
+				"lon": 139.7437178
+			}
+		},
+		{
+			"id": 9252,
+			"coord": {
+				"lat": 35.6541665,
+				"lon": 139.7394033
+			}
+		},
+		{
+			"id": 9268,
+			"coord": {
+				"lat": 35.614841,
+				"lon": 139.6965419
+			}
+		},
+		{
+			"id": 9270,
+			"coord": {
+				"lat": 35.6841703,
+				"lon": 139.6610472
+			}
+		},
+		{
+			"id": 9273,
+			"coord": {
+				"lat": 35.6915058,
+				"lon": 139.6800504
+			}
+		},
+		{
+			"id": 9274,
+			"coord": {
+				"lat": 35.6717522,
+				"lon": 139.6175493
+			}
+		},
+		{
+			"id": 9275,
+			"coord": {
+				"lat": 35.7107928,
+				"lon": 139.6916272
+			}
+		},
+		{
+			"id": 9276,
+			"coord": {
+				"lat": 35.6280586,
+				"lon": 139.690958
+			}
+		},
+		{
+			"id": 9279,
+			"coord": {
+				"lat": 35.6801312,
+				"lon": 139.6838754
+			}
+		},
+		{
+			"id": 9283,
+			"coord": {
+				"lat": 35.6647592,
+				"lon": 139.5895843
+			}
+		},
+		{
+			"id": 9285,
+			"coord": {
+				"lat": 35.6651959,
+				"lon": 139.5892871
+			}
+		},
+		{
+			"id": 9286,
+			"coord": {
+				"lat": 35.6439275,
+				"lon": 139.617198
+			}
+		},
+		{
+			"id": 9293,
+			"coord": {
+				"lat": 35.702538,
+				"lon": 139.6862479
+			}
+		},
+		{
+			"id": 9297,
+			"coord": {
+				"lat": 35.6714914,
+				"lon": 139.709908
+			}
+		},
+		{
+			"id": 9298,
+			"coord": {
+				"lat": 35.6317644,
+				"lon": 139.6853293
+			}
+		},
+		{
+			"id": 9312,
+			"coord": {
+				"lat": 35.6763403,
+				"lon": 139.6697872
+			}
+		},
+		{
+			"id": 9316,
+			"coord": {
+				"lat": 35.6754447,
+				"lon": 139.6716922
+			}
+		},
+		{
+			"id": 9320,
+			"coord": {
+				"lat": 35.6373909,
+				"lon": 139.6051976
+			}
+		},
+		{
+			"id": 9329,
+			"coord": {
+				"lat": 35.6321968,
+				"lon": 139.6750656
+			}
+		},
+		{
+			"id": 9334,
+			"coord": {
+				"lat": 35.6725648,
+				"lon": 139.7068138
+			}
+		},
+		{
+			"id": 9459,
+			"coord": {
+				"lat": 35.6309164,
+				"lon": 139.7275226
+			}
+		},
+		{
+			"id": 9464,
+			"coord": {
+				"lat": 35.7012067,
+				"lon": 139.8169845
+			}
+		},
+		{
+			"id": 9476,
+			"coord": {
+				"lat": 35.689323,
+				"lon": 139.8016386
+			}
+		},
+		{
+			"id": 9501,
+			"coord": {
+				"lat": 35.6559447,
+				"lon": 139.7441268
+			}
+		},
+		{
+			"id": 9568,
+			"coord": {
+				"lat": 35.6158269,
+				"lon": 139.7485979
+			}
+		},
+		{
+			"id": 9571,
+			"coord": {
+				"lat": 35.6948318,
+				"lon": 139.6866706
+			}
+		},
+		{
+			"id": 9573,
+			"coord": {
+				"lat": 35.6854582,
+				"lon": 139.7240108
+			}
+		},
+		{
+			"id": 9575,
+			"coord": {
+				"lat": 35.626783,
+				"lon": 139.7358241
+			}
+		},
+		{
+			"id": 9577,
+			"coord": {
+				"lat": 35.6894241,
+				"lon": 139.7160301
+			}
+		},
+		{
+			"id": 9596,
+			"coord": {
+				"lat": 35.7073436,
+				"lon": 139.6522237
+			}
+		},
+		{
+			"id": 9609,
+			"coord": {
+				"lat": 35.7764482,
+				"lon": 139.7185838
+			}
+		},
+		{
+			"id": 9612,
+			"coord": {
+				"lat": 35.6535859,
+				"lon": 139.7096464
+			}
+		},
+		{
+			"id": 9615,
+			"coord": {
+				"lat": 35.7112752,
+				"lon": 139.7898122
+			}
+		},
+		{
+			"id": 9620,
+			"coord": {
+				"lat": 35.6064605,
+				"lon": 139.6751861
+			}
+		},
+		{
+			"id": 9631,
+			"coord": {
+				"lat": 35.664544,
+				"lon": 139.6114238
+			}
+		},
+		{
+			"id": 9643,
+			"coord": {
+				"lat": 35.7016513,
+				"lon": 139.6911759
+			}
+		},
+		{
+			"id": 9649,
+			"coord": {
+				"lat": 35.6524229,
+				"lon": 139.6893494
+			}
+		},
+		{
+			"id": 9656,
+			"coord": {
+				"lat": 35.6720246,
+				"lon": 139.6612161
+			}
+		},
+		{
+			"id": 9657,
+			"coord": {
+				"lat": 35.6861535,
+				"lon": 139.7364627
+			}
+		},
+		{
+			"id": 9666,
+			"coord": {
+				"lat": 35.6946979,
+				"lon": 139.73774
+			}
+		},
+		{
+			"id": 9675,
+			"coord": {
+				"lat": 35.6412229,
+				"lon": 139.7336289
+			}
+		},
+		{
+			"id": 9677,
+			"coord": {
+				"lat": 35.7154504,
+				"lon": 139.7661833
+			}
+		},
+		{
+			"id": 9683,
+			"coord": {
+				"lat": 35.662265,
+				"lon": 139.8038584
+			}
+		},
+		{
+			"id": 9690,
+			"coord": {
+				"lat": 35.6959912,
+				"lon": 139.7830117
+			}
+		},
+		{
+			"id": 9692,
+			"coord": {
+				"lat": 35.6981177,
+				"lon": 139.7583759
+			}
+		},
+		{
+			"id": 9700,
+			"coord": {
+				"lat": 35.6933182,
+				"lon": 139.7780281
+			}
+		},
+		{
+			"id": 9702,
+			"coord": {
+				"lat": 35.6917067,
+				"lon": 139.7627402
+			}
+		},
+		{
+			"id": 9717,
+			"coord": {
+				"lat": 35.6795927,
+				"lon": 139.7852481
+			}
+		},
+		{
+			"id": 9719,
+			"coord": {
+				"lat": 35.626809,
+				"lon": 139.6908548
+			}
+		},
+		{
+			"id": 9721,
+			"coord": {
+				"lat": 35.6655819,
+				"lon": 139.7282509
+			}
+		},
+		{
+			"id": 9722,
+			"coord": {
+				"lat": 35.70729499999999,
+				"lon": 139.7262755
+			}
+		},
+		{
+			"id": 9731,
+			"coord": {
+				"lat": 35.6325224,
+				"lon": 139.6833535
+			}
+		},
+		{
+			"id": 9733,
+			"coord": {
+				"lat": 35.6430163,
+				"lon": 139.7298024
+			}
+		},
+		{
+			"id": 9734,
+			"coord": {
+				"lat": 35.632694,
+				"lon": 139.699374
+			}
+		},
+		{
+			"id": 9737,
+			"coord": {
+				"lat": 35.6932086,
+				"lon": 139.76671
+			}
+		},
+		{
+			"id": 9738,
+			"coord": {
+				"lat": 35.6883518,
+				"lon": 139.8082421
+			}
+		},
+		{
+			"id": 9742,
+			"coord": {
+				"lat": 35.7204635,
+				"lon": 139.6808983
+			}
+		},
+		{
+			"id": 9747,
+			"coord": {
+				"lat": 35.7097059,
+				"lon": 139.8052466
+			}
+		},
+		{
+			"id": 9749,
+			"coord": {
+				"lat": 35.6964696,
+				"lon": 139.6924409
+			}
+		},
+		{
+			"id": 9756,
+			"coord": {
+				"lat": 35.6413952,
+				"lon": 139.7497157
+			}
+		},
+		{
+			"id": 9757,
+			"coord": {
+				"lat": 35.60298119999999,
+				"lon": 139.7277022
+			}
+		},
+		{
+			"id": 9763,
+			"coord": {
+				"lat": 35.7086493,
+				"lon": 139.7793661
+			}
+		},
+		{
+			"id": 9765,
+			"coord": {
+				"lat": 35.7086735,
+				"lon": 139.6921318
+			}
+		},
+		{
+			"id": 9766,
+			"coord": {
+				"lat": 35.6452291,
+				"lon": 139.7341983
+			}
+		},
+		{
+			"id": 9773,
+			"coord": {
+				"lat": 35.6857852,
+				"lon": 139.8238455
+			}
+		},
+		{
+			"id": 9774,
+			"coord": {
+				"lat": 35.6604118,
+				"lon": 139.7596933
+			}
+		},
+		{
+			"id": 9784,
+			"coord": {
+				"lat": 35.7152311,
+				"lon": 139.7827914
+			}
+		},
+		{
+			"id": 9785,
+			"coord": {
+				"lat": 35.609699,
+				"lon": 139.7199804
+			}
+		},
+		{
+			"id": 9792,
+			"coord": {
+				"lat": 35.702981,
+				"lon": 139.7813533
+			}
+		},
+		{
+			"id": 9797,
+			"coord": {
+				"lat": 35.7048756,
+				"lon": 139.7645228
+			}
+		},
+		{
+			"id": 9825,
+			"coord": {
+				"lat": 35.662196,
+				"lon": 139.7581028
+			}
+		},
+		{
+			"id": 9830,
+			"coord": {
+				"lat": 35.6769402,
+				"lon": 139.7337885
+			}
+		},
+		{
+			"id": 9835,
+			"coord": {
+				"lat": 35.6460844,
+				"lon": 139.7351057
+			}
+		},
+		{
+			"id": 9837,
+			"coord": {
+				"lat": 35.6665982,
+				"lon": 139.7260429
+			}
+		},
+		{
+			"id": 9838,
+			"coord": {
+				"lat": 35.6638144,
+				"lon": 139.7475887
+			}
+		},
+		{
+			"id": 9840,
+			"coord": {
+				"lat": 35.6704582,
+				"lon": 139.7147744
+			}
+		},
+		{
+			"id": 9841,
+			"coord": {
+				"lat": 35.6653835,
+				"lon": 139.7140294
+			}
+		},
+		{
+			"id": 9844,
+			"coord": {
+				"lat": 35.6541807,
+				"lon": 139.7434223
+			}
+		},
+		{
+			"id": 9847,
+			"coord": {
+				"lat": 35.6541807,
+				"lon": 139.7434223
+			}
+		},
+		{
+			"id": 9849,
+			"coord": {
+				"lat": 35.6638359,
+				"lon": 139.7401299
+			}
+		},
+		{
+			"id": 9853,
+			"coord": {
+				"lat": 35.584866,
+				"lon": 139.72904
+			}
+		},
+		{
+			"id": 9857,
+			"coord": {
+				"lat": 35.5913981,
+				"lon": 139.6799312
+			}
+		},
+		{
+			"id": 9861,
+			"coord": {
+				"lat": 35.5615086,
+				"lon": 139.7367631
+			}
+		},
+		{
+			"id": 9862,
+			"coord": {
+				"lat": 35.5582162,
+				"lon": 139.7195599
+			}
+		},
+		{
+			"id": 9866,
+			"coord": {
+				"lat": 35.5992195,
+				"lon": 139.7046396
+			}
+		},
+		{
+			"id": 9867,
+			"coord": {
+				"lat": 35.7391633,
+				"lon": 139.7786205
+			}
+		},
+		{
+			"id": 9870,
+			"coord": {
+				"lat": 35.7367972,
+				"lon": 139.7492064
+			}
+		},
+		{
+			"id": 9874,
+			"coord": {
+				"lat": 35.7692019,
+				"lon": 139.7063949
+			}
+		},
+		{
+			"id": 9875,
+			"coord": {
+				"lat": 35.6617867,
+				"lon": 139.6696546
+			}
+		},
+		{
+			"id": 9877,
+			"coord": {
+				"lat": 35.6761102,
+				"lon": 139.6852455
+			}
+		},
+		{
+			"id": 9883,
+			"coord": {
+				"lat": 35.7381229,
+				"lon": 139.7584512
+			}
+		},
+		{
+			"id": 9884,
+			"coord": {
+				"lat": 35.6805631,
+				"lon": 139.6712825
+			}
+		},
+		{
+			"id": 9885,
+			"coord": {
+				"lat": 35.5641865,
+				"lon": 139.7035405
+			}
+		},
+		{
+			"id": 9886,
+			"coord": {
+				"lat": 35.5814153,
+				"lon": 139.6891409
+			}
+		},
+		{
+			"id": 9888,
+			"coord": {
+				"lat": 35.7418952,
+				"lon": 139.7257078
+			}
+		},
+		{
+			"id": 9890,
+			"coord": {
+				"lat": 35.7081165,
+				"lon": 139.6366629
+			}
+		},
+		{
+			"id": 9896,
+			"coord": {
+				"lat": 35.71182659999999,
+				"lon": 139.6652481
+			}
+		},
+		{
+			"id": 9898,
+			"coord": {
+				"lat": 35.6715257,
+				"lon": 139.7101266
+			}
+		},
+		{
+			"id": 9901,
+			"coord": {
+				"lat": 35.7084105,
+				"lon": 139.636085
+			}
+		},
+		{
+			"id": 9905,
+			"coord": {
+				"lat": 35.5974017,
+				"lon": 139.7121887
+			}
+		},
+		{
+			"id": 9908,
+			"coord": {
+				"lat": 35.7343391,
+				"lon": 139.7931875
+			}
+		},
+		{
+			"id": 9916,
+			"coord": {
+				"lat": 35.61854760000001,
+				"lon": 139.6343902
+			}
+		},
+		{
+			"id": 9920,
+			"coord": {
+				"lat": 35.6806633,
+				"lon": 139.6392665
+			}
+		},
+		{
+			"id": 9921,
+			"coord": {
+				"lat": 35.62486579999999,
+				"lon": 139.6400684
+			}
+		},
+		{
+			"id": 9927,
+			"coord": {
+				"lat": 35.7115488,
+				"lon": 139.6038466
+			}
+		},
+		{
+			"id": 9934,
+			"coord": {
+				"lat": 35.5880004,
+				"lon": 139.7045824
+			}
+		},
+		{
+			"id": 9935,
+			"coord": {
+				"lat": 35.6809167,
+				"lon": 139.6284535
+			}
+		},
+		{
+			"id": 9941,
+			"coord": {
+				"lat": 35.7031021,
+				"lon": 139.6213532
+			}
+		},
+		{
+			"id": 9944,
+			"coord": {
+				"lat": 35.6490124,
+				"lon": 139.7195614
+			}
+		},
+		{
+			"id": 9946,
+			"coord": {
+				"lat": 35.6807934,
+				"lon": 139.6901849
+			}
+		},
+		{
+			"id": 9950,
+			"coord": {
+				"lat": 35.7266799,
+				"lon": 139.6933466
+			}
+		},
+		{
+			"id": 9955,
+			"coord": {
+				"lat": 35.6076686,
+				"lon": 139.6921545
+			}
+		},
+		{
+			"id": 9961,
+			"coord": {
+				"lat": 35.7033006,
+				"lon": 139.6254246
+			}
+		},
+		{
+			"id": 9963,
+			"coord": {
+				"lat": 35.6518166,
+				"lon": 139.6959602
+			}
+		},
+		{
+			"id": 9964,
+			"coord": {
+				"lat": 35.6801782,
+				"lon": 139.7050462
+			}
+		},
+		{
+			"id": 9966,
+			"coord": {
+				"lat": 35.6725648,
+				"lon": 139.7068138
+			}
+		},
+		{
+			"id": 9968,
+			"coord": {
+				"lat": 35.6678869,
+				"lon": 139.7110597
+			}
+		},
+		{
+			"id": 9972,
+			"coord": {
+				"lat": 35.6642304,
+				"lon": 139.6977585
+			}
+		},
+		{
+			"id": 9975,
+			"coord": {
+				"lat": 35.6518166,
+				"lon": 139.6959602
+			}
+		},
+		{
+			"id": 9976,
+			"coord": {
+				"lat": 35.6801782,
+				"lon": 139.7050462
+			}
+		},
+		{
+			"id": 9978,
+			"coord": {
+				"lat": 35.6725648,
+				"lon": 139.7068138
+			}
+		},
+		{
+			"id": 9980,
+			"coord": {
+				"lat": 35.6678869,
+				"lon": 139.7110597
+			}
+		},
+		{
+			"id": 9984,
+			"coord": {
+				"lat": 35.6642304,
+				"lon": 139.6977585
+			}
+		},
+		{
+			"id": 10104,
+			"coord": {
+				"lat": 35.7066969,
+				"lon": 139.7886535
+			}
+		},
+		{
+			"id": 10108,
+			"coord": {
+				"lat": 35.6961514,
+				"lon": 139.7337931
+			}
+		},
+		{
+			"id": 10109,
+			"coord": {
+				"lat": 35.6427142,
+				"lon": 139.6660717
+			}
+		},
+		{
+			"id": 10111,
+			"coord": {
+				"lat": 35.6621367,
+				"lon": 139.7553497
+			}
+		},
+		{
+			"id": 10113,
+			"coord": {
+				"lat": 35.6497273,
+				"lon": 139.736464
+			}
+		},
+		{
+			"id": 10118,
+			"coord": {
+				"lat": 35.668037,
+				"lon": 139.7775388
+			}
+		},
+		{
+			"id": 10119,
+			"coord": {
+				"lat": 35.7038014,
+				"lon": 139.7802503
+			}
+		},
+		{
+			"id": 10121,
+			"coord": {
+				"lat": 35.7093747,
+				"lon": 139.6953453
+			}
+		},
+		{
+			"id": 10122,
+			"coord": {
+				"lat": 35.6868149,
+				"lon": 139.6844713
+			}
+		},
+		{
+			"id": 10123,
+			"coord": {
+				"lat": 35.596248,
+				"lon": 139.681287
+			}
+		},
+		{
+			"id": 10125,
+			"coord": {
+				"lat": 35.6333892,
+				"lon": 139.732681
+			}
+		},
+		{
+			"id": 10126,
+			"coord": {
+				"lat": 35.6221297,
+				"lon": 139.7016126
+			}
+		},
+		{
+			"id": 10129,
+			"coord": {
+				"lat": 35.6649496,
+				"lon": 139.7153518
+			}
+		},
+		{
+			"id": 10130,
+			"coord": {
+				"lat": 35.7069472,
+				"lon": 139.784748
+			}
+		},
+		{
+			"id": 10154,
+			"coord": {
+				"lat": 35.7461483,
+				"lon": 139.68029
+			}
+		},
+		{
+			"id": 10176,
+			"coord": {
+				"lat": 35.6440312,
+				"lon": 139.5903973
+			}
+		},
+		{
+			"id": 10180,
+			"coord": {
+				"lat": 35.704085,
+				"lon": 139.5617371
+			}
+		},
+		{
+			"id": 10182,
+			"coord": {
+				"lat": 35.7067521,
+				"lon": 139.7735148
+			}
+		},
+		{
+			"id": 10191,
+			"coord": {
+				"lat": 35.6851769,
+				"lon": 139.6114238
+			}
+		},
+		{
+			"id": 10196,
+			"coord": {
+				"lat": 35.7297232,
+				"lon": 139.7850184
+			}
+		},
+		{
+			"id": 10216,
+			"coord": {
+				"lat": 35.7093146,
+				"lon": 139.6521905
+			}
+		},
+		{
+			"id": 10219,
+			"coord": {
+				"lat": 35.7186618,
+				"lon": 139.6241144
+			}
+		},
+		{
+			"id": 10223,
+			"coord": {
+				"lat": 35.6997077,
+				"lon": 139.6258838
+			}
+		},
+		{
+			"id": 10225,
+			"coord": {
+				"lat": 35.6444084,
+				"lon": 139.7054598
+			}
+		},
+		{
+			"id": 10226,
+			"coord": {
+				"lat": 35.653891,
+				"lon": 139.7961991
+			}
+		},
+		{
+			"id": 10227,
+			"coord": {
+				"lat": 35.6809167,
+				"lon": 139.6284535
+			}
+		},
+		{
+			"id": 10229,
+			"coord": {
+				"lat": 35.6676921,
+				"lon": 139.6863458
+			}
+		},
+		{
+			"id": 10233,
+			"coord": {
+				"lat": 35.6801782,
+				"lon": 139.7050462
+			}
+		},
+		{
+			"id": 10234,
+			"coord": {
+				"lat": 35.6907266,
+				"lon": 139.7111558
+			}
+		},
+		{
+			"id": 10236,
+			"coord": {
+				"lat": 35.7226973,
+				"lon": 139.6802997
+			}
+		},
+		{
+			"id": 10243,
+			"coord": {
+				"lat": 35.6975817,
+				"lon": 139.7134913
+			}
+		},
+		{
+			"id": 10244,
+			"coord": {
+				"lat": 35.5569232,
+				"lon": 139.7201421
+			}
+		},
+		{
+			"id": 10247,
+			"coord": {
+				"lat": 35.5910511,
+				"lon": 139.7282235
+			}
+		},
+		{
+			"id": 10248,
+			"coord": {
+				"lat": 35.7184872,
+				"lon": 139.7542272
+			}
+		},
+		{
+			"id": 10249,
+			"coord": {
+				"lat": 35.6907098,
+				"lon": 139.7387727
+			}
+		},
+		{
+			"id": 10259,
+			"coord": {
+				"lat": 35.6955438,
+				"lon": 139.7590885
+			}
+		},
+		{
+			"id": 10260,
+			"coord": {
+				"lat": 35.5721858,
+				"lon": 139.7155758
+			}
+		},
+		{
+			"id": 10262,
+			"coord": {
+				"lat": 35.6965792,
+				"lon": 139.7258181
+			}
+		},
+		{
+			"id": 10264,
+			"coord": {
+				"lat": 35.6328046,
+				"lon": 139.6693571
+			}
+		},
+		{
+			"id": 10266,
+			"coord": {
+				"lat": 35.6664607,
+				"lon": 139.7257267
+			}
+		},
+		{
+			"id": 10267,
+			"coord": {
+				"lat": 35.6509722,
+				"lon": 139.7524605
+			}
+		},
+		{
+			"id": 10276,
+			"coord": {
+				"lat": 35.632694,
+				"lon": 139.699374
+			}
+		},
+		{
+			"id": 10278,
+			"coord": {
+				"lat": 35.7314918,
+				"lon": 139.7537139
+			}
+		},
+		{
+			"id": 10283,
+			"coord": {
+				"lat": 35.7086493,
+				"lon": 139.7793661
+			}
+		},
+		{
+			"id": 10286,
+			"coord": {
+				"lat": 35.7152311,
+				"lon": 139.7827914
+			}
+		},
+		{
+			"id": 10288,
+			"coord": {
+				"lat": 35.5924056,
+				"lon": 139.6943792
+			}
+		},
+		{
+			"id": 10289,
+			"coord": {
+				"lat": 35.7283593,
+				"lon": 139.7508386
+			}
+		},
+		{
+			"id": 10292,
+			"coord": {
+				"lat": 35.6487163,
+				"lon": 139.6142845
+			}
+		},
+		{
+			"id": 10297,
+			"coord": {
+				"lat": 35.6101848,
+				"lon": 139.7461259
+			}
+		},
+		{
+			"id": 10302,
+			"coord": {
+				"lat": 35.663692,
+				"lon": 139.7472926
+			}
+		}
+	],
+	"total": 913
+}

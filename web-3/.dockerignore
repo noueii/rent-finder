@@ -1,0 +1,63 @@
+# Docker build context ignore file
+
+# Dependencies
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Next.js build output
+.next
+out
+
+# Environment files
+.env
+.env.local
+.env.production.local
+.env.development.local
+.env.test.local
+!.env.example
+
+# Development files
+.git
+.gitignore
+.github
+*.md
+docs
+scripts
+
+# IDE files
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test files
+coverage
+.nyc_output
+jest.config.js
+__tests__
+**/*.test.ts
+**/*.test.tsx
+**/*.spec.ts
+**/*.spec.tsx
+
+# Docker files
+docker-compose*.yml
+Dockerfile*
+!Dockerfile
+
+# Misc
+.eslintcache
+.cache
+*.log
+.turbo
+dist
+build
+
+# Prisma
+prisma/migrations

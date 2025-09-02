@@ -1,0 +1,55 @@
+// This file configures the initialization of Sentry on the server side.
+// The config you add here will be used whenever the server handles a request.
+
+import * as Sentry from "@sentry/nextjs";
+
+Sentry.init({
+  dsn: process.env.SENTRY_DSN ?? process.env.NEXT_PUBLIC_SENTRY_DSN,
+
+  // Set tracesSampleRate to 1.0 to capture 100% of transactions
+  // We recommend adjusting this value in production
+  tracesSampleRate: parseFloat(process.env.SENTRY_TRACES_SAMPLE_RATE ?? "0.1"),
+
+  // Capture unhandled promise rejections
+  integrations: [
+    Sentry.captureConsoleIntegration({
+      levels: ["error", "warn"],
+    }),
+  ],
+
+  // Filter out certain errors
+  beforeSend(event, hint) {
+    // Don't send cancelled requests
+    if (hint.originalException?.name === "AbortError") {
+      return null;
+    }
+
+    // Filter out expected errors
+    const error = hint.originalException;
+    if (error && typeof error === "object" && "code" in error) {
+      // Don't send unauthorized errors
+      if (error.code === "UNAUTHORIZED") {
+        return null;
+      }
+    }
+
+    return event;
+  },
+
+  // Environment configuration
+  environment: process.env.SENTRY_ENVIRONMENT ?? process.env.NODE_ENV,
+  
+  // Add server context
+  initialScope: {
+    tags: {
+      source: "server",
+      runtime: "nodejs",
+    },
+  },
+
+  // Performance monitoring
+  profilesSampleRate: parseFloat(process.env.SENTRY_PROFILES_SAMPLE_RATE ?? "0.1"),
+
+  // Debug mode for development
+  debug: process.env.NODE_ENV === "development",
+});

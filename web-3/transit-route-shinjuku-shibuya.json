@@ -1,0 +1,729 @@
+{
+  "request": {
+    "from": {
+      "station": "Shinjuku",
+      "stationJa": "新宿",
+      "lat": 35.68997727272728,
+      "lon": 139.6997284545455
+    },
+    "to": {
+      "station": "Shibuya",
+      "stationJa": "渋谷",
+      "lat": 35.6586453,
+      "lon": 139.70153647
+    },
+    "timestamp": "2025-07-20T18:57:30.841Z",
+    "endpoint": "http://localhost:8080/otp/routers/default",
+    "url": "http://localhost:8080/otp/routers/default/plan?fromPlace=35.68997727272728%2C139.6997284545455&toPlace=35.6586453%2C139.70153647&mode=TRANSIT%2CWALK&maxWalkDistance=1000&arriveBy=false&numItineraries=3&locale=ja"
+  },
+  "response": {
+    "status": 200,
+    "duration": "279ms",
+    "data": {
+      "requestParameters": {
+        "mode": "TRANSIT,WALK",
+        "arriveBy": "false",
+        "fromPlace": "35.68997727272728,139.6997284545455",
+        "toPlace": "35.6586453,139.70153647",
+        "maxWalkDistance": "1000",
+        "locale": "ja",
+        "numItineraries": "3"
+      },
+      "plan": {
+        "date": 1753037850581,
+        "from": {
+          "name": "Origin",
+          "lon": 139.6997285,
+          "lat": 35.6899773,
+          "vertexType": "NORMAL"
+        },
+        "to": {
+          "name": "Destination",
+          "lon": 139.7015365,
+          "lat": 35.6586453,
+          "vertexType": "NORMAL"
+        },
+        "itineraries": [
+          {
+            "duration": 3296,
+            "startTime": 1753037850000,
+            "endTime": 1753041146000,
+            "walkTime": 3296,
+            "transitTime": 0,
+            "waitingTime": 0,
+            "walkDistance": 3862.88,
+            "walkLimitExceeded": false,
+            "generalizedCost": 6134,
+            "elevationLost": 0,
+            "elevationGained": 0,
+            "transfers": 0,
+            "fare": {
+              "fare": {},
+              "details": {}
+            },
+            "legs": [
+              {
+                "startTime": 1753037850000,
+                "endTime": 1753041146000,
+                "departureDelay": 0,
+                "arrivalDelay": 0,
+                "realTime": false,
+                "distance": 3862.88,
+                "generalizedCost": 6134,
+                "pathway": false,
+                "mode": "WALK",
+                "transitLeg": false,
+                "route": "",
+                "agencyTimeZoneOffset": 32400000,
+                "interlineWithPreviousLeg": false,
+                "from": {
+                  "name": "Origin",
+                  "lon": 139.6997285,
+                  "lat": 35.6899773,
+                  "departure": 1753037850000,
+                  "vertexType": "NORMAL"
+                },
+                "to": {
+                  "name": "Destination",
+                  "lon": 139.7015365,
+                  "lat": 35.6586453,
+                  "arrival": 1753041146000,
+                  "vertexType": "NORMAL"
+                },
+                "legGeometry": {
+                  "points": "kuyxEobtsYQE?E?EJA?A??DAj@EBATCNCNCFADATENCBLDZPl@@B@B\\bADADNHAHAVCNCHRF@dG}Af@U`@O`@Ut@i@`AmAJSDGDCBALMFIDGFGHI?E\\a@RI^M|A[d@MHChBWhAO~@MXGLKVCDAFFDCBIRTRPDId@MnDy@\\KJCjBc@HEHIBBJBJBVFh@NDQRg@JWFQb@l@vAx@p@TNG^@p@BbBBD?D?nAB~AHzADlADN@d@Bf@Dd@FVBJ@XFXNf@MJE`@E^CRBNAHEHFXNPJVFLIXIz@M^AZAV@jEZz@FPBv@Bp@?VClBUzAUj@g@V?@EHDd@@^BFTD@HXf@WTPFKBAJ@jALb@@R@`CLnBHB?NR@JLAN?AKJODAvAFh@DvCh@j@Dr@FB?@@@CJ@F@@@BAv@FTD`ADZBP@J@J@DDLLJKLMDFHHHHHFHFHBH@HBJ?L@P@r@?D?BABC@EJ?P@@BB@B@tC@`@?B?B?T?pAAH?@?P?N?`C^FBB?B@LG?C@EJ@NBBi@B?@?NADAD?h@EAM?GAi@CS\\K?DHCHEHADCDA",
+                  "length": 236
+                },
+                "steps": [
+                  {
+                    "distance": 15.61,
+                    "relativeDirection": "DEPART",
+                    "streetName": "Platform 7",
+                    "absoluteDirection": "NORTH",
+                    "stayOn": false,
+                    "area": true,
+                    "bogusName": false,
+                    "lon": 139.6997637,
+                    "lat": 35.6899805,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 99.48,
+                    "relativeDirection": "RIGHT",
+                    "streetName": "Platform 1",
+                    "absoluteDirection": "SOUTH",
+                    "stayOn": false,
+                    "area": true,
+                    "bogusName": false,
+                    "lon": 139.6998526,
+                    "lat": 35.6900778,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 81.83,
+                    "relativeDirection": "RIGHT",
+                    "streetName": "open area",
+                    "absoluteDirection": "WEST",
+                    "stayOn": false,
+                    "area": true,
+                    "bogusName": true,
+                    "lon": 139.7000563,
+                    "lat": 35.6892103,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 45.1,
+                    "relativeDirection": "LEFT",
+                    "streetName": "path",
+                    "absoluteDirection": "SOUTH",
+                    "stayOn": true,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.6992369,
+                    "lat": 35.6889058,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 15.91,
+                    "relativeDirection": "RIGHT",
+                    "streetName": "sidewalk",
+                    "absoluteDirection": "SOUTHWEST",
+                    "stayOn": true,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.6992251,
+                    "lat": 35.6885428,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 691.34,
+                    "relativeDirection": "LEFT",
+                    "streetName": "sidewalk",
+                    "absoluteDirection": "SOUTH",
+                    "stayOn": true,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.6991148,
+                    "lat": 35.68845,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 257.32,
+                    "relativeDirection": "RIGHT",
+                    "streetName": "path",
+                    "absoluteDirection": "SOUTHWEST",
+                    "stayOn": true,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.7018816,
+                    "lat": 35.6828564,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 54.3,
+                    "relativeDirection": "RIGHT",
+                    "streetName": "road",
+                    "absoluteDirection": "SOUTH",
+                    "stayOn": true,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.7024308,
+                    "lat": 35.680703,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 51.73,
+                    "relativeDirection": "LEFT",
+                    "streetName": "代々木淀橋線",
+                    "absoluteDirection": "SOUTHEAST",
+                    "stayOn": false,
+                    "area": false,
+                    "bogusName": false,
+                    "lon": 139.7022569,
+                    "lat": 35.6802374,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 114.2,
+                    "relativeDirection": "RIGHT",
+                    "streetName": "裏参道",
+                    "absoluteDirection": "SOUTHWEST",
+                    "stayOn": false,
+                    "area": false,
+                    "bogusName": false,
+                    "lon": 139.7027535,
+                    "lat": 35.6800075,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 435.52,
+                    "relativeDirection": "SLIGHTLY_LEFT",
+                    "streetName": "北参道",
+                    "absoluteDirection": "SOUTH",
+                    "stayOn": false,
+                    "area": false,
+                    "bogusName": false,
+                    "lon": 139.7021204,
+                    "lat": 35.6791341,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 141.59,
+                    "relativeDirection": "LEFT",
+                    "streetName": "path",
+                    "absoluteDirection": "SOUTH",
+                    "stayOn": false,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.7017322,
+                    "lat": 35.6752585,
+                    "elevation": "",
+                    "walkingBike": false,
+                    "alerts": [
+                      {
+                        "alertHeaderText": "Unpaved surface"
+                      }
+                    ]
+                  },
+                  {
+                    "distance": 449.39,
+                    "relativeDirection": "SLIGHTLY_LEFT",
+                    "streetName": "南参道",
+                    "absoluteDirection": "SOUTH",
+                    "stayOn": false,
+                    "area": false,
+                    "bogusName": false,
+                    "lon": 139.7016859,
+                    "lat": 35.6740489,
+                    "elevation": "",
+                    "walkingBike": false,
+                    "alerts": [
+                      {
+                        "alertHeaderText": "Unpaved surface"
+                      }
+                    ]
+                  },
+                  {
+                    "distance": 30.23,
+                    "relativeDirection": "SLIGHTLY_LEFT",
+                    "streetName": "open area",
+                    "absoluteDirection": "SOUTHEAST",
+                    "stayOn": false,
+                    "area": true,
+                    "bogusName": true,
+                    "lon": 139.7018816,
+                    "lat": 35.6700566,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 16.79,
+                    "relativeDirection": "SLIGHTLY_RIGHT",
+                    "streetName": "alley",
+                    "absoluteDirection": "SOUTH",
+                    "stayOn": true,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.7020828,
+                    "lat": 35.6698394,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 58.76,
+                    "relativeDirection": "SLIGHTLY_RIGHT",
+                    "streetName": "path",
+                    "absoluteDirection": "SOUTHWEST",
+                    "stayOn": true,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.7021146,
+                    "lat": 35.669701,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 12.92,
+                    "relativeDirection": "RIGHT",
+                    "streetName": "steps",
+                    "absoluteDirection": "SOUTHWEST",
+                    "stayOn": true,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.7019341,
+                    "lat": 35.6692377,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 39.18,
+                    "relativeDirection": "LEFT",
+                    "streetName": "footbridge",
+                    "absoluteDirection": "SOUTHEAST",
+                    "stayOn": true,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.7018069,
+                    "lat": 35.6691845,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 245.55,
+                    "relativeDirection": "LEFT",
+                    "streetName": "steps",
+                    "absoluteDirection": "SOUTH",
+                    "stayOn": true,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.7018388,
+                    "lat": 35.6688777,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 16.85,
+                    "relativeDirection": "LEFT",
+                    "streetName": "path",
+                    "absoluteDirection": "SOUTH",
+                    "stayOn": true,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.7015251,
+                    "lat": 35.6667772,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 18.31,
+                    "relativeDirection": "LEFT",
+                    "streetName": "sidewalk",
+                    "absoluteDirection": "SOUTHEAST",
+                    "stayOn": true,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.7015377,
+                    "lat": 35.666626,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 806.5,
+                    "relativeDirection": "RIGHT",
+                    "streetName": "sidewalk",
+                    "absoluteDirection": "SOUTH",
+                    "stayOn": true,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.7016869,
+                    "lat": 35.6665439,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 4.35,
+                    "relativeDirection": "LEFT",
+                    "streetName": "渋谷スクランブル交差点",
+                    "absoluteDirection": "EAST",
+                    "stayOn": false,
+                    "area": true,
+                    "bogusName": false,
+                    "lon": 139.7007797,
+                    "lat": 35.6595341,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 16.06,
+                    "relativeDirection": "RIGHT",
+                    "streetName": "渋谷スクランブル交差点",
+                    "absoluteDirection": "SOUTH",
+                    "stayOn": true,
+                    "area": true,
+                    "bogusName": false,
+                    "lon": 139.7008266,
+                    "lat": 35.6595265,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 144.11,
+                    "relativeDirection": "LEFT",
+                    "streetName": "path",
+                    "absoluteDirection": "EAST",
+                    "stayOn": false,
+                    "area": true,
+                    "bogusName": true,
+                    "lon": 139.7007953,
+                    "lat": 35.6593843,
+                    "elevation": "",
+                    "walkingBike": false
+                  }
+                ],
+                "rentedBike": false,
+                "walkingBike": false,
+                "duration": 3296
+              }
+            ],
+            "tooSloped": false,
+            "arrivedAtDestinationWithRentedBicycle": false
+          },
+          {
+            "duration": 702,
+            "startTime": 1753040551000,
+            "endTime": 1753041253000,
+            "walkTime": 342,
+            "transitTime": 360,
+            "waitingTime": 0,
+            "walkDistance": 360.47,
+            "walkLimitExceeded": false,
+            "generalizedCost": 1574,
+            "elevationLost": 0,
+            "elevationGained": 0,
+            "transfers": 0,
+            "fare": {
+              "fare": {},
+              "details": {}
+            },
+            "legs": [
+              {
+                "startTime": 1753040551000,
+                "endTime": 1753040580000,
+                "departureDelay": 0,
+                "arrivalDelay": 0,
+                "realTime": false,
+                "distance": 22.46,
+                "generalizedCost": 41,
+                "pathway": false,
+                "mode": "WALK",
+                "transitLeg": false,
+                "route": "",
+                "agencyTimeZoneOffset": 32400000,
+                "interlineWithPreviousLeg": false,
+                "from": {
+                  "name": "Origin",
+                  "lon": 139.6997285,
+                  "lat": 35.6899773,
+                  "departure": 1753040551000,
+                  "vertexType": "NORMAL"
+                },
+                "to": {
+                  "name": "新宿",
+                  "stopId": "tokyo-rail:JR-East.Yamanote.Shinjuku",
+                  "lon": 139.70038,
+                  "lat": 35.69018,
+                  "arrival": 1753040580000,
+                  "departure": 1753040580000,
+                  "vertexType": "TRANSIT"
+                },
+                "legGeometry": {
+                  "points": "kuyxEobtsYQE?E?E???AG?A@KiB",
+                  "length": 9
+                },
+                "steps": [
+                  {
+                    "distance": 16.9,
+                    "relativeDirection": "DEPART",
+                    "streetName": "Platform 7",
+                    "absoluteDirection": "NORTH",
+                    "stayOn": false,
+                    "area": true,
+                    "bogusName": false,
+                    "lon": 139.6997637,
+                    "lat": 35.6899805,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 5.55,
+                    "relativeDirection": "LEFT",
+                    "streetName": "Platform 7",
+                    "absoluteDirection": "NORTH",
+                    "stayOn": true,
+                    "area": true,
+                    "bogusName": false,
+                    "lon": 139.6998668,
+                    "lat": 35.6900794,
+                    "elevation": "",
+                    "walkingBike": false
+                  }
+                ],
+                "rentedBike": false,
+                "walkingBike": false,
+                "duration": 29
+              },
+              {
+                "startTime": 1753040580000,
+                "endTime": 1753040940000,
+                "departureDelay": 0,
+                "arrivalDelay": 0,
+                "realTime": false,
+                "distance": 3626.29,
+                "generalizedCost": 960,
+                "pathway": false,
+                "mode": "RAIL",
+                "transitLeg": true,
+                "route": "JR山手線",
+                "agencyName": "JR東日本 JR East",
+                "agencyUrl": "https://www.jreast.co.jp/",
+                "agencyTimeZoneOffset": 32400000,
+                "routeColor": "80C747",
+                "routeType": 2,
+                "routeId": "tokyo-rail:JR-East.Yamanote",
+                "routeTextColor": "000000",
+                "interlineWithPreviousLeg": false,
+                "tripShortName": "360G",
+                "tripBlockId": "13748",
+                "headsign": "内回り",
+                "agencyId": "tokyo-rail:JR-East",
+                "tripId": "tokyo-rail:JR-East.Yamanote.360G.SaturdayHoliday",
+                "serviceDate": "2025-07-21",
+                "from": {
+                  "name": "新宿",
+                  "stopId": "tokyo-rail:JR-East.Yamanote.Shinjuku",
+                  "lon": 139.70038,
+                  "lat": 35.69018,
+                  "arrival": 1753040580000,
+                  "departure": 1753040580000,
+                  "stopIndex": 4,
+                  "stopSequence": 4,
+                  "vertexType": "TRANSIT"
+                },
+                "to": {
+                  "name": "渋谷",
+                  "stopId": "tokyo-rail:JR-East.Yamanote.Shibuya",
+                  "lon": 139.70149,
+                  "lat": 35.65796,
+                  "arrival": 1753040940000,
+                  "departure": 1753040940000,
+                  "stopIndex": 7,
+                  "stopSequence": 7,
+                  "vertexType": "TRANSIT"
+                },
+                "legGeometry": {
+                  "points": "yvyxEsgtsY`YgF`Dq@~FYnAM??bAOrDgAbEuA~OsC`Gc@hFKpDH`Dh@fIzBdFrA`BT??jCXxJp@tYvBdR~@pGJtCI|DcA",
+                  "length": 25
+                },
+                "steps": [],
+                "routeShortName": "JY",
+                "routeLongName": "JR山手線",
+                "duration": 360
+              },
+              {
+                "startTime": 1753040940000,
+                "endTime": 1753041253000,
+                "departureDelay": 0,
+                "arrivalDelay": 0,
+                "realTime": false,
+                "distance": 338.01,
+                "generalizedCost": 572,
+                "pathway": false,
+                "mode": "WALK",
+                "transitLeg": false,
+                "route": "",
+                "agencyTimeZoneOffset": 32400000,
+                "interlineWithPreviousLeg": false,
+                "from": {
+                  "name": "渋谷",
+                  "stopId": "tokyo-rail:JR-East.Yamanote.Shibuya",
+                  "lon": 139.70149,
+                  "lat": 35.65796,
+                  "arrival": 1753040940000,
+                  "departure": 1753040940000,
+                  "vertexType": "TRANSIT"
+                },
+                "to": {
+                  "name": "Destination",
+                  "lon": 139.7015365,
+                  "lat": 35.6586453,
+                  "arrival": 1753041253000,
+                  "vertexType": "NORMAL"
+                },
+                "legGeometry": {
+                  "points": "gmsxEimtsYCSAEE@A@E@OFw@XH\\\\fBUDMHGHIFOFG@_@FW?AKIcBE?AM?GAi@CS\\K?DHCHEHADCDA",
+                  "length": 32
+                },
+                "steps": [
+                  {
+                    "distance": 141.24,
+                    "relativeDirection": "DEPART",
+                    "streetName": "path",
+                    "absoluteDirection": "NORTHEAST",
+                    "stayOn": false,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.701592,
+                    "lat": 35.657981,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 59.22,
+                    "relativeDirection": "SLIGHTLY_LEFT",
+                    "streetName": "sidewalk",
+                    "absoluteDirection": "NORTHWEST",
+                    "stayOn": true,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.7006775,
+                    "lat": 35.6584034,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 137.55,
+                    "relativeDirection": "RIGHT",
+                    "streetName": "path",
+                    "absoluteDirection": "EAST",
+                    "stayOn": true,
+                    "area": true,
+                    "bogusName": true,
+                    "lon": 139.7004945,
+                    "lat": 35.6588971,
+                    "elevation": "",
+                    "walkingBike": false
+                  }
+                ],
+                "rentedBike": false,
+                "walkingBike": false,
+                "duration": 313
+              }
+            ],
+            "tooSloped": false,
+            "arrivedAtDestinationWithRentedBicycle": false
+          }
+        ]
+      },
+      "metadata": {
+        "searchWindowUsed": 3000,
+        "nextDateTime": 1753040850000,
+        "prevDateTime": 1753034850000
+      },
+      "previousPageCursor": "MXxQUkVWSU9VU19QQUdFfDIwMjUtMDctMjBUMTY6NTc6MzBafHwyaHxTVFJFRVRfQU5EX0FSUklWQUxfVElNRXx8fHx8fA==",
+      "nextPageCursor": "MXxORVhUX1BBR0V8MjAyNS0wNy0yMFQxOTo0NzozMFp8fDJofFNUUkVFVF9BTkRfQVJSSVZBTF9USU1FfHx8fHx8",
+      "debugOutput": {
+        "precalculationTime": 108304,
+        "directStreetRouterTime": 57334428,
+        "transitRouterTime": 175819245,
+        "filteringTime": 2369243,
+        "renderingTime": 3123950,
+        "totalTime": 238840265,
+        "transitRouterTimes": {
+          "tripPatternFilterTime": 51627200,
+          "accessEgressTime": 63764583,
+          "raptorSearchTime": 53556918,
+          "itineraryCreationTime": 6621598
+        }
+      },
+      "elevationMetadata": {
+        "ellipsoidToGeoidDifference": 37.62601433694666,
+        "geoidElevation": false
+      }
+    }
+  },
+  "summary": {
+    "found": true,
+    "routes": 2,
+    "bestRoute": {
+      "duration": "55 minutes",
+      "durationSeconds": 3296,
+      "transfers": 0,
+      "walkTime": "55 minutes",
+      "transitTime": "0 minutes",
+      "legs": [
+        {
+          "mode": "WALK",
+          "from": "Origin",
+          "to": "Destination",
+          "duration": "55 min",
+          "route": "Walking"
+        }
+      ]
+    },
+    "allRoutes": [
+      {
+        "option": 1,
+        "duration": "55 minutes",
+        "transfers": 0,
+        "summary": ""
+      },
+      {
+        "option": 2,
+        "duration": "12 minutes",
+        "transfers": 0,
+        "summary": ""
+      }
+    ]
+  }
+}

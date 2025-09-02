@@ -1,0 +1,92 @@
+// Metro Residences API Test - DevTools Snippet
+// 1. Open https://www.metroresidences.com in your browser
+// 2. Open DevTools (F12)
+// 3. Go to Sources > Snippets
+// 4. Create a new snippet and paste this code
+// 5. Run the snippet (Ctrl+Enter or Cmd+Enter)
+
+(async function testMetroAPI() {
+  console.clear();
+  console.log('%c🔍 Testing Metro Residences API...', 'font-size: 16px; font-weight: bold; color: #2196F3;');
+  
+  const apiUrl = '/api/mbp/building'; // Use relative URL when on their domain
+  
+  const requestBody = {
+    price: "0,150000",
+    size: "25,165", 
+    view: "grid-view",
+    countryCode: "jp",
+    languageCode: "en",
+    distance: "2.5km",
+    curPage: 1,
+    perPage: 24
+  };
+
+  try {
+    const response = await fetch(apiUrl, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+      },
+      body: JSON.stringify(requestBody)
+    });
+
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+    }
+
+    const data = await response.json();
+    const units = data.units || [];
+    
+    console.log('%c✅ Success!', 'color: green; font-weight: bold;');
+    console.log(`Found ${units.length} apartments\n`);
+    
+    // Display apartments in a nice table
+    const tableData = units.slice(0, 10).map((unit, idx) => ({
+      '#': idx + 1,
+      'Property': unit.property_name.ms.en,
+      'Price': `¥${unit.price.toLocaleString()}`,
+      'Size': `${unit.layout.size.val} ${unit.layout.size.unit}`,
+      'Layout': unit.layout.bedroomLabel,
+      'Floor': `${unit.floor}F/${unit.stories}F`,
+      'Area': unit.location.district.en,
+      'Station': unit.stations[0] ? `${unit.stations[0].name.en} (${unit.stations[0].walkingTime.value}min)` : 'N/A',
+      'Available': unit.availability || 'Check'
+    }));
+    
+    console.table(tableData);
+    
+    // Show sample unit details
+    if (units[0]) {
+      console.log('\n%c📋 Sample Unit Details:', 'font-weight: bold; color: #673AB7;');
+      console.log('Property:', units[0].property_name.ms.en);
+      console.log('URL:', `https://www.metroresidences.com${units[0].permalinks.en}`);
+      console.log('Location:', {
+        district: units[0].location.district.en,
+        city: units[0].location.city.en,
+        postcode: units[0].location.postcode,
+        coordinates: units[0].coord
+      });
+      console.log('Photos:', units[0].photos?.length || 0, 'unit photos');
+    }
+    
+    // Store in window for further inspection
+    window.metroAPIResponse = data;
+    console.log('\n💡 Tip: Full response stored in window.metroAPIResponse');
+    
+    return data;
+    
+  } catch (error) {
+    console.error('%c❌ Error:', 'color: red; font-weight: bold;', error.message);
+    console.error('Full error:', error);
+    
+    // Try to provide helpful debugging info
+    if (error.message.includes('Failed to fetch')) {
+      console.log('\n%c💡 Troubleshooting:', 'color: orange; font-weight: bold;');
+      console.log('1. Make sure you are on https://www.metroresidences.com');
+      console.log('2. Check if the API endpoint has changed');
+      console.log('3. Look for any network errors in the Network tab');
+    }
+  }
+})();

@@ -1,0 +1,25 @@
+# Proxy List File Format
+# Lines starting with # are comments
+# Each proxy on a new line
+# Supported formats:
+#   - host:port
+#   - protocol://host:port
+#   - protocol://username:password@host:port
+
+# HTTP Proxies
+192.168.1.100:8080
+http://proxy1.example.com:3128
+http://user1:pass1@proxy2.example.com:8080
+
+# HTTPS Proxies
+https://secure-proxy.example.com:443
+https://user2:pass2@premium-proxy.com:8443
+
+# SOCKS5 Proxies
+socks5://socks-proxy.example.com:1080
+socks5://socksuser:sockspass@socks-server.com:1080
+
+# Japanese Proxies (Examples)
+http://jp-proxy1.example.jp:8080
+http://jp-proxy2.example.jp:3128
+socks5://tokyo-proxy.example.jp:1080

@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: rent-finder-web3
+created: 2025-07-22T02:37:16+03:00

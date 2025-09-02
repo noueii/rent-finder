@@ -1,0 +1,357 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+    provider = "prisma-client-js"
+}
+
+datasource db {
+    provider = "postgresql"
+    url      = env("DATABASE_URL")
+}
+
+// Core Models
+model User {
+  id            String    @id @default(cuid())
+  email         String    @unique
+  name          String?
+  image         String?
+  emailVerified DateTime?
+  role          UserRole  @default(USER)
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  
+  // NextAuth models
+  accounts      Account[]
+  sessions      Session[]
+  
+  // App-specific relations
+  preferences   UserPreference?
+  lists         List[]
+  searchSessions SearchSession[]
+
+  // Performance indexes
+  @@index([email])
+  @@index([createdAt])
+}
+
+model UserPreference {
+  id              String   @id @default(cuid())
+  userId          String   @unique
+  user            User     @relation(fields: [userId], references: [id])
+  
+  maxCommute      Int?     // in minutes
+  preferredStations String[] // station IDs
+  priceRange      Json?    // {min, max}
+  sizeRange       Json?    // {min, max}
+  savedFilters    Json?    // saved search configurations
+  
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
+
+model Apartment {
+  id              String   @id @default(cuid())
+  externalId      String   // ID from source website
+  sourceUrl       String
+  sourceSite      String   // which scraping source
+  
+  title           String
+  price           Int      // monthly rent in yen
+  size            Float    // in m²
+  layout          String?  // 1K, 1LDK, etc. (optional)
+  floor           Int?
+  totalFloors     Int?
+  buildingAge     Int?     // years
+  
+  address         String
+  latitude        Float?
+  longitude       Float?
+  
+  description     String?  @db.Text
+  amenities       String[] // array of amenity tags
+  availability    String   // available, occupied, unknown
+  
+  images          ApartmentImage[]
+  lists           ApartmentList[]
+  routes          Route[]
+  nearestStations ApartmentStation[]
+  
+  scrapedAt       DateTime
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  
+  @@unique([externalId, sourceSite])
+  
+  // Performance indexes
+  @@index([price])
+  @@index([size])
+  @@index([layout])
+  @@index([availability])
+  @@index([createdAt])
+  @@index([scrapedAt])
+  @@index([sourceSite])
+  @@index([latitude, longitude])
+  // Composite indexes for common queries
+  @@index([price, size])
+  @@index([availability, price])
+  @@index([layout, price])
+}
+
+model ApartmentStation {
+  id              String    @id @default(cuid())
+  apartmentId     String
+  apartment       Apartment @relation(fields: [apartmentId], references: [id])
+  stationId       String
+  station         Station   @relation(fields: [stationId], references: [id])
+  
+  walkingMinutes  Int       // walking time to this station
+  distance        Float?    // distance in meters
+  
+  @@unique([apartmentId, stationId])
+  
+  // Performance indexes
+  @@index([apartmentId])
+  @@index([stationId])
+  @@index([walkingMinutes])
+  @@index([stationId, walkingMinutes])
+}
+
+model ApartmentImage {
+  id          String    @id @default(cuid())
+  apartmentId String
+  apartment   Apartment @relation(fields: [apartmentId], references: [id])
+  
+  url         String
+  caption     String?
+  order       Int       @default(0)
+  
+  createdAt   DateTime  @default(now())
+  
+  // Performance indexes
+  @@index([apartmentId])
+  @@index([order])
+}
+
+model Station {
+  id          String    @id @default(cuid())
+  name        String
+  nameEn      String?
+  latitude    Float
+  longitude   Float
+  
+  lines       StationLine[]
+  apartments  ApartmentStation[]
+  
+  @@unique([name, latitude, longitude])
+  
+  // Performance indexes
+  @@index([name])
+  @@index([nameEn])
+  @@index([latitude, longitude])
+}
+
+model TrainLine {
+  id          String    @id @default(cuid())
+  name        String
+  nameEn      String?
+  company     String
+  color       String?   // hex color for UI
+  
+  stations    StationLine[]
+  
+  @@unique([name, company])
+  
+  // Performance indexes
+  @@index([name])
+  @@index([company])
+}
+
+model StationLine {
+  stationId   String
+  station     Station   @relation(fields: [stationId], references: [id])
+  lineId      String
+  line        TrainLine @relation(fields: [lineId], references: [id])
+  
+  order       Int       // order on this line
+  
+  @@id([stationId, lineId])
+  
+  // Performance indexes
+  @@index([stationId])
+  @@index([lineId])
+  @@index([order])
+}
+
+model List {
+  id          String    @id @default(cuid())
+  userId      String
+  user        User      @relation(fields: [userId], references: [id])
+  
+  name        String
+  type        ListType  // SEARCH_RESULT, BOOKMARKED, LIKED, FAVORITED, HIDDEN
+  isPublic    Boolean   @default(false)
+  
+  // For search result lists
+  searchParams Json?    // original search parameters
+  status      String?   // pending, processing, completed
+  progress    Int?      // 0-100
+  
+  apartments  ApartmentList[]
+  
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+  
+  // Performance indexes
+  @@index([userId])
+  @@index([type])
+  @@index([status])
+  @@index([createdAt])
+  @@index([userId, type])
+}
+
+model ApartmentList {
+  apartmentId String
+  apartment   Apartment @relation(fields: [apartmentId], references: [id])
+  listId      String
+  list        List      @relation(fields: [listId], references: [id])
+  
+  addedAt     DateTime  @default(now())
+  seen        Boolean   @default(false)
+  seenAt      DateTime?
+  
+  @@id([apartmentId, listId])
+  
+  // Performance indexes
+  @@index([listId])
+  @@index([apartmentId])
+  @@index([seen])
+  @@index([addedAt])
+  @@index([listId, seen])
+}
+
+model Route {
+  id          String    @id @default(cuid())
+  apartmentId String
+  apartment   Apartment @relation(fields: [apartmentId], references: [id])
+  
+  toStation   String    // destination station ID
+  
+  duration    Int       // total minutes (including walk from apartment)
+  transfers   Int       // number of transfers
+  walkTime    Int       // walking minutes included
+  trainTime   Int       // actual train time
+  
+  routeData   Json      // detailed route from OTP
+  
+  calculatedAt DateTime @default(now())
+  
+  @@unique([apartmentId, toStation])
+  
+  // Performance indexes
+  @@index([apartmentId])
+  @@index([toStation])
+  @@index([duration])
+  @@index([apartmentId, toStation, duration])
+}
+
+model SearchSession {
+  id          String    @id @default(cuid())
+  userId      String?
+  user        User?     @relation(fields: [userId], references: [id])
+  
+  filters     Json      // all search parameters
+  resultCount Int?
+  listId      String?   // if commute search, the generated list
+  
+  createdAt   DateTime  @default(now())
+  
+  // Performance indexes
+  @@index([userId])
+  @@index([createdAt])
+  @@index([userId, createdAt])
+}
+
+model ScrapingSource {
+  id          String    @id @default(cuid())
+  name        String    @unique
+  baseUrl     String
+  
+  searchUrlTemplate String?
+  detailUrlPattern  String?
+  
+  selectors   Json      // CSS/XPath selectors for data extraction
+  headers     Json?     // custom headers if needed
+  rateLimit   Int       @default(1000) // ms between requests
+  
+  isActive    Boolean   @default(true)
+  lastScraped DateTime?
+  
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+  
+  // Performance indexes
+  @@index([name])
+  @@index([isActive])
+  @@index([lastScraped])
+}
+
+// NextAuth models (required for authentication)
+model Account {
+    id                       String  @id @default(cuid())
+    userId                   String
+    type                     String
+    provider                 String
+    providerAccountId        String
+    refresh_token            String? @db.Text
+    access_token             String? @db.Text
+    expires_at               Int?
+    token_type               String?
+    scope                    String?
+    id_token                 String? @db.Text
+    session_state            String?
+    user                     User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+    refresh_token_expires_in Int?
+
+    @@unique([provider, providerAccountId])
+    
+    // Performance indexes
+    @@index([userId])
+}
+
+model Session {
+    id           String   @id @default(cuid())
+    sessionToken String   @unique
+    userId       String
+    expires      DateTime
+    user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+    
+    // Performance indexes
+    @@index([userId])
+    @@index([expires])
+}
+
+model VerificationToken {
+    identifier String
+    token      String   @unique
+    expires    DateTime
+
+    @@unique([identifier, token])
+    
+    // Performance indexes
+    @@index([expires])
+}
+
+// Enums
+enum ListType {
+  SEARCH_RESULT
+  BOOKMARKED
+  LIKED
+  FAVORITED
+  HIDDEN
+}
+
+enum UserRole {
+  USER
+  ADMIN
+}

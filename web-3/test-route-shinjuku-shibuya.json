@@ -1,0 +1,380 @@
+{
+  "request": {
+    "from": {
+      "lat": 35.6812,
+      "lon": 139.7671
+    },
+    "to": {
+      "lat": 35.658,
+      "lon": 139.7016
+    },
+    "timestamp": "2025-07-20T18:56:01.392Z",
+    "endpoint": "http://localhost:8080/otp/routers/default",
+    "url": "http://localhost:8080/otp/routers/default/plan?fromPlace=35.6812%2C139.7671&toPlace=35.658%2C139.7016&mode=TRANSIT%2CWALK&maxWalkDistance=1000&arriveBy=false&numItineraries=3&locale=ja"
+  },
+  "response": {
+    "status": 200,
+    "duration": "1198ms",
+    "data": {
+      "requestParameters": {
+        "mode": "TRANSIT,WALK",
+        "arriveBy": "false",
+        "fromPlace": "35.6812,139.7671",
+        "toPlace": "35.658,139.7016",
+        "maxWalkDistance": "1000",
+        "locale": "ja",
+        "numItineraries": "3"
+      },
+      "plan": {
+        "date": 1753037760248,
+        "from": {
+          "name": "Origin",
+          "lon": 139.7671,
+          "lat": 35.6812,
+          "vertexType": "NORMAL"
+        },
+        "to": {
+          "name": "Destination",
+          "lon": 139.7016,
+          "lat": 35.658,
+          "vertexType": "NORMAL"
+        },
+        "itineraries": [
+          {
+            "duration": 1854,
+            "startTime": 1753040288000,
+            "endTime": 1753042142000,
+            "walkTime": 54,
+            "transitTime": 1140,
+            "waitingTime": 660,
+            "walkDistance": 29.81,
+            "walkLimitExceeded": false,
+            "generalizedCost": 3247,
+            "elevationLost": 0,
+            "elevationGained": 0,
+            "transfers": 1,
+            "fare": {
+              "fare": {},
+              "details": {}
+            },
+            "legs": [
+              {
+                "startTime": 1753040288000,
+                "endTime": 1753040340000,
+                "departureDelay": 0,
+                "arrivalDelay": 0,
+                "realTime": false,
+                "distance": 28.27,
+                "generalizedCost": 93,
+                "pathway": false,
+                "mode": "WALK",
+                "transitLeg": false,
+                "route": "",
+                "agencyTimeZoneOffset": 32400000,
+                "interlineWithPreviousLeg": false,
+                "from": {
+                  "name": "Origin",
+                  "lon": 139.7671,
+                  "lat": 35.6812,
+                  "departure": 1753040288000,
+                  "vertexType": "NORMAL"
+                },
+                "to": {
+                  "name": "東京",
+                  "stopId": "tokyo-rail:JR-East.ChuoRapid.Tokyo",
+                  "lon": 139.76704,
+                  "lat": 35.6813,
+                  "arrival": 1753040340000,
+                  "departure": 1753040340000,
+                  "vertexType": "TRANSIT"
+                },
+                "legGeometry": {
+                  "points": "m~wxEkgatYWIERFB?A",
+                  "length": 5
+                },
+                "steps": [
+                  {
+                    "distance": 13.95,
+                    "relativeDirection": "DEPART",
+                    "streetName": "steps",
+                    "absoluteDirection": "NORTH",
+                    "stayOn": false,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.7671087,
+                    "lat": 35.6811979,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 9.51,
+                    "relativeDirection": "LEFT",
+                    "streetName": "中央通路",
+                    "absoluteDirection": "WEST",
+                    "stayOn": false,
+                    "area": false,
+                    "bogusName": false,
+                    "lon": 139.7671528,
+                    "lat": 35.6813181,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 4.81,
+                    "relativeDirection": "LEFT",
+                    "streetName": "underpass",
+                    "absoluteDirection": "SOUTH",
+                    "stayOn": false,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.7670518,
+                    "lat": 35.6813423,
+                    "elevation": "",
+                    "walkingBike": false
+                  }
+                ],
+                "rentedBike": false,
+                "walkingBike": false,
+                "duration": 52
+              },
+              {
+                "startTime": 1753040340000,
+                "endTime": 1753041120000,
+                "departureDelay": 0,
+                "arrivalDelay": 0,
+                "realTime": false,
+                "distance": 10335.37,
+                "generalizedCost": 1380,
+                "pathway": false,
+                "mode": "RAIL",
+                "transitLeg": true,
+                "route": "JR中央線快速",
+                "agencyName": "JR東日本 JR East",
+                "agencyUrl": "https://www.jreast.co.jp/",
+                "agencyTimeZoneOffset": 32400000,
+                "routeColor": "FF5C1E",
+                "routeType": 2,
+                "routeId": "tokyo-rail:JR-East.ChuoRapid",
+                "routeTextColor": "000000",
+                "interlineWithPreviousLeg": false,
+                "tripShortName": "439T",
+                "headsign": "【快速】高尾",
+                "agencyId": "tokyo-rail:JR-East",
+                "tripId": "tokyo-rail:JR-East.ChuoRapid.439T.SaturdayHoliday",
+                "serviceDate": "2025-07-21",
+                "from": {
+                  "name": "東京",
+                  "stopId": "tokyo-rail:JR-East.ChuoRapid.Tokyo",
+                  "lon": 139.76704,
+                  "lat": 35.6813,
+                  "arrival": 1753040340000,
+                  "departure": 1753040340000,
+                  "stopIndex": 0,
+                  "stopSequence": 0,
+                  "vertexType": "TRANSIT"
+                },
+                "to": {
+                  "name": "新宿",
+                  "stopId": "tokyo-rail:JR-East.ChuoRapid.Shinjuku",
+                  "lon": 139.70038,
+                  "lat": 35.69018,
+                  "arrival": 1753041120000,
+                  "departure": 1753041780000,
+                  "stopIndex": 4,
+                  "stopSequence": 4,
+                  "vertexType": "TRANSIT"
+                },
+                "legGeometry": {
+                  "points": "c}wxEsgatYg]cHsc@iM??qF{AsEs@aEIqAJoBf@mBfAyBhC{EnHwBtE_A|Co@bDu@lF??q@nEu@~B}ApCkAfBo@xAc@dCOdDPlGA`F_@tDo@hE]dDS|Fm@hVe@pL@hE^nCx@fCtArBvBfBrEtCjJnHzPtLxEzC`E|CrBbC`B~BjAdBr@|AvD`JbEfIrCzCdDjBhEz@xDj@~FbA??nAf@~CzC`DxEzC~E~BhExCvIpArD^dBLrABfBq@vJmAlRuAbReAnOa@xEOjDAtCPzHNnD@bCI~AUnBk@fBu@zAiAzAiA`AyC`BoAL_GXaDp@aYfF",
+                  "length": 85
+                },
+                "steps": [],
+                "routeShortName": "JC",
+                "routeLongName": "JR中央線快速",
+                "duration": 780
+              },
+              {
+                "startTime": 1753041780000,
+                "endTime": 1753042140000,
+                "departureDelay": 0,
+                "arrivalDelay": 0,
+                "realTime": false,
+                "distance": 3626.29,
+                "generalizedCost": 1767,
+                "pathway": false,
+                "mode": "RAIL",
+                "transitLeg": true,
+                "route": "JR山手線",
+                "agencyName": "JR東日本 JR East",
+                "agencyUrl": "https://www.jreast.co.jp/",
+                "agencyTimeZoneOffset": 32400000,
+                "routeColor": "80C747",
+                "routeType": 2,
+                "routeId": "tokyo-rail:JR-East.Yamanote",
+                "routeTextColor": "000000",
+                "interlineWithPreviousLeg": false,
+                "tripShortName": "462G",
+                "tripBlockId": "13747",
+                "headsign": "内回り",
+                "agencyId": "tokyo-rail:JR-East",
+                "tripId": "tokyo-rail:JR-East.Yamanote.462G.SaturdayHoliday",
+                "serviceDate": "2025-07-21",
+                "from": {
+                  "name": "新宿",
+                  "stopId": "tokyo-rail:JR-East.Yamanote.Shinjuku",
+                  "lon": 139.70038,
+                  "lat": 35.69018,
+                  "arrival": 1753041120000,
+                  "departure": 1753041780000,
+                  "stopIndex": 4,
+                  "stopSequence": 4,
+                  "vertexType": "TRANSIT"
+                },
+                "to": {
+                  "name": "渋谷",
+                  "stopId": "tokyo-rail:JR-East.Yamanote.Shibuya",
+                  "lon": 139.70149,
+                  "lat": 35.65796,
+                  "arrival": 1753042140000,
+                  "departure": 1753042140000,
+                  "stopIndex": 7,
+                  "stopSequence": 7,
+                  "vertexType": "TRANSIT"
+                },
+                "legGeometry": {
+                  "points": "yvyxEsgtsY`YgF`Dq@~FYnAM??bAOrDgAbEuA~OsC`Gc@hFKpDH`Dh@fIzBdFrA`BT??jCXxJp@tYvBdR~@pGJtCI|DcA",
+                  "length": 25
+                },
+                "steps": [],
+                "routeShortName": "JY",
+                "routeLongName": "JR山手線",
+                "duration": 360
+              },
+              {
+                "startTime": 1753042140000,
+                "endTime": 1753042142000,
+                "departureDelay": 0,
+                "arrivalDelay": 0,
+                "realTime": false,
+                "distance": 1.54,
+                "generalizedCost": 4,
+                "pathway": false,
+                "mode": "WALK",
+                "transitLeg": false,
+                "route": "",
+                "agencyTimeZoneOffset": 32400000,
+                "interlineWithPreviousLeg": false,
+                "from": {
+                  "name": "渋谷",
+                  "stopId": "tokyo-rail:JR-East.Yamanote.Shibuya",
+                  "lon": 139.70149,
+                  "lat": 35.65796,
+                  "arrival": 1753042140000,
+                  "departure": 1753042140000,
+                  "vertexType": "TRANSIT"
+                },
+                "to": {
+                  "name": "Destination",
+                  "lon": 139.7016,
+                  "lat": 35.658,
+                  "arrival": 1753042142000,
+                  "vertexType": "NORMAL"
+                },
+                "legGeometry": {
+                  "points": "gmsxEimtsYCS?A",
+                  "length": 3
+                },
+                "steps": [
+                  {
+                    "distance": 1.54,
+                    "relativeDirection": "DEPART",
+                    "streetName": "path",
+                    "absoluteDirection": "NORTHEAST",
+                    "stayOn": false,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.701592,
+                    "lat": 35.657981,
+                    "elevation": "",
+                    "walkingBike": false
+                  }
+                ],
+                "rentedBike": false,
+                "walkingBike": false,
+                "duration": 2
+              }
+            ],
+            "tooSloped": false,
+            "arrivedAtDestinationWithRentedBicycle": false
+          }
+        ]
+      },
+      "metadata": {
+        "searchWindowUsed": 3000,
+        "nextDateTime": 1753040760000,
+        "prevDateTime": 1753034760000
+      },
+      "previousPageCursor": "MXxQUkVWSU9VU19QQUdFfDIwMjUtMDctMjBUMTY6NTY6MDBafHwyaHxTVFJFRVRfQU5EX0FSUklWQUxfVElNRXx8fHx8fA==",
+      "nextPageCursor": "MXxORVhUX1BBR0V8MjAyNS0wNy0yMFQxOTo0NjowMFp8fDJofFNUUkVFVF9BTkRfQVJSSVZBTF9USU1FfHx8fHx8",
+      "debugOutput": {
+        "precalculationTime": 3440166,
+        "directStreetRouterTime": 319660148,
+        "transitRouterTime": 672020646,
+        "filteringTime": 36219109,
+        "renderingTime": 29357328,
+        "totalTime": 1060931714,
+        "transitRouterTimes": {
+          "tripPatternFilterTime": 152069797,
+          "accessEgressTime": 179682524,
+          "raptorSearchTime": 313712517,
+          "itineraryCreationTime": 26080422
+        }
+      },
+      "elevationMetadata": {
+        "ellipsoidToGeoidDifference": 37.62601433694666,
+        "geoidElevation": false
+      }
+    }
+  },
+  "summary": {
+    "found": true,
+    "routes": 1,
+    "bestRoute": {
+      "duration": "31 minutes",
+      "durationSeconds": 1854,
+      "transfers": 1,
+      "walkTime": "1 minutes",
+      "transitTime": "19 minutes",
+      "legs": [
+        {
+          "mode": "WALK",
+          "from": "Origin",
+          "to": "東京",
+          "duration": "1 min",
+          "route": "Walking"
+        },
+        {
+          "mode": "RAIL",
+          "from": "東京",
+          "to": "新宿",
+          "duration": "13 min",
+          "route": "Walking"
+        },
+        {
+          "mode": "RAIL",
+          "from": "新宿",
+          "to": "渋谷",
+          "duration": "6 min",
+          "route": "Walking"
+        },
+        {
+          "mode": "WALK",
+          "from": "渋谷",
+          "to": "Destination",
+          "duration": "0 min",
+          "route": "Walking"
+        }
+      ]
+    }
+  }
+}

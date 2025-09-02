@@ -1,0 +1,235 @@
+{
+  "request": {
+    "from": {
+      "lat": 35.706925,
+      "lon": 139.782775
+    },
+    "to": {
+      "lat": 35.7070345,
+      "lon": 139.7821061
+    },
+    "timestamp": "2025-07-20T22:24:53.696Z",
+    "endpoint": "http://localhost:8080/otp/routers/default",
+    "url": "http://localhost:8080/otp/routers/default/plan?fromPlace=35.706925%2C139.782775&toPlace=35.7070345%2C139.7821061&mode=TRANSIT%2CWALK&maxWalkDistance=1000&arriveBy=false&numItineraries=5&locale=ja"
+  },
+  "response": {
+    "status": 200,
+    "duration": "196ms",
+    "data": {
+      "requestParameters": {
+        "mode": "TRANSIT,WALK",
+        "arriveBy": "false",
+        "fromPlace": "35.706925,139.782775",
+        "toPlace": "35.7070345,139.7821061",
+        "maxWalkDistance": "1000",
+        "locale": "ja",
+        "numItineraries": "5"
+      },
+      "plan": {
+        "date": 1753050293521,
+        "from": {
+          "name": "Origin",
+          "lon": 139.782775,
+          "lat": 35.706925,
+          "vertexType": "NORMAL"
+        },
+        "to": {
+          "name": "Destination",
+          "lon": 139.7821061,
+          "lat": 35.7070345,
+          "vertexType": "NORMAL"
+        },
+        "itineraries": [
+          {
+            "duration": 183,
+            "startTime": 1753050293000,
+            "endTime": 1753050476000,
+            "walkTime": 183,
+            "transitTime": 0,
+            "waitingTime": 0,
+            "walkDistance": 181.11,
+            "walkLimitExceeded": false,
+            "generalizedCost": 315,
+            "elevationLost": 0,
+            "elevationGained": 0,
+            "transfers": 0,
+            "fare": {
+              "fare": {},
+              "details": {}
+            },
+            "legs": [
+              {
+                "startTime": 1753050293000,
+                "endTime": 1753050476000,
+                "departureDelay": 0,
+                "arrivalDelay": 0,
+                "realTime": false,
+                "distance": 181.11,
+                "generalizedCost": 315,
+                "pathway": false,
+                "mode": "WALK",
+                "transitLeg": false,
+                "route": "",
+                "agencyTimeZoneOffset": 32400000,
+                "interlineWithPreviousLeg": false,
+                "from": {
+                  "name": "Origin",
+                  "lon": 139.782775,
+                  "lat": 35.706925,
+                  "departure": 1753050293000,
+                  "vertexType": "NORMAL"
+                },
+                "to": {
+                  "name": "Destination",
+                  "lon": 139.7821061,
+                  "lat": 35.7070345,
+                  "arrival": 1753050476000,
+                  "vertexType": "NORMAL"
+                },
+                "legGeometry": {
+                  "points": "k_}xEiidtY@SSCE~@GAb@DD_AKAA?AN?HAJ@FKlB",
+                  "length": 14
+                },
+                "steps": [
+                  {
+                    "distance": 8.81,
+                    "relativeDirection": "DEPART",
+                    "streetName": "春日通り",
+                    "absoluteDirection": "EAST",
+                    "stayOn": false,
+                    "area": false,
+                    "bogusName": false,
+                    "lon": 139.782778,
+                    "lat": 35.706945,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 10.93,
+                    "relativeDirection": "LEFT",
+                    "streetName": "road",
+                    "absoluteDirection": "NORTH",
+                    "stayOn": false,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.7828749,
+                    "lat": 35.7069353,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 29.09,
+                    "relativeDirection": "LEFT",
+                    "streetName": "sidewalk",
+                    "absoluteDirection": "WEST",
+                    "stayOn": true,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.7828903,
+                    "lat": 35.7070328,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 4.16,
+                    "relativeDirection": "RIGHT",
+                    "streetName": "path",
+                    "absoluteDirection": "NORTH",
+                    "stayOn": true,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.7825711,
+                    "lat": 35.7070681,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 68.76,
+                    "relativeDirection": "HARD_RIGHT",
+                    "streetName": "underpass",
+                    "absoluteDirection": "SOUTH",
+                    "stayOn": true,
+                    "area": false,
+                    "bogusName": true,
+                    "lon": 139.7825814,
+                    "lat": 35.7071046,
+                    "elevation": "",
+                    "walkingBike": false
+                  },
+                  {
+                    "distance": 59.35,
+                    "relativeDirection": "CONTINUE",
+                    "streetName": "Tsukuba Express",
+                    "absoluteDirection": "WEST",
+                    "stayOn": false,
+                    "area": false,
+                    "bogusName": false,
+                    "lon": 139.7827517,
+                    "lat": 35.7069798,
+                    "elevation": "",
+                    "walkingBike": false
+                  }
+                ],
+                "rentedBike": false,
+                "walkingBike": false,
+                "duration": 183
+              }
+            ],
+            "tooSloped": false,
+            "arrivedAtDestinationWithRentedBicycle": false
+          }
+        ]
+      },
+      "metadata": {
+        "searchWindowUsed": 3000,
+        "nextDateTime": 1753053293000,
+        "prevDateTime": 1753047293000
+      },
+      "previousPageCursor": "MXxQUkVWSU9VU19QQUdFfDIwMjUtMDctMjBUMjA6MjQ6NTNafHwyaHxTVFJFRVRfQU5EX0FSUklWQUxfVElNRXx8fHx8fA==",
+      "nextPageCursor": "MXxORVhUX1BBR0V8MjAyNS0wNy0yMFQyMzoxNDo1M1p8fDJofFNUUkVFVF9BTkRfQVJSSVZBTF9USU1FfHx8fHx8",
+      "error": {
+        "id": 409,
+        "msg": "Origin is within a trivial distance of the destination.",
+        "message": "TOO_CLOSE"
+      },
+      "debugOutput": {
+        "precalculationTime": 27848,
+        "directStreetRouterTime": 8623225,
+        "transitRouterTime": 158155843,
+        "filteringTime": 1262276,
+        "renderingTime": 231534,
+        "totalTime": 168362777,
+        "transitRouterTimes": {
+          "tripPatternFilterTime": 26538003,
+          "accessEgressTime": 91990725,
+          "raptorSearchTime": 31968504,
+          "itineraryCreationTime": 7611579
+        }
+      },
+      "elevationMetadata": {
+        "ellipsoidToGeoidDifference": 37.62601433694666,
+        "geoidElevation": false
+      }
+    }
+  },
+  "summary": {
+    "found": true,
+    "routes": 1,
+    "bestRoute": {
+      "duration": "3 minutes",
+      "durationSeconds": 183,
+      "transfers": 0,
+      "walkTime": "3 minutes",
+      "transitTime": "0 minutes",
+      "legs": [
+        {
+          "mode": "WALK",
+          "from": "Origin",
+          "to": "Destination",
+          "duration": "3 min",
+          "route": "Walking"
+        }
+      ]
+    }
+  }
+}

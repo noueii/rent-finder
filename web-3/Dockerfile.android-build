@@ -1,0 +1,54 @@
+# Dockerfile for building ARM64 node_modules
+FROM node:20-bullseye AS builder
+
+# Install pnpm
+RUN npm install -g pnpm@10.12.4
+
+# Install build dependencies for ARM64 cross-compilation
+RUN apt-get update && apt-get install -y \
+    gcc-aarch64-linux-gnu \
+    g++-aarch64-linux-gnu \
+    python3 \
+    make \
+    git \
+    && rm -rf /var/lib/apt/lists/*
+
+# Set environment for ARM64 compilation
+ENV AR=aarch64-linux-gnu-ar \
+    CC=aarch64-linux-gnu-gcc \
+    CXX=aarch64-linux-gnu-g++ \
+    LINK=aarch64-linux-gnu-g++ \
+    npm_config_arch=arm64 \
+    npm_config_target_arch=arm64 \
+    npm_config_disturl=https://nodejs.org/dist \
+    npm_config_runtime=node \
+    npm_config_cache=/tmp/.npm \
+    npm_config_build_from_source=true \
+    PRISMA_CLI_BINARY_TARGETS=linux-arm64-openssl-3.0.x
+
+# Create app directory
+WORKDIR /app
+
+# Copy package files
+COPY package.json pnpm-lock.yaml ./
+COPY prisma ./prisma/
+
+# Install dependencies with cross-compilation
+RUN pnpm install --frozen-lockfile
+
+# Generate Prisma client for ARM64
+RUN pnpx prisma generate
+
+# Create output directory in the same stage
+WORKDIR /output
+
+# Copy the compiled modules to output directory
+RUN cp -r /app/node_modules /output/ && \
+    (test -d /app/.pnpm && cp -r /app/.pnpm /output/ || echo "No .pnpm directory found") && \
+    echo "Built on: $(date)" > /output/build-info.txt && \
+    echo "Target: linux-arm64" >> /output/build-info.txt && \
+    echo "Node modules ready for Android/Termux" >> /output/build-info.txt && \
+    echo "Modules count: $(find /output/node_modules -maxdepth 1 -type d | wc -l)" >> /output/build-info.txt
+
+# Set the output as the final stage
+WORKDIR /output

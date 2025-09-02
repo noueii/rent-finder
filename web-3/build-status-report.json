@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-07-25T21:55:40.835Z",
+  "canBuild": false,
+  "issues": {
+    "typescript": [
+      "src/lib/performance/dynamic-imports.ts(11,8): error TS1005: '>' expected.",
+      "src/lib/performance/dynamic-imports.ts(11,17): error TS1005: ')' expected.",
+      "src/lib/performance/dynamic-imports.ts(12,11): error TS1005: '>' expected.",
+      "src/lib/performance/dynamic-imports.ts(12,20): error TS1005: ',' expected.",
+      "src/lib/performance/dynamic-imports.ts(12,21): error TS1134: Variable declaration expected."
+    ],
+    "dependencies": [],
+    "configuration": [],
+    "critical": [
+      "Missing critical file: tailwind.config.ts"
+    ]
+  },
+  "summary": {
+    "typescriptErrors": 5,
+    "dependencyIssues": 0,
+    "configurationIssues": 0,
+    "criticalIssues": 1
+  }
+}

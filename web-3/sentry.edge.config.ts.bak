@@ -1,0 +1,26 @@
+// This file configures the initialization of Sentry on the edge runtime.
+// The config you add here will be used for the Edge API routes.
+
+import * as Sentry from "@sentry/nextjs";
+
+Sentry.init({
+  dsn: process.env.SENTRY_DSN ?? process.env.NEXT_PUBLIC_SENTRY_DSN,
+
+  // Set tracesSampleRate to 1.0 to capture 100% of transactions
+  // We recommend adjusting this value in production
+  tracesSampleRate: parseFloat(process.env.SENTRY_TRACES_SAMPLE_RATE ?? "0.1"),
+
+  // Environment configuration
+  environment: process.env.SENTRY_ENVIRONMENT ?? process.env.NODE_ENV,
+  
+  // Add edge context
+  initialScope: {
+    tags: {
+      source: "edge",
+      runtime: "edge",
+    },
+  },
+
+  // Debug mode for development
+  debug: process.env.NODE_ENV === "development",
+});

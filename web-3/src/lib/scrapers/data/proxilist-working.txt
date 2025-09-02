@@ -1,0 +1,6 @@
+# Working proxies for Wagaya Japan
+# Tested: 2025-07-19T15:37:29.148Z
+# 2 proxies can access detail pages
+
+18.228.42.104:3128
+185.192.111.18:8080

@@ -1,0 +1,354 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+    provider = "prisma-client-js"
+}
+
+datasource db {
+    provider = "postgresql"
+    url      = env("DATABASE_URL")
+}
+
+// Core Models
+model User {
+  id            String    @id @default(cuid())
+  email         String    @unique
+  name          String?
+  password      String?   // For credential-based authentication
+  image         String?
+  emailVerified DateTime?
+  role          UserRole  @default(USER)
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  
+  // NextAuth models
+  accounts      Account[]
+  sessions      Session[]
+  
+  // App-specific relations
+  preferences   UserPreference?
+  lists         List[]
+  searchSessions SearchSession[]
+  apartmentScores ApartmentScore[]
+}
+
+model UserPreference {
+  id              String   @id @default(cuid())
+  userId          String   @unique
+  user            User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  
+  maxCommute      Int?     // in minutes
+  preferredStations String[] // station IDs
+  priceRange      Json?    // {min, max}
+  sizeRange       Json?    // {min, max}
+  savedFilters    Json?    // saved search configurations
+  
+  // Scoring weights for apartment suggestions (must add up to 100)
+  scoreWeights    Json?    // {commuteTimeWeight, priceWeight, sizeWeight, ageWeight}
+  
+  // Target values for scoring (only penalize negative deviations)
+  targetValues    Json?    // {targetPrice, targetSize, targetCommute, targetAge, targetFloor, targetWalkTime}
+  
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
+
+model Apartment {
+  id              String   @id @default(cuid())
+  externalId      String   // ID from source website
+  sourceUrl       String
+  sourceSite      String   // which scraping source (kept for backward compatibility)
+  agent           String?  // Real estate agent or source name
+  
+  // Relationship to ScrapingSource
+  scrapingSourceId String?
+  scrapingSource   ScrapingSource? @relation(fields: [scrapingSourceId], references: [id])
+  
+  title           String
+  price           Int      // monthly rent in yen
+  size            Float    // in m²
+  layout          String?  // 1K, 1LDK, etc. (optional)
+  floor           Int?
+  totalFloors     Int?
+  buildingAge     Int?     // years
+  
+  address         String?
+  area            String?  // Neighborhood/area (e.g., "Hiroo", "Shibuya")
+  ward            String?  // Ward name (e.g., "Shibuya-ku", "Minato-ku") 
+  city            String?  // City (e.g., "Tokyo")
+  prefecture      String?  // Prefecture (e.g., "Tokyo")
+  latitude        Float?
+  longitude       Float?
+  
+  description     String?  @db.Text
+  amenities       String[] // array of amenity tags
+  availability    String   // available, occupied, unknown
+  
+  // Fee information
+  feesTotal       Int?     // Total initial fees (deposit + key money + agency fee + etc.)
+  feesJson        Json?    // Detailed breakdown: {deposit, keyMoney, agencyFee, guarantorFee, insurance, other}
+  
+  // Track if detailed data has been fetched
+  fetchedDetails  Boolean  @default(false)
+  
+  // Track if apartment has been removed/is no longer available
+  removed         Boolean  @default(false)
+  lastDetailCheck DateTime? // When we last checked if the listing is still available
+  
+  // Raw station data from scrapers (before matching with our DB)
+  nearbyStations  Json?    // Array of {name: string, walkingMinutes: number, lines?: string[], distance?: number}
+  
+  // User-assigned preferred station for navigation
+  preferredStationId String?
+  preferredStation   Station? @relation("PreferredStation", fields: [preferredStationId], references: [id])
+  
+  images          ApartmentImage[]
+  lists           ApartmentList[]
+  routes          Route[]
+  nearestStations ApartmentStation[]
+  scores          ApartmentScore[]
+  
+  scrapedAt       DateTime
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  
+  @@unique([externalId, sourceSite])
+  @@index([scrapingSourceId])
+  @@index([removed])
+  @@index([lastDetailCheck])
+}
+
+model ApartmentStation {
+  id              String    @id @default(cuid())
+  apartmentId     String
+  apartment       Apartment @relation(fields: [apartmentId], references: [id], onDelete: Cascade)
+  stationId       String
+  station         Station   @relation(fields: [stationId], references: [id])
+  
+  walkingMinutes  Int       // walking time to this station
+  distance        Float?    // distance in meters
+  
+  @@unique([apartmentId, stationId])
+}
+
+model ApartmentImage {
+  id          String    @id @default(cuid())
+  apartmentId String
+  apartment   Apartment @relation(fields: [apartmentId], references: [id], onDelete: Cascade)
+  
+  url         String
+  caption     String?
+  order       Int       @default(0)
+  
+  createdAt   DateTime  @default(now())
+}
+
+model Station {
+  id          String    @id @default(cuid())
+  name        String
+  nameEn      String?
+  latitude    Float
+  longitude   Float
+  
+  lines       StationLine[]
+  apartments  ApartmentStation[]
+  routes      Route[]
+  preferredForApartments Apartment[] @relation("PreferredStation")
+  
+  @@unique([name, latitude, longitude])
+}
+
+model TrainLine {
+  id          String    @id @default(cuid())
+  name        String
+  nameEn      String?
+  company     String
+  color       String?   // hex color for UI
+  
+  stations    StationLine[]
+  
+  @@unique([name, company])
+}
+
+model StationLine {
+  stationId   String
+  station     Station   @relation(fields: [stationId], references: [id])
+  lineId      String
+  line        TrainLine @relation(fields: [lineId], references: [id])
+  
+  order       Int       // order on this line
+  
+  @@id([stationId, lineId])
+}
+
+model List {
+  id          String    @id @default(cuid())
+  userId      String
+  user        User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  
+  name        String
+  type        ListType  // SEARCH_RESULT, BOOKMARKED, LIKED, FAVORITED, HIDDEN
+  isPublic    Boolean   @default(false)
+  description String?
+  
+  // For search result lists
+  searchParams Json?    // original search parameters
+  status      String?   // pending, processing, completed
+  progress    Int?      // 0-100
+  
+  apartments  ApartmentList[]
+  scores      ApartmentScore[]
+  
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+}
+
+model ApartmentList {
+  apartmentId String
+  apartment   Apartment @relation(fields: [apartmentId], references: [id], onDelete: Cascade)
+  listId      String
+  list        List      @relation(fields: [listId], references: [id], onDelete: Cascade)
+  
+  addedAt     DateTime  @default(now())
+  seen        Boolean   @default(false)
+  seenAt      DateTime?
+  
+  // User scoring fields
+  locationScore Float?   // Score from 1-5 for location quality
+  designScore   Float?   // Score from 1-5 for design/aesthetics
+  spaceScore    Float?   // Score from 1-5 for space/size quality
+  scoredAt      DateTime? // When the user last scored this apartment
+  
+  @@id([apartmentId, listId])
+}
+
+model ApartmentScore {
+  id              String    @id @default(cuid())
+  
+  // Foreign keys
+  user            User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  userId          String
+  apartment       Apartment @relation(fields: [apartmentId], references: [id], onDelete: Cascade)
+  apartmentId     String
+  list            List?     @relation(fields: [listId], references: [id], onDelete: Cascade)
+  listId          String?   // Optional - scores can exist without list context
+  
+  // Score data
+  score           Float     // The final calculated score (0-100)
+  
+  // Metadata
+  calculatedAt    DateTime  @default(now())
+  
+  // Ensure unique score per user-apartment-list combination
+  @@unique([userId, apartmentId, listId])
+  @@index([userId])
+  @@index([apartmentId])
+  @@index([listId])
+  @@index([score(sort: Desc)])
+}
+
+model Route {
+  id          String    @id @default(cuid())
+  apartmentId String
+  apartment   Apartment @relation(fields: [apartmentId], references: [id], onDelete: Cascade)
+  
+  toStationId String    // destination station ID
+  toStation   Station   @relation(fields: [toStationId], references: [id])
+  
+  duration    Int       // total minutes (including walk from apartment)
+  transfers   Int       // number of transfers
+  walkTime    Int       // walking minutes included
+  trainTime   Int       // actual train time
+  
+  routeData   Json      // detailed route from OTP
+  
+  calculatedAt DateTime @default(now())
+  
+  @@unique([apartmentId, toStationId])
+}
+
+model SearchSession {
+  id          String    @id @default(cuid())
+  userId      String?
+  user        User?     @relation(fields: [userId], references: [id])
+  
+  filters     Json      // all search parameters
+  resultCount Int?
+  listId      String?   // if commute search, the generated list
+  
+  createdAt   DateTime  @default(now())
+}
+
+model ScrapingSource {
+  id          String    @id @default(cuid())
+  name        String    @unique
+  baseUrl     String
+  type        String    // scraper type identifier
+  
+  searchUrlTemplate String?
+  detailUrlPattern  String?
+  
+  selectors   Json      // CSS/XPath selectors for data extraction
+  headers     Json?     // custom headers if needed
+  rateLimit   Int       @default(1000) // ms between requests
+  
+  isActive    Boolean   @default(true)
+  lastScraped DateTime?
+  
+  apartments  Apartment[]
+  
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+}
+
+// NextAuth models (required for authentication)
+model Account {
+    id                       String  @id @default(cuid())
+    userId                   String
+    type                     String
+    provider                 String
+    providerAccountId        String
+    refresh_token            String? @db.Text
+    access_token             String? @db.Text
+    expires_at               Int?
+    token_type               String?
+    scope                    String?
+    id_token                 String? @db.Text
+    session_state            String?
+    user                     User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+    refresh_token_expires_in Int?
+
+    @@unique([provider, providerAccountId])
+}
+
+model Session {
+    id           String   @id @default(cuid())
+    sessionToken String   @unique
+    userId       String
+    expires      DateTime
+    user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model VerificationToken {
+    identifier String
+    token      String   @unique
+    expires    DateTime
+
+    @@unique([identifier, token])
+}
+
+// Enums
+enum ListType {
+  SEARCH_RESULT
+  BOOKMARKED
+  LIKED
+  FAVORITED
+  HIDDEN
+  CUSTOM
+}
+
+enum UserRole {
+  USER
+  ADMIN
+}

@@ -1,0 +1,4 @@
+# This directory is used for database synchronization between devices
+# Files in this directory (except this .gitkeep) are ignored by git
+# Use npm run db:export to export data
+# Use npm run db:import to import data

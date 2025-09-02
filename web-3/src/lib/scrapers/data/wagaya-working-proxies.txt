@@ -1,0 +1,3 @@
+# Working proxies for Wagaya Japan (tested)
+185.192.111.18:8080
+18.228.42.104:3128
