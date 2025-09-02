@@ -80,3 +80,10 @@ temp/
 
 # Session and private data
 .agents/shared/SESSION.md
+
+# Large files
+tokyo-otp-routing/data/graph.obj
+tokyo-otp-routing/data/*.osm.pbf
+tokyo-otp-routing/data/*.osm.pbf.backup
+*.osm
+*.osm.pbf
