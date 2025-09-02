@@ -1,0 +1,16 @@
+We are scraping data from NAVITIME.
+the goal is to build a json dictionary with each train line in tokyo, their stations, and the time it takes from each station to another one on each route. Be mindful that there can be multiple types of trains (some skip certain stops)
+
+STEP ONE:
+Look inside lines/lines.json. 
+This is a list of each line that we need to look for.
+In order to do so, we will access the link available under lines/links.json.
+Here you will see a json with how to do the GET requests and also the expected response.
+We are currently only searching for the ids of each line.
+
+
+STEP TWO:
+Look at lines/navitime_line_ids.json
+You need to look for each line and scrape the station routes and their ids.
+You will be using the NAVITIME_station_search entry in the json found inside lines/links.json.
+Make a short small program in javascript for that.

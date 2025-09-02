@@ -1,0 +1,75 @@
+services:
+  # Rent Finder Services
+  postgres:
+    image: postgres:16-alpine
+    container_name: rent-finder-db
+    environment:
+      POSTGRES_DB: rentfinder
+      POSTGRES_USER: rentfinder
+      POSTGRES_PASSWORD: rentfinder_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U rentfinder"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    networks:
+      - rent-finder-network
+
+  app:
+    build:
+      context: ./web-2
+      dockerfile: Dockerfile
+      args:
+        DATABASE_URL: postgresql://rentfinder:rentfinder_password@postgres:5432/rentfinder
+        AUTH_SECRET: ${AUTH_SECRET:-development-secret-key-please-change-this}
+    container_name: rent-finder-app
+    environment:
+      DATABASE_URL: postgresql://rentfinder:rentfinder_password@postgres:5432/rentfinder
+      AUTH_SECRET: ${AUTH_SECRET:-development-secret-key-please-change-this}
+      NODE_ENV: production
+      # Add OTP configuration
+      OTP_BASE_URL: http://tokyo-otp:8080
+    ports:
+      - "3000:3000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    volumes:
+      - ./web-2/prisma:/app/prisma
+    networks:
+      - rent-finder-network
+
+  # OpenTripPlanner Service
+  otp:
+    image: docker.io/opentripplanner/opentripplanner:2.5.0
+    container_name: tokyo-otp
+    ports:
+      - "8080:8080"  # OTP API
+      - "8081:8081"  # OTP Web UI
+    volumes:
+      - ./tokyo-otp-routing/data:/var/opentripplanner
+      - ./tokyo-otp-routing/otp-config.json:/var/opentripplanner/otp-config.json
+      - ./tokyo-otp-routing/data/build-config.json:/var/opentripplanner/build-config.json
+    command: --build --serve
+    environment:
+      - JAVA_OPTS=-Xmx3G
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "-q", "-O", "-", "http://localhost:8080/otp/actuators/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 300s
+    networks:
+      - rent-finder-network
+
+volumes:
+  postgres_data:
+
+networks:
+  rent-finder-network:
+    driver: bridge

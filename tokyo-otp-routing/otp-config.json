@@ -1,0 +1,47 @@
+{
+  "otpFeatures": {
+    "SandboxAPIGeocoder": true,
+    "MinimumTransferTimeIsDefinitive": true,
+    "FlexRouting": false
+  },
+  "buildConfig": {
+    "osmNaming": "short",
+    "areaVisibility": true,
+    "transitServiceStart": "-P1M",
+    "transitServiceEnd": "P1Y",
+    "subwayAccessTime": 1,
+    "maxTransferDurationMinutes": 20,
+    "boardTimes": {
+      "RAIL": 90,
+      "METRO": 60,
+      "TRAM": 45,
+      "MONORAIL": 60
+    },
+    "alightTimes": {
+      "RAIL": 45,
+      "METRO": 30,
+      "TRAM": 20,
+      "MONORAIL": 30
+    },
+    "osmDefaults": {
+      "osmBuildingFile": false,
+      "banDiscouragedWalking": false,
+      "banDiscouragedBiking": true
+    }
+  },
+  "routingDefaults": {
+    "numItineraries": 3,
+    "walkSpeed": 1.33,
+    "transferPenalty": 180,
+    "walkReluctance": 1.2,
+    "stairsReluctance": 1.5,
+    "transferSlack": 90,
+    "boardSlack": 30,
+    "searchWindow": "PT1H30M",
+    "locale": "ja",
+    "maxDirectStreetDurationSeconds": 1200,
+    "streetRoutingTimeout": "PT5S"
+  },
+  "updaters": [],
+  "routerId": "tokyo"
+}

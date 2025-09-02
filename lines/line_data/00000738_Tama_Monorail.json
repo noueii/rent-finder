@@ -1,0 +1,490 @@
+{
+  "line": "Tama Monorail",
+  "operator": "Tama Monorail",
+  "navitime_id": "00000738",
+  "first_station_id": "00005461",
+  "stations": [
+    {
+      "name": "Tama-Center",
+      "japanese_name": "多摩センター",
+      "station_id": "00005461",
+      "order": 1,
+      "transfers": []
+    },
+    {
+      "name": "Matsugaya",
+      "japanese_name": "松が谷",
+      "station_id": "00003813",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Otsuka-Teikyo-Daigaku",
+      "japanese_name": "大塚・帝京大学",
+      "station_id": "00005719",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Chuodaigakumeiseidaigaku",
+      "japanese_name": "中央大学・明星大学",
+      "station_id": "00006027",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Tama-dobutsukoen",
+      "japanese_name": "多摩動物公園",
+      "station_id": "00005464",
+      "order": 5,
+      "transfers": [
+        "Keio Dobutsuen Line"
+      ]
+    },
+    {
+      "name": "Hodokubo",
+      "japanese_name": "程久保",
+      "station_id": "00006408",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Takahatafudo",
+      "japanese_name": "高幡不動",
+      "station_id": "00002624",
+      "order": 7,
+      "transfers": [
+        "Keio Line",
+        "Keio Dobutsuen Line"
+      ]
+    },
+    {
+      "name": "Manganji",
+      "japanese_name": "万願寺",
+      "station_id": "00008533",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Koshu-Kaido",
+      "japanese_name": "甲州街道",
+      "station_id": "00002462",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Shibasaki-Taiikukan",
+      "japanese_name": "柴崎体育館",
+      "station_id": "00003407",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Tachikawa-Minami",
+      "japanese_name": "立川南",
+      "station_id": "00008991",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Tachikawa-Kita",
+      "japanese_name": "立川北",
+      "station_id": "00008992",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Takamatsu(Tokyo)",
+      "japanese_name": "高松(東京都)",
+      "station_id": "00002578",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Tachihi",
+      "japanese_name": "立飛",
+      "station_id": "00008996",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Izumi-Taiikukan",
+      "japanese_name": "泉体育館",
+      "station_id": "00005256",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Sunagawa-Nanaban",
+      "japanese_name": "砂川七番",
+      "station_id": "00002811",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Tamagawa-josui",
+      "japanese_name": "玉川上水",
+      "station_id": "00001804",
+      "order": 17,
+      "transfers": [
+        "Seibu Haijima Line"
+      ]
+    },
+    {
+      "name": "Sakura-Kaido",
+      "japanese_name": "桜街道",
+      "station_id": "00002886",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Kamikitadai",
+      "japanese_name": "上北台",
+      "station_id": "00004051",
+      "order": 19,
+      "transfers": []
+    }
+  ],
+  "train_types": [
+    "Local"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "82310096",
+      "trainName": "Tama Monorail",
+      "destination": "Kamikitadai",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "05",
+      "type": "Local"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Tama Monorail",
+      "train_type": "Local",
+      "total_stops": 19,
+      "stops": [
+        {
+          "name": "Tama-Center",
+          "station_id": "00005461",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.422903,
+            "lat": 35.623959
+          }
+        },
+        {
+          "name": "Matsugaya",
+          "station_id": "00003813",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.422077,
+            "lat": 35.631788
+          }
+        },
+        {
+          "name": "Otsuka-Teikyo-Daigaku",
+          "station_id": "00005719",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.416426,
+            "lat": 35.636901
+          }
+        },
+        {
+          "name": "Chuodaigakumeiseidaigaku",
+          "station_id": "00006027",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.408522,
+            "lat": 35.641958
+          }
+        },
+        {
+          "name": "Tama-dobutsukoen",
+          "station_id": "00005464",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.403672,
+            "lat": 35.64862
+          }
+        },
+        {
+          "name": "Hodokubo",
+          "station_id": "00006408",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.410792,
+            "lat": 35.655223
+          }
+        },
+        {
+          "name": "Takahatafudo",
+          "station_id": "00002624",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.415208,
+            "lat": 35.661412
+          }
+        },
+        {
+          "name": "Manganji",
+          "station_id": "00008533",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.420036,
+            "lat": 35.671213
+          }
+        },
+        {
+          "name": "Koshu-Kaido",
+          "station_id": "00002462",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.409169,
+            "lat": 35.678298
+          }
+        },
+        {
+          "name": "Shibasaki-Taiikukan",
+          "station_id": "00003407",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.409311,
+            "lat": 35.689725
+          }
+        },
+        {
+          "name": "Tachikawa-Minami",
+          "station_id": "00008991",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.412594,
+            "lat": 35.696103
+          }
+        },
+        {
+          "name": "Tachikawa-Kita",
+          "station_id": "00008992",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.412509,
+            "lat": 35.699558
+          }
+        },
+        {
+          "name": "Takamatsu(Tokyo)",
+          "station_id": "00002578",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.413254,
+            "lat": 35.710115
+          }
+        },
+        {
+          "name": "Tachihi",
+          "station_id": "00008996",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.417123,
+            "lat": 35.714332
+          }
+        },
+        {
+          "name": "Izumi-Taiikukan",
+          "station_id": "00005256",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.419572,
+            "lat": 35.718763
+          }
+        },
+        {
+          "name": "Sunagawa-Nanaban",
+          "station_id": "00002811",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.418125,
+            "lat": 35.723388
+          }
+        },
+        {
+          "name": "Tamagawa-josui",
+          "station_id": "00001804",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.417867,
+            "lat": 35.732064
+          }
+        },
+        {
+          "name": "Sakura-Kaido",
+          "station_id": "00002886",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.416642,
+            "lat": 35.739032
+          }
+        },
+        {
+          "name": "Kamikitadai",
+          "station_id": "00004051",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.415846,
+            "lat": 35.745796
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Tama-Center",
+          "from_id": "00005461",
+          "to": "Matsugaya",
+          "to_id": "00003813",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Matsugaya",
+          "from_id": "00003813",
+          "to": "Otsuka-Teikyo-Daigaku",
+          "to_id": "00005719",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Otsuka-Teikyo-Daigaku",
+          "from_id": "00005719",
+          "to": "Chuodaigakumeiseidaigaku",
+          "to_id": "00006027",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Chuodaigakumeiseidaigaku",
+          "from_id": "00006027",
+          "to": "Tama-dobutsukoen",
+          "to_id": "00005464",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tama-dobutsukoen",
+          "from_id": "00005464",
+          "to": "Hodokubo",
+          "to_id": "00006408",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hodokubo",
+          "from_id": "00006408",
+          "to": "Takahatafudo",
+          "to_id": "00002624",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Takahatafudo",
+          "from_id": "00002624",
+          "to": "Manganji",
+          "to_id": "00008533",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Manganji",
+          "from_id": "00008533",
+          "to": "Koshu-Kaido",
+          "to_id": "00002462",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Koshu-Kaido",
+          "from_id": "00002462",
+          "to": "Shibasaki-Taiikukan",
+          "to_id": "00003407",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Shibasaki-Taiikukan",
+          "from_id": "00003407",
+          "to": "Tachikawa-Minami",
+          "to_id": "00008991",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tachikawa-Minami",
+          "from_id": "00008991",
+          "to": "Tachikawa-Kita",
+          "to_id": "00008992",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tachikawa-Kita",
+          "from_id": "00008992",
+          "to": "Takamatsu(Tokyo)",
+          "to_id": "00002578",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Takamatsu(Tokyo)",
+          "from_id": "00002578",
+          "to": "Tachihi",
+          "to_id": "00008996",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tachihi",
+          "from_id": "00008996",
+          "to": "Izumi-Taiikukan",
+          "to_id": "00005256",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Izumi-Taiikukan",
+          "from_id": "00005256",
+          "to": "Sunagawa-Nanaban",
+          "to_id": "00002811",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Sunagawa-Nanaban",
+          "from_id": "00002811",
+          "to": "Tamagawa-josui",
+          "to_id": "00001804",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tamagawa-josui",
+          "from_id": "00001804",
+          "to": "Sakura-Kaido",
+          "to_id": "00002886",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Sakura-Kaido",
+          "from_id": "00002886",
+          "to": "Kamikitadai",
+          "to_id": "00004051",
+          "travel_time_minutes": 2
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:54:44.074Z"
+}

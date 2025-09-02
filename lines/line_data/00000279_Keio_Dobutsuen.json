@@ -1,0 +1,80 @@
+{
+  "line": "Keio Dobutsuen",
+  "operator": "Keio Corporation",
+  "navitime_id": "00000279",
+  "first_station_id": "00002624",
+  "stations": [
+    {
+      "name": "Takahatafudo",
+      "japanese_name": "高幡不動",
+      "station_id": "00002624",
+      "order": 1,
+      "transfers": [
+        "Keio Line",
+        "Tamatoshi Monorail"
+      ]
+    },
+    {
+      "name": "Tama-dobutsukoen",
+      "japanese_name": "多摩動物公園",
+      "station_id": "00005464",
+      "order": 2,
+      "transfers": [
+        "Tamatoshi Monorail"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "80f40011",
+      "trainName": "Keio Dobutsuen Line Local",
+      "destination": "Tama-dobutsukoen",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "11",
+      "type": "Local"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Keio Dobutsuen",
+      "train_type": "Local",
+      "total_stops": 2,
+      "stops": [
+        {
+          "name": "Takahatafudo",
+          "station_id": "00002624",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.41331,
+            "lat": 35.66211
+          }
+        },
+        {
+          "name": "Tama-dobutsukoen",
+          "station_id": "00005464",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.404688,
+            "lat": 35.649173
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Takahatafudo",
+          "from_id": "00002624",
+          "to": "Tama-dobutsukoen",
+          "to_id": "00005464",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:53:26.553Z"
+}

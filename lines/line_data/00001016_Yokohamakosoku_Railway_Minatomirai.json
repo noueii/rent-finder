@@ -1,0 +1,500 @@
+{
+  "line": "Yokohamakosoku Railway Minatomirai",
+  "operator": "Yokohama City",
+  "navitime_id": "00001016",
+  "first_station_id": "00000838",
+  "stations": [
+    {
+      "name": "Yokohama",
+      "japanese_name": "横浜",
+      "station_id": "00000838",
+      "order": 1,
+      "transfers": [
+        "JR Yokosuka Line",
+        "JR Keihintohoku Line",
+        "JR Negishi Line",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "Yokohama City Subway Blue Line",
+        "Keikyu Main Line",
+        "Sotetsu Main Line",
+        "Tokyu Toyoko Line"
+      ]
+    },
+    {
+      "name": "Shin-takashima",
+      "japanese_name": "新高島",
+      "station_id": "00009365",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Minatomirai",
+      "japanese_name": "みなとみらい",
+      "station_id": "00009363",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Bashamichi",
+      "japanese_name": "馬車道",
+      "station_id": "00009367",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Nihon-odori",
+      "japanese_name": "日本大通り",
+      "station_id": "00009366",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Motomachi-Chukagai",
+      "japanese_name": "元町・中華街",
+      "station_id": "00009364",
+      "order": 6,
+      "transfers": []
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Express",
+    "Commuter S-Express",
+    "Limited Express",
+    "F Limited Express"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "825b0302",
+      "trainName": "Minatomirai Line Local",
+      "destination": "Motomachi-Chukagai",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "05",
+      "type": "Local"
+    },
+    "Express": {
+      "trainId": "825b0305",
+      "trainName": "Minatomirai Line Express",
+      "destination": "Motomachi-Chukagai",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Express"
+    },
+    "Commuter S-Express": {
+      "trainId": "825b02e8",
+      "trainName": "Minatomirai Line Commuter Limited Express",
+      "destination": "Motomachi-Chukagai",
+      "hour": 8,
+      "date": "2025-07-11",
+      "time": "13",
+      "type": "Commuter S-Express"
+    },
+    "Limited Express": {
+      "trainId": "825b0307",
+      "trainName": "Minatomirai Line Limited Express",
+      "destination": "Motomachi-Chukagai",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "08",
+      "type": "Limited Express"
+    },
+    "F Limited Express": {
+      "trainId": "825b031f",
+      "trainName": "Minatomirai Line Limited Express (F-Liner)",
+      "destination": "Motomachi-Chukagai",
+      "hour": 11,
+      "date": "2025-07-11",
+      "time": "38",
+      "type": "F Limited Express"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Yokohamakosoku Railway Minatomirai",
+      "train_type": "Local",
+      "total_stops": 6,
+      "stops": [
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.622249,
+            "lat": 35.465767
+          }
+        },
+        {
+          "name": "Shin-takashima",
+          "station_id": "00009365",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.626684,
+            "lat": 35.461964
+          }
+        },
+        {
+          "name": "Minatomirai",
+          "station_id": "00009363",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.632391,
+            "lat": 35.457809
+          }
+        },
+        {
+          "name": "Bashamichi",
+          "station_id": "00009367",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.636165,
+            "lat": 35.450167
+          }
+        },
+        {
+          "name": "Nihon-odori",
+          "station_id": "00009366",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.642525,
+            "lat": 35.446843
+          }
+        },
+        {
+          "name": "Motomachi-Chukagai",
+          "station_id": "00009364",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.650569,
+            "lat": 35.442352
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Yokohama",
+          "from_id": "00000838",
+          "to": "Shin-takashima",
+          "to_id": "00009365",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-takashima",
+          "from_id": "00009365",
+          "to": "Minatomirai",
+          "to_id": "00009363",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Minatomirai",
+          "from_id": "00009363",
+          "to": "Bashamichi",
+          "to_id": "00009367",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Bashamichi",
+          "from_id": "00009367",
+          "to": "Nihon-odori",
+          "to_id": "00009366",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nihon-odori",
+          "from_id": "00009366",
+          "to": "Motomachi-Chukagai",
+          "to_id": "00009364",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Express": {
+      "line": "Yokohamakosoku Railway Minatomirai",
+      "train_type": "Express",
+      "total_stops": 5,
+      "stops": [
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.622249,
+            "lat": 35.465767
+          }
+        },
+        {
+          "name": "Minatomirai",
+          "station_id": "00009363",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.632391,
+            "lat": 35.457809
+          }
+        },
+        {
+          "name": "Bashamichi",
+          "station_id": "00009367",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.636165,
+            "lat": 35.450167
+          }
+        },
+        {
+          "name": "Nihon-odori",
+          "station_id": "00009366",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.642525,
+            "lat": 35.446843
+          }
+        },
+        {
+          "name": "Motomachi-Chukagai",
+          "station_id": "00009364",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.650569,
+            "lat": 35.442352
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Yokohama",
+          "from_id": "00000838",
+          "to": "Minatomirai",
+          "to_id": "00009363",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Minatomirai",
+          "from_id": "00009363",
+          "to": "Bashamichi",
+          "to_id": "00009367",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Bashamichi",
+          "from_id": "00009367",
+          "to": "Nihon-odori",
+          "to_id": "00009366",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nihon-odori",
+          "from_id": "00009366",
+          "to": "Motomachi-Chukagai",
+          "to_id": "00009364",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Commuter S-Express": {
+      "line": "Yokohamakosoku Railway Minatomirai",
+      "train_type": "Commuter S-Express",
+      "total_stops": 5,
+      "stops": [
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.622249,
+            "lat": 35.465767
+          }
+        },
+        {
+          "name": "Minatomirai",
+          "station_id": "00009363",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.632391,
+            "lat": 35.457809
+          }
+        },
+        {
+          "name": "Bashamichi",
+          "station_id": "00009367",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.636165,
+            "lat": 35.450167
+          }
+        },
+        {
+          "name": "Nihon-odori",
+          "station_id": "00009366",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.642525,
+            "lat": 35.446843
+          }
+        },
+        {
+          "name": "Motomachi-Chukagai",
+          "station_id": "00009364",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.650569,
+            "lat": 35.442352
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Yokohama",
+          "from_id": "00000838",
+          "to": "Minatomirai",
+          "to_id": "00009363",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Minatomirai",
+          "from_id": "00009363",
+          "to": "Bashamichi",
+          "to_id": "00009367",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Bashamichi",
+          "from_id": "00009367",
+          "to": "Nihon-odori",
+          "to_id": "00009366",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nihon-odori",
+          "from_id": "00009366",
+          "to": "Motomachi-Chukagai",
+          "to_id": "00009364",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Limited Express": {
+      "line": "Yokohamakosoku Railway Minatomirai",
+      "train_type": "Limited Express",
+      "total_stops": 3,
+      "stops": [
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.622249,
+            "lat": 35.465767
+          }
+        },
+        {
+          "name": "Minatomirai",
+          "station_id": "00009363",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.632391,
+            "lat": 35.457809
+          }
+        },
+        {
+          "name": "Motomachi-Chukagai",
+          "station_id": "00009364",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.650569,
+            "lat": 35.442352
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Yokohama",
+          "from_id": "00000838",
+          "to": "Minatomirai",
+          "to_id": "00009363",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Minatomirai",
+          "from_id": "00009363",
+          "to": "Motomachi-Chukagai",
+          "to_id": "00009364",
+          "travel_time_minutes": 4
+        }
+      ]
+    },
+    "F Limited Express": {
+      "line": "Yokohamakosoku Railway Minatomirai",
+      "train_type": "F Limited Express",
+      "total_stops": 3,
+      "stops": [
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.622249,
+            "lat": 35.465767
+          }
+        },
+        {
+          "name": "Minatomirai",
+          "station_id": "00009363",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.632391,
+            "lat": 35.457809
+          }
+        },
+        {
+          "name": "Motomachi-Chukagai",
+          "station_id": "00009364",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.650569,
+            "lat": 35.442352
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Yokohama",
+          "from_id": "00000838",
+          "to": "Minatomirai",
+          "to_id": "00009363",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Minatomirai",
+          "from_id": "00009363",
+          "to": "Motomachi-Chukagai",
+          "to_id": "00009364",
+          "travel_time_minutes": 4
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:57:06.821Z"
+}

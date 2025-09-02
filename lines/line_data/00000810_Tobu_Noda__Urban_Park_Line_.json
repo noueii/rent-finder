@@ -1,0 +1,1066 @@
+{
+  "line": "Tobu Noda (Urban Park Line)",
+  "operator": "Tobu Railway",
+  "navitime_id": "00000810",
+  "first_station_id": "00005564",
+  "stations": [
+    {
+      "name": "Omiya (Saitama)",
+      "japanese_name": "大宮(埼玉県)",
+      "station_id": "00005564",
+      "order": 1,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Takasaki Line",
+        "JR Saikyo Line",
+        "JR Joetsu Shinkansen",
+        "JR Kawagoe Line",
+        "JR Hokuriku Shinkansen(via Nagano)",
+        "JR Tohoku Shinkansen",
+        "JR Utsunomiya Line[Tohoku Main Line]‧JR Ueno Tokyo Line",
+        "Saitama New Urban Transit New Shuttle",
+        "JR Musashino Line(Omiya)"
+      ]
+    },
+    {
+      "name": "Kita-Omiya",
+      "japanese_name": "北大宮",
+      "station_id": "00008361",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Omiya-koen",
+      "japanese_name": "大宮公園",
+      "station_id": "00005565",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Owada(Saitama)",
+      "japanese_name": "大和田(埼玉県)",
+      "station_id": "00005792",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Nanasato",
+      "japanese_name": "七里",
+      "station_id": "00003384",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Iwatsuki",
+      "japanese_name": "岩槻",
+      "station_id": "00001434",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-Iwatsuki",
+      "japanese_name": "東岩槻",
+      "station_id": "00006664",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Toyoharu",
+      "japanese_name": "豊春",
+      "station_id": "00008225",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Yagisaki",
+      "japanese_name": "八木崎",
+      "station_id": "00007575",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Kasukabe",
+      "japanese_name": "春日部",
+      "station_id": "00003591",
+      "order": 10,
+      "transfers": [
+        "Tobu Isesaki Line (SKYTREE Line)"
+      ]
+    },
+    {
+      "name": "Fujino-ushijima",
+      "japanese_name": "藤の牛島",
+      "station_id": "00006925",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Minami-Sakurai(Saitama)",
+      "japanese_name": "南桜井(埼玉県)",
+      "station_id": "00007089",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Kawama",
+      "japanese_name": "川間",
+      "station_id": "00005192",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Nanakodai",
+      "japanese_name": "七光台",
+      "station_id": "00003374",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Shimizu-koen",
+      "japanese_name": "清水公園",
+      "station_id": "00004663",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Atago(Chiba)",
+      "japanese_name": "愛宕(千葉県)",
+      "station_id": "00000196",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Nodashi",
+      "japanese_name": "野田市",
+      "station_id": "00008734",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Umesato",
+      "japanese_name": "梅郷",
+      "station_id": "00007395",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Unga",
+      "japanese_name": "運河",
+      "station_id": "00000636",
+      "order": 19,
+      "transfers": []
+    },
+    {
+      "name": "Edogawadai",
+      "japanese_name": "江戸川台",
+      "station_id": "00002425",
+      "order": 20,
+      "transfers": []
+    },
+    {
+      "name": "Hatsuishi",
+      "japanese_name": "初石",
+      "station_id": "00003604",
+      "order": 21,
+      "transfers": []
+    },
+    {
+      "name": "Nagareyama-otakanomori",
+      "japanese_name": "流山おおたかの森",
+      "station_id": "00009450",
+      "order": 22,
+      "transfers": [
+        "Tsukuba Express"
+      ]
+    },
+    {
+      "name": "Toyoshiki",
+      "japanese_name": "豊四季",
+      "station_id": "00008221",
+      "order": 23,
+      "transfers": []
+    },
+    {
+      "name": "Kashiwa",
+      "japanese_name": "柏",
+      "station_id": "00007423",
+      "order": 24,
+      "transfers": [
+        "JR Joban Line"
+      ]
+    },
+    {
+      "name": "Shin-kashiwa",
+      "japanese_name": "新柏",
+      "station_id": "00004345",
+      "order": 25,
+      "transfers": []
+    },
+    {
+      "name": "Masuo",
+      "japanese_name": "増尾",
+      "station_id": "00005415",
+      "order": 26,
+      "transfers": []
+    },
+    {
+      "name": "Sakasai",
+      "japanese_name": "逆井",
+      "station_id": "00001588",
+      "order": 27,
+      "transfers": []
+    },
+    {
+      "name": "Takayanagi",
+      "japanese_name": "高柳",
+      "station_id": "00002641",
+      "order": 28,
+      "transfers": []
+    },
+    {
+      "name": "Mutsumi",
+      "japanese_name": "六実",
+      "station_id": "00009086",
+      "order": 29,
+      "transfers": []
+    },
+    {
+      "name": "Shin-Kamagaya",
+      "japanese_name": "新鎌ヶ谷",
+      "station_id": "00004196",
+      "order": 30,
+      "transfers": [
+        "Keisei Matsudo Line",
+        "Keisei-Narita Sky Access Line Hokuso Line"
+      ]
+    },
+    {
+      "name": "Kamagaya",
+      "japanese_name": "鎌ヶ谷",
+      "station_id": "00001284",
+      "order": 31,
+      "transfers": []
+    },
+    {
+      "name": "Magomezawa",
+      "japanese_name": "馬込沢",
+      "station_id": "00007375",
+      "order": 32,
+      "transfers": []
+    },
+    {
+      "name": "Tsukada",
+      "japanese_name": "塚田",
+      "station_id": "00006360",
+      "order": 33,
+      "transfers": []
+    },
+    {
+      "name": "Shin-Funabashi",
+      "japanese_name": "新船橋",
+      "station_id": "00004296",
+      "order": 34,
+      "transfers": []
+    },
+    {
+      "name": "Funabashi",
+      "japanese_name": "船橋",
+      "station_id": "00005286",
+      "order": 35,
+      "transfers": [
+        "JR Sobu Main Line(Tokyo-Choshi)"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Express",
+    "Section Express"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "826e0199",
+      "trainName": "Tobu Noda Line [Urban Park Line]",
+      "destination": "Kasukabe",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "01",
+      "type": "Local"
+    },
+    "Express": {
+      "trainId": "826e019b",
+      "trainName": "Tobu Noda Line [Urban Park Line] Express",
+      "destination": "Funabashi",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "11",
+      "type": "Express"
+    },
+    "Section Express": {
+      "trainId": "826e01fc",
+      "trainName": "Tobu Noda Line [Urban Park Line] Section Express",
+      "destination": "Kashiwa",
+      "hour": 16,
+      "date": "2025-07-11",
+      "time": "14",
+      "type": "Section Express"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Tobu Noda (Urban Park Line)",
+      "train_type": "Local",
+      "total_stops": 10,
+      "stops": [
+        {
+          "name": "Omiya (Saitama)",
+          "station_id": "00005564",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.624462,
+            "lat": 35.907575
+          }
+        },
+        {
+          "name": "Kita-Omiya",
+          "station_id": "00008361",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.624724,
+            "lat": 35.917178
+          }
+        },
+        {
+          "name": "Omiya-koen",
+          "station_id": "00005565",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.632962,
+            "lat": 35.923817
+          }
+        },
+        {
+          "name": "Owada(Saitama)",
+          "station_id": "00005792",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.650417,
+            "lat": 35.929349
+          }
+        },
+        {
+          "name": "Nanasato",
+          "station_id": "00003384",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.666285,
+            "lat": 35.936587
+          }
+        },
+        {
+          "name": "Iwatsuki",
+          "station_id": "00001434",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.69287,
+            "lat": 35.950124
+          }
+        },
+        {
+          "name": "Higashi-Iwatsuki",
+          "station_id": "00006664",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.712252,
+            "lat": 35.96338
+          }
+        },
+        {
+          "name": "Toyoharu",
+          "station_id": "00008225",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.726141,
+            "lat": 35.968023
+          }
+        },
+        {
+          "name": "Yagisaki",
+          "station_id": "00007575",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.741821,
+            "lat": 35.97835
+          }
+        },
+        {
+          "name": "Kasukabe",
+          "station_id": "00003591",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.752365,
+            "lat": 35.980336
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Omiya (Saitama)",
+          "from_id": "00005564",
+          "to": "Kita-Omiya",
+          "to_id": "00008361",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kita-Omiya",
+          "from_id": "00008361",
+          "to": "Omiya-koen",
+          "to_id": "00005565",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Omiya-koen",
+          "from_id": "00005565",
+          "to": "Owada(Saitama)",
+          "to_id": "00005792",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Owada(Saitama)",
+          "from_id": "00005792",
+          "to": "Nanasato",
+          "to_id": "00003384",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nanasato",
+          "from_id": "00003384",
+          "to": "Iwatsuki",
+          "to_id": "00001434",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Iwatsuki",
+          "from_id": "00001434",
+          "to": "Higashi-Iwatsuki",
+          "to_id": "00006664",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Higashi-Iwatsuki",
+          "from_id": "00006664",
+          "to": "Toyoharu",
+          "to_id": "00008225",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Toyoharu",
+          "from_id": "00008225",
+          "to": "Yagisaki",
+          "to_id": "00007575",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yagisaki",
+          "from_id": "00007575",
+          "to": "Kasukabe",
+          "to_id": "00003591",
+          "travel_time_minutes": 1
+        }
+      ]
+    },
+    "Express": {
+      "line": "Tobu Noda (Urban Park Line)",
+      "train_type": "Express",
+      "total_stops": 17,
+      "stops": [
+        {
+          "name": "Omiya (Saitama)",
+          "station_id": "00005564",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.624462,
+            "lat": 35.907575
+          }
+        },
+        {
+          "name": "Iwatsuki",
+          "station_id": "00001434",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.69287,
+            "lat": 35.950124
+          }
+        },
+        {
+          "name": "Kasukabe",
+          "station_id": "00003591",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.752365,
+            "lat": 35.980336
+          }
+        },
+        {
+          "name": "Fujino-ushijima",
+          "station_id": "00006925",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.778019,
+            "lat": 35.980268
+          }
+        },
+        {
+          "name": "Minami-Sakurai(Saitama)",
+          "station_id": "00007089",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.808575,
+            "lat": 35.980338
+          }
+        },
+        {
+          "name": "Kawama",
+          "station_id": "00005192",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.833805,
+            "lat": 35.979157
+          }
+        },
+        {
+          "name": "Nanakodai",
+          "station_id": "00003374",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.852884,
+            "lat": 35.970672
+          }
+        },
+        {
+          "name": "Shimizu-koen",
+          "station_id": "00004663",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.859937,
+            "lat": 35.959357
+          }
+        },
+        {
+          "name": "Atago(Chiba)",
+          "station_id": "00000196",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.86443,
+            "lat": 35.950722
+          }
+        },
+        {
+          "name": "Nodashi",
+          "station_id": "00008734",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.870281,
+            "lat": 35.943832
+          }
+        },
+        {
+          "name": "Umesato",
+          "station_id": "00007395",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.891221,
+            "lat": 35.931354
+          }
+        },
+        {
+          "name": "Unga",
+          "station_id": "00000636",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.906099,
+            "lat": 35.913993
+          }
+        },
+        {
+          "name": "Nagareyama-otakanomori",
+          "station_id": "00009450",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.925883,
+            "lat": 35.872017
+          }
+        },
+        {
+          "name": "Kashiwa",
+          "station_id": "00007423",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.971013,
+            "lat": 35.862481
+          }
+        },
+        {
+          "name": "Takayanagi",
+          "station_id": "00002641",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.998822,
+            "lat": 35.808174
+          }
+        },
+        {
+          "name": "Shin-Kamagaya",
+          "station_id": "00004196",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.999494,
+            "lat": 35.780216
+          }
+        },
+        {
+          "name": "Funabashi",
+          "station_id": "00005286",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.98417,
+            "lat": 35.702037
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Omiya (Saitama)",
+          "from_id": "00005564",
+          "to": "Iwatsuki",
+          "to_id": "00001434",
+          "travel_time_minutes": 8
+        },
+        {
+          "from": "Iwatsuki",
+          "from_id": "00001434",
+          "to": "Kasukabe",
+          "to_id": "00003591",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Kasukabe",
+          "from_id": "00003591",
+          "to": "Fujino-ushijima",
+          "to_id": "00006925",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Fujino-ushijima",
+          "from_id": "00006925",
+          "to": "Minami-Sakurai(Saitama)",
+          "to_id": "00007089",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Minami-Sakurai(Saitama)",
+          "from_id": "00007089",
+          "to": "Kawama",
+          "to_id": "00005192",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kawama",
+          "from_id": "00005192",
+          "to": "Nanakodai",
+          "to_id": "00003374",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nanakodai",
+          "from_id": "00003374",
+          "to": "Shimizu-koen",
+          "to_id": "00004663",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shimizu-koen",
+          "from_id": "00004663",
+          "to": "Atago(Chiba)",
+          "to_id": "00000196",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Atago(Chiba)",
+          "from_id": "00000196",
+          "to": "Nodashi",
+          "to_id": "00008734",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nodashi",
+          "from_id": "00008734",
+          "to": "Umesato",
+          "to_id": "00007395",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Umesato",
+          "from_id": "00007395",
+          "to": "Unga",
+          "to_id": "00000636",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Unga",
+          "from_id": "00000636",
+          "to": "Nagareyama-otakanomori",
+          "to_id": "00009450",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Nagareyama-otakanomori",
+          "from_id": "00009450",
+          "to": "Kashiwa",
+          "to_id": "00007423",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Kashiwa",
+          "from_id": "00007423",
+          "to": "Takayanagi",
+          "to_id": "00002641",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Takayanagi",
+          "from_id": "00002641",
+          "to": "Shin-Kamagaya",
+          "to_id": "00004196",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Shin-Kamagaya",
+          "from_id": "00004196",
+          "to": "Funabashi",
+          "to_id": "00005286",
+          "travel_time_minutes": 9
+        }
+      ]
+    },
+    "Section Express": {
+      "line": "Tobu Noda (Urban Park Line)",
+      "train_type": "Section Express",
+      "total_stops": 17,
+      "stops": [
+        {
+          "name": "Omiya (Saitama)",
+          "station_id": "00005564",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.624462,
+            "lat": 35.907575
+          }
+        },
+        {
+          "name": "Iwatsuki",
+          "station_id": "00001434",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.69287,
+            "lat": 35.950124
+          }
+        },
+        {
+          "name": "Kasukabe",
+          "station_id": "00003591",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.752365,
+            "lat": 35.980336
+          }
+        },
+        {
+          "name": "Fujino-ushijima",
+          "station_id": "00006925",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.778019,
+            "lat": 35.980268
+          }
+        },
+        {
+          "name": "Minami-Sakurai(Saitama)",
+          "station_id": "00007089",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.808575,
+            "lat": 35.980338
+          }
+        },
+        {
+          "name": "Kawama",
+          "station_id": "00005192",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.833805,
+            "lat": 35.979157
+          }
+        },
+        {
+          "name": "Nanakodai",
+          "station_id": "00003374",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.852884,
+            "lat": 35.970672
+          }
+        },
+        {
+          "name": "Shimizu-koen",
+          "station_id": "00004663",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.859937,
+            "lat": 35.959357
+          }
+        },
+        {
+          "name": "Atago(Chiba)",
+          "station_id": "00000196",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.86443,
+            "lat": 35.950722
+          }
+        },
+        {
+          "name": "Nodashi",
+          "station_id": "00008734",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.870281,
+            "lat": 35.943832
+          }
+        },
+        {
+          "name": "Umesato",
+          "station_id": "00007395",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.891221,
+            "lat": 35.931354
+          }
+        },
+        {
+          "name": "Unga",
+          "station_id": "00000636",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.906099,
+            "lat": 35.913993
+          }
+        },
+        {
+          "name": "Edogawadai",
+          "station_id": "00002425",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.91029,
+            "lat": 35.897475
+          }
+        },
+        {
+          "name": "Hatsuishi",
+          "station_id": "00003604",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.917595,
+            "lat": 35.884069
+          }
+        },
+        {
+          "name": "Nagareyama-otakanomori",
+          "station_id": "00009450",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.925883,
+            "lat": 35.872017
+          }
+        },
+        {
+          "name": "Toyoshiki",
+          "station_id": "00008221",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.939319,
+            "lat": 35.8665
+          }
+        },
+        {
+          "name": "Kashiwa",
+          "station_id": "00007423",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.971013,
+            "lat": 35.862481
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Omiya (Saitama)",
+          "from_id": "00005564",
+          "to": "Iwatsuki",
+          "to_id": "00001434",
+          "travel_time_minutes": 8
+        },
+        {
+          "from": "Iwatsuki",
+          "from_id": "00001434",
+          "to": "Kasukabe",
+          "to_id": "00003591",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Kasukabe",
+          "from_id": "00003591",
+          "to": "Fujino-ushijima",
+          "to_id": "00006925",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Fujino-ushijima",
+          "from_id": "00006925",
+          "to": "Minami-Sakurai(Saitama)",
+          "to_id": "00007089",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Minami-Sakurai(Saitama)",
+          "from_id": "00007089",
+          "to": "Kawama",
+          "to_id": "00005192",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kawama",
+          "from_id": "00005192",
+          "to": "Nanakodai",
+          "to_id": "00003374",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nanakodai",
+          "from_id": "00003374",
+          "to": "Shimizu-koen",
+          "to_id": "00004663",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shimizu-koen",
+          "from_id": "00004663",
+          "to": "Atago(Chiba)",
+          "to_id": "00000196",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Atago(Chiba)",
+          "from_id": "00000196",
+          "to": "Nodashi",
+          "to_id": "00008734",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nodashi",
+          "from_id": "00008734",
+          "to": "Umesato",
+          "to_id": "00007395",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Umesato",
+          "from_id": "00007395",
+          "to": "Unga",
+          "to_id": "00000636",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Unga",
+          "from_id": "00000636",
+          "to": "Edogawadai",
+          "to_id": "00002425",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Edogawadai",
+          "from_id": "00002425",
+          "to": "Hatsuishi",
+          "to_id": "00003604",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hatsuishi",
+          "from_id": "00003604",
+          "to": "Nagareyama-otakanomori",
+          "to_id": "00009450",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nagareyama-otakanomori",
+          "from_id": "00009450",
+          "to": "Toyoshiki",
+          "to_id": "00008221",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Toyoshiki",
+          "from_id": "00008221",
+          "to": "Kashiwa",
+          "to_id": "00007423",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:56:46.034Z"
+}

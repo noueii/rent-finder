@@ -1,0 +1,1286 @@
+{
+  "line": "Tobu Isesaki Line (Skytree Line)",
+  "operator": "Tobu Railway",
+  "navitime_id": "00000798",
+  "first_station_id": "00005270",
+  "stations": [
+    {
+      "name": "Asakusa",
+      "japanese_name": "浅草",
+      "station_id": "00005270",
+      "order": 1,
+      "transfers": [
+        "Tokyo Metro Ginza Line",
+        "Toei Asakusa Line"
+      ]
+    },
+    {
+      "name": "Tokyo Skytree[Narihirabashi]",
+      "japanese_name": "とうきょうスカイツリー[業平橋]",
+      "station_id": "00001789",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Hikifune",
+      "japanese_name": "曳舟",
+      "station_id": "00000650",
+      "order": 3,
+      "transfers": [
+        "Tobu Kameido Line",
+        "Tobu Isesaki Line (SKYTREE Line)( Oshiage-Hikifune)"
+      ]
+    },
+    {
+      "name": "Higashi-mukojima",
+      "japanese_name": "東向島",
+      "station_id": "00006686",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Kanegafuchi",
+      "japanese_name": "鐘ヶ淵",
+      "station_id": "00003902",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Horikiri",
+      "japanese_name": "堀切",
+      "station_id": "00008431",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Ushida(Tokyo)",
+      "japanese_name": "牛田(東京都)",
+      "station_id": "00001690",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Kita-senju",
+      "japanese_name": "北千住",
+      "station_id": "00008355",
+      "order": 8,
+      "transfers": [
+        "JR Joban Line",
+        "Tokyo Metro Chiyoda Line",
+        "Tokyo Metro Hibiya Line",
+        "Tsukuba Express"
+      ]
+    },
+    {
+      "name": "Kosuge",
+      "japanese_name": "小菅",
+      "station_id": "00003701",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Gotanno",
+      "japanese_name": "五反野",
+      "station_id": "00002245",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Umejima",
+      "japanese_name": "梅島",
+      "station_id": "00007403",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Nishiarai",
+      "japanese_name": "西新井",
+      "station_id": "00004812",
+      "order": 12,
+      "transfers": [
+        "Tobu Daishi Line"
+      ]
+    },
+    {
+      "name": "Takenotsuka",
+      "japanese_name": "竹ノ塚",
+      "station_id": "00005968",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Yatsuka",
+      "japanese_name": "谷塚",
+      "station_id": "00005876",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Soka",
+      "japanese_name": "草加",
+      "station_id": "00005403",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Dokkyodaigakumae(Soka-Matsubara)",
+      "japanese_name": "獨協大学前[草加松原]",
+      "station_id": "00003836",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Shinden(Saitama)",
+      "japanese_name": "新田(埼玉県)",
+      "station_id": "00004324",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Gamo",
+      "japanese_name": "蒲生",
+      "station_id": "00001273",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Shin-koshigaya",
+      "japanese_name": "新越谷",
+      "station_id": "00004178",
+      "order": 19,
+      "transfers": []
+    },
+    {
+      "name": "Koshigaya",
+      "japanese_name": "越谷",
+      "station_id": "00000721",
+      "order": 20,
+      "transfers": []
+    },
+    {
+      "name": "Kita-koshigaya",
+      "japanese_name": "北越谷",
+      "station_id": "00008280",
+      "order": 21,
+      "transfers": []
+    },
+    {
+      "name": "Obukuro",
+      "japanese_name": "大袋",
+      "station_id": "00005686",
+      "order": 22,
+      "transfers": []
+    },
+    {
+      "name": "Sengendai",
+      "japanese_name": "せんげん台",
+      "station_id": "00000072",
+      "order": 23,
+      "transfers": []
+    },
+    {
+      "name": "Takesato",
+      "japanese_name": "武里",
+      "station_id": "00007981",
+      "order": 24,
+      "transfers": []
+    },
+    {
+      "name": "Ichinowari",
+      "japanese_name": "一ノ割",
+      "station_id": "00000444",
+      "order": 25,
+      "transfers": []
+    },
+    {
+      "name": "Kasukabe",
+      "japanese_name": "春日部",
+      "station_id": "00003591",
+      "order": 26,
+      "transfers": [
+        "Tobu Noda Line (Urban Park Line)"
+      ]
+    },
+    {
+      "name": "Kitakasukabe",
+      "japanese_name": "北春日部",
+      "station_id": "00008327",
+      "order": 27,
+      "transfers": []
+    },
+    {
+      "name": "Himemiya",
+      "japanese_name": "姫宮",
+      "station_id": "00007803",
+      "order": 28,
+      "transfers": []
+    },
+    {
+      "name": "Tobu-Dobutsukoen",
+      "japanese_name": "東武動物公園",
+      "station_id": "00006835",
+      "order": 29,
+      "transfers": [
+        "Tobu Nikko Line"
+      ]
+    },
+    {
+      "name": "Wado",
+      "japanese_name": "和戸",
+      "station_id": "00009108",
+      "order": 30,
+      "transfers": []
+    },
+    {
+      "name": "Kuki",
+      "japanese_name": "久喜",
+      "station_id": "00001598",
+      "order": 31,
+      "transfers": [
+        "JR Utsunomiya Line[Tohoku Main Line]‧JR Ueno Tokyo Line"
+      ]
+    },
+    {
+      "name": "Washinomiya",
+      "japanese_name": "鷲宮",
+      "station_id": "00009138",
+      "order": 32,
+      "transfers": []
+    },
+    {
+      "name": "Hanasaki",
+      "japanese_name": "花崎",
+      "station_id": "00001103",
+      "order": 33,
+      "transfers": []
+    },
+    {
+      "name": "Kazo",
+      "japanese_name": "加須",
+      "station_id": "00001023",
+      "order": 34,
+      "transfers": []
+    },
+    {
+      "name": "Minamihanyu",
+      "japanese_name": "南羽生",
+      "station_id": "00007045",
+      "order": 35,
+      "transfers": []
+    },
+    {
+      "name": "Hanyu",
+      "japanese_name": "羽生",
+      "station_id": "00000571",
+      "order": 36,
+      "transfers": [
+        "Chichibu Railway Line"
+      ]
+    },
+    {
+      "name": "Kawamata",
+      "japanese_name": "川俣",
+      "station_id": "00005243",
+      "order": 37,
+      "transfers": []
+    },
+    {
+      "name": "Morinji-mae",
+      "japanese_name": "茂林寺前",
+      "station_id": "00008632",
+      "order": 38,
+      "transfers": []
+    },
+    {
+      "name": "Tatebayashi",
+      "japanese_name": "館林",
+      "station_id": "00001366",
+      "order": 39,
+      "transfers": [
+        "Tobu Sano Line",
+        "Tobu Koizumi Line(Tatebayashi-Nishikoizumi)"
+      ]
+    },
+    {
+      "name": "Tatara",
+      "japanese_name": "多々良",
+      "station_id": "00005453",
+      "order": 40,
+      "transfers": []
+    },
+    {
+      "name": "Agata",
+      "japanese_name": "県",
+      "station_id": "00002094",
+      "order": 41,
+      "transfers": []
+    },
+    {
+      "name": "Fukui",
+      "japanese_name": "福居",
+      "station_id": "00008016",
+      "order": 42,
+      "transfers": []
+    },
+    {
+      "name": "Tobu-Izumi",
+      "japanese_name": "東武和泉",
+      "station_id": "00006838",
+      "order": 43,
+      "transfers": []
+    },
+    {
+      "name": "Ashikagashi",
+      "japanese_name": "足利市〔東武線〕",
+      "station_id": "00005432",
+      "order": 44,
+      "transfers": []
+    },
+    {
+      "name": "Yashuyamabe",
+      "japanese_name": "野州山辺",
+      "station_id": "00008718",
+      "order": 45,
+      "transfers": []
+    },
+    {
+      "name": "Niragawa",
+      "japanese_name": "韮川",
+      "station_id": "00007322",
+      "order": 46,
+      "transfers": []
+    },
+    {
+      "name": "Ota (Gunma)",
+      "japanese_name": "太田(群馬県)",
+      "station_id": "00005477",
+      "order": 47,
+      "transfers": [
+        "Tobu Kiryu Line",
+        "Tobu Koizumi Line(Higashikoizumi-Ota)"
+      ]
+    },
+    {
+      "name": "Hosoya(Gumma)",
+      "japanese_name": "細谷(群馬県)",
+      "station_id": "00002828",
+      "order": 48,
+      "transfers": []
+    },
+    {
+      "name": "Kizaki",
+      "japanese_name": "木崎",
+      "station_id": "00008654",
+      "order": 49,
+      "transfers": []
+    },
+    {
+      "name": "Serada",
+      "japanese_name": "世良田",
+      "station_id": "00004608",
+      "order": 50,
+      "transfers": []
+    },
+    {
+      "name": "Sakaimachi",
+      "japanese_name": "境町",
+      "station_id": "00001768",
+      "order": 51,
+      "transfers": []
+    },
+    {
+      "name": "Goshi",
+      "japanese_name": "剛志",
+      "station_id": "00002651",
+      "order": 52,
+      "transfers": []
+    },
+    {
+      "name": "Shin-isesaki",
+      "japanese_name": "新伊勢崎",
+      "station_id": "00004164",
+      "order": 53,
+      "transfers": []
+    },
+    {
+      "name": "Isesaki",
+      "japanese_name": "伊勢崎",
+      "station_id": "00000323",
+      "order": 54,
+      "transfers": [
+        "JR Ryomo Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Section Express",
+    "Local",
+    "Sec Semi Exp",
+    "Limited Express"
+  ],
+  "example_trains": {
+    "Section Express": {
+      "trainId": "82620310",
+      "trainName": "Tobu Isesaki Line(Sky Tree Line)Section Express",
+      "destination": "Minamikurihashi",
+      "hour": 4,
+      "date": "2025-07-11",
+      "time": "58",
+      "type": "Section Express"
+    },
+    "Local": {
+      "trainId": "82620199",
+      "trainName": "Tobu Isesaki Line(Sky Tree Line)",
+      "destination": "Kita-senju",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "02",
+      "type": "Local"
+    },
+    "Sec Semi Exp": {
+      "trainId": "8262026b",
+      "trainName": "Tobu Isesaki Line(Sky Tree Line)Sectional Semi-Express",
+      "destination": "Minamikurihashi",
+      "hour": 6,
+      "date": "2025-07-11",
+      "time": "13",
+      "type": "Sec Semi Exp"
+    },
+    "Limited Express": {
+      "trainId": "826200b4",
+      "trainName": "SPACIA X 5 Go",
+      "destination": "Tobu-Nikko",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Limited Express"
+    }
+  },
+  "train_stop_details": {
+    "Section Express": {
+      "line": "Tobu Isesaki Line (Skytree Line)",
+      "train_type": "Section Express",
+      "total_stops": 15,
+      "stops": [
+        {
+          "name": "Asakusa",
+          "station_id": "00005270",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.798398,
+            "lat": 35.71207
+          }
+        },
+        {
+          "name": "Tokyo Skytree[Narihirabashi]",
+          "station_id": "00001789",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.810608,
+            "lat": 35.710635
+          }
+        },
+        {
+          "name": "Hikifune",
+          "station_id": "00000650",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.816669,
+            "lat": 35.718084
+          }
+        },
+        {
+          "name": "Higashi-mukojima",
+          "station_id": "00006686",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.819418,
+            "lat": 35.72484
+          }
+        },
+        {
+          "name": "Kanegafuchi",
+          "station_id": "00003902",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.820019,
+            "lat": 35.73341
+          }
+        },
+        {
+          "name": "Horikiri",
+          "station_id": "00008431",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.817638,
+            "lat": 35.743247
+          }
+        },
+        {
+          "name": "Ushida(Tokyo)",
+          "station_id": "00001690",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.811291,
+            "lat": 35.744372
+          }
+        },
+        {
+          "name": "Kita-senju",
+          "station_id": "00008355",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.805177,
+            "lat": 35.749639
+          }
+        },
+        {
+          "name": "Nishiarai",
+          "station_id": "00004812",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.790443,
+            "lat": 35.777197
+          }
+        },
+        {
+          "name": "Soka",
+          "station_id": "00005403",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.80348,
+            "lat": 35.828485
+          }
+        },
+        {
+          "name": "Shin-koshigaya",
+          "station_id": "00004178",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.789838,
+            "lat": 35.875547
+          }
+        },
+        {
+          "name": "Koshigaya",
+          "station_id": "00000721",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.785947,
+            "lat": 35.888332
+          }
+        },
+        {
+          "name": "Sengendai",
+          "station_id": "00000072",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.774525,
+            "lat": 35.935778
+          }
+        },
+        {
+          "name": "Kasukabe",
+          "station_id": "00003591",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.752365,
+            "lat": 35.980336
+          }
+        },
+        {
+          "name": "Tobu-Dobutsukoen",
+          "station_id": "00006835",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.72668,
+            "lat": 36.024936
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Asakusa",
+          "from_id": "00005270",
+          "to": "Tokyo Skytree[Narihirabashi]",
+          "to_id": "00001789",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tokyo Skytree[Narihirabashi]",
+          "from_id": "00001789",
+          "to": "Hikifune",
+          "to_id": "00000650",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hikifune",
+          "from_id": "00000650",
+          "to": "Higashi-mukojima",
+          "to_id": "00006686",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Higashi-mukojima",
+          "from_id": "00006686",
+          "to": "Kanegafuchi",
+          "to_id": "00003902",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kanegafuchi",
+          "from_id": "00003902",
+          "to": "Horikiri",
+          "to_id": "00008431",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Horikiri",
+          "from_id": "00008431",
+          "to": "Ushida(Tokyo)",
+          "to_id": "00001690",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ushida(Tokyo)",
+          "from_id": "00001690",
+          "to": "Kita-senju",
+          "to_id": "00008355",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kita-senju",
+          "from_id": "00008355",
+          "to": "Nishiarai",
+          "to_id": "00004812",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Nishiarai",
+          "from_id": "00004812",
+          "to": "Soka",
+          "to_id": "00005403",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Soka",
+          "from_id": "00005403",
+          "to": "Shin-koshigaya",
+          "to_id": "00004178",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Shin-koshigaya",
+          "from_id": "00004178",
+          "to": "Koshigaya",
+          "to_id": "00000721",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Koshigaya",
+          "from_id": "00000721",
+          "to": "Sengendai",
+          "to_id": "00000072",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Sengendai",
+          "from_id": "00000072",
+          "to": "Kasukabe",
+          "to_id": "00003591",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Kasukabe",
+          "from_id": "00003591",
+          "to": "Tobu-Dobutsukoen",
+          "to_id": "00006835",
+          "travel_time_minutes": 5
+        }
+      ]
+    },
+    "Local": {
+      "line": "Tobu Isesaki Line (Skytree Line)",
+      "train_type": "Local",
+      "total_stops": 8,
+      "stops": [
+        {
+          "name": "Asakusa",
+          "station_id": "00005270",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.798398,
+            "lat": 35.71207
+          }
+        },
+        {
+          "name": "Tokyo Skytree[Narihirabashi]",
+          "station_id": "00001789",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.810608,
+            "lat": 35.710635
+          }
+        },
+        {
+          "name": "Hikifune",
+          "station_id": "00000650",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.816669,
+            "lat": 35.718084
+          }
+        },
+        {
+          "name": "Higashi-mukojima",
+          "station_id": "00006686",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.819418,
+            "lat": 35.72484
+          }
+        },
+        {
+          "name": "Kanegafuchi",
+          "station_id": "00003902",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.820019,
+            "lat": 35.73341
+          }
+        },
+        {
+          "name": "Horikiri",
+          "station_id": "00008431",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.817638,
+            "lat": 35.743247
+          }
+        },
+        {
+          "name": "Ushida(Tokyo)",
+          "station_id": "00001690",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.811291,
+            "lat": 35.744372
+          }
+        },
+        {
+          "name": "Kita-senju",
+          "station_id": "00008355",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.805177,
+            "lat": 35.749639
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Asakusa",
+          "from_id": "00005270",
+          "to": "Tokyo Skytree[Narihirabashi]",
+          "to_id": "00001789",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Tokyo Skytree[Narihirabashi]",
+          "from_id": "00001789",
+          "to": "Hikifune",
+          "to_id": "00000650",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Hikifune",
+          "from_id": "00000650",
+          "to": "Higashi-mukojima",
+          "to_id": "00006686",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Higashi-mukojima",
+          "from_id": "00006686",
+          "to": "Kanegafuchi",
+          "to_id": "00003902",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kanegafuchi",
+          "from_id": "00003902",
+          "to": "Horikiri",
+          "to_id": "00008431",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Horikiri",
+          "from_id": "00008431",
+          "to": "Ushida(Tokyo)",
+          "to_id": "00001690",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ushida(Tokyo)",
+          "from_id": "00001690",
+          "to": "Kita-senju",
+          "to_id": "00008355",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Sec Semi Exp": {
+      "line": "Tobu Isesaki Line (Skytree Line)",
+      "train_type": "Sec Semi Exp",
+      "total_stops": 21,
+      "stops": [
+        {
+          "name": "Asakusa",
+          "station_id": "00005270",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.798398,
+            "lat": 35.71207
+          }
+        },
+        {
+          "name": "Tokyo Skytree[Narihirabashi]",
+          "station_id": "00001789",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.810608,
+            "lat": 35.710635
+          }
+        },
+        {
+          "name": "Hikifune",
+          "station_id": "00000650",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.816669,
+            "lat": 35.718084
+          }
+        },
+        {
+          "name": "Higashi-mukojima",
+          "station_id": "00006686",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.819418,
+            "lat": 35.72484
+          }
+        },
+        {
+          "name": "Kanegafuchi",
+          "station_id": "00003902",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.820019,
+            "lat": 35.73341
+          }
+        },
+        {
+          "name": "Horikiri",
+          "station_id": "00008431",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.817638,
+            "lat": 35.743247
+          }
+        },
+        {
+          "name": "Ushida(Tokyo)",
+          "station_id": "00001690",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.811291,
+            "lat": 35.744372
+          }
+        },
+        {
+          "name": "Kita-senju",
+          "station_id": "00008355",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.805177,
+            "lat": 35.749639
+          }
+        },
+        {
+          "name": "Nishiarai",
+          "station_id": "00004812",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.790443,
+            "lat": 35.777197
+          }
+        },
+        {
+          "name": "Soka",
+          "station_id": "00005403",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.80348,
+            "lat": 35.828485
+          }
+        },
+        {
+          "name": "Shin-koshigaya",
+          "station_id": "00004178",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.789838,
+            "lat": 35.875547
+          }
+        },
+        {
+          "name": "Koshigaya",
+          "station_id": "00000721",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.785947,
+            "lat": 35.888332
+          }
+        },
+        {
+          "name": "Kita-koshigaya",
+          "station_id": "00008280",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.779848,
+            "lat": 35.902199
+          }
+        },
+        {
+          "name": "Obukuro",
+          "station_id": "00005686",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.777929,
+            "lat": 35.924159
+          }
+        },
+        {
+          "name": "Sengendai",
+          "station_id": "00000072",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.774525,
+            "lat": 35.935778
+          }
+        },
+        {
+          "name": "Takesato",
+          "station_id": "00007981",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770615,
+            "lat": 35.948999
+          }
+        },
+        {
+          "name": "Ichinowari",
+          "station_id": "00000444",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.766303,
+            "lat": 35.964141
+          }
+        },
+        {
+          "name": "Kasukabe",
+          "station_id": "00003591",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.752365,
+            "lat": 35.980336
+          }
+        },
+        {
+          "name": "Kitakasukabe",
+          "station_id": "00008327",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.744005,
+            "lat": 35.990592
+          }
+        },
+        {
+          "name": "Himemiya",
+          "station_id": "00007803",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.738839,
+            "lat": 36.00415
+          }
+        },
+        {
+          "name": "Tobu-Dobutsukoen",
+          "station_id": "00006835",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.72668,
+            "lat": 36.024936
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Asakusa",
+          "from_id": "00005270",
+          "to": "Tokyo Skytree[Narihirabashi]",
+          "to_id": "00001789",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tokyo Skytree[Narihirabashi]",
+          "from_id": "00001789",
+          "to": "Hikifune",
+          "to_id": "00000650",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hikifune",
+          "from_id": "00000650",
+          "to": "Higashi-mukojima",
+          "to_id": "00006686",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Higashi-mukojima",
+          "from_id": "00006686",
+          "to": "Kanegafuchi",
+          "to_id": "00003902",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kanegafuchi",
+          "from_id": "00003902",
+          "to": "Horikiri",
+          "to_id": "00008431",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Horikiri",
+          "from_id": "00008431",
+          "to": "Ushida(Tokyo)",
+          "to_id": "00001690",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ushida(Tokyo)",
+          "from_id": "00001690",
+          "to": "Kita-senju",
+          "to_id": "00008355",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kita-senju",
+          "from_id": "00008355",
+          "to": "Nishiarai",
+          "to_id": "00004812",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Nishiarai",
+          "from_id": "00004812",
+          "to": "Soka",
+          "to_id": "00005403",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Soka",
+          "from_id": "00005403",
+          "to": "Shin-koshigaya",
+          "to_id": "00004178",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Shin-koshigaya",
+          "from_id": "00004178",
+          "to": "Koshigaya",
+          "to_id": "00000721",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Koshigaya",
+          "from_id": "00000721",
+          "to": "Kita-koshigaya",
+          "to_id": "00008280",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kita-koshigaya",
+          "from_id": "00008280",
+          "to": "Obukuro",
+          "to_id": "00005686",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Obukuro",
+          "from_id": "00005686",
+          "to": "Sengendai",
+          "to_id": "00000072",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Sengendai",
+          "from_id": "00000072",
+          "to": "Takesato",
+          "to_id": "00007981",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Takesato",
+          "from_id": "00007981",
+          "to": "Ichinowari",
+          "to_id": "00000444",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ichinowari",
+          "from_id": "00000444",
+          "to": "Kasukabe",
+          "to_id": "00003591",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kasukabe",
+          "from_id": "00003591",
+          "to": "Kitakasukabe",
+          "to_id": "00008327",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kitakasukabe",
+          "from_id": "00008327",
+          "to": "Himemiya",
+          "to_id": "00007803",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Himemiya",
+          "from_id": "00007803",
+          "to": "Tobu-Dobutsukoen",
+          "to_id": "00006835",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Limited Express": {
+      "line": "Tobu Isesaki Line (Skytree Line)",
+      "train_type": "Limited Express",
+      "total_stops": 4,
+      "stops": [
+        {
+          "name": "Asakusa",
+          "station_id": "00005270",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.798398,
+            "lat": 35.71207
+          }
+        },
+        {
+          "name": "Tokyo Skytree[Narihirabashi]",
+          "station_id": "00001789",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.810608,
+            "lat": 35.710635
+          }
+        },
+        {
+          "name": "Kita-senju",
+          "station_id": "00008355",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.805177,
+            "lat": 35.749639
+          }
+        },
+        {
+          "name": "Kasukabe",
+          "station_id": "00003591",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.752365,
+            "lat": 35.980336
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Asakusa",
+          "from_id": "00005270",
+          "to": "Tokyo Skytree[Narihirabashi]",
+          "to_id": "00001789",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tokyo Skytree[Narihirabashi]",
+          "from_id": "00001789",
+          "to": "Kita-senju",
+          "to_id": "00008355",
+          "travel_time_minutes": 8
+        },
+        {
+          "from": "Kita-senju",
+          "from_id": "00008355",
+          "to": "Kasukabe",
+          "to_id": "00003591",
+          "travel_time_minutes": 20
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:56:28.288Z"
+}

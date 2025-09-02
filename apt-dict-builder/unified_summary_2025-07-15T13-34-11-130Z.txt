@@ -1,0 +1,66 @@
+Unified Apartment Dictionary Summary
+====================================
+
+Generated: 7/15/2025, 4:34:11 PM
+Total Apartments: 6887
+Data Sources: realestate.co.jp, yolo-home.com
+
+Statistics
+----------
+realestate.co.jp: 4575 apartments from 6 files
+yolo-home.com: 2384 apartments from 1 files
+Duplicates removed: 72
+
+Price Analysis
+--------------
+Monthly Rent Range: ¥48,000 - ¥160,000
+Average Monthly Rent: ¥122,266
+
+Size Analysis
+-------------
+Size Range: 25.0m² - 557.0m²
+Average Size: 30.8m²
+
+Source Distribution
+-------------------
+realestate.co.jp: 4503 apartments (65.4%)
+yolo-home.com: 2384 apartments (34.6%)
+
+Layout Distribution
+-------------------
+1K: 3026 apartments (43.9%)
+1DK: 1256 apartments (18.2%)
+1LDK: 966 apartments (14.0%)
+1R: 797 apartments (11.6%)
+2DK: 338 apartments (4.9%)
+2K: 253 apartments (3.7%)
+2LDK: 120 apartments (1.7%)
+3DK: 53 apartments (0.8%)
+3LDK: 35 apartments (0.5%)
+1SLDK: 9 apartments (0.1%)
+
+Ward Distribution (Top 10)
+--------------------------
+Setagaya-ku: 510 apartments
+Shinjuku-ku: 484 apartments
+Taito-ku: 307 apartments
+Koto-ku: 263 apartments
+Sumida-ku: 261 apartments
+Toshima-ku: 249 apartments
+Ota-ku: 241 apartments
+Nakano-ku: 232 apartments
+Itabashi-ku: 205 apartments
+Minato-ku: 190 apartments
+
+Popular Buildings (Top 10)
+--------------------------
+ウエリスアーバン水天宮前: 29 apartments
+Cedar Plaza目黒本町: 27 apartments
+TATSUMIスカイガーデンテラス: 25 apartments
+ユリカロゼ五反野: 25 apartments
+ユリカロゼAZ亀戸: 24 apartments
+ALTERNA神楽坂: 19 apartments
+プレール・ドゥーク高井戸: 17 apartments
+パークアクシス品川天王洲アイル: 16 apartments
+ディアレイシャス市谷薬王寺: 16 apartments
+ジェノヴィア目黒南グリーンヴェール: 15 apartments

@@ -1,0 +1,496 @@
+{
+  "line": "Keio Inokashira Line",
+  "operator": "Keio Corporation",
+  "navitime_id": "00000273",
+  "first_station_id": "00003544",
+  "stations": [
+    {
+      "name": "Shibuya",
+      "japanese_name": "渋谷",
+      "station_id": "00003544",
+      "order": 1,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "Tokyo Metro Ginza Line",
+        "Tokyo Metro Hanzomon Line",
+        "Tokyo Metro Fukutoshin Line",
+        "Tokyu Den-en-toshi Line",
+        "Tokyu Toyoko Line",
+        "JR Shonan-Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Shinsen",
+      "japanese_name": "神泉",
+      "station_id": "00004450",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Komaba-todaimae",
+      "japanese_name": "駒場東大前",
+      "station_id": "00001942",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Ikenoue",
+      "japanese_name": "池ノ上",
+      "station_id": "00005939",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Shimo-Kitazawa",
+      "japanese_name": "下北沢",
+      "station_id": "00000997",
+      "order": 5,
+      "transfers": [
+        "Odakyu Odawara Line"
+      ]
+    },
+    {
+      "name": "Shindaita",
+      "japanese_name": "新代田",
+      "station_id": "00004300",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-matsubara",
+      "japanese_name": "東松原",
+      "station_id": "00006725",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Meidai-mae",
+      "japanese_name": "明大前",
+      "station_id": "00008602",
+      "order": 8,
+      "transfers": [
+        "Keio Line"
+      ]
+    },
+    {
+      "name": "Eifukucho",
+      "japanese_name": "永福町",
+      "station_id": "00000667",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Nishi-eifuku",
+      "japanese_name": "西永福",
+      "station_id": "00004718",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Hamadayama",
+      "japanese_name": "浜田山",
+      "station_id": "00007851",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Takaido",
+      "japanese_name": "高井戸",
+      "station_id": "00002537",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Fujimigaoka",
+      "japanese_name": "富士見ヶ丘",
+      "station_id": "00007883",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Kugayama",
+      "japanese_name": "久我山",
+      "station_id": "00001597",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Mitakadai",
+      "japanese_name": "三鷹台",
+      "station_id": "00003041",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Inokashira-koen",
+      "japanese_name": "井の頭公園",
+      "station_id": "00000413",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Kichijoji",
+      "japanese_name": "吉祥寺",
+      "station_id": "00001556",
+      "order": 17,
+      "transfers": [
+        "JR Chuo Main Line(Tokyo-Shiojiri)"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Express"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "80ef005e",
+      "trainName": "Keio Inokashira Line Local",
+      "destination": "Fujimigaoka",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Local"
+    },
+    "Express": {
+      "trainId": "80ef0060",
+      "trainName": "Keio Inokashira Line Express",
+      "destination": "Kichijoji",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "07",
+      "type": "Express"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Keio Inokashira Line",
+      "train_type": "Local",
+      "total_stops": 13,
+      "stops": [
+        {
+          "name": "Shibuya",
+          "station_id": "00003544",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.698903,
+            "lat": 35.658403
+          }
+        },
+        {
+          "name": "Shinsen",
+          "station_id": "00004450",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.693669,
+            "lat": 35.657234
+          }
+        },
+        {
+          "name": "Komaba-todaimae",
+          "station_id": "00001942",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.68447,
+            "lat": 35.658663
+          }
+        },
+        {
+          "name": "Ikenoue",
+          "station_id": "00005939",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.673044,
+            "lat": 35.660466
+          }
+        },
+        {
+          "name": "Shimo-Kitazawa",
+          "station_id": "00000997",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.666747,
+            "lat": 35.661605
+          }
+        },
+        {
+          "name": "Shindaita",
+          "station_id": "00004300",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.660534,
+            "lat": 35.662592
+          }
+        },
+        {
+          "name": "Higashi-matsubara",
+          "station_id": "00006725",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.655659,
+            "lat": 35.662664
+          }
+        },
+        {
+          "name": "Meidai-mae",
+          "station_id": "00008602",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.650526,
+            "lat": 35.668439
+          }
+        },
+        {
+          "name": "Eifukucho",
+          "station_id": "00000667",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.64299,
+            "lat": 35.676119
+          }
+        },
+        {
+          "name": "Nishi-eifuku",
+          "station_id": "00004718",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.635375,
+            "lat": 35.67879
+          }
+        },
+        {
+          "name": "Hamadayama",
+          "station_id": "00007851",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.627575,
+            "lat": 35.681604
+          }
+        },
+        {
+          "name": "Takaido",
+          "station_id": "00002537",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.615103,
+            "lat": 35.683247
+          }
+        },
+        {
+          "name": "Fujimigaoka",
+          "station_id": "00007883",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.607569,
+            "lat": 35.684649
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shibuya",
+          "from_id": "00003544",
+          "to": "Shinsen",
+          "to_id": "00004450",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shinsen",
+          "from_id": "00004450",
+          "to": "Komaba-todaimae",
+          "to_id": "00001942",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Komaba-todaimae",
+          "from_id": "00001942",
+          "to": "Ikenoue",
+          "to_id": "00005939",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ikenoue",
+          "from_id": "00005939",
+          "to": "Shimo-Kitazawa",
+          "to_id": "00000997",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shimo-Kitazawa",
+          "from_id": "00000997",
+          "to": "Shindaita",
+          "to_id": "00004300",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shindaita",
+          "from_id": "00004300",
+          "to": "Higashi-matsubara",
+          "to_id": "00006725",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Higashi-matsubara",
+          "from_id": "00006725",
+          "to": "Meidai-mae",
+          "to_id": "00008602",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Meidai-mae",
+          "from_id": "00008602",
+          "to": "Eifukucho",
+          "to_id": "00000667",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Eifukucho",
+          "from_id": "00000667",
+          "to": "Nishi-eifuku",
+          "to_id": "00004718",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nishi-eifuku",
+          "from_id": "00004718",
+          "to": "Hamadayama",
+          "to_id": "00007851",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hamadayama",
+          "from_id": "00007851",
+          "to": "Takaido",
+          "to_id": "00002537",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Takaido",
+          "from_id": "00002537",
+          "to": "Fujimigaoka",
+          "to_id": "00007883",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Express": {
+      "line": "Keio Inokashira Line",
+      "train_type": "Express",
+      "total_stops": 6,
+      "stops": [
+        {
+          "name": "Shibuya",
+          "station_id": "00003544",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.698903,
+            "lat": 35.658403
+          }
+        },
+        {
+          "name": "Shimo-Kitazawa",
+          "station_id": "00000997",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.666747,
+            "lat": 35.661605
+          }
+        },
+        {
+          "name": "Meidai-mae",
+          "station_id": "00008602",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.650526,
+            "lat": 35.668439
+          }
+        },
+        {
+          "name": "Eifukucho",
+          "station_id": "00000667",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.64299,
+            "lat": 35.676119
+          }
+        },
+        {
+          "name": "Kugayama",
+          "station_id": "00001597",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.599714,
+            "lat": 35.687913
+          }
+        },
+        {
+          "name": "Kichijoji",
+          "station_id": "00001556",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.579999,
+            "lat": 35.702802
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shibuya",
+          "from_id": "00003544",
+          "to": "Shimo-Kitazawa",
+          "to_id": "00000997",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Shimo-Kitazawa",
+          "from_id": "00000997",
+          "to": "Meidai-mae",
+          "to_id": "00008602",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Meidai-mae",
+          "from_id": "00008602",
+          "to": "Eifukucho",
+          "to_id": "00000667",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Eifukucho",
+          "from_id": "00000667",
+          "to": "Kugayama",
+          "to_id": "00001597",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Kugayama",
+          "from_id": "00001597",
+          "to": "Kichijoji",
+          "to_id": "00001556",
+          "travel_time_minutes": 4
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:53:01.973Z"
+}

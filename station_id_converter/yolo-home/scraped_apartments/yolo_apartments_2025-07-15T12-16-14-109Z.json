@@ -1,0 +1,7398 @@
+{
+  "metadata": {
+    "source": "YOLO HOME (home.yolo-japan.com)",
+    "searchUrl": "https://home.yolo-japan.com/en/tokyo/list?municipality_code=13101,13102,13103,13104,13105,13106,13107,13108,13109,13110,13111,13112,13113,13114,13115,13116,13117,13118,13119,13120,13121,13122,13123&priceTo=150&areaFrom=25&perPage=50&page=1",
+    "totalApartments": 106,
+    "pagesScraped": 1,
+    "scrapedAt": "2025-07-15T12:16:14.110Z",
+    "executionTime": "3.40s"
+  },
+  "apartments": [
+    {
+      "id": "1462368",
+      "url": "https://home.yolo-japan.com/en/property/1462368",
+      "building": {
+        "name": "ハーモニーレジデンスグローバルキャピタル",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2024,
+        "totalFloors": 14,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1DK",
+      "layoutType": "DK",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": true,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyo Metro-Hibiya line Iriya 5 minutes on foot\nTsukuba Express Asakusa 14 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 115000,
+        "keyMoney": 115000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.35,
+      "floor": "7",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Metro-Hibiya line",
+          "name": "Iriya",
+          "walkingMinutes": 5
+        },
+        {
+          "line": "Express",
+          "name": "Asakusa",
+          "walkingMinutes": 14
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.798Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1426524",
+      "url": "https://home.yolo-japan.com/en/property/1426524",
+      "building": {
+        "name": "ハーモニーレジデンスグローバルキャピタル",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2024,
+        "totalFloors": 14,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1DK",
+      "layoutType": "DK",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": true,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyo Metro-Hibiya line Iriya 5 minutes on foot\nTsukuba Express Asakusa 14 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 109000,
+        "keyMoney": 109000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.35,
+      "floor": "4",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Metro-Hibiya line",
+          "name": "Iriya",
+          "walkingMinutes": 5
+        },
+        {
+          "line": "Express",
+          "name": "Asakusa",
+          "walkingMinutes": 14
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.809Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1387219",
+      "url": "https://home.yolo-japan.com/en/property/1387219",
+      "building": {
+        "name": "ハーモニーレジデンスグローバルキャピタル",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2024,
+        "totalFloors": 14,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1DK",
+      "layoutType": "DK",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": true,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyo Metro-Hibiya line Iriya 5 minutes on foot\nTsukuba Express Asakusa 14 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 115000,
+        "keyMoney": 115000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.74,
+      "floor": "9",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Metro-Hibiya line",
+          "name": "Iriya",
+          "walkingMinutes": 5
+        },
+        {
+          "line": "Express",
+          "name": "Asakusa",
+          "walkingMinutes": 14
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.810Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1374969",
+      "url": "https://home.yolo-japan.com/en/property/1374969",
+      "building": {
+        "name": "ハーモニーレジデンスグローバルキャピタル",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2024,
+        "totalFloors": 14,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1DK",
+      "layoutType": "DK",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": true,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyo Metro-Hibiya line Iriya 5 minutes on foot\nTsukuba Express Asakusa 14 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 114000,
+        "keyMoney": 114000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.74,
+      "floor": "7",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Metro-Hibiya line",
+          "name": "Iriya",
+          "walkingMinutes": 5
+        },
+        {
+          "line": "Express",
+          "name": "Asakusa",
+          "walkingMinutes": 14
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.810Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1441600",
+      "url": "https://home.yolo-japan.com/en/property/1441600",
+      "building": {
+        "name": "ハーモニーレジデンスグローバルキャピタル",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2024,
+        "totalFloors": 14,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1DK",
+      "layoutType": "DK",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": true,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyo Metro-Hibiya line Iriya 5 minutes on foot\nTsukuba Express Asakusa 14 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 108000,
+        "keyMoney": 108000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.35,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Metro-Hibiya line",
+          "name": "Iriya",
+          "walkingMinutes": 5
+        },
+        {
+          "line": "Express",
+          "name": "Asakusa",
+          "walkingMinutes": 14
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.811Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462369",
+      "url": "https://home.yolo-japan.com/en/property/1462369",
+      "building": {
+        "name": "メイクスデザイン蔵前",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2016,
+        "totalFloors": 7,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Toei-Asakusa line Kuramae 9 minutes on foot\nToei-Oedo line Ryogoku 11 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 105000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 27.28,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Toei-Asakusa line",
+          "name": "Kuramae",
+          "walkingMinutes": 9
+        },
+        {
+          "line": "Toei-Oedo line",
+          "name": "Ryogoku",
+          "walkingMinutes": 11
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Autolock",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.811Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462374",
+      "url": "https://home.yolo-japan.com/en/property/1462374",
+      "building": {
+        "name": "フィース水天宮前",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2009,
+        "totalFloors": 8,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyo Metro-Hanzomon line Suitengumae 7 minutes on foot\nToei-Oedo line Kiyosumi Shirakawa 11 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 125000,
+        "keyMoney": 125000,
+        "guaranteeFee": 0,
+        "managementFee": 10000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 32.02,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Metro-Hanzomon line",
+          "name": "Suitengumae",
+          "walkingMinutes": 7
+        },
+        {
+          "line": "Kiyosumi",
+          "name": "Shirakawa",
+          "walkingMinutes": 11
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Autolock",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.812Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462372",
+      "url": "https://home.yolo-japan.com/en/property/1462372",
+      "building": {
+        "name": "クレヴィスタ亀戸",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 10,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tobu-Kameido line Kameido Suijin 2 minutes on foot\nJR Sobu line Kameido 9 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 94500,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.55,
+      "floor": "9",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Kameido",
+          "name": "Suijin",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Sobu line",
+          "name": "Kameido",
+          "walkingMinutes": 9
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.814Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462371",
+      "url": "https://home.yolo-japan.com/en/property/1462371",
+      "building": {
+        "name": "クレヴィスタ亀戸",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 10,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tobu-Kameido line Kameido Suijin 2 minutes on foot\nJR Sobu line Kameido 9 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 95000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.56,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Kameido",
+          "name": "Suijin",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Sobu line",
+          "name": "Kameido",
+          "walkingMinutes": 9
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.814Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1460861",
+      "url": "https://home.yolo-japan.com/en/property/1460861",
+      "building": {
+        "name": "クレヴィスタ亀戸",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 10,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tobu-Kameido line Kameido Suijin 2 minutes on foot\nJR Sobu line Kameido 9 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 93500,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.5,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Kameido",
+          "name": "Suijin",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Sobu line",
+          "name": "Kameido",
+          "walkingMinutes": 9
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.815Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1450066",
+      "url": "https://home.yolo-japan.com/en/property/1450066",
+      "building": {
+        "name": "クレヴィスタ亀戸",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 10,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tobu-Kameido line Kameido Suijin 2 minutes on foot\nJR Sobu line Kameido 9 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 115000,
+        "guaranteeFee": 0,
+        "managementFee": 11000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.51,
+      "floor": "7",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Kameido",
+          "name": "Suijin",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Sobu line",
+          "name": "Kameido",
+          "walkingMinutes": 9
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Free internet",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.815Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1359746",
+      "url": "https://home.yolo-japan.com/en/property/1359746",
+      "building": {
+        "name": "クレヴィスタ亀戸",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 10,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tobu-Kameido line Kameido Suijin 2 minutes on foot\nJR Sobu line Kameido 9 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 132000,
+        "guaranteeFee": 0,
+        "managementFee": 11000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.56,
+      "floor": "10",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Kameido",
+          "name": "Suijin",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Sobu line",
+          "name": "Kameido",
+          "walkingMinutes": 9
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Free internet",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.815Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1430730",
+      "url": "https://home.yolo-japan.com/en/property/1430730",
+      "building": {
+        "name": "クレヴィスタ亀戸",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 10,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tobu-Kameido line Kameido Suijin 2 minutes on foot\nJR Sobu line Kameido 9 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 119000,
+        "guaranteeFee": 0,
+        "managementFee": 11000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.55,
+      "floor": "8",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Kameido",
+          "name": "Suijin",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Sobu line",
+          "name": "Kameido",
+          "walkingMinutes": 9
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Free internet",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.816Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1455620",
+      "url": "https://home.yolo-japan.com/en/property/1455620",
+      "building": {
+        "name": "クレヴィスタ亀戸",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 10,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tobu-Kameido line Kameido Suijin 2 minutes on foot\nJR Sobu line Kameido 9 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 90500,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.51,
+      "floor": "4",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Kameido",
+          "name": "Suijin",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Sobu line",
+          "name": "Kameido",
+          "walkingMinutes": 9
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.816Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1455618",
+      "url": "https://home.yolo-japan.com/en/property/1455618",
+      "building": {
+        "name": "クレヴィスタ亀戸",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 10,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tobu-Kameido line Kameido Suijin 2 minutes on foot\nJR Sobu line Kameido 9 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 89500,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.81,
+      "floor": "8",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Kameido",
+          "name": "Suijin",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Sobu line",
+          "name": "Kameido",
+          "walkingMinutes": 9
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.816Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462378",
+      "url": "https://home.yolo-japan.com/en/property/1462378",
+      "building": {
+        "name": "OCTAVE HATANODAI",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2013,
+        "totalFloors": 8,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1LDK",
+      "layoutType": "LDK",
+      "bedrooms": 1,
+      "hasLivingRoom": true,
+      "hasDiningKitchen": true,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyu-Oimachi line Hatanodai 4 minutes on foot\nTokyu-Oimachi line Ebara Machi 5 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 145000,
+        "keyMoney": 145000,
+        "guaranteeFee": 0,
+        "managementFee": 10000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 41.69,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tokyu-Oimachi line",
+          "name": "Hatanodai",
+          "walkingMinutes": 4
+        },
+        {
+          "line": "Ebara",
+          "name": "Machi",
+          "walkingMinutes": 5
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Walk-in closet",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.817Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462384",
+      "url": "https://home.yolo-japan.com/en/property/1462384",
+      "building": {
+        "name": "ハーモニーレジデンス蒲田アートヴィラ",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2024,
+        "totalFloors": 5,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1DK",
+      "layoutType": "DK",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": true,
+      "hasKitchen": true,
+      "location": {
+        "address": "JR Keihin Tohoku/Negishi line Kamata 10 minutes on foot\nKeikyu-Main line Keikyu Kamata 13 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 130000,
+        "keyMoney": 130000,
+        "guaranteeFee": 0,
+        "managementFee": 12000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.51,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Kamata",
+          "walkingMinutes": 10
+        },
+        {
+          "line": "Keikyu",
+          "name": "Kamata",
+          "walkingMinutes": 13
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.818Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462383",
+      "url": "https://home.yolo-japan.com/en/property/1462383",
+      "building": {
+        "name": "ハーモニーレジデンス蒲田アートヴィラ",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2024,
+        "totalFloors": 5,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1DK",
+      "layoutType": "DK",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": true,
+      "hasKitchen": true,
+      "location": {
+        "address": "JR Keihin Tohoku/Negishi line Kamata 10 minutes on foot\nKeikyu-Main line Keikyu Kamata 13 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 130000,
+        "keyMoney": 130000,
+        "guaranteeFee": 0,
+        "managementFee": 12000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.51,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Kamata",
+          "walkingMinutes": 10
+        },
+        {
+          "line": "Keikyu",
+          "name": "Kamata",
+          "walkingMinutes": 13
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.818Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1433591",
+      "url": "https://home.yolo-japan.com/en/property/1433591",
+      "building": {
+        "name": "ハーモニーレジデンス蒲田アートヴィラ",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2024,
+        "totalFloors": 5,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1DK",
+      "layoutType": "DK",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": true,
+      "hasKitchen": true,
+      "location": {
+        "address": "JR Keihin Tohoku/Negishi line Kamata 10 minutes on foot\nKeikyu-Main line Keikyu Kamata 13 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 125000,
+        "keyMoney": 125000,
+        "guaranteeFee": 0,
+        "managementFee": 12000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.51,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Kamata",
+          "walkingMinutes": 10
+        },
+        {
+          "line": "Keikyu",
+          "name": "Kamata",
+          "walkingMinutes": 13
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.818Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1445236",
+      "url": "https://home.yolo-japan.com/en/property/1445236",
+      "building": {
+        "name": "ハーモニーレジデンス蒲田アートヴィラ",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2024,
+        "totalFloors": 5,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1DK",
+      "layoutType": "DK",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": true,
+      "hasKitchen": true,
+      "location": {
+        "address": "JR Keihin Tohoku/Negishi line Kamata 10 minutes on foot\nKeikyu-Main line Keikyu Kamata 13 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 125000,
+        "keyMoney": 125000,
+        "guaranteeFee": 0,
+        "managementFee": 12000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.51,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Kamata",
+          "walkingMinutes": 10
+        },
+        {
+          "line": "Keikyu",
+          "name": "Kamata",
+          "walkingMinutes": 13
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.818Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462381",
+      "url": "https://home.yolo-japan.com/en/property/1462381",
+      "building": {
+        "name": "クレヴィスタ蒲田",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 12,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyu-Ikegami line Hasunuma 2 minutes on foot\nJR Keihin Tohoku/Negishi line Kamata 6 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 94000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.04,
+      "floor": "4",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tokyu-Ikegami line",
+          "name": "Hasunuma",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Kamata",
+          "walkingMinutes": 6
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.819Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1193975",
+      "url": "https://home.yolo-japan.com/en/property/1193975",
+      "building": {
+        "name": "クレヴィスタ蒲田",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 12,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyu-Ikegami line Hasunuma 2 minutes on foot\nJR Keihin Tohoku/Negishi line Kamata 6 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 131000,
+        "guaranteeFee": 0,
+        "managementFee": 11000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.24,
+      "floor": "7",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tokyu-Ikegami line",
+          "name": "Hasunuma",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Kamata",
+          "walkingMinutes": 6
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.819Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1193973",
+      "url": "https://home.yolo-japan.com/en/property/1193973",
+      "building": {
+        "name": "クレヴィスタ蒲田",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 12,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyu-Ikegami line Hasunuma 2 minutes on foot\nJR Keihin Tohoku/Negishi line Kamata 6 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 129000,
+        "guaranteeFee": 0,
+        "managementFee": 11000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.04,
+      "floor": "7",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tokyu-Ikegami line",
+          "name": "Hasunuma",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Kamata",
+          "walkingMinutes": 6
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.820Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1189789",
+      "url": "https://home.yolo-japan.com/en/property/1189789",
+      "building": {
+        "name": "クレヴィスタ蒲田",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 12,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyu-Ikegami line Hasunuma 2 minutes on foot\nJR Keihin Tohoku/Negishi line Kamata 6 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 129000,
+        "guaranteeFee": 0,
+        "managementFee": 11000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.24,
+      "floor": "7",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tokyu-Ikegami line",
+          "name": "Hasunuma",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Kamata",
+          "walkingMinutes": 6
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.820Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1407181",
+      "url": "https://home.yolo-japan.com/en/property/1407181",
+      "building": {
+        "name": "クレヴィスタ蒲田",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 12,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyu-Ikegami line Hasunuma 2 minutes on foot\nJR Keihin Tohoku/Negishi line Kamata 6 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 132000,
+        "guaranteeFee": 0,
+        "managementFee": 11000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.04,
+      "floor": "9",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tokyu-Ikegami line",
+          "name": "Hasunuma",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Kamata",
+          "walkingMinutes": 6
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.820Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1407180",
+      "url": "https://home.yolo-japan.com/en/property/1407180",
+      "building": {
+        "name": "クレヴィスタ蒲田",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 12,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyu-Ikegami line Hasunuma 2 minutes on foot\nJR Keihin Tohoku/Negishi line Kamata 6 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 131000,
+        "guaranteeFee": 0,
+        "managementFee": 11000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.04,
+      "floor": "11",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tokyu-Ikegami line",
+          "name": "Hasunuma",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Kamata",
+          "walkingMinutes": 6
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.820Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1407179",
+      "url": "https://home.yolo-japan.com/en/property/1407179",
+      "building": {
+        "name": "クレヴィスタ蒲田",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 12,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyu-Ikegami line Hasunuma 2 minutes on foot\nJR Keihin Tohoku/Negishi line Kamata 6 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 132000,
+        "guaranteeFee": 0,
+        "managementFee": 11000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.24,
+      "floor": "9",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tokyu-Ikegami line",
+          "name": "Hasunuma",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Kamata",
+          "walkingMinutes": 6
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.821Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1193982",
+      "url": "https://home.yolo-japan.com/en/property/1193982",
+      "building": {
+        "name": "クレヴィスタ蒲田",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 12,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyu-Ikegami line Hasunuma 2 minutes on foot\nJR Keihin Tohoku/Negishi line Kamata 6 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 133000,
+        "guaranteeFee": 0,
+        "managementFee": 11000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.04,
+      "floor": "10",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tokyu-Ikegami line",
+          "name": "Hasunuma",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Kamata",
+          "walkingMinutes": 6
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.821Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1406448",
+      "url": "https://home.yolo-japan.com/en/property/1406448",
+      "building": {
+        "name": "クレヴィスタ蒲田",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 12,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyu-Ikegami line Hasunuma 2 minutes on foot\nJR Keihin Tohoku/Negishi line Kamata 6 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 132000,
+        "guaranteeFee": 0,
+        "managementFee": 11000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.24,
+      "floor": "8",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tokyu-Ikegami line",
+          "name": "Hasunuma",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Kamata",
+          "walkingMinutes": 6
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.821Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1406446",
+      "url": "https://home.yolo-japan.com/en/property/1406446",
+      "building": {
+        "name": "クレヴィスタ蒲田",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 12,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyu-Ikegami line Hasunuma 2 minutes on foot\nJR Keihin Tohoku/Negishi line Kamata 6 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 132000,
+        "guaranteeFee": 0,
+        "managementFee": 11000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.04,
+      "floor": "8",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tokyu-Ikegami line",
+          "name": "Hasunuma",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Kamata",
+          "walkingMinutes": 6
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.821Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1406475",
+      "url": "https://home.yolo-japan.com/en/property/1406475",
+      "building": {
+        "name": "クレヴィスタ蒲田",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 12,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyu-Ikegami line Hasunuma 2 minutes on foot\nJR Keihin Tohoku/Negishi line Kamata 6 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 130000,
+        "guaranteeFee": 0,
+        "managementFee": 11000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.24,
+      "floor": "9",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tokyu-Ikegami line",
+          "name": "Hasunuma",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Kamata",
+          "walkingMinutes": 6
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.821Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1406473",
+      "url": "https://home.yolo-japan.com/en/property/1406473",
+      "building": {
+        "name": "クレヴィスタ蒲田",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 12,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyu-Ikegami line Hasunuma 2 minutes on foot\nJR Keihin Tohoku/Negishi line Kamata 6 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 133000,
+        "guaranteeFee": 0,
+        "managementFee": 11000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.04,
+      "floor": "11",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tokyu-Ikegami line",
+          "name": "Hasunuma",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Kamata",
+          "walkingMinutes": 6
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.822Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1406450",
+      "url": "https://home.yolo-japan.com/en/property/1406450",
+      "building": {
+        "name": "クレヴィスタ蒲田",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2020,
+        "totalFloors": 12,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyu-Ikegami line Hasunuma 2 minutes on foot\nJR Keihin Tohoku/Negishi line Kamata 6 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 130000,
+        "guaranteeFee": 0,
+        "managementFee": 11000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.24,
+      "floor": "8",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tokyu-Ikegami line",
+          "name": "Hasunuma",
+          "walkingMinutes": 2
+        },
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Kamata",
+          "walkingMinutes": 6
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.822Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462387",
+      "url": "https://home.yolo-japan.com/en/property/1462387",
+      "building": {
+        "name": "リブリ・Kaminoge",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2014,
+        "totalFloors": 4,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyu-Oimachi line Kaminoge 3 minutes on foot\nTokyu-Oimachi line Todoroki 17 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 93000,
+        "guaranteeFee": 0,
+        "managementFee": 4000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.65,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tokyu-Oimachi line",
+          "name": "Kaminoge",
+          "walkingMinutes": 3
+        },
+        {
+          "line": "Tokyu-Oimachi line",
+          "name": "Todoroki",
+          "walkingMinutes": 17
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Autolock",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.822Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462400",
+      "url": "https://home.yolo-japan.com/en/property/1462400",
+      "building": {
+        "name": "クレヴィスタ浮間舟渡",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2023,
+        "totalFloors": 9,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "JR Saikyo line Ukimafunado 11 minutes on foot\nToei-Mita line Hasune 22 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 84000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.5,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Saikyo line",
+          "name": "Ukimafunado",
+          "walkingMinutes": 11
+        },
+        {
+          "line": "Toei-Mita line",
+          "name": "Hasune",
+          "walkingMinutes": 22
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.823Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1448853",
+      "url": "https://home.yolo-japan.com/en/property/1448853",
+      "building": {
+        "name": "クレヴィスタ浮間舟渡",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2023,
+        "totalFloors": 9,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "JR Saikyo line Ukimafunado 11 minutes on foot\nToei-Mita line Hasune 22 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 87000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.87,
+      "floor": "9",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Saikyo line",
+          "name": "Ukimafunado",
+          "walkingMinutes": 11
+        },
+        {
+          "line": "Toei-Mita line",
+          "name": "Hasune",
+          "walkingMinutes": 22
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.823Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1432561",
+      "url": "https://home.yolo-japan.com/en/property/1432561",
+      "building": {
+        "name": "クレヴィスタ浮間舟渡",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2023,
+        "totalFloors": 9,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "JR Saikyo line Ukimafunado 11 minutes on foot\nToei-Mita line Hasune 22 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 87000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.5,
+      "floor": "9",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Saikyo line",
+          "name": "Ukimafunado",
+          "walkingMinutes": 11
+        },
+        {
+          "line": "Toei-Mita line",
+          "name": "Hasune",
+          "walkingMinutes": 22
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.823Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1443840",
+      "url": "https://home.yolo-japan.com/en/property/1443840",
+      "building": {
+        "name": "クレヴィスタ浮間舟渡",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2023,
+        "totalFloors": 9,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "JR Saikyo line Ukimafunado 11 minutes on foot\nToei-Mita line Hasune 22 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 86000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.5,
+      "floor": "7",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Saikyo line",
+          "name": "Ukimafunado",
+          "walkingMinutes": 11
+        },
+        {
+          "line": "Toei-Mita line",
+          "name": "Hasune",
+          "walkingMinutes": 22
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.823Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462399",
+      "url": "https://home.yolo-japan.com/en/property/1462399",
+      "building": {
+        "name": "ハーモニーレジデンス東京アーバンスクエア♯002",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2016,
+        "totalFloors": 7,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Toei-Mita line Hasune 10 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 78000,
+        "keyMoney": 78000,
+        "guaranteeFee": 0,
+        "managementFee": 14000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.95,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Toei-Mita line",
+          "name": "Hasune",
+          "walkingMinutes": 10
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Autolock",
+        "Walk-in closet",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.824Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462398",
+      "url": "https://home.yolo-japan.com/en/property/1462398",
+      "building": {
+        "name": "クレヴィスタ王子",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2018,
+        "totalFloors": 12,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "JR Keihin Tohoku/Negishi line Oji 7 minutes on foot\nToden-Arakawa line Asukayama 11 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 90000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.62,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Oji",
+          "walkingMinutes": 7
+        },
+        {
+          "line": "Toden-Arakawa line",
+          "name": "Asukayama",
+          "walkingMinutes": 11
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.824Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462401",
+      "url": "https://home.yolo-japan.com/en/property/1462401",
+      "building": {
+        "name": "KDXレジデンス池袋ウエスト",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2021,
+        "totalFloors": 14,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyo Metro-Yurakucho line Kanamecho 12 minutes on foot\nJR Yamanote line Ikebukuro 13 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 104500,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.5,
+      "floor": "10",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Metro-Yurakucho line",
+          "name": "Kanamecho",
+          "walkingMinutes": 12
+        },
+        {
+          "line": "Yamanote line",
+          "name": "Ikebukuro",
+          "walkingMinutes": 13
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.825Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1441767",
+      "url": "https://home.yolo-japan.com/en/property/1441767",
+      "building": {
+        "name": "KDXレジデンス池袋ウエスト",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2021,
+        "totalFloors": 14,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyo Metro-Yurakucho line Kanamecho 12 minutes on foot\nJR Yamanote line Ikebukuro 13 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 105000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.5,
+      "floor": "11",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Metro-Yurakucho line",
+          "name": "Kanamecho",
+          "walkingMinutes": 12
+        },
+        {
+          "line": "Yamanote line",
+          "name": "Ikebukuro",
+          "walkingMinutes": 13
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.825Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1441766",
+      "url": "https://home.yolo-japan.com/en/property/1441766",
+      "building": {
+        "name": "KDXレジデンス池袋ウエスト",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2021,
+        "totalFloors": 14,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyo Metro-Yurakucho line Kanamecho 12 minutes on foot\nJR Yamanote line Ikebukuro 13 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 100000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.5,
+      "floor": "5",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Metro-Yurakucho line",
+          "name": "Kanamecho",
+          "walkingMinutes": 12
+        },
+        {
+          "line": "Yamanote line",
+          "name": "Ikebukuro",
+          "walkingMinutes": 13
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.825Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1452484",
+      "url": "https://home.yolo-japan.com/en/property/1452484",
+      "building": {
+        "name": "KDXレジデンス池袋ウエスト",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2021,
+        "totalFloors": 14,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyo Metro-Yurakucho line Kanamecho 12 minutes on foot\nJR Yamanote line Ikebukuro 13 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 99000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.5,
+      "floor": "4",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Metro-Yurakucho line",
+          "name": "Kanamecho",
+          "walkingMinutes": 12
+        },
+        {
+          "line": "Yamanote line",
+          "name": "Ikebukuro",
+          "walkingMinutes": 13
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.825Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1450388",
+      "url": "https://home.yolo-japan.com/en/property/1450388",
+      "building": {
+        "name": "KDXレジデンス池袋ウエスト",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2021,
+        "totalFloors": 14,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyo Metro-Yurakucho line Kanamecho 12 minutes on foot\nJR Yamanote line Ikebukuro 13 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 103000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.5,
+      "floor": "8",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Metro-Yurakucho line",
+          "name": "Kanamecho",
+          "walkingMinutes": 12
+        },
+        {
+          "line": "Yamanote line",
+          "name": "Ikebukuro",
+          "walkingMinutes": 13
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.826Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1404571",
+      "url": "https://home.yolo-japan.com/en/property/1404571",
+      "building": {
+        "name": "KDXレジデンス池袋ウエスト",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2021,
+        "totalFloors": 14,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyo Metro-Yurakucho line Kanamecho 12 minutes on foot\nJR Yamanote line Ikebukuro 13 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 108500,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.5,
+      "floor": "13",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Metro-Yurakucho line",
+          "name": "Kanamecho",
+          "walkingMinutes": 12
+        },
+        {
+          "line": "Yamanote line",
+          "name": "Ikebukuro",
+          "walkingMinutes": 13
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.826Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1445602",
+      "url": "https://home.yolo-japan.com/en/property/1445602",
+      "building": {
+        "name": "KDXレジデンス池袋ウエスト",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2021,
+        "totalFloors": 14,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyo Metro-Yurakucho line Kanamecho 12 minutes on foot\nJR Yamanote line Ikebukuro 13 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 105000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.5,
+      "floor": "11",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Metro-Yurakucho line",
+          "name": "Kanamecho",
+          "walkingMinutes": 12
+        },
+        {
+          "line": "Yamanote line",
+          "name": "Ikebukuro",
+          "walkingMinutes": 13
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.826Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462403",
+      "url": "https://home.yolo-japan.com/en/property/1462403",
+      "building": {
+        "name": "クレヴィスタ板橋西台",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2017,
+        "totalFloors": 10,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Toei-Mita line Nishidai 9 minutes on foot\nToei-Mita line Takashimadaira 11 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 82000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.62,
+      "floor": "5",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Toei-Mita line",
+          "name": "Nishidai",
+          "walkingMinutes": 9
+        },
+        {
+          "line": "Toei-Mita line",
+          "name": "Takashimadaira",
+          "walkingMinutes": 11
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.827Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462402",
+      "url": "https://home.yolo-japan.com/en/property/1462402",
+      "building": {
+        "name": "クレヴィスタ板橋西台",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2017,
+        "totalFloors": 10,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Toei-Mita line Nishidai 9 minutes on foot\nToei-Mita line Takashimadaira 11 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 82000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.51,
+      "floor": "5",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Toei-Mita line",
+          "name": "Nishidai",
+          "walkingMinutes": 9
+        },
+        {
+          "line": "Toei-Mita line",
+          "name": "Takashimadaira",
+          "walkingMinutes": 11
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.827Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1441769",
+      "url": "https://home.yolo-japan.com/en/property/1441769",
+      "building": {
+        "name": "クレヴィスタ板橋西台",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2017,
+        "totalFloors": 10,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Toei-Mita line Nishidai 9 minutes on foot\nToei-Mita line Takashimadaira 11 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 99000,
+        "guaranteeFee": 0,
+        "managementFee": 11000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.51,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Toei-Mita line",
+          "name": "Nishidai",
+          "walkingMinutes": 9
+        },
+        {
+          "line": "Toei-Mita line",
+          "name": "Takashimadaira",
+          "walkingMinutes": 11
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.827Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1428463",
+      "url": "https://home.yolo-japan.com/en/property/1428463",
+      "building": {
+        "name": "クレヴィスタ板橋西台",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2017,
+        "totalFloors": 10,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Toei-Mita line Nishidai 9 minutes on foot\nToei-Mita line Takashimadaira 11 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 101000,
+        "guaranteeFee": 0,
+        "managementFee": 11000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.51,
+      "floor": "7",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Toei-Mita line",
+          "name": "Nishidai",
+          "walkingMinutes": 9
+        },
+        {
+          "line": "Toei-Mita line",
+          "name": "Takashimadaira",
+          "walkingMinutes": 11
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Free internet",
+        "Pets allowed/negotiable",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.827Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1428458",
+      "url": "https://home.yolo-japan.com/en/property/1428458",
+      "building": {
+        "name": "クレヴィスタ板橋西台",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2017,
+        "totalFloors": 10,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Toei-Mita line Nishidai 9 minutes on foot\nToei-Mita line Takashimadaira 11 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 81000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.52,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Toei-Mita line",
+          "name": "Nishidai",
+          "walkingMinutes": 9
+        },
+        {
+          "line": "Toei-Mita line",
+          "name": "Takashimadaira",
+          "walkingMinutes": 11
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.828Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "900269",
+      "url": "https://home.yolo-japan.com/en/property/900269",
+      "building": {
+        "name": "クレヴィスタ板橋西台",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2017,
+        "totalFloors": 10,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Toei-Mita line Nishidai 9 minutes on foot\nToei-Mita line Takashimadaira 11 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 101000,
+        "guaranteeFee": 0,
+        "managementFee": 11000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.51,
+      "floor": "5",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Toei-Mita line",
+          "name": "Nishidai",
+          "walkingMinutes": 9
+        },
+        {
+          "line": "Toei-Mita line",
+          "name": "Takashimadaira",
+          "walkingMinutes": 11
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Free internet",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.828Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1459407",
+      "url": "https://home.yolo-japan.com/en/property/1459407",
+      "building": {
+        "name": "クレヴィスタ板橋西台",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2017,
+        "totalFloors": 10,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Toei-Mita line Nishidai 9 minutes on foot\nToei-Mita line Takashimadaira 11 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 81500,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.74,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Toei-Mita line",
+          "name": "Nishidai",
+          "walkingMinutes": 9
+        },
+        {
+          "line": "Toei-Mita line",
+          "name": "Takashimadaira",
+          "walkingMinutes": 11
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.828Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1432559",
+      "url": "https://home.yolo-japan.com/en/property/1432559",
+      "building": {
+        "name": "クレヴィスタ板橋西台",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2017,
+        "totalFloors": 10,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Toei-Mita line Nishidai 9 minutes on foot\nToei-Mita line Takashimadaira 11 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 81000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.52,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Toei-Mita line",
+          "name": "Nishidai",
+          "walkingMinutes": 9
+        },
+        {
+          "line": "Toei-Mita line",
+          "name": "Takashimadaira",
+          "walkingMinutes": 11
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.828Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1456092",
+      "url": "https://home.yolo-japan.com/en/property/1456092",
+      "building": {
+        "name": "クレヴィスタ板橋西台",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2017,
+        "totalFloors": 10,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Toei-Mita line Nishidai 9 minutes on foot\nToei-Mita line Takashimadaira 11 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 83000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.52,
+      "floor": "7",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Toei-Mita line",
+          "name": "Nishidai",
+          "walkingMinutes": 9
+        },
+        {
+          "line": "Toei-Mita line",
+          "name": "Takashimadaira",
+          "walkingMinutes": 11
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.829Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1456083",
+      "url": "https://home.yolo-japan.com/en/property/1456083",
+      "building": {
+        "name": "クレヴィスタ板橋西台",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2017,
+        "totalFloors": 10,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Toei-Mita line Nishidai 9 minutes on foot\nToei-Mita line Takashimadaira 11 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 78000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.52,
+      "floor": "1",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Toei-Mita line",
+          "name": "Nishidai",
+          "walkingMinutes": 9
+        },
+        {
+          "line": "Toei-Mita line",
+          "name": "Takashimadaira",
+          "walkingMinutes": 11
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.829Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462406",
+      "url": "https://home.yolo-japan.com/en/property/1462406",
+      "building": {
+        "name": "クレヴィスタ氷川台",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2024,
+        "totalFloors": 4,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyo Metro-Yurakucho line Hikawadai 11 minutes on foot\nTobu-Tojo line Kami Itabashi 18 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 90000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.7,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Metro-Yurakucho line",
+          "name": "Hikawadai",
+          "walkingMinutes": 11
+        },
+        {
+          "line": "Kami",
+          "name": "Itabashi",
+          "walkingMinutes": 18
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.830Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1456264",
+      "url": "https://home.yolo-japan.com/en/property/1456264",
+      "building": {
+        "name": "クレヴィスタ氷川台",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2024,
+        "totalFloors": 4,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyo Metro-Yurakucho line Hikawadai 11 minutes on foot\nTobu-Tojo line Kami Itabashi 18 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 91000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.51,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Metro-Yurakucho line",
+          "name": "Hikawadai",
+          "walkingMinutes": 11
+        },
+        {
+          "line": "Kami",
+          "name": "Itabashi",
+          "walkingMinutes": 18
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.830Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462404",
+      "url": "https://home.yolo-japan.com/en/property/1462404",
+      "building": {
+        "name": "リブリ・Glicine",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2019,
+        "totalFloors": 6,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tobu-Tojo line Tokiwadai 6 minutes on foot\nTobu-Tojo line Naka Itabashi 8 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 85000,
+        "guaranteeFee": 0,
+        "managementFee": 6000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.84,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tobu-Tojo line",
+          "name": "Tokiwadai",
+          "walkingMinutes": 6
+        },
+        {
+          "line": "Naka",
+          "name": "Itabashi",
+          "walkingMinutes": 8
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Autolock",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.831Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462408",
+      "url": "https://home.yolo-japan.com/en/property/1462408",
+      "building": {
+        "name": "クレヴィスタ練馬桜台",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2018,
+        "totalFloors": 5,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Seibu-Ikebukuro line Sakuradai 3 minutes on foot\nSeibu-Yurakucho line Shin Sakuradai 9 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 91000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.47,
+      "floor": "4",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Seibu-Ikebukuro line",
+          "name": "Sakuradai",
+          "walkingMinutes": 3
+        },
+        {
+          "line": "Shin",
+          "name": "Sakuradai",
+          "walkingMinutes": 9
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.832Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1331635",
+      "url": "https://home.yolo-japan.com/en/property/1331635",
+      "building": {
+        "name": "クレヴィスタ練馬桜台",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2018,
+        "totalFloors": 5,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Seibu-Ikebukuro line Sakuradai 3 minutes on foot\nSeibu-Yurakucho line Shin Sakuradai 9 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 108000,
+        "guaranteeFee": 0,
+        "managementFee": 11000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.1,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Seibu-Ikebukuro line",
+          "name": "Sakuradai",
+          "walkingMinutes": 3
+        },
+        {
+          "line": "Shin",
+          "name": "Sakuradai",
+          "walkingMinutes": 9
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Free internet",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.832Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1439649",
+      "url": "https://home.yolo-japan.com/en/property/1439649",
+      "building": {
+        "name": "クレヴィスタ練馬桜台",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2018,
+        "totalFloors": 5,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Seibu-Ikebukuro line Sakuradai 3 minutes on foot\nSeibu-Yurakucho line Shin Sakuradai 9 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 90000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.77,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Seibu-Ikebukuro line",
+          "name": "Sakuradai",
+          "walkingMinutes": 3
+        },
+        {
+          "line": "Shin",
+          "name": "Sakuradai",
+          "walkingMinutes": 9
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "Free internet",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.832Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462409",
+      "url": "https://home.yolo-japan.com/en/property/1462409",
+      "building": {
+        "name": "クレヴィスタ練馬平和台",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2017,
+        "totalFloors": 8,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyo Metro-Yurakucho line Heiwadai 7 minutes on foot\nTobu-Tojo line Tobu Nerima 18 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 83000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.8,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Metro-Yurakucho line",
+          "name": "Heiwadai",
+          "walkingMinutes": 7
+        },
+        {
+          "line": "Tobu",
+          "name": "Nerima",
+          "walkingMinutes": 18
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.833Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1456901",
+      "url": "https://home.yolo-japan.com/en/property/1456901",
+      "building": {
+        "name": "クレヴィスタ練馬平和台",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2017,
+        "totalFloors": 8,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyo Metro-Yurakucho line Heiwadai 7 minutes on foot\nTobu-Tojo line Tobu Nerima 18 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 91000,
+        "guaranteeFee": 0,
+        "managementFee": 15000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 29,
+      "floor": "1",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Metro-Yurakucho line",
+          "name": "Heiwadai",
+          "walkingMinutes": 7
+        },
+        {
+          "line": "Tobu",
+          "name": "Nerima",
+          "walkingMinutes": 18
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Designer",
+        "24-hour garbage disposal OK",
+        "Autolock",
+        "No guarantor needed",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.833Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1462411",
+      "url": "https://home.yolo-japan.com/en/property/1462411",
+      "building": {
+        "name": "リブリ・フラムドール",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2012,
+        "totalFloors": 3,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Nippori Toneri Liner Kohoku 4 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 69000,
+        "guaranteeFee": 0,
+        "managementFee": 4000,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.08,
+      "floor": "1",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Liner",
+          "name": "Kohoku",
+          "walkingMinutes": 4
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Autolock",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.833Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1424904",
+      "url": "https://home.yolo-japan.com/en/property/1424904",
+      "building": {
+        "name": "レオネクストリッカティル",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2015,
+        "totalFloors": 3,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1LDK",
+      "layoutType": "LDK",
+      "bedrooms": 1,
+      "hasLivingRoom": true,
+      "hasDiningKitchen": true,
+      "hasKitchen": true,
+      "location": {
+        "address": "Keikyu-Main line Omorimachi 10 minutes on foot\nKeikyu-Main line Umeyashiki 14 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 143000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 42.95,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Keikyu-Main line",
+          "name": "Omorimachi",
+          "walkingMinutes": 10
+        },
+        {
+          "line": "Keikyu-Main line",
+          "name": "Umeyashiki",
+          "walkingMinutes": 14
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.834Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1325561",
+      "url": "https://home.yolo-japan.com/en/property/1325561",
+      "building": {
+        "name": "Apartment building クレイノDREAM",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2017,
+        "totalFloors": 3,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1R",
+      "layoutType": "R",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": false,
+      "location": {
+        "address": "Keikyu-Main line Zoshiki 9 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 0,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.94,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Keikyu-Main line",
+          "name": "Zoshiki",
+          "walkingMinutes": 9
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.835Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1448019",
+      "url": "https://home.yolo-japan.com/en/property/1448019",
+      "building": {
+        "name": "クレイノアウリィ仲六郷",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2017,
+        "totalFloors": 4,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Keikyu-Main line Zoshiki 8 minutes on foot\nJR Keihin Tohoku/Negishi line Kamata 16 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 102000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.08,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Keikyu-Main line",
+          "name": "Zoshiki",
+          "walkingMinutes": 8
+        },
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Kamata",
+          "walkingMinutes": 16
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.835Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1439995",
+      "url": "https://home.yolo-japan.com/en/property/1439995",
+      "building": {
+        "name": "クレイノアウリィ仲六郷",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2017,
+        "totalFloors": 4,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1R",
+      "layoutType": "R",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": false,
+      "location": {
+        "address": "Keikyu-Main line Zoshiki 8 minutes on foot\nJR Keihin Tohoku/Negishi line Kamata 16 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 103000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.81,
+      "floor": "4",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Keikyu-Main line",
+          "name": "Zoshiki",
+          "walkingMinutes": 8
+        },
+        {
+          "line": "Tohoku/Negishi line",
+          "name": "Kamata",
+          "walkingMinutes": 16
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.835Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1446256",
+      "url": "https://home.yolo-japan.com/en/property/1446256",
+      "building": {
+        "name": "Apartment building レオネクストタウンコート",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2010,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyo Monorail Showajima 11 minutes on foot\nKeikyu-Main line Omorimachi 20 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 92000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 31.03,
+      "floor": "1",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Monorail",
+          "name": "Showajima",
+          "walkingMinutes": 11
+        },
+        {
+          "line": "Keikyu-Main line",
+          "name": "Omorimachi",
+          "walkingMinutes": 20
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.836Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1382307",
+      "url": "https://home.yolo-japan.com/en/property/1382307",
+      "building": {
+        "name": "Apartment building レオネクストわかば 1",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2012,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Keikyu-Airport line Otorii 9 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 102000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 30,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Keikyu-Airport line",
+          "name": "Otorii",
+          "walkingMinutes": 9
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.836Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1456009",
+      "url": "https://home.yolo-japan.com/en/property/1456009",
+      "building": {
+        "name": "Apartment building レオネクストシュンフォール",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2012,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Keikyu-Main line Omorimachi 10 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 98000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 31.03,
+      "floor": "1",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Keikyu-Main line",
+          "name": "Omorimachi",
+          "walkingMinutes": 10
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.837Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1417331",
+      "url": "https://home.yolo-japan.com/en/property/1417331",
+      "building": {
+        "name": "レオパレスエスポワール六郷",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2009,
+        "totalFloors": 3,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1LDK",
+      "layoutType": "LDK",
+      "bedrooms": 1,
+      "hasLivingRoom": true,
+      "hasDiningKitchen": true,
+      "hasKitchen": true,
+      "location": {
+        "address": "Keikyu-Main line Rokugodote 12 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 141000,
+        "guaranteeFee": 0,
+        "managementFee": 7500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 41.63,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Keikyu-Main line",
+          "name": "Rokugodote",
+          "walkingMinutes": 12
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.837Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1302720",
+      "url": "https://home.yolo-japan.com/en/property/1302720",
+      "building": {
+        "name": "レオネクストサンサーラ",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2013,
+        "totalFloors": 4,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1LDK",
+      "layoutType": "LDK",
+      "bedrooms": 1,
+      "hasLivingRoom": true,
+      "hasDiningKitchen": true,
+      "hasKitchen": true,
+      "location": {
+        "address": "Keikyu-Main line Umeyashiki 11 minutes on foot\nKeikyu-Main line Omorimachi 15 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 144000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 42.23,
+      "floor": "4",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Keikyu-Main line",
+          "name": "Umeyashiki",
+          "walkingMinutes": 11
+        },
+        {
+          "line": "Keikyu-Main line",
+          "name": "Omorimachi",
+          "walkingMinutes": 15
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.837Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1302690",
+      "url": "https://home.yolo-japan.com/en/property/1302690",
+      "building": {
+        "name": "レオパレスベルファム",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2010,
+        "totalFloors": 4,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1LDK",
+      "layoutType": "LDK",
+      "bedrooms": 1,
+      "hasLivingRoom": true,
+      "hasDiningKitchen": true,
+      "hasKitchen": true,
+      "location": {
+        "address": "Keikyu-Airport line Otorii 9 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 118000,
+        "guaranteeFee": 0,
+        "managementFee": 7500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 41.63,
+      "floor": "4",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Keikyu-Airport line",
+          "name": "Otorii",
+          "walkingMinutes": 9
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.838Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1325025",
+      "url": "https://home.yolo-japan.com/en/property/1325025",
+      "building": {
+        "name": "レオパレスヴィハール南六郷",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2008,
+        "totalFloors": 4,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1LDK",
+      "layoutType": "LDK",
+      "bedrooms": 1,
+      "hasLivingRoom": true,
+      "hasDiningKitchen": true,
+      "hasKitchen": true,
+      "location": {
+        "address": "Keikyu-Main line Zoshiki 12 minutes on foot\nKeikyu-Airport line Kojiya 25 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 112000,
+        "guaranteeFee": 0,
+        "managementFee": 7500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 41.63,
+      "floor": "4",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Keikyu-Main line",
+          "name": "Zoshiki",
+          "walkingMinutes": 12
+        },
+        {
+          "line": "Keikyu-Airport line",
+          "name": "Kojiya",
+          "walkingMinutes": 25
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.838Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1418151",
+      "url": "https://home.yolo-japan.com/en/property/1418151",
+      "building": {
+        "name": "Apartment building レオパレス末広",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2005,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Keikyu-Main line Keikyu Kamata 6 minutes on foot\nKeikyu-Airport line Kojiya 11 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 102000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.15,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Keikyu",
+          "name": "Kamata",
+          "walkingMinutes": 6
+        },
+        {
+          "line": "Keikyu-Airport line",
+          "name": "Kojiya",
+          "walkingMinutes": 11
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.839Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1433096",
+      "url": "https://home.yolo-japan.com/en/property/1433096",
+      "building": {
+        "name": "Apartment building レオネクストライン リファール",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2015,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "JR Sobu line Koiwa 3 minutes on foot\nJR Sobu line Koiwa 21 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 0,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 30.6,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Sobu line",
+          "name": "Koiwa",
+          "walkingMinutes": 3
+        },
+        {
+          "line": "Sobu line",
+          "name": "Koiwa",
+          "walkingMinutes": 21
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.839Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1463061",
+      "url": "https://home.yolo-japan.com/en/property/1463061",
+      "building": {
+        "name": "Apartment building レオネクストセレノ",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2015,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1R",
+      "layoutType": "R",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": false,
+      "location": {
+        "address": "JR Sobu line Shin Koiwa 19 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 85000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 27.72,
+      "floor": "1",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Shin",
+          "name": "Koiwa",
+          "walkingMinutes": 19
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.839Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1411165",
+      "url": "https://home.yolo-japan.com/en/property/1411165",
+      "building": {
+        "name": "Apartment building レオネクストセレノ",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2015,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1R",
+      "layoutType": "R",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": false,
+      "location": {
+        "address": "JR Sobu line Shin Koiwa 19 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 86000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 27.72,
+      "floor": "1",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Shin",
+          "name": "Koiwa",
+          "walkingMinutes": 19
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.839Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1455607",
+      "url": "https://home.yolo-japan.com/en/property/1455607",
+      "building": {
+        "name": "Apartment building ミランダカメリア瑞江",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2017,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1R",
+      "layoutType": "R",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": false,
+      "location": {
+        "address": "Toei-Shinjuku line Mizue 10 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 100000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.08,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Toei-Shinjuku line",
+          "name": "Mizue",
+          "walkingMinutes": 10
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.840Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1398444",
+      "url": "https://home.yolo-japan.com/en/property/1398444",
+      "building": {
+        "name": "Apartment building ミランダカメリア瑞江",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2017,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1R",
+      "layoutType": "R",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": false,
+      "location": {
+        "address": "Toei-Shinjuku line Mizue 10 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 97000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.08,
+      "floor": "1",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Toei-Shinjuku line",
+          "name": "Mizue",
+          "walkingMinutes": 10
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.840Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1445895",
+      "url": "https://home.yolo-japan.com/en/property/1445895",
+      "building": {
+        "name": "Apartment building レオネクストアイランド",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2015,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "JR Sobu line Shin Koiwa 23 minutes on foot\nJR Sobu line Koiwa 23 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 85000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.09,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Shin",
+          "name": "Koiwa",
+          "walkingMinutes": 23
+        },
+        {
+          "line": "Sobu line",
+          "name": "Koiwa",
+          "walkingMinutes": 23
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.840Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1445892",
+      "url": "https://home.yolo-japan.com/en/property/1445892",
+      "building": {
+        "name": "Apartment building レオネクストロング",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2014,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "JR Sobu line Shin Koiwa 23 minutes on foot\nJR Sobu line Koiwa 23 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 84000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 31.42,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Shin",
+          "name": "Koiwa",
+          "walkingMinutes": 23
+        },
+        {
+          "line": "Sobu line",
+          "name": "Koiwa",
+          "walkingMinutes": 23
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.841Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1445891",
+      "url": "https://home.yolo-japan.com/en/property/1445891",
+      "building": {
+        "name": "Apartment building レオネクストロング",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2014,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "JR Sobu line Shin Koiwa 23 minutes on foot\nJR Sobu line Koiwa 23 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 79000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.37,
+      "floor": "1",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Shin",
+          "name": "Koiwa",
+          "walkingMinutes": 23
+        },
+        {
+          "line": "Sobu line",
+          "name": "Koiwa",
+          "walkingMinutes": 23
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.841Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1441977",
+      "url": "https://home.yolo-japan.com/en/property/1441977",
+      "building": {
+        "name": "Apartment building レオネクスト琉海",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2014,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1R",
+      "layoutType": "R",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": false,
+      "location": {
+        "address": "Toei-Shinjuku line Shinozaki 13 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 88000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.5,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Toei-Shinjuku line",
+          "name": "Shinozaki",
+          "walkingMinutes": 13
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.841Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1422077",
+      "url": "https://home.yolo-japan.com/en/property/1422077",
+      "building": {
+        "name": "Apartment building レオネクスト琉海",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2014,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1R",
+      "layoutType": "R",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": false,
+      "location": {
+        "address": "Toei-Shinjuku line Shinozaki 13 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 87000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.5,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Toei-Shinjuku line",
+          "name": "Shinozaki",
+          "walkingMinutes": 13
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.841Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1398429",
+      "url": "https://home.yolo-japan.com/en/property/1398429",
+      "building": {
+        "name": "レオネクストGood",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2016,
+        "totalFloors": 3,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "JR Sobu line Shin Koiwa 21 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 82000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 30.01,
+      "floor": "1",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Shin",
+          "name": "Koiwa",
+          "walkingMinutes": 21
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.842Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1381515",
+      "url": "https://home.yolo-japan.com/en/property/1381515",
+      "building": {
+        "name": "レオパレスセザル",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2008,
+        "totalFloors": 3,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Toei-Shinjuku line Shinozaki 19 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 74000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.08,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Toei-Shinjuku line",
+          "name": "Shinozaki",
+          "walkingMinutes": 19
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.842Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1342219",
+      "url": "https://home.yolo-japan.com/en/property/1342219",
+      "building": {
+        "name": "Apartment building レオパレスウィステリア",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2008,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "JR Sobu line Shin Koiwa 4 minutes on foot\nToei-Shinjuku line Ichinoe 4 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 80000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 28.02,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Shin",
+          "name": "Koiwa",
+          "walkingMinutes": 4
+        },
+        {
+          "line": "Toei-Shinjuku line",
+          "name": "Ichinoe",
+          "walkingMinutes": 4
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.843Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1295243",
+      "url": "https://home.yolo-japan.com/en/property/1295243",
+      "building": {
+        "name": "Apartment building レオパレス冬月花J",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2007,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Toei-Shinjuku line Shinozaki 17 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 69000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.08,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Toei-Shinjuku line",
+          "name": "Shinozaki",
+          "walkingMinutes": 17
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.843Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1444469",
+      "url": "https://home.yolo-japan.com/en/property/1444469",
+      "building": {
+        "name": "Apartment building クレイノマンダリーナ",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2018,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Keio line Sengawa 19 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 95000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 29.58,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Keio line",
+          "name": "Sengawa",
+          "walkingMinutes": 19
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.843Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1336322",
+      "url": "https://home.yolo-japan.com/en/property/1336322",
+      "building": {
+        "name": "Apartment building レオネクスト弦巻",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2016,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyu-Setagaya line Setagaya 12 minutes on foot\nTokyu-Den-en-toshi line Sakura Shimmachi 13 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 95000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.61,
+      "floor": "1",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tokyu-Setagaya line",
+          "name": "Setagaya",
+          "walkingMinutes": 12
+        },
+        {
+          "line": "Sakura",
+          "name": "Shimmachi",
+          "walkingMinutes": 13
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.844Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1442681",
+      "url": "https://home.yolo-japan.com/en/property/1442681",
+      "building": {
+        "name": "クレイノサンサーラ2",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2019,
+        "totalFloors": 4,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1R",
+      "layoutType": "R",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": false,
+      "location": {
+        "address": "JR Chuo line Asagaya 3 minutes on foot\nSeibu-Shinjuku line Shimo Igusa 14 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 104000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 25.69,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Chuo line",
+          "name": "Asagaya",
+          "walkingMinutes": 3
+        },
+        {
+          "line": "Shimo",
+          "name": "Igusa",
+          "walkingMinutes": 14
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.844Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1457008",
+      "url": "https://home.yolo-japan.com/en/property/1457008",
+      "building": {
+        "name": "Apartment building レオネクストスクルト",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2012,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Keio line Hachimanyama 4 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 104000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 32.67,
+      "floor": "1",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Keio line",
+          "name": "Hachimanyama",
+          "walkingMinutes": 4
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.844Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1454377",
+      "url": "https://home.yolo-japan.com/en/property/1454377",
+      "building": {
+        "name": "Apartment building レオネクスト阿佐谷南山",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2015,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyo Metro-Marunouchi line Minami Asagaya 9 minutes on foot\nJR Chuo line Asagaya 9 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 111000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.37,
+      "floor": "1",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Minami",
+          "name": "Asagaya",
+          "walkingMinutes": 9
+        },
+        {
+          "line": "Chuo line",
+          "name": "Asagaya",
+          "walkingMinutes": 9
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.845Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1435426",
+      "url": "https://home.yolo-japan.com/en/property/1435426",
+      "building": {
+        "name": "Apartment building レオネクスト粕谷",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2015,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Keio line Chitose Karasuyama 16 minutes on foot\nKeio line Roka Koen 17 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 96000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 27.25,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Chitose",
+          "name": "Karasuyama",
+          "walkingMinutes": 16
+        },
+        {
+          "line": "Roka",
+          "name": "Koen",
+          "walkingMinutes": 17
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.845Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1461284",
+      "url": "https://home.yolo-japan.com/en/property/1461284",
+      "building": {
+        "name": "Apartment building レオネクスト粕谷",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2015,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Keio line Chitose Karasuyama 16 minutes on foot\nKeio line Roka Koen 17 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 94000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 27.25,
+      "floor": "1",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Chitose",
+          "name": "Karasuyama",
+          "walkingMinutes": 16
+        },
+        {
+          "line": "Roka",
+          "name": "Koen",
+          "walkingMinutes": 17
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.845Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1451658",
+      "url": "https://home.yolo-japan.com/en/property/1451658",
+      "building": {
+        "name": "Apartment building レオネクストsprings",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2013,
+        "totalFloors": 3,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Odakyu-Odawara line Setagaya Daita 3 minutes on foot\nKeio-Inokashira line Shimo Kitazawa 9 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 117000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.1,
+      "floor": "1",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Setagaya",
+          "name": "Daita",
+          "walkingMinutes": 3
+        },
+        {
+          "line": "Shimo",
+          "name": "Kitazawa",
+          "walkingMinutes": 9
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.846Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1417434",
+      "url": "https://home.yolo-japan.com/en/property/1417434",
+      "building": {
+        "name": "Apartment building レオネクストsprings",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2013,
+        "totalFloors": 3,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Odakyu-Odawara line Setagaya Daita 3 minutes on foot\nKeio-Inokashira line Shimo Kitazawa 9 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 117000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 26.1,
+      "floor": "1",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Setagaya",
+          "name": "Daita",
+          "walkingMinutes": 3
+        },
+        {
+          "line": "Shimo",
+          "name": "Kitazawa",
+          "walkingMinutes": 9
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.846Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1424349",
+      "url": "https://home.yolo-japan.com/en/property/1424349",
+      "building": {
+        "name": "Apartment building レオネクストCoco Wave",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2013,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Keio line Shimo Takaido 10 minutes on foot\nTokyu-Setagaya line Matsubara 10 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 0,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 28.22,
+      "floor": "2",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Shimo",
+          "name": "Takaido",
+          "walkingMinutes": 10
+        },
+        {
+          "line": "Tokyu-Setagaya line",
+          "name": "Matsubara",
+          "walkingMinutes": 10
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.847Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1457166",
+      "url": "https://home.yolo-japan.com/en/property/1457166",
+      "building": {
+        "name": "レオネクストアルバーロ原宿",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2016,
+        "totalFloors": 4,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1R",
+      "layoutType": "R",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": false,
+      "location": {
+        "address": "Tokyo Metro-Fukutoshin line Kita Sando 5 minutes on foot\nJR Yamanote line Yoyogi 11 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 143000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 29.65,
+      "floor": "3",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Kita",
+          "name": "Sando",
+          "walkingMinutes": 5
+        },
+        {
+          "line": "Yamanote line",
+          "name": "Yoyogi",
+          "walkingMinutes": 11
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.847Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1442677",
+      "url": "https://home.yolo-japan.com/en/property/1442677",
+      "building": {
+        "name": "レオネクストアルバーロ原宿",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2016,
+        "totalFloors": 4,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1R",
+      "layoutType": "R",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": false,
+      "location": {
+        "address": "Tokyo Metro-Fukutoshin line Kita Sando 5 minutes on foot\nJR Yamanote line Yoyogi 11 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 141000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 29.65,
+      "floor": "1",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Kita",
+          "name": "Sando",
+          "walkingMinutes": 5
+        },
+        {
+          "line": "Yamanote line",
+          "name": "Yoyogi",
+          "walkingMinutes": 11
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Autolock",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.848Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1440723",
+      "url": "https://home.yolo-japan.com/en/property/1440723",
+      "building": {
+        "name": "Apartment building レオネクストカンフリエ",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2015,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1R",
+      "layoutType": "R",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": false,
+      "location": {
+        "address": "Seibu-Shinjuku line Iogi 10 minutes on foot\nSeibu-Shinjuku line Shimo Igusa 14 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 108000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 31.43,
+      "floor": "1",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Seibu-Shinjuku line",
+          "name": "Iogi",
+          "walkingMinutes": 10
+        },
+        {
+          "line": "Shimo",
+          "name": "Igusa",
+          "walkingMinutes": 14
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished",
+        "Flooring"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.849Z",
+      "hasServiceRoom": false
+    },
+    {
+      "id": "1398641",
+      "url": "https://home.yolo-japan.com/en/property/1398641",
+      "building": {
+        "name": "Apartment building レオネクストレインボーヒルズ",
+        "nameJa": "",
+        "type": "Apartment",
+        "yearBuilt": 2014,
+        "totalFloors": 2,
+        "totalUnits": null,
+        "structure": "",
+        "features": []
+      },
+      "title": "",
+      "roomNumber": "",
+      "layout": "1K",
+      "layoutType": "K",
+      "bedrooms": 1,
+      "hasLivingRoom": false,
+      "hasDiningKitchen": false,
+      "hasKitchen": true,
+      "location": {
+        "address": "Tokyu-Oimachi line Kaminoge 12 minutes on foot\nTokyu-Den-en-toshi line Futako Tamagawa 14 minutes on foot",
+        "area": "",
+        "ward": "",
+        "wardJa": "",
+        "city": "Tokyo",
+        "postalCode": "",
+        "latitude": null,
+        "longitude": null
+      },
+      "pricing": {
+        "monthlyRent": 0,
+        "deposit": 0,
+        "keyMoney": 94000,
+        "guaranteeFee": 0,
+        "managementFee": 5500,
+        "commonServiceFee": 0,
+        "initialCost": 0
+      },
+      "size": 27.25,
+      "floor": "1",
+      "balcony": false,
+      "nearestStations": [
+        {
+          "line": "Tokyu-Oimachi line",
+          "name": "Kaminoge",
+          "walkingMinutes": 12
+        },
+        {
+          "line": "Futako",
+          "name": "Tamagawa",
+          "walkingMinutes": 14
+        }
+      ],
+      "availableFrom": "",
+      "moveInDate": "",
+      "features": [
+        "Furnished"
+      ],
+      "amenities": [],
+      "images": [],
+      "floorPlanImage": "",
+      "agencyName": "",
+      "agencyContact": "",
+      "scrapedAt": "2025-07-15T12:16:13.849Z",
+      "hasServiceRoom": false
+    }
+  ]
+}

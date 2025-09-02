@@ -1,0 +1,1773 @@
+{
+  "line": "Tobu Tojo Line",
+  "operator": "Tobu Railway",
+  "navitime_id": "00000808",
+  "first_station_id": "00005947",
+  "stations": [
+    {
+      "name": "Ikebukuro",
+      "japanese_name": "池袋",
+      "station_id": "00005947",
+      "order": 1,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "Seibu Ikebukuro Line",
+        "Tokyo Metro Marunouchi Line",
+        "Tokyo Metro Yurakucho Line",
+        "Tokyo Metro Fukutoshin Line",
+        "JR Shonan-Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Kita-ikebukuro",
+      "japanese_name": "北池袋",
+      "station_id": "00008370",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Shimo-itabashi",
+      "japanese_name": "下板橋",
+      "station_id": "00000986",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Oyama (Tokyo)",
+      "japanese_name": "大山(東京都)",
+      "station_id": "00005618",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Naka-itabashi",
+      "japanese_name": "中板橋",
+      "station_id": "00006122",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Tokiwadai(Tokyo)",
+      "japanese_name": "ときわ台(東京都)",
+      "station_id": "00000086",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Kami-itabashi",
+      "japanese_name": "上板橋",
+      "station_id": "00004037",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Tobu-Nerima",
+      "japanese_name": "東武練馬",
+      "station_id": "00006837",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Shimo-akatsuka",
+      "japanese_name": "下赤塚",
+      "station_id": "00000953",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Narimasu",
+      "japanese_name": "成増",
+      "station_id": "00004635",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Wakoshi",
+      "japanese_name": "和光市",
+      "station_id": "00009109",
+      "order": 11,
+      "transfers": [
+        "Tokyo Metro Yurakucho Line"
+      ]
+    },
+    {
+      "name": "Asaka",
+      "japanese_name": "朝霞",
+      "station_id": "00006166",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Asakadai",
+      "japanese_name": "朝霞台",
+      "station_id": "00006167",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Shiki",
+      "japanese_name": "志木",
+      "station_id": "00003275",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Yanasegawa",
+      "japanese_name": "柳瀬川",
+      "station_id": "00008806",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Mizuhodai",
+      "japanese_name": "みずほ台",
+      "station_id": "00000128",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Tsuruse",
+      "japanese_name": "鶴瀬",
+      "station_id": "00006393",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Fujimino",
+      "japanese_name": "ふじみ野",
+      "station_id": "00000112",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Kami-fukuoka",
+      "japanese_name": "上福岡",
+      "station_id": "00004045",
+      "order": 19,
+      "transfers": []
+    },
+    {
+      "name": "Shingashi",
+      "japanese_name": "新河岸",
+      "station_id": "00004188",
+      "order": 20,
+      "transfers": []
+    },
+    {
+      "name": "Kawagoe",
+      "japanese_name": "川越",
+      "station_id": "00005189",
+      "order": 21,
+      "transfers": [
+        "JR Kawagoe Line"
+      ]
+    },
+    {
+      "name": "Kawagoeshi",
+      "japanese_name": "川越市",
+      "station_id": "00005190",
+      "order": 22,
+      "transfers": []
+    },
+    {
+      "name": "Kasumigaseki(Saitama)",
+      "japanese_name": "霞ヶ関(埼玉県)",
+      "station_id": "00001115",
+      "order": 23,
+      "transfers": []
+    },
+    {
+      "name": "Tsurugashima",
+      "japanese_name": "鶴ヶ島",
+      "station_id": "00006376",
+      "order": 24,
+      "transfers": []
+    },
+    {
+      "name": "Wakaba",
+      "japanese_name": "若葉",
+      "station_id": "00003439",
+      "order": 25,
+      "transfers": []
+    },
+    {
+      "name": "Sakado",
+      "japanese_name": "坂戸",
+      "station_id": "00002847",
+      "order": 26,
+      "transfers": [
+        "Tobu Ogose Line"
+      ]
+    },
+    {
+      "name": "Kitasakado",
+      "japanese_name": "北坂戸",
+      "station_id": "00008314",
+      "order": 27,
+      "transfers": []
+    },
+    {
+      "name": "Takasaka",
+      "japanese_name": "高坂",
+      "station_id": "00002568",
+      "order": 28,
+      "transfers": []
+    },
+    {
+      "name": "Higashimatsuyama",
+      "japanese_name": "東松山",
+      "station_id": "00006730",
+      "order": 29,
+      "transfers": []
+    },
+    {
+      "name": "Shinrinkoen(Saitama)",
+      "japanese_name": "森林公園(埼玉県)",
+      "station_id": "00004399",
+      "order": 30,
+      "transfers": []
+    },
+    {
+      "name": "Tsukinowa",
+      "japanese_name": "つきのわ",
+      "station_id": "00009277",
+      "order": 31,
+      "transfers": []
+    },
+    {
+      "name": "Musashiranzan",
+      "japanese_name": "武蔵嵐山",
+      "station_id": "00007975",
+      "order": 32,
+      "transfers": []
+    },
+    {
+      "name": "Ogawamachi(Saitama)",
+      "japanese_name": "小川町(埼玉県)",
+      "station_id": "00003709",
+      "order": 33,
+      "transfers": [
+        "JR Hachiko Line(Komagawa-Kuragano)"
+      ]
+    },
+    {
+      "name": "Tobu-Takezawa",
+      "japanese_name": "東武竹沢",
+      "station_id": "00006834",
+      "order": 34,
+      "transfers": []
+    },
+    {
+      "name": "Minami Yorii [Honda Yorii Mae]",
+      "japanese_name": "みなみ寄居[ホンダ寄居前]",
+      "station_id": "00009785",
+      "order": 35,
+      "transfers": []
+    },
+    {
+      "name": "Obusuma",
+      "japanese_name": "男衾",
+      "station_id": "00005912",
+      "order": 36,
+      "transfers": []
+    },
+    {
+      "name": "Hachigata",
+      "japanese_name": "鉢形",
+      "station_id": "00007580",
+      "order": 37,
+      "transfers": []
+    },
+    {
+      "name": "Tamayodo",
+      "japanese_name": "玉淀",
+      "station_id": "00001815",
+      "order": 38,
+      "transfers": []
+    },
+    {
+      "name": "Yorii",
+      "japanese_name": "寄居",
+      "station_id": "00001463",
+      "order": 39,
+      "transfers": [
+        "JR Hachiko Line(Komagawa-Kuragano)",
+        "Chichibu Railway Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Express",
+    "Semi Express",
+    "Rapid Express",
+    "Kawagoe Limited Express",
+    "Paid"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "826c00b1",
+      "trainName": "Tobu Tojo Line",
+      "destination": "Shiki",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "04",
+      "type": "Local"
+    },
+    "Express": {
+      "trainId": "826c00b2",
+      "trainName": "Tobu Tojo Line Express",
+      "destination": "Ogawamachi(Saitama)",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "10",
+      "type": "Express"
+    },
+    "Semi Express": {
+      "trainId": "826c00af",
+      "trainName": "Tobu Tojo Line Semi Express",
+      "destination": "Kawagoeshi",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "02",
+      "type": "Semi Express"
+    },
+    "Rapid Express": {
+      "trainId": "826c005c",
+      "trainName": "Tobu Tojo Line Rapid Express",
+      "destination": "Shinrinkoen(Saitama)",
+      "hour": 7,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Rapid Express"
+    },
+    "Kawagoe Limited Express": {
+      "trainId": "826c00ad",
+      "trainName": "Tobu Tojo Line Kawagoe Limited Express",
+      "destination": "Ogawamachi(Saitama)",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Kawagoe Limited Express"
+    },
+    "Paid": {
+      "trainId": "826c0000",
+      "trainName": "TJ Liner 1 Go",
+      "destination": "Ogawamachi(Saitama)",
+      "hour": 17,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Paid"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Tobu Tojo Line",
+      "train_type": "Local",
+      "total_stops": 14,
+      "stops": [
+        {
+          "name": "Ikebukuro",
+          "station_id": "00005947",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.710636,
+            "lat": 35.730776
+          }
+        },
+        {
+          "name": "Kita-ikebukuro",
+          "station_id": "00008370",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.716767,
+            "lat": 35.741264
+          }
+        },
+        {
+          "name": "Shimo-itabashi",
+          "station_id": "00000986",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.714807,
+            "lat": 35.745607
+          }
+        },
+        {
+          "name": "Oyama (Tokyo)",
+          "station_id": "00005618",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.702487,
+            "lat": 35.748563
+          }
+        },
+        {
+          "name": "Naka-itabashi",
+          "station_id": "00006122",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.695156,
+            "lat": 35.755904
+          }
+        },
+        {
+          "name": "Tokiwadai(Tokyo)",
+          "station_id": "00000086",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.689536,
+            "lat": 35.7587
+          }
+        },
+        {
+          "name": "Kami-itabashi",
+          "station_id": "00004037",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.676445,
+            "lat": 35.763505
+          }
+        },
+        {
+          "name": "Tobu-Nerima",
+          "station_id": "00006837",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.661738,
+            "lat": 35.768732
+          }
+        },
+        {
+          "name": "Shimo-akatsuka",
+          "station_id": "00000953",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.6451,
+            "lat": 35.770241
+          }
+        },
+        {
+          "name": "Narimasu",
+          "station_id": "00004635",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.632885,
+            "lat": 35.777645
+          }
+        },
+        {
+          "name": "Wakoshi",
+          "station_id": "00009109",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.612381,
+            "lat": 35.788499
+          }
+        },
+        {
+          "name": "Asaka",
+          "station_id": "00006166",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.600174,
+            "lat": 35.79714
+          }
+        },
+        {
+          "name": "Asakadai",
+          "station_id": "00006167",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.586724,
+            "lat": 35.814726
+          }
+        },
+        {
+          "name": "Shiki",
+          "station_id": "00003275",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.575156,
+            "lat": 35.82228
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Ikebukuro",
+          "from_id": "00005947",
+          "to": "Kita-ikebukuro",
+          "to_id": "00008370",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kita-ikebukuro",
+          "from_id": "00008370",
+          "to": "Shimo-itabashi",
+          "to_id": "00000986",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shimo-itabashi",
+          "from_id": "00000986",
+          "to": "Oyama (Tokyo)",
+          "to_id": "00005618",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Oyama (Tokyo)",
+          "from_id": "00005618",
+          "to": "Naka-itabashi",
+          "to_id": "00006122",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Naka-itabashi",
+          "from_id": "00006122",
+          "to": "Tokiwadai(Tokyo)",
+          "to_id": "00000086",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tokiwadai(Tokyo)",
+          "from_id": "00000086",
+          "to": "Kami-itabashi",
+          "to_id": "00004037",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kami-itabashi",
+          "from_id": "00004037",
+          "to": "Tobu-Nerima",
+          "to_id": "00006837",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tobu-Nerima",
+          "from_id": "00006837",
+          "to": "Shimo-akatsuka",
+          "to_id": "00000953",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shimo-akatsuka",
+          "from_id": "00000953",
+          "to": "Narimasu",
+          "to_id": "00004635",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Narimasu",
+          "from_id": "00004635",
+          "to": "Wakoshi",
+          "to_id": "00009109",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Wakoshi",
+          "from_id": "00009109",
+          "to": "Asaka",
+          "to_id": "00006166",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Asaka",
+          "from_id": "00006166",
+          "to": "Asakadai",
+          "to_id": "00006167",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Asakadai",
+          "from_id": "00006167",
+          "to": "Shiki",
+          "to_id": "00003275",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Express": {
+      "line": "Tobu Tojo Line",
+      "train_type": "Express",
+      "total_stops": 20,
+      "stops": [
+        {
+          "name": "Ikebukuro",
+          "station_id": "00005947",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.710636,
+            "lat": 35.730776
+          }
+        },
+        {
+          "name": "Narimasu",
+          "station_id": "00004635",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.632885,
+            "lat": 35.777645
+          }
+        },
+        {
+          "name": "Wakoshi",
+          "station_id": "00009109",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.612381,
+            "lat": 35.788499
+          }
+        },
+        {
+          "name": "Asaka",
+          "station_id": "00006166",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.600174,
+            "lat": 35.79714
+          }
+        },
+        {
+          "name": "Asakadai",
+          "station_id": "00006167",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.586724,
+            "lat": 35.814726
+          }
+        },
+        {
+          "name": "Shiki",
+          "station_id": "00003275",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.575156,
+            "lat": 35.82228
+          }
+        },
+        {
+          "name": "Fujimino",
+          "station_id": "00000112",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.523149,
+            "lat": 35.860856
+          }
+        },
+        {
+          "name": "Kawagoe",
+          "station_id": "00005189",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.48299,
+            "lat": 35.907194
+          }
+        },
+        {
+          "name": "Kawagoeshi",
+          "station_id": "00005190",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.477395,
+            "lat": 35.914149
+          }
+        },
+        {
+          "name": "Kasumigaseki(Saitama)",
+          "station_id": "00001115",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.443128,
+            "lat": 35.925575
+          }
+        },
+        {
+          "name": "Tsurugashima",
+          "station_id": "00006376",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.42369,
+            "lat": 35.936921
+          }
+        },
+        {
+          "name": "Wakaba",
+          "station_id": "00003439",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.408744,
+            "lat": 35.949098
+          }
+        },
+        {
+          "name": "Sakado",
+          "station_id": "00002847",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.393878,
+            "lat": 35.957084
+          }
+        },
+        {
+          "name": "Kitasakado",
+          "station_id": "00008314",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.396964,
+            "lat": 35.972211
+          }
+        },
+        {
+          "name": "Takasaka",
+          "station_id": "00002568",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.397679,
+            "lat": 36.002775
+          }
+        },
+        {
+          "name": "Higashimatsuyama",
+          "station_id": "00006730",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.401662,
+            "lat": 36.034821
+          }
+        },
+        {
+          "name": "Shinrinkoen(Saitama)",
+          "station_id": "00004399",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.374946,
+            "lat": 36.045202
+          }
+        },
+        {
+          "name": "Tsukinowa",
+          "station_id": "00009277",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.345396,
+            "lat": 36.043456
+          }
+        },
+        {
+          "name": "Musashiranzan",
+          "station_id": "00007975",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.327754,
+            "lat": 36.044389
+          }
+        },
+        {
+          "name": "Ogawamachi(Saitama)",
+          "station_id": "00003709",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.261278,
+            "lat": 36.058428
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Ikebukuro",
+          "from_id": "00005947",
+          "to": "Narimasu",
+          "to_id": "00004635",
+          "travel_time_minutes": 9
+        },
+        {
+          "from": "Narimasu",
+          "from_id": "00004635",
+          "to": "Wakoshi",
+          "to_id": "00009109",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Wakoshi",
+          "from_id": "00009109",
+          "to": "Asaka",
+          "to_id": "00006166",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Asaka",
+          "from_id": "00006166",
+          "to": "Asakadai",
+          "to_id": "00006167",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Asakadai",
+          "from_id": "00006167",
+          "to": "Shiki",
+          "to_id": "00003275",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shiki",
+          "from_id": "00003275",
+          "to": "Fujimino",
+          "to_id": "00000112",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Fujimino",
+          "from_id": "00000112",
+          "to": "Kawagoe",
+          "to_id": "00005189",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Kawagoe",
+          "from_id": "00005189",
+          "to": "Kawagoeshi",
+          "to_id": "00005190",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kawagoeshi",
+          "from_id": "00005190",
+          "to": "Kasumigaseki(Saitama)",
+          "to_id": "00001115",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Kasumigaseki(Saitama)",
+          "from_id": "00001115",
+          "to": "Tsurugashima",
+          "to_id": "00006376",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tsurugashima",
+          "from_id": "00006376",
+          "to": "Wakaba",
+          "to_id": "00003439",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Wakaba",
+          "from_id": "00003439",
+          "to": "Sakado",
+          "to_id": "00002847",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Sakado",
+          "from_id": "00002847",
+          "to": "Kitasakado",
+          "to_id": "00008314",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kitasakado",
+          "from_id": "00008314",
+          "to": "Takasaka",
+          "to_id": "00002568",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Takasaka",
+          "from_id": "00002568",
+          "to": "Higashimatsuyama",
+          "to_id": "00006730",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Higashimatsuyama",
+          "from_id": "00006730",
+          "to": "Shinrinkoen(Saitama)",
+          "to_id": "00004399",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Shinrinkoen(Saitama)",
+          "from_id": "00004399",
+          "to": "Tsukinowa",
+          "to_id": "00009277",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Tsukinowa",
+          "from_id": "00009277",
+          "to": "Musashiranzan",
+          "to_id": "00007975",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Musashiranzan",
+          "from_id": "00007975",
+          "to": "Ogawamachi(Saitama)",
+          "to_id": "00003709",
+          "travel_time_minutes": 7
+        }
+      ]
+    },
+    "Semi Express": {
+      "line": "Tobu Tojo Line",
+      "train_type": "Semi Express",
+      "total_stops": 15,
+      "stops": [
+        {
+          "name": "Ikebukuro",
+          "station_id": "00005947",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.710636,
+            "lat": 35.730776
+          }
+        },
+        {
+          "name": "Kami-itabashi",
+          "station_id": "00004037",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.676445,
+            "lat": 35.763505
+          }
+        },
+        {
+          "name": "Narimasu",
+          "station_id": "00004635",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.632885,
+            "lat": 35.777645
+          }
+        },
+        {
+          "name": "Wakoshi",
+          "station_id": "00009109",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.612381,
+            "lat": 35.788499
+          }
+        },
+        {
+          "name": "Asaka",
+          "station_id": "00006166",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.600174,
+            "lat": 35.79714
+          }
+        },
+        {
+          "name": "Asakadai",
+          "station_id": "00006167",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.586724,
+            "lat": 35.814726
+          }
+        },
+        {
+          "name": "Shiki",
+          "station_id": "00003275",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.575156,
+            "lat": 35.82228
+          }
+        },
+        {
+          "name": "Yanasegawa",
+          "station_id": "00008806",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.562142,
+            "lat": 35.830761
+          }
+        },
+        {
+          "name": "Mizuhodai",
+          "station_id": "00000128",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.550873,
+            "lat": 35.838198
+          }
+        },
+        {
+          "name": "Tsuruse",
+          "station_id": "00006393",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.539407,
+            "lat": 35.845739
+          }
+        },
+        {
+          "name": "Fujimino",
+          "station_id": "00000112",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.523149,
+            "lat": 35.860856
+          }
+        },
+        {
+          "name": "Kami-fukuoka",
+          "station_id": "00004045",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.511786,
+            "lat": 35.873933
+          }
+        },
+        {
+          "name": "Shingashi",
+          "station_id": "00004188",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.496723,
+            "lat": 35.891434
+          }
+        },
+        {
+          "name": "Kawagoe",
+          "station_id": "00005189",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.48299,
+            "lat": 35.907194
+          }
+        },
+        {
+          "name": "Kawagoeshi",
+          "station_id": "00005190",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.477395,
+            "lat": 35.914149
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Ikebukuro",
+          "from_id": "00005947",
+          "to": "Kami-itabashi",
+          "to_id": "00004037",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Kami-itabashi",
+          "from_id": "00004037",
+          "to": "Narimasu",
+          "to_id": "00004635",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Narimasu",
+          "from_id": "00004635",
+          "to": "Wakoshi",
+          "to_id": "00009109",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Wakoshi",
+          "from_id": "00009109",
+          "to": "Asaka",
+          "to_id": "00006166",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Asaka",
+          "from_id": "00006166",
+          "to": "Asakadai",
+          "to_id": "00006167",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Asakadai",
+          "from_id": "00006167",
+          "to": "Shiki",
+          "to_id": "00003275",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shiki",
+          "from_id": "00003275",
+          "to": "Yanasegawa",
+          "to_id": "00008806",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yanasegawa",
+          "from_id": "00008806",
+          "to": "Mizuhodai",
+          "to_id": "00000128",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Mizuhodai",
+          "from_id": "00000128",
+          "to": "Tsuruse",
+          "to_id": "00006393",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tsuruse",
+          "from_id": "00006393",
+          "to": "Fujimino",
+          "to_id": "00000112",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Fujimino",
+          "from_id": "00000112",
+          "to": "Kami-fukuoka",
+          "to_id": "00004045",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kami-fukuoka",
+          "from_id": "00004045",
+          "to": "Shingashi",
+          "to_id": "00004188",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Shingashi",
+          "from_id": "00004188",
+          "to": "Kawagoe",
+          "to_id": "00005189",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kawagoe",
+          "from_id": "00005189",
+          "to": "Kawagoeshi",
+          "to_id": "00005190",
+          "travel_time_minutes": 1
+        }
+      ]
+    },
+    "Rapid Express": {
+      "line": "Tobu Tojo Line",
+      "train_type": "Rapid Express",
+      "total_stops": 13,
+      "stops": [
+        {
+          "name": "Ikebukuro",
+          "station_id": "00005947",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.710636,
+            "lat": 35.730776
+          }
+        },
+        {
+          "name": "Wakoshi",
+          "station_id": "00009109",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.612381,
+            "lat": 35.788499
+          }
+        },
+        {
+          "name": "Asakadai",
+          "station_id": "00006167",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.586724,
+            "lat": 35.814726
+          }
+        },
+        {
+          "name": "Kawagoe",
+          "station_id": "00005189",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.48299,
+            "lat": 35.907194
+          }
+        },
+        {
+          "name": "Kawagoeshi",
+          "station_id": "00005190",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.477395,
+            "lat": 35.914149
+          }
+        },
+        {
+          "name": "Kasumigaseki(Saitama)",
+          "station_id": "00001115",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.443128,
+            "lat": 35.925575
+          }
+        },
+        {
+          "name": "Tsurugashima",
+          "station_id": "00006376",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.42369,
+            "lat": 35.936921
+          }
+        },
+        {
+          "name": "Wakaba",
+          "station_id": "00003439",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.408744,
+            "lat": 35.949098
+          }
+        },
+        {
+          "name": "Sakado",
+          "station_id": "00002847",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.393878,
+            "lat": 35.957084
+          }
+        },
+        {
+          "name": "Kitasakado",
+          "station_id": "00008314",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.396964,
+            "lat": 35.972211
+          }
+        },
+        {
+          "name": "Takasaka",
+          "station_id": "00002568",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.397679,
+            "lat": 36.002775
+          }
+        },
+        {
+          "name": "Higashimatsuyama",
+          "station_id": "00006730",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.401662,
+            "lat": 36.034821
+          }
+        },
+        {
+          "name": "Shinrinkoen(Saitama)",
+          "station_id": "00004399",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.374946,
+            "lat": 36.045202
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Ikebukuro",
+          "from_id": "00005947",
+          "to": "Wakoshi",
+          "to_id": "00009109",
+          "travel_time_minutes": 12
+        },
+        {
+          "from": "Wakoshi",
+          "from_id": "00009109",
+          "to": "Asakadai",
+          "to_id": "00006167",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Asakadai",
+          "from_id": "00006167",
+          "to": "Kawagoe",
+          "to_id": "00005189",
+          "travel_time_minutes": 11
+        },
+        {
+          "from": "Kawagoe",
+          "from_id": "00005189",
+          "to": "Kawagoeshi",
+          "to_id": "00005190",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kawagoeshi",
+          "from_id": "00005190",
+          "to": "Kasumigaseki(Saitama)",
+          "to_id": "00001115",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kasumigaseki(Saitama)",
+          "from_id": "00001115",
+          "to": "Tsurugashima",
+          "to_id": "00006376",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Tsurugashima",
+          "from_id": "00006376",
+          "to": "Wakaba",
+          "to_id": "00003439",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Wakaba",
+          "from_id": "00003439",
+          "to": "Sakado",
+          "to_id": "00002847",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Sakado",
+          "from_id": "00002847",
+          "to": "Kitasakado",
+          "to_id": "00008314",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kitasakado",
+          "from_id": "00008314",
+          "to": "Takasaka",
+          "to_id": "00002568",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Takasaka",
+          "from_id": "00002568",
+          "to": "Higashimatsuyama",
+          "to_id": "00006730",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Higashimatsuyama",
+          "from_id": "00006730",
+          "to": "Shinrinkoen(Saitama)",
+          "to_id": "00004399",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Kawagoe Limited Express": {
+      "line": "Tobu Tojo Line",
+      "train_type": "Kawagoe Limited Express",
+      "total_stops": 10,
+      "stops": [
+        {
+          "name": "Ikebukuro",
+          "station_id": "00005947",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.710636,
+            "lat": 35.730776
+          }
+        },
+        {
+          "name": "Asakadai",
+          "station_id": "00006167",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.586724,
+            "lat": 35.814726
+          }
+        },
+        {
+          "name": "Kawagoe",
+          "station_id": "00005189",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.48299,
+            "lat": 35.907194
+          }
+        },
+        {
+          "name": "Kawagoeshi",
+          "station_id": "00005190",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.477395,
+            "lat": 35.914149
+          }
+        },
+        {
+          "name": "Sakado",
+          "station_id": "00002847",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.393878,
+            "lat": 35.957084
+          }
+        },
+        {
+          "name": "Higashimatsuyama",
+          "station_id": "00006730",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.401662,
+            "lat": 36.034821
+          }
+        },
+        {
+          "name": "Shinrinkoen(Saitama)",
+          "station_id": "00004399",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.374946,
+            "lat": 36.045202
+          }
+        },
+        {
+          "name": "Tsukinowa",
+          "station_id": "00009277",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.345396,
+            "lat": 36.043456
+          }
+        },
+        {
+          "name": "Musashiranzan",
+          "station_id": "00007975",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.327754,
+            "lat": 36.044389
+          }
+        },
+        {
+          "name": "Ogawamachi(Saitama)",
+          "station_id": "00003709",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.261278,
+            "lat": 36.058428
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Ikebukuro",
+          "from_id": "00005947",
+          "to": "Asakadai",
+          "to_id": "00006167",
+          "travel_time_minutes": 14
+        },
+        {
+          "from": "Asakadai",
+          "from_id": "00006167",
+          "to": "Kawagoe",
+          "to_id": "00005189",
+          "travel_time_minutes": 11
+        },
+        {
+          "from": "Kawagoe",
+          "from_id": "00005189",
+          "to": "Kawagoeshi",
+          "to_id": "00005190",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kawagoeshi",
+          "from_id": "00005190",
+          "to": "Sakado",
+          "to_id": "00002847",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Sakado",
+          "from_id": "00002847",
+          "to": "Higashimatsuyama",
+          "to_id": "00006730",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Higashimatsuyama",
+          "from_id": "00006730",
+          "to": "Shinrinkoen(Saitama)",
+          "to_id": "00004399",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Shinrinkoen(Saitama)",
+          "from_id": "00004399",
+          "to": "Tsukinowa",
+          "to_id": "00009277",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Tsukinowa",
+          "from_id": "00009277",
+          "to": "Musashiranzan",
+          "to_id": "00007975",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Musashiranzan",
+          "from_id": "00007975",
+          "to": "Ogawamachi(Saitama)",
+          "to_id": "00003709",
+          "travel_time_minutes": 7
+        }
+      ]
+    },
+    "Paid": {
+      "line": "Tobu Tojo Line",
+      "train_type": "Paid",
+      "total_stops": 10,
+      "stops": [
+        {
+          "name": "Ikebukuro",
+          "station_id": "00005947",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.710636,
+            "lat": 35.730776
+          }
+        },
+        {
+          "name": "Fujimino",
+          "station_id": "00000112",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.523149,
+            "lat": 35.860856
+          }
+        },
+        {
+          "name": "Kawagoe",
+          "station_id": "00005189",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.48299,
+            "lat": 35.907194
+          }
+        },
+        {
+          "name": "Kawagoeshi",
+          "station_id": "00005190",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.477395,
+            "lat": 35.914149
+          }
+        },
+        {
+          "name": "Sakado",
+          "station_id": "00002847",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.393878,
+            "lat": 35.957084
+          }
+        },
+        {
+          "name": "Higashimatsuyama",
+          "station_id": "00006730",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.401662,
+            "lat": 36.034821
+          }
+        },
+        {
+          "name": "Shinrinkoen(Saitama)",
+          "station_id": "00004399",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.374946,
+            "lat": 36.045202
+          }
+        },
+        {
+          "name": "Tsukinowa",
+          "station_id": "00009277",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.345396,
+            "lat": 36.043456
+          }
+        },
+        {
+          "name": "Musashiranzan",
+          "station_id": "00007975",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.327754,
+            "lat": 36.044389
+          }
+        },
+        {
+          "name": "Ogawamachi(Saitama)",
+          "station_id": "00003709",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.261278,
+            "lat": 36.058428
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Ikebukuro",
+          "from_id": "00005947",
+          "to": "Fujimino",
+          "to_id": "00000112",
+          "travel_time_minutes": 20
+        },
+        {
+          "from": "Fujimino",
+          "from_id": "00000112",
+          "to": "Kawagoe",
+          "to_id": "00005189",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Kawagoe",
+          "from_id": "00005189",
+          "to": "Kawagoeshi",
+          "to_id": "00005190",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kawagoeshi",
+          "from_id": "00005190",
+          "to": "Sakado",
+          "to_id": "00002847",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Sakado",
+          "from_id": "00002847",
+          "to": "Higashimatsuyama",
+          "to_id": "00006730",
+          "travel_time_minutes": 8
+        },
+        {
+          "from": "Higashimatsuyama",
+          "from_id": "00006730",
+          "to": "Shinrinkoen(Saitama)",
+          "to_id": "00004399",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Shinrinkoen(Saitama)",
+          "from_id": "00004399",
+          "to": "Tsukinowa",
+          "to_id": "00009277",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Tsukinowa",
+          "from_id": "00009277",
+          "to": "Musashiranzan",
+          "to_id": "00007975",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Musashiranzan",
+          "from_id": "00007975",
+          "to": "Ogawamachi(Saitama)",
+          "to_id": "00003709",
+          "travel_time_minutes": 7
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:56:40.607Z"
+}

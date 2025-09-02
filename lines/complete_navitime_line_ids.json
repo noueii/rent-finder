@@ -1,0 +1,422 @@
+[
+  {
+    "line": "Chuo Line (Rapid)",
+    "operator": "JR East",
+    "navitime_id": "00000176",
+    "navitime_name": "JR Chuo Main Line(Tokyo-Shiojiri)"
+  },
+  {
+    "line": "Chuo-Sobu Line (Local)",
+    "operator": "JR East",
+    "navitime_id": "00000176",
+    "navitime_name": "JR Chuo Main Line(Tokyo-Shiojiri)"
+  },
+  {
+    "line": "Hachiko Line",
+    "operator": "JR East",
+    "navitime_id": "00000197",
+    "navitime_name": "JR Hachiko Line(Hachioji-Komagawa)"
+  },
+  {
+    "line": "Itsukaichi Line",
+    "operator": "JR East",
+    "navitime_id": "00000133",
+    "navitime_name": "JR Itsukaichi Line"
+  },
+  {
+    "line": "Joban Line (Rapid/Local)",
+    "operator": "JR East",
+    "navitime_id": "00000151",
+    "navitime_name": "JR Joban Line"
+  },
+  {
+    "line": "Kawagoe Line",
+    "operator": "JR East",
+    "navitime_id": "00000166",
+    "navitime_name": "JR Kawagoe Line"
+  },
+  {
+    "line": "Keihin–Tohoku Line",
+    "operator": "JR East",
+    "navitime_id": "00000131",
+    "navitime_name": "JR Keihintohoku Line"
+  },
+  {
+    "line": "Keiyo Line",
+    "operator": "JR East",
+    "navitime_id": "00000132",
+    "navitime_name": "JR Keiyo Line"
+  },
+  {
+    "line": "Musashino Line",
+    "operator": "JR East",
+    "navitime_id": "00000202",
+    "navitime_name": "JR Musashino Line(Fuchuhommachi-Minamifunabashi)"
+  },
+  {
+    "line": "Nambu Line",
+    "operator": "JR East",
+    "navitime_id": "00000191",
+    "navitime_name": "JR Nambu Line(Shitte-Hamakawasaki)"
+  },
+  {
+    "line": "Negishi Line",
+    "operator": "JR East",
+    "navitime_id": "00000137",
+    "navitime_name": "JR Negishi Line"
+  },
+  {
+    "line": "Ome Line",
+    "operator": "JR East",
+    "navitime_id": "00000162",
+    "navitime_name": "JR Ome Line"
+  },
+  {
+    "line": "Saikyo Line",
+    "operator": "JR East",
+    "navitime_id": "00000139",
+    "navitime_name": "JR Saikyo Line"
+  },
+  {
+    "line": "Shonan-Shinjuku Line",
+    "operator": "JR East",
+    "navitime_id": "00000910",
+    "navitime_name": "JR Shonan-Shinjuku Line"
+  },
+  {
+    "line": "Sobu Line (Rapid)",
+    "operator": "JR East",
+    "navitime_id": "00000168",
+    "navitime_name": "JR Sobu Main Line(Tokyo-Choshi)"
+  },
+  {
+    "line": "Takasaki Line",
+    "operator": "JR East",
+    "navitime_id": "00000136",
+    "navitime_name": "JR Takasaki Line"
+  },
+  {
+    "line": "Tokaido Line",
+    "operator": "JR East",
+    "navitime_id": "00000183",
+    "navitime_name": "JR Tokaido Main Line(Tokyo-Atami)"
+  },
+  {
+    "line": "Utsunomiya Line",
+    "operator": "JR East",
+    "navitime_id": "00000188",
+    "navitime_name": "JR Utsunomiya Line[Tohoku Main Line]‧JR Ueno Tokyo Line"
+  },
+  {
+    "line": "Yamanote Line",
+    "operator": "JR East",
+    "navitime_id": "00000141",
+    "navitime_name": "JR Yamanote Line"
+  },
+  {
+    "line": "Yokohama Line",
+    "operator": "JR East",
+    "navitime_id": "00000124",
+    "navitime_name": "JR Yokohama Line"
+  },
+  {
+    "line": "Yokosuka Line",
+    "operator": "JR East",
+    "navitime_id": "00000123",
+    "navitime_name": "JR Yokosuka Line"
+  },
+  {
+    "line": "Keikyu Main Line",
+    "operator": "Keikyu Corporation",
+    "navitime_id": "00000298",
+    "navitime_name": "Keikyu Main Line"
+  },
+  {
+    "line": "Keio Dobutsuen",
+    "operator": "Keio Corporation",
+    "navitime_id": "00000279",
+    "navitime_name": "Keio Dobutsuen Line"
+  },
+  {
+    "line": "Keio Inokashira Line",
+    "operator": "Keio Corporation",
+    "navitime_id": "00000273",
+    "navitime_name": "Keio Inokashira Line"
+  },
+  {
+    "line": "Keio Line",
+    "operator": "Keio Corporation",
+    "navitime_id": "00000274",
+    "navitime_name": "Keio Line"
+  },
+  {
+    "line": "Keio New",
+    "operator": "Keio Corporation",
+    "navitime_id": "00000277",
+    "navitime_name": "Keio New Line"
+  },
+  {
+    "line": "Keio Takao",
+    "operator": "Keio Corporation",
+    "navitime_id": "00000276",
+    "navitime_name": "Keio Takao Line"
+  },
+  {
+    "line": "Keisei Main Line",
+    "operator": "Keisei Electric Railway",
+    "navitime_id": "00000291",
+    "navitime_name": "Keisei Main Line"
+  },
+  {
+    "line": "Keisei Oshiage Line",
+    "operator": "Keisei Electric Railway",
+    "navitime_id": "00000286",
+    "navitime_name": "Keisei Oshiage Line"
+  },
+  {
+    "line": "Tsukuba Express",
+    "operator": "Metropolitan Intercity Railway Company",
+    "navitime_id": "00001066",
+    "navitime_name": "Tsukuba Express"
+  },
+  {
+    "line": "Odakyu Enoshima",
+    "operator": "Odakyu Electric Railway",
+    "navitime_id": "00000685",
+    "navitime_name": "Odakyu Enoshima Line"
+  },
+  {
+    "line": "Odakyu Odawara Line",
+    "operator": "Odakyu Electric Railway",
+    "navitime_id": "00000686",
+    "navitime_name": "Odakyu Odawara Line"
+  },
+  {
+    "line": "Odakyu Tama Line",
+    "operator": "Odakyu Electric Railway",
+    "navitime_id": "00000688",
+    "navitime_name": "Odakyu Tama Line"
+  },
+  {
+    "line": "Seibu Haijima",
+    "operator": "Seibu Railway",
+    "navitime_id": "00000727",
+    "navitime_name": "Seibu Haijima Line"
+  },
+  {
+    "line": "Seibu Ikebukuro Line",
+    "operator": "Seibu Railway",
+    "navitime_id": "00000725",
+    "navitime_name": "Seibu Ikebukuro Line"
+  },
+  {
+    "line": "Seibu Kokubunji",
+    "operator": "Seibu Railway",
+    "navitime_id": "00000719",
+    "navitime_name": "Seibu Kokubunji Line"
+  },
+  {
+    "line": "Seibu Shinjuku Line",
+    "operator": "Seibu Railway",
+    "navitime_id": "00000721",
+    "navitime_name": "Seibu Shinjuku Line"
+  },
+  {
+    "line": "Sotetsu Main",
+    "operator": "Sotetsu",
+    "navitime_id": "00000736",
+    "navitime_name": "Sotetsu Main Line"
+  },
+  {
+    "line": "Tama Monorail",
+    "operator": "Tama Monorail",
+    "navitime_id": "00000738",
+    "navitime_name": "Tamatoshi Monorail"
+  },
+  {
+    "line": "Tobu Isesaki Line (Skytree Line)",
+    "operator": "Tobu Railway",
+    "navitime_id": "00000999",
+    "navitime_name": "Tobu Isesaki Line (SKYTREE Line)( Oshiage-Hikifune)"
+  },
+  {
+    "line": "Tobu Isesaki Line (Skytree Line)",
+    "operator": "Tobu Railway",
+    "navitime_id": "00000798",
+    "navitime_name": "Tobu Isesaki Line (SKYTREE Line)"
+  },
+  {
+    "line": "Tobu Kameido",
+    "operator": "Tobu Railway",
+    "navitime_id": "00000802",
+    "navitime_name": "Tobu Kameido Line"
+  },
+  {
+    "line": "Tobu Noda (Urban Park Line)",
+    "operator": "Tobu Railway",
+    "navitime_id": "00000810",
+    "navitime_name": "Tobu Noda Line (Urban Park Line)"
+  },
+  {
+    "line": "Tobu Tojo Line",
+    "operator": "Tobu Railway",
+    "navitime_id": "00000808",
+    "navitime_name": "Tobu Tojo Line"
+  },
+  {
+    "line": "Nippori-Toneri Liner",
+    "operator": "Toei",
+    "navitime_id": "00001092",
+    "navitime_name": "Toei Nippori Toneri Liner"
+  },
+  {
+    "line": "Toei Asakusa",
+    "operator": "Toei",
+    "navitime_id": "00000795",
+    "navitime_name": "Toei Asakusa Line"
+  },
+  {
+    "line": "Toei Mita",
+    "operator": "Toei",
+    "navitime_id": "00000793",
+    "navitime_name": "Toei Mita Line"
+  },
+  {
+    "line": "Toei Oedo",
+    "operator": "Toei",
+    "navitime_id": "00001015",
+    "navitime_name": "Toei Oedo Line"
+  },
+  {
+    "line": "Toei Shinjuku",
+    "operator": "Toei",
+    "navitime_id": "00000794",
+    "navitime_name": "Toei Shinjuku Line"
+  },
+  {
+    "line": "Tokyo Metro Chiyoda",
+    "operator": "Tokyo Metro",
+    "navitime_id": "00000769",
+    "navitime_name": "Tokyo Metro Chiyoda Line"
+  },
+  {
+    "line": "Tokyo Metro Fukutoshin",
+    "operator": "Tokyo Metro",
+    "navitime_id": "00000776",
+    "navitime_name": "Tokyo Metro Fukutoshin Line"
+  },
+  {
+    "line": "Tokyo Metro Ginza",
+    "operator": "Tokyo Metro",
+    "navitime_id": "00000768",
+    "navitime_name": "Tokyo Metro Ginza Line"
+  },
+  {
+    "line": "Tokyo Metro Hanzomon",
+    "operator": "Tokyo Metro",
+    "navitime_id": "00000774",
+    "navitime_name": "Tokyo Metro Hanzomon Line"
+  },
+  {
+    "line": "Tokyo Metro Hibiya",
+    "operator": "Tokyo Metro",
+    "navitime_id": "00000773",
+    "navitime_name": "Tokyo Metro Hibiya Line"
+  },
+  {
+    "line": "Tokyo Metro Marunouchi",
+    "operator": "Tokyo Metro",
+    "navitime_id": "00000766",
+    "navitime_name": "Tokyo Metro Marunouchi Line"
+  },
+  {
+    "line": "Tokyo Metro Namboku",
+    "operator": "Tokyo Metro",
+    "navitime_id": "00000772",
+    "navitime_name": "Tokyo Metro Namboku Line"
+  },
+  {
+    "line": "Tokyo Metro Tozai",
+    "operator": "Tokyo Metro",
+    "navitime_id": "00000771",
+    "navitime_name": "Tokyo Metro Tozai Line"
+  },
+  {
+    "line": "Tokyo Metro Yurakucho",
+    "operator": "Tokyo Metro",
+    "navitime_id": "00000775",
+    "navitime_name": "Tokyo Metro Yurakucho Line"
+  },
+  {
+    "line": "Tokyo Monorail",
+    "operator": "Tokyo Monorail",
+    "navitime_id": "00000783",
+    "navitime_name": "Tokyo Monorail"
+  },
+  {
+    "line": "Rinkai Line",
+    "operator": "Tokyo Waterfront Area Rapid Transit",
+    "navitime_id": "00000797",
+    "navitime_name": "Rinkai Line"
+  },
+  {
+    "line": "Tokyu Den-en-toshi Line",
+    "operator": "Tokyu Corporation",
+    "navitime_id": "00000789",
+    "navitime_name": "Tokyu Den-en-toshi Line"
+  },
+  {
+    "line": "Tokyu Ikegami Line",
+    "operator": "Tokyu Corporation",
+    "navitime_id": "00000788",
+    "navitime_name": "Tokyu Ikegami Line"
+  },
+  {
+    "line": "Tokyu Meguro Line",
+    "operator": "Tokyu Corporation",
+    "navitime_id": "00000791",
+    "navitime_name": "Tokyu Meguro Line"
+  },
+  {
+    "line": "Tokyu Oimachi Line",
+    "operator": "Tokyu Corporation",
+    "navitime_id": "00000787",
+    "navitime_name": "Tokyu Oimachi Line"
+  },
+  {
+    "line": "Tokyu Setagaya Line",
+    "operator": "Tokyu Corporation",
+    "navitime_id": "00000786",
+    "navitime_name": "Tokyu Setagaya Line"
+  },
+  {
+    "line": "Tokyu Tamagawa Line",
+    "operator": "Tokyu Corporation",
+    "navitime_id": "00000903",
+    "navitime_name": "Tokyu Tamagawa Line"
+  },
+  {
+    "line": "Tokyu Toyoko Line",
+    "operator": "Tokyu Corporation",
+    "navitime_id": "00000790",
+    "navitime_name": "Tokyu Toyoko Line"
+  },
+  {
+    "line": "Yokohama City Subway Blue",
+    "operator": "Yokohama City",
+    "navitime_id": "00000261",
+    "navitime_name": "Yokohama City Subway Blue Line"
+  },
+  {
+    "line": "Yokohamakosoku Railway Minatomirai",
+    "operator": "Yokohama City",
+    "navitime_id": "00001016",
+    "navitime_name": "Yokohamakosoku Railway Minatomirai Line"
+  },
+  {
+    "line": "Yurikamome",
+    "operator": "Yurikamome, Inc.",
+    "navitime_id": "00000239",
+    "navitime_name": "Yurikamome"
+  }
+]

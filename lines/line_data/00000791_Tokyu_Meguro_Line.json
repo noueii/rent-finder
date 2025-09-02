@@ -1,0 +1,459 @@
+{
+  "line": "Tokyu Meguro Line",
+  "operator": "Tokyu Corporation",
+  "navitime_id": "00000791",
+  "first_station_id": "00008684",
+  "stations": [
+    {
+      "name": "Meguro",
+      "japanese_name": "目黒",
+      "station_id": "00008684",
+      "order": 1,
+      "transfers": [
+        "JR Yamanote Line",
+        "Tokyo Metro Namboku Line",
+        "Toei Mita Line"
+      ]
+    },
+    {
+      "name": "Fudo-mae",
+      "japanese_name": "不動前",
+      "station_id": "00007857",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Musashi-koyama",
+      "japanese_name": "武蔵小山",
+      "station_id": "00007964",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Nishi-koyama",
+      "japanese_name": "西小山",
+      "station_id": "00004800",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Senzoku",
+      "japanese_name": "洗足",
+      "station_id": "00005276",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Ookayama",
+      "japanese_name": "大岡山",
+      "station_id": "00005529",
+      "order": 6,
+      "transfers": [
+        "Tokyu Oimachi Line"
+      ]
+    },
+    {
+      "name": "Okusawa",
+      "japanese_name": "奥沢",
+      "station_id": "00000803",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Den-en-chofu",
+      "japanese_name": "田園調布",
+      "station_id": "00006459",
+      "order": 8,
+      "transfers": [
+        "Tokyu Toyoko Line"
+      ]
+    },
+    {
+      "name": "Tamagawa",
+      "japanese_name": "多摩川",
+      "station_id": "00005463",
+      "order": 9,
+      "transfers": [
+        "Tokyu Toyoko Line",
+        "Tokyu Tamagawa Line"
+      ]
+    },
+    {
+      "name": "Shin-maruko",
+      "japanese_name": "新丸子",
+      "station_id": "00004200",
+      "order": 10,
+      "transfers": [
+        "Tokyu Toyoko Line"
+      ]
+    },
+    {
+      "name": "Musashi-Kosugi",
+      "japanese_name": "武蔵小杉",
+      "station_id": "00007965",
+      "order": 11,
+      "transfers": [
+        "JR Yokosuka Line",
+        "JR Nambu Line(Kawasaki-Tachikawa)",
+        "Tokyu Toyoko Line"
+      ]
+    },
+    {
+      "name": "Motosumiyoshi",
+      "japanese_name": "元住吉",
+      "station_id": "00002117",
+      "order": 12,
+      "transfers": [
+        "Tokyu Toyoko Line"
+      ]
+    },
+    {
+      "name": "Hiyoshi(Kanagawa)",
+      "japanese_name": "日吉(神奈川県)",
+      "station_id": "00007245",
+      "order": 13,
+      "transfers": [
+        "Tokyu Toyoko Line",
+        "Yokohama City Subway Green Line",
+        "Tokyu Shin-Yokohama Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Express"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "825c0057",
+      "trainName": "Tokyu Meguro Line Local",
+      "destination": "Musashi-Kosugi",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "06",
+      "type": "Local"
+    },
+    "Express": {
+      "trainId": "825c0056",
+      "trainName": "Tokyu Meguro Line Express",
+      "destination": "Ebina(Odakyu-Sotetsu)",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Express"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Tokyu Meguro Line",
+      "train_type": "Local",
+      "total_stops": 11,
+      "stops": [
+        {
+          "name": "Meguro",
+          "station_id": "00008684",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.715627,
+            "lat": 35.63309
+          }
+        },
+        {
+          "name": "Fudo-mae",
+          "station_id": "00007857",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.713644,
+            "lat": 35.625668
+          }
+        },
+        {
+          "name": "Musashi-koyama",
+          "station_id": "00007964",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.70431,
+            "lat": 35.620484
+          }
+        },
+        {
+          "name": "Nishi-koyama",
+          "station_id": "00004800",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.698875,
+            "lat": 35.615688
+          }
+        },
+        {
+          "name": "Senzoku",
+          "station_id": "00005276",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.69445,
+            "lat": 35.610445
+          }
+        },
+        {
+          "name": "Ookayama",
+          "station_id": "00005529",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.685666,
+            "lat": 35.607466
+          }
+        },
+        {
+          "name": "Okusawa",
+          "station_id": "00000803",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.672212,
+            "lat": 35.603889
+          }
+        },
+        {
+          "name": "Den-en-chofu",
+          "station_id": "00006459",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.667306,
+            "lat": 35.597173
+          }
+        },
+        {
+          "name": "Tamagawa",
+          "station_id": "00005463",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.668782,
+            "lat": 35.589667
+          }
+        },
+        {
+          "name": "Shin-maruko",
+          "station_id": "00004200",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.662047,
+            "lat": 35.580646
+          }
+        },
+        {
+          "name": "Musashi-Kosugi",
+          "station_id": "00007965",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.659685,
+            "lat": 35.575765
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Meguro",
+          "from_id": "00008684",
+          "to": "Fudo-mae",
+          "to_id": "00007857",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Fudo-mae",
+          "from_id": "00007857",
+          "to": "Musashi-koyama",
+          "to_id": "00007964",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Musashi-koyama",
+          "from_id": "00007964",
+          "to": "Nishi-koyama",
+          "to_id": "00004800",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nishi-koyama",
+          "from_id": "00004800",
+          "to": "Senzoku",
+          "to_id": "00005276",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Senzoku",
+          "from_id": "00005276",
+          "to": "Ookayama",
+          "to_id": "00005529",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ookayama",
+          "from_id": "00005529",
+          "to": "Okusawa",
+          "to_id": "00000803",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Okusawa",
+          "from_id": "00000803",
+          "to": "Den-en-chofu",
+          "to_id": "00006459",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Den-en-chofu",
+          "from_id": "00006459",
+          "to": "Tamagawa",
+          "to_id": "00005463",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tamagawa",
+          "from_id": "00005463",
+          "to": "Shin-maruko",
+          "to_id": "00004200",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-maruko",
+          "from_id": "00004200",
+          "to": "Musashi-Kosugi",
+          "to_id": "00007965",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Express": {
+      "line": "Tokyu Meguro Line",
+      "train_type": "Express",
+      "total_stops": 7,
+      "stops": [
+        {
+          "name": "Meguro",
+          "station_id": "00008684",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.715627,
+            "lat": 35.63309
+          }
+        },
+        {
+          "name": "Musashi-koyama",
+          "station_id": "00007964",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.70431,
+            "lat": 35.620484
+          }
+        },
+        {
+          "name": "Ookayama",
+          "station_id": "00005529",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.685666,
+            "lat": 35.607466
+          }
+        },
+        {
+          "name": "Den-en-chofu",
+          "station_id": "00006459",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.667306,
+            "lat": 35.597173
+          }
+        },
+        {
+          "name": "Tamagawa",
+          "station_id": "00005463",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.668782,
+            "lat": 35.589667
+          }
+        },
+        {
+          "name": "Musashi-Kosugi",
+          "station_id": "00007965",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.659685,
+            "lat": 35.575765
+          }
+        },
+        {
+          "name": "Hiyoshi(Kanagawa)",
+          "station_id": "00007245",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.647003,
+            "lat": 35.553722
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Meguro",
+          "from_id": "00008684",
+          "to": "Musashi-koyama",
+          "to_id": "00007964",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Musashi-koyama",
+          "from_id": "00007964",
+          "to": "Ookayama",
+          "to_id": "00005529",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Ookayama",
+          "from_id": "00005529",
+          "to": "Den-en-chofu",
+          "to_id": "00006459",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Den-en-chofu",
+          "from_id": "00006459",
+          "to": "Tamagawa",
+          "to_id": "00005463",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tamagawa",
+          "from_id": "00005463",
+          "to": "Musashi-Kosugi",
+          "to_id": "00007965",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Musashi-Kosugi",
+          "from_id": "00007965",
+          "to": "Hiyoshi(Kanagawa)",
+          "to_id": "00007245",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:56:00.363Z"
+}

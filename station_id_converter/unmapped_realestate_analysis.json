@@ -1,0 +1,4014 @@
+{
+  "summary": {
+    "totalUnmapped": 419,
+    "uniqueStations": 258,
+    "trainLines": 85
+  },
+  "byCategory": {
+    "shinkansen": [
+      {
+        "line": "Joetsu Shinkansen",
+        "count": 2,
+        "stations": [
+          "Tokyo",
+          "Ueno"
+        ]
+      },
+      {
+        "line": "Yamagata Shinkansen",
+        "count": 2,
+        "stations": [
+          "Tokyo",
+          "Ueno"
+        ]
+      },
+      {
+        "line": "Akita Shinkansen",
+        "count": 2,
+        "stations": [
+          "Tokyo",
+          "Ueno"
+        ]
+      },
+      {
+        "line": "Hokuriku Shinkansen",
+        "count": 2,
+        "stations": [
+          "Tokyo",
+          "Ueno"
+        ]
+      },
+      {
+        "line": "Tohoku Shinkansen",
+        "count": 1,
+        "stations": [
+          "Tokyo"
+        ]
+      }
+    ],
+    "newLines": [
+      {
+        "line": "Toden Arakawa Line",
+        "count": 29,
+        "stations": [
+          "Minowabashi",
+          "Arakawa Hajime Chuzen",
+          "Arakawakuyakushomae",
+          "Arakawa Ni Choume",
+          "Arakawa Nana Choume",
+          "Machiyaekimae",
+          "Machiya Ni Choume",
+          "Higashiogu San Choume",
+          "Miyanomae",
+          "Kodai",
+          "Arakawayuenchimae",
+          "Arakawashakomae",
+          "Kajihara",
+          "Sakaecho",
+          "Oujiekimae",
+          "Asukayama",
+          "Takinogawa Ichi Choume",
+          "Nishigahara Yon Choume",
+          "Shin Koushinzuka",
+          "Koushinzuka",
+          "Sugamoshinden",
+          "Otsukaekimae",
+          "Mukaihara",
+          "Higashiikebukuro Yon Choume",
+          "Toden Zoushigaya",
+          "Kishibojinmae",
+          "Gakushuinshita",
+          "Omokagebashi",
+          "Waseda"
+        ]
+      },
+      {
+        "line": "JR Chūō-Sōbu Line",
+        "count": 21,
+        "stations": [
+          "Mitaka",
+          "Kichijouji",
+          "Nishi Ogikubo",
+          "Ogikubo",
+          "Asagaya",
+          "Koenji",
+          "Nakano",
+          "Higashinakano",
+          "Okubo",
+          "Shinjuku",
+          "Yoyogi",
+          "Sendagaya",
+          "Shinanomachi",
+          "Yotsuya",
+          "Ichigaya",
+          "Iidabashi",
+          "Suidoubashi",
+          "Ochanomizu",
+          "Akihabara",
+          "Ryogoku",
+          "Kinshichou"
+        ]
+      },
+      {
+        "line": "Keiō Sagamihara Line",
+        "count": 9,
+        "stations": [
+          "Choufu",
+          "Keioutamagawa",
+          "Keiou Yomiurirando",
+          "Inagi",
+          "Keiou Nagayama",
+          "Keio Tama Center",
+          "Keiouhorinouchi",
+          "Minamiosawa",
+          "Tamasakai"
+        ]
+      },
+      {
+        "line": "Seibu Tamako Line",
+        "count": 7,
+        "stations": [
+          "Kokubunji",
+          "Hitotsubashigakuen",
+          "Oume Kaidou",
+          "Hagiyama",
+          "Hatsusaka",
+          "Musashiyamato",
+          "Tamako"
+        ]
+      },
+      {
+        "line": "Seibu Tamagawa Line",
+        "count": 6,
+        "stations": [
+          "Musashisakai",
+          "Shin Koganei",
+          "Tama",
+          "Shiraitodai",
+          "Kyouteijoumae",
+          "Koremasa"
+        ]
+      },
+      {
+        "line": "JR Narita Express",
+        "count": 4,
+        "stations": [
+          "Shinjuku",
+          "Shibuya",
+          "Shinagawa",
+          "Tokyo"
+        ]
+      },
+      {
+        "line": "Tōbu Daishi Line",
+        "count": 2,
+        "stations": [
+          "Nishiarai",
+          "Daishimae"
+        ]
+      },
+      {
+        "line": "Seibu Yurakucho Line",
+        "count": 2,
+        "stations": [
+          "Shin Sakuradai",
+          "Nerima"
+        ]
+      },
+      {
+        "line": "Seibu Toshima Line",
+        "count": 2,
+        "stations": [
+          "Nerima",
+          "Toshimaen"
+        ]
+      },
+      {
+        "line": "Keiō Keibajō Line",
+        "count": 2,
+        "stations": [
+          "Higashifuchu",
+          "Fuchu Keiba Seimon Mae"
+        ]
+      },
+      {
+        "line": "Tokyo Metro Yūrakuchō New Line",
+        "count": 2,
+        "stations": [
+          "Shin Sen Ikebukuro",
+          "Kotakemukaihara"
+        ]
+      }
+    ],
+    "airportLines": [
+      {
+        "line": "Keikyū Airport Line",
+        "count": 6,
+        "stations": [
+          "Keikyu Kamata",
+          "Koujiya",
+          "Otorii",
+          "Anamoriinari",
+          "Hanedakukou",
+          "Hanedakukou Kokusaisen Taaminaru"
+        ]
+      },
+      {
+        "line": "Narita Sky Access",
+        "count": 4,
+        "stations": [
+          "Keiseiueno",
+          "Nippori",
+          "Aoto",
+          "Keiseitakasago"
+        ]
+      }
+    ],
+    "missingStations": [
+      {
+        "line": "Toei Ōedo Line",
+        "count": 26,
+        "stations": [
+          "Shinjuku Nishiguchi",
+          "Higashi-Shinjuku",
+          "Wakamatsu Kawada",
+          "Ushigome Yanagicho",
+          "Ushigome Kagurazaka",
+          "Iidabashi",
+          "Hongousanchoume",
+          "Ueno Okachimachi",
+          "Ryogoku",
+          "Kiyosumi Shirakawa",
+          "Monzennakachou",
+          "Tsukishima",
+          "Kachidoki",
+          "Tsukiji Shijou",
+          "Akabanebashi",
+          "Azabu-juban",
+          "Roppongi",
+          "Aoyama-itchome",
+          "Kokuritsu Kyougi Jou",
+          "Yoyogi",
+          "Shinjuku",
+          "Nakanosakaue",
+          "Higashinakano",
+          "Nakai",
+          "Nerima",
+          "Toshimaen"
+        ]
+      },
+      {
+        "line": "JR Keihin-Tōhoku Line",
+        "count": 17,
+        "stations": [
+          "Akabane",
+          "Ouji",
+          "Tabata",
+          "Nishinippori",
+          "Nippori",
+          "Uguisudani",
+          "Ueno",
+          "Okachimachi",
+          "Akihabara",
+          "Kanda",
+          "Tokyo",
+          "Yurakuchou",
+          "Shinbashi",
+          "Hamamatsucho",
+          "Tamachi",
+          "Shinagawa",
+          "Takanawa Gateway Station"
+        ]
+      },
+      {
+        "line": "JR Chūō Line (Rapid)",
+        "count": 16,
+        "stations": [
+          "Tokyo",
+          "Kanda",
+          "Suidoubashi",
+          "Yotsuya",
+          "Yoyogi",
+          "Shinjuku",
+          "Kichijouji",
+          "Mitaka",
+          "Kokubunji",
+          "Nishi Kokubunji",
+          "Tachikawa",
+          "Hino",
+          "Toyoda",
+          "Hachioji",
+          "Nishi Hachioji",
+          "Takao"
+        ]
+      },
+      {
+        "line": "Tokyo Metro Marunouchi",
+        "count": 14,
+        "stations": [
+          "Ikebukuro",
+          "Ochanomizu",
+          "Otemachi",
+          "Tokyo",
+          "Ginza",
+          "Akasaka-mitsuke",
+          "Yotsuya",
+          "Shinjukusanchoume",
+          "Shinjuku",
+          "Shin Koenji",
+          "Ogikubo",
+          "Nakanoshinbashi",
+          "Nakanofujimichou",
+          "Hounanchou"
+        ]
+      },
+      {
+        "line": "Tokyo Metro Chiyoda Line",
+        "count": 11,
+        "stations": [
+          "Kitaayase",
+          "Ayase",
+          "Kitasenju",
+          "Machiya",
+          "Nishinippori",
+          "Otemachi",
+          "Hibiya",
+          "Kasumigaseki",
+          "Kokkai Gijidou Mae",
+          "Omotesando",
+          "Yoyogi-uehara"
+        ]
+      },
+      {
+        "line": "Tokyo Metro Fukutoshin Line",
+        "count": 11,
+        "stations": [
+          "Chikatetsu Narimasu",
+          "Chikatetsu Akatsuka",
+          "Heiwadai",
+          "Hikawadai",
+          "Kotakemukaihara",
+          "Senkawa",
+          "Kanamechou",
+          "Ikebukuro",
+          "Shinjukusanchoume",
+          "Meiji Jingumae",
+          "Shibuya"
+        ]
+      },
+      {
+        "line": "Toei Asakusa Line",
+        "count": 10,
+        "stations": [
+          "Nakanobu",
+          "Gotanda",
+          "Sengakuji",
+          "Daimon",
+          "Higashiginza",
+          "Ningyouchou",
+          "Asakusabashi",
+          "Kuramae",
+          "Asakusa",
+          "Oshiage"
+        ]
+      },
+      {
+        "line": "Tokyo Metro Hibiya Line",
+        "count": 8,
+        "stations": [
+          "Kitasenju",
+          "Minamisenju",
+          "Ueno",
+          "Akihabara",
+          "Ginza",
+          "Kasumigaseki",
+          "Ebisu",
+          "Nakameguro"
+        ]
+      },
+      {
+        "line": "Tokyo Metro Namboku Line",
+        "count": 8,
+        "stations": [
+          "Komagome",
+          "Korakuen",
+          "Iidabashi",
+          "Ichigaya",
+          "Yotsuya",
+          "Nagatacho",
+          "Tameike-sanno",
+          "Meguro"
+        ]
+      },
+      {
+        "line": "Toei Mita Line",
+        "count": 8,
+        "stations": [
+          "Meguro",
+          "Shirokanedai",
+          "Shirokane-takanawa",
+          "Mita",
+          "Hibiya",
+          "Jimbocho",
+          "Kasuga",
+          "Sugamo"
+        ]
+      },
+      {
+        "line": "JR Nambu Line",
+        "count": 7,
+        "stations": [
+          "Yanokuchi",
+          "Inaginaganuma",
+          "Minamitama",
+          "Yaho",
+          "Yagawa",
+          "Nishikunitachi",
+          "Nishifu"
+        ]
+      },
+      {
+        "line": "JR Shōnan-Shinjuku Line",
+        "count": 7,
+        "stations": [
+          "Akabane",
+          "Ikebukuro",
+          "Shinjuku",
+          "Shibuya",
+          "Ebisu",
+          "Osaki",
+          "Nishioi"
+        ]
+      },
+      {
+        "line": "Tokyo Metro Ginza Line",
+        "count": 7,
+        "stations": [
+          "Asakusa",
+          "Ueno",
+          "Kanda",
+          "Nihonbashi",
+          "Shinbashi",
+          "Aoyamaicchoume",
+          "Shibuya"
+        ]
+      },
+      {
+        "line": "Tokyo Metro Tōzai Line",
+        "count": 7,
+        "stations": [
+          "Nakano",
+          "Takadanobaba",
+          "Waseda",
+          "Iidabashi",
+          "Otemachi",
+          "Nihonbashi",
+          "Kayabacho"
+        ]
+      },
+      {
+        "line": "Tokyo Metro Hanzōmon",
+        "count": 7,
+        "stations": [
+          "Shibuya",
+          "Omotesando",
+          "Nagatacho",
+          "Kudanshita",
+          "Otemachi",
+          "Mitsukoshi Mae",
+          "Oshiage"
+        ]
+      },
+      {
+        "line": "JR Saikyō Line",
+        "count": 6,
+        "stations": [
+          "Osaki",
+          "Ebisu",
+          "Shibuya",
+          "Shinjuku",
+          "Ikebukuro",
+          "Akabane"
+        ]
+      },
+      {
+        "line": "Toei Shinjuku Line",
+        "count": 6,
+        "stations": [
+          "Shinjuku",
+          "Ichigaya",
+          "Kudanshita",
+          "Jimbocho",
+          "Morishita",
+          "Sumiyoshi"
+        ]
+      },
+      {
+        "line": "Tokyo Monorail",
+        "count": 6,
+        "stations": [
+          "Hamamatsucho",
+          "Tennozu Isle",
+          "Oi Keibajoumae",
+          "Tenkubashi",
+          "Hanedakukou Dai Ichi Biru",
+          "Hanedakukou Kokusaisen Biru"
+        ]
+      },
+      {
+        "line": "JR Yamanote Line",
+        "count": 5,
+        "stations": [
+          "Ueno",
+          "Tokyo",
+          "Yurakuchou",
+          "Shinbashi",
+          "Shinagawa"
+        ]
+      },
+      {
+        "line": "Tokyo Metro Yūrakuchō Line",
+        "count": 5,
+        "stations": [
+          "Kotakemukaihara",
+          "Ikebukuro",
+          "Iidabashi",
+          "Ichigaya",
+          "Shinkiba"
+        ]
+      },
+      {
+        "line": "Sotetsu・JR chokutsu line",
+        "count": 5,
+        "stations": [
+          "Shinjuku",
+          "Shibuya",
+          "Ebisu",
+          "Osaki",
+          "Nishi-Ōi"
+        ]
+      },
+      {
+        "line": "Tsukuba Express",
+        "count": 5,
+        "stations": [
+          "Akihabara",
+          "Shin Okachimachi",
+          "Asakusa",
+          "Minamisenju",
+          "Kitasenju"
+        ]
+      },
+      {
+        "line": "Yurikamome",
+        "count": 5,
+        "stations": [
+          "Shinbashi",
+          "Shiodome",
+          "Oumi",
+          "Tokyo Big Sight",
+          "Toyosu"
+        ]
+      },
+      {
+        "line": "JR Chūō Line (Tōkyō-Shiojiri)",
+        "count": 4,
+        "stations": [
+          "Tokyo",
+          "Shinjuku",
+          "Tachikawa",
+          "Hachioji"
+        ]
+      },
+      {
+        "line": "Keiō Inokashira Line",
+        "count": 4,
+        "stations": [
+          "Shibuya",
+          "Meidaimae",
+          "Inokashirakouen",
+          "Kichijouji"
+        ]
+      },
+      {
+        "line": "Keiō New Line",
+        "count": 4,
+        "stations": [
+          "Shinsen-Shinjuku",
+          "Hatsudai",
+          "Hatagaya",
+          "Sasazuka"
+        ]
+      },
+      {
+        "line": "Tōkyū Ōimachi",
+        "count": 4,
+        "stations": [
+          "Oimachi",
+          "Ōokayama",
+          "Jiyugaoka",
+          "Futako-Tamagawa"
+        ]
+      },
+      {
+        "line": "Keikyū Main Line",
+        "count": 4,
+        "stations": [
+          "Shinagawa",
+          "Shinbanba",
+          "Zōshiki",
+          "Rokugoudote"
+        ]
+      },
+      {
+        "line": "Rinkai Line",
+        "count": 4,
+        "stations": [
+          "Shinkiba",
+          "Tennozu Isle",
+          "Oimachi",
+          "Osaki"
+        ]
+      },
+      {
+        "line": "JR Tōkaidō Line (Tokyo-Atami)",
+        "count": 3,
+        "stations": [
+          "Tokyo",
+          "Shinbashi",
+          "Shinagawa"
+        ]
+      },
+      {
+        "line": "JR Yokosuka Line",
+        "count": 3,
+        "stations": [
+          "Tokyo",
+          "Shinbashi",
+          "Shinagawa"
+        ]
+      },
+      {
+        "line": "JR Sōbu Main Line",
+        "count": 3,
+        "stations": [
+          "Tokyo",
+          "Kinshichou",
+          "Shinkoiwa"
+        ]
+      },
+      {
+        "line": "JR Jōban Line (Ueno-Toride)",
+        "count": 3,
+        "stations": [
+          "Ueno",
+          "Nippori",
+          "Minamisenju"
+        ]
+      },
+      {
+        "line": "JR Takasaki Line",
+        "count": 3,
+        "stations": [
+          "Ueno",
+          "Oku",
+          "Akabane"
+        ]
+      },
+      {
+        "line": "Tōbu Isesaki Line",
+        "count": 3,
+        "stations": [
+          "Tokyo Skytree",
+          "Oshiage",
+          "Kitasenju"
+        ]
+      },
+      {
+        "line": "Seibu Haijima Line",
+        "count": 3,
+        "stations": [
+          "Kodaira",
+          "Tamagawajousui",
+          "Haijima"
+        ]
+      },
+      {
+        "line": "Seibu Kokubunji Line",
+        "count": 3,
+        "stations": [
+          "Kokubunji",
+          "Ogawa",
+          "Higashimurayama"
+        ]
+      },
+      {
+        "line": "Keisei Oshiage Line",
+        "count": 3,
+        "stations": [
+          "Oshiage",
+          "Aoto",
+          "Keiseitakasago"
+        ]
+      },
+      {
+        "line": "Keisei Kanamachi Line",
+        "count": 3,
+        "stations": [
+          "Keiseitakasago",
+          "Shibamata",
+          "Keiseikanamachi"
+        ]
+      },
+      {
+        "line": "Keiō Line",
+        "count": 3,
+        "stations": [
+          "Shinjuku",
+          "Bubaigawara",
+          "Takahatafudou"
+        ]
+      },
+      {
+        "line": "Odakyū Line",
+        "count": 3,
+        "stations": [
+          "Shinjuku",
+          "Shimokitazawa",
+          "Machida"
+        ]
+      },
+      {
+        "line": "Tōkyū Meguro Line",
+        "count": 3,
+        "stations": [
+          "Meguro",
+          "Denenchoufu",
+          "Tamagawa"
+        ]
+      },
+      {
+        "line": "Tōkyū Ikegami Line",
+        "count": 3,
+        "stations": [
+          "Gotanda",
+          "Hatanodai",
+          "Kamata"
+        ]
+      },
+      {
+        "line": "Nippori-Toneri Liner",
+        "count": 3,
+        "stations": [
+          "Nippori",
+          "Nishinippori",
+          "Kumanomae"
+        ]
+      },
+      {
+        "line": "JR Ōme Line",
+        "count": 2,
+        "stations": [
+          "Tachikawa",
+          "Bato No Su"
+        ]
+      },
+      {
+        "line": "JR Hachikō Line (Hachiōji-Komagawa)",
+        "count": 2,
+        "stations": [
+          "Hachioji",
+          "Haijima"
+        ]
+      },
+      {
+        "line": "Utsunomiya Line",
+        "count": 2,
+        "stations": [
+          "Ueno",
+          "Tokyo"
+        ]
+      },
+      {
+        "line": "JR Keiyō Line",
+        "count": 2,
+        "stations": [
+          "Tokyo",
+          "Hacchoubori"
+        ]
+      },
+      {
+        "line": "Ueno-Tokyo Line",
+        "count": 2,
+        "stations": [
+          "Tokyo",
+          "Ueno"
+        ]
+      },
+      {
+        "line": "Tōbu Kameido Line",
+        "count": 2,
+        "stations": [
+          "Hikifune",
+          "Kameido"
+        ]
+      },
+      {
+        "line": "Seibu Seibu-en Line",
+        "count": 2,
+        "stations": [
+          "Higashimurayama",
+          "Seibuen"
+        ]
+      },
+      {
+        "line": "Keisei Main Line",
+        "count": 2,
+        "stations": [
+          "Nippori",
+          "Machiya"
+        ]
+      },
+      {
+        "line": "Keiō Takao Line",
+        "count": 2,
+        "stations": [
+          "Kitano",
+          "Takao"
+        ]
+      },
+      {
+        "line": "Keiō Dōbutsuen Line",
+        "count": 2,
+        "stations": [
+          "Takahatafudou",
+          "Tama Doubutsu Kouen"
+        ]
+      },
+      {
+        "line": "Tōkyū Den-en-toshi Line",
+        "count": 2,
+        "stations": [
+          "Shibuya",
+          "Minami Machida"
+        ]
+      },
+      {
+        "line": "Tōkyū Tamagawa Line",
+        "count": 2,
+        "stations": [
+          "Tamagawa",
+          "Kamata"
+        ]
+      },
+      {
+        "line": "Tōkyū Setagaya Line",
+        "count": 2,
+        "stations": [
+          "Sangenjaya",
+          "Shimotakaido"
+        ]
+      },
+      {
+        "line": "Tama Monorail",
+        "count": 2,
+        "stations": [
+          "Tate Hi",
+          "Sakurakouji Michi"
+        ]
+      },
+      {
+        "line": "Hokusō Railway Hokusō Line",
+        "count": 2,
+        "stations": [
+          "Keiseitakasago",
+          "Shinshibamata"
+        ]
+      },
+      {
+        "line": "JR Musashino Line",
+        "count": 1,
+        "stations": [
+          "Fuchuhonmachi"
+        ]
+      },
+      {
+        "line": "JR Itsukaichi Line",
+        "count": 1,
+        "stations": [
+          "Haijima"
+        ]
+      },
+      {
+        "line": "Tōbu Tōjō Line",
+        "count": 1,
+        "stations": [
+          "Ikebukuro"
+        ]
+      },
+      {
+        "line": "Seibu Ikebukuro Line",
+        "count": 1,
+        "stations": [
+          "Ikebukuro"
+        ]
+      },
+      {
+        "line": "Seibu Yamaguchi Line",
+        "count": 1,
+        "stations": [
+          "Tamako"
+        ]
+      },
+      {
+        "line": "Seibu Shinjuku Line",
+        "count": 1,
+        "stations": [
+          "Takadanobaba"
+        ]
+      },
+      {
+        "line": "Tōkyū Tōyoko Line",
+        "count": 1,
+        "stations": [
+          "Shibuya"
+        ]
+      },
+      {
+        "line": "Saitama Rapid Railway Line",
+        "count": 1,
+        "stations": [
+          "Akabaneiwabuchi"
+        ]
+      }
+    ]
+  },
+  "commonStations": [
+    {
+      "name": "Tokyo",
+      "count": 17
+    },
+    {
+      "name": "Ueno",
+      "count": 12
+    },
+    {
+      "name": "Shinjuku",
+      "count": 12
+    },
+    {
+      "name": "Shibuya",
+      "count": 10
+    },
+    {
+      "name": "Ikebukuro",
+      "count": 7
+    },
+    {
+      "name": "Shinbashi",
+      "count": 6
+    },
+    {
+      "name": "Shinagawa",
+      "count": 6
+    },
+    {
+      "name": "Iidabashi",
+      "count": 5
+    },
+    {
+      "name": "Nippori",
+      "count": 5
+    },
+    {
+      "name": "Yotsuya",
+      "count": 4
+    }
+  ],
+  "fullList": [
+    {
+      "trainLine": "Toden Arakawa Line",
+      "count": 29,
+      "stations": [
+        {
+          "id": "9930501",
+          "name": "Minowabashi",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930501
+        },
+        {
+          "id": "9930502",
+          "name": "Arakawa Hajime Chuzen",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930502
+        },
+        {
+          "id": "9930503",
+          "name": "Arakawakuyakushomae",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930503
+        },
+        {
+          "id": "9930504",
+          "name": "Arakawa Ni Choume",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930504
+        },
+        {
+          "id": "9930505",
+          "name": "Arakawa Nana Choume",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930505
+        },
+        {
+          "id": "9930506",
+          "name": "Machiyaekimae",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 2300104
+        },
+        {
+          "id": "9930507",
+          "name": "Machiya Ni Choume",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930507
+        },
+        {
+          "id": "9930508",
+          "name": "Higashiogu San Choume",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930508
+        },
+        {
+          "id": "9930510",
+          "name": "Miyanomae",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930510
+        },
+        {
+          "id": "9930511",
+          "name": "Kodai",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930511
+        },
+        {
+          "id": "9930512",
+          "name": "Arakawayuenchimae",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930512
+        },
+        {
+          "id": "9930513",
+          "name": "Arakawashakomae",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930513
+        },
+        {
+          "id": "9930514",
+          "name": "Kajihara",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930514
+        },
+        {
+          "id": "9930515",
+          "name": "Sakaecho",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930515
+        },
+        {
+          "id": "9930516",
+          "name": "Oujiekimae",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 1133212
+        },
+        {
+          "id": "9930517",
+          "name": "Asukayama",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930517
+        },
+        {
+          "id": "9930518",
+          "name": "Takinogawa Ichi Choume",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930518
+        },
+        {
+          "id": "9930519",
+          "name": "Nishigahara Yon Choume",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930519
+        },
+        {
+          "id": "9930520",
+          "name": "Shin Koushinzuka",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930520
+        },
+        {
+          "id": "9930521",
+          "name": "Koushinzuka",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930521
+        },
+        {
+          "id": "9930522",
+          "name": "Sugamoshinden",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930522
+        },
+        {
+          "id": "9930523",
+          "name": "Otsukaekimae",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 1130213
+        },
+        {
+          "id": "9930524",
+          "name": "Mukaihara",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930524
+        },
+        {
+          "id": "9930525",
+          "name": "Higashiikebukuro Yon Choume",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 2800610
+        },
+        {
+          "id": "9930526",
+          "name": "Toden Zoushigaya",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930526
+        },
+        {
+          "id": "9930527",
+          "name": "Kishibojinmae",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 2801010
+        },
+        {
+          "id": "9930528",
+          "name": "Gakushuinshita",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930528
+        },
+        {
+          "id": "9930529",
+          "name": "Omokagebashi",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930529
+        },
+        {
+          "id": "9930530",
+          "name": "Waseda",
+          "trainLine": "Toden Arakawa Line",
+          "groupId": 9930530
+        }
+      ]
+    },
+    {
+      "trainLine": "Toei Ōedo Line",
+      "count": 26,
+      "stations": [
+        {
+          "id": "9930102",
+          "name": "Shinjuku Nishiguchi",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 9930102
+        },
+        {
+          "id": "9930103",
+          "name": "Higashi-Shinjuku",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 2801012
+        },
+        {
+          "id": "9930104",
+          "name": "Wakamatsu Kawada",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 9930104
+        },
+        {
+          "id": "9930105",
+          "name": "Ushigome Yanagicho",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 9930105
+        },
+        {
+          "id": "9930106",
+          "name": "Ushigome Kagurazaka",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 9930106
+        },
+        {
+          "id": "9930107",
+          "name": "Iidabashi",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 1131316
+        },
+        {
+          "id": "9930109",
+          "name": "Hongousanchoume",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 2800205
+        },
+        {
+          "id": "9930110",
+          "name": "Ueno Okachimachi",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 1130221
+        },
+        {
+          "id": "9930113",
+          "name": "Ryogoku",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 1131321
+        },
+        {
+          "id": "9930115",
+          "name": "Kiyosumi Shirakawa",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 2800811
+        },
+        {
+          "id": "9930116",
+          "name": "Monzennakachou",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 2800412
+        },
+        {
+          "id": "9930117",
+          "name": "Tsukishima",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 2800621
+        },
+        {
+          "id": "9930118",
+          "name": "Kachidoki",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 9930118
+        },
+        {
+          "id": "9930119",
+          "name": "Tsukiji Shijou",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 9930119
+        },
+        {
+          "id": "9930122",
+          "name": "Akabanebashi",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 9930122
+        },
+        {
+          "id": "9930123",
+          "name": "Azabu-juban",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 2800916
+        },
+        {
+          "id": "9930124",
+          "name": "Roppongi",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 2800318
+        },
+        {
+          "id": "9930125",
+          "name": "Aoyama-itchome",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 2800116
+        },
+        {
+          "id": "9930126",
+          "name": "Kokuritsu Kyougi Jou",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 9930126
+        },
+        {
+          "id": "9930127",
+          "name": "Yoyogi",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 1130207
+        },
+        {
+          "id": "9930128",
+          "name": "Shinjuku",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 1130208
+        },
+        {
+          "id": "9930130",
+          "name": "Nakanosakaue",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 2800220
+        },
+        {
+          "id": "9930131",
+          "name": "Higashinakano",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 1131308
+        },
+        {
+          "id": "9930132",
+          "name": "Nakai",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 2200704
+        },
+        {
+          "id": "9930135",
+          "name": "Nerima",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 2200106
+        },
+        {
+          "id": "9930136",
+          "name": "Toshimaen",
+          "trainLine": "Toei Ōedo Line",
+          "groupId": 2200402
+        }
+      ]
+    },
+    {
+      "trainLine": "JR Chūō-Sōbu Line",
+      "count": 21,
+      "stations": [
+        {
+          "id": "1131301",
+          "name": "Mitaka",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1131105
+        },
+        {
+          "id": "1131302",
+          "name": "Kichijouji",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1131104
+        },
+        {
+          "id": "1131303",
+          "name": "Nishi Ogikubo",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1131218
+        },
+        {
+          "id": "1131304",
+          "name": "Ogikubo",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1131217
+        },
+        {
+          "id": "1131305",
+          "name": "Asagaya",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1131216
+        },
+        {
+          "id": "1131306",
+          "name": "Koenji",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1131215
+        },
+        {
+          "id": "1131307",
+          "name": "Nakano",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1131214
+        },
+        {
+          "id": "1131308",
+          "name": "Higashinakano",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1131308
+        },
+        {
+          "id": "1131309",
+          "name": "Okubo",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1131309
+        },
+        {
+          "id": "1131310",
+          "name": "Shinjuku",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1130208
+        },
+        {
+          "id": "1131311",
+          "name": "Yoyogi",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1130207
+        },
+        {
+          "id": "1131312",
+          "name": "Sendagaya",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1131312
+        },
+        {
+          "id": "1131313",
+          "name": "Shinanomachi",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1131313
+        },
+        {
+          "id": "1131314",
+          "name": "Yotsuya",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1131102
+        },
+        {
+          "id": "1131315",
+          "name": "Ichigaya",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1131315
+        },
+        {
+          "id": "1131316",
+          "name": "Iidabashi",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1131316
+        },
+        {
+          "id": "1131317",
+          "name": "Suidoubashi",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1131317
+        },
+        {
+          "id": "1131318",
+          "name": "Ochanomizu",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1131203
+        },
+        {
+          "id": "1131319",
+          "name": "Akihabara",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1130222
+        },
+        {
+          "id": "1131321",
+          "name": "Ryogoku",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1131321
+        },
+        {
+          "id": "1131322",
+          "name": "Kinshichou",
+          "trainLine": "JR Chūō-Sōbu Line",
+          "groupId": 1131322
+        }
+      ]
+    },
+    {
+      "trainLine": "JR Keihin-Tōhoku Line",
+      "count": 17,
+      "stations": [
+        {
+          "id": "1133210",
+          "name": "Akabane",
+          "trainLine": "JR Keihin-Tōhoku Line",
+          "groupId": 1131903
+        },
+        {
+          "id": "1133212",
+          "name": "Ouji",
+          "trainLine": "JR Keihin-Tōhoku Line",
+          "groupId": 1133212
+        },
+        {
+          "id": "1133214",
+          "name": "Tabata",
+          "trainLine": "JR Keihin-Tōhoku Line",
+          "groupId": 1130216
+        },
+        {
+          "id": "1133215",
+          "name": "Nishinippori",
+          "trainLine": "JR Keihin-Tōhoku Line",
+          "groupId": 1130217
+        },
+        {
+          "id": "1133216",
+          "name": "Nippori",
+          "trainLine": "JR Keihin-Tōhoku Line",
+          "groupId": 1130218
+        },
+        {
+          "id": "1133217",
+          "name": "Uguisudani",
+          "trainLine": "JR Keihin-Tōhoku Line",
+          "groupId": 1130219
+        },
+        {
+          "id": "1133218",
+          "name": "Ueno",
+          "trainLine": "JR Keihin-Tōhoku Line",
+          "groupId": 1130220
+        },
+        {
+          "id": "1133219",
+          "name": "Okachimachi",
+          "trainLine": "JR Keihin-Tōhoku Line",
+          "groupId": 1130221
+        },
+        {
+          "id": "1133220",
+          "name": "Akihabara",
+          "trainLine": "JR Keihin-Tōhoku Line",
+          "groupId": 1130222
+        },
+        {
+          "id": "1133221",
+          "name": "Kanda",
+          "trainLine": "JR Keihin-Tōhoku Line",
+          "groupId": 1130223
+        },
+        {
+          "id": "1133222",
+          "name": "Tokyo",
+          "trainLine": "JR Keihin-Tōhoku Line",
+          "groupId": 1130101
+        },
+        {
+          "id": "1133223",
+          "name": "Yurakuchou",
+          "trainLine": "JR Keihin-Tōhoku Line",
+          "groupId": 1130225
+        },
+        {
+          "id": "1133224",
+          "name": "Shinbashi",
+          "trainLine": "JR Keihin-Tōhoku Line",
+          "groupId": 1130102
+        },
+        {
+          "id": "1133225",
+          "name": "Hamamatsucho",
+          "trainLine": "JR Keihin-Tōhoku Line",
+          "groupId": 1130227
+        },
+        {
+          "id": "1133226",
+          "name": "Tamachi",
+          "trainLine": "JR Keihin-Tōhoku Line",
+          "groupId": 1130228
+        },
+        {
+          "id": "1133227",
+          "name": "Shinagawa",
+          "trainLine": "JR Keihin-Tōhoku Line",
+          "groupId": 1130103
+        },
+        {
+          "id": "1133236",
+          "name": "Takanawa Gateway Station",
+          "trainLine": "JR Keihin-Tōhoku Line",
+          "groupId": 1130230
+        }
+      ]
+    },
+    {
+      "trainLine": "JR Chūō Line (Rapid)",
+      "count": 16,
+      "stations": [
+        {
+          "id": "1131201",
+          "name": "Tokyo",
+          "trainLine": "JR Chūō Line (Rapid)",
+          "groupId": 1130101
+        },
+        {
+          "id": "1131202",
+          "name": "Kanda",
+          "trainLine": "JR Chūō Line (Rapid)",
+          "groupId": 1130223
+        },
+        {
+          "id": "1131204",
+          "name": "Suidoubashi",
+          "trainLine": "JR Chūō Line (Rapid)",
+          "groupId": 1131204
+        },
+        {
+          "id": "1131207",
+          "name": "Yotsuya",
+          "trainLine": "JR Chūō Line (Rapid)",
+          "groupId": 1131102
+        },
+        {
+          "id": "1131210",
+          "name": "Yoyogi",
+          "trainLine": "JR Chūō Line (Rapid)",
+          "groupId": 1130207
+        },
+        {
+          "id": "1131211",
+          "name": "Shinjuku",
+          "trainLine": "JR Chūō Line (Rapid)",
+          "groupId": 1130208
+        },
+        {
+          "id": "1131219",
+          "name": "Kichijouji",
+          "trainLine": "JR Chūō Line (Rapid)",
+          "groupId": 1131104
+        },
+        {
+          "id": "1131220",
+          "name": "Mitaka",
+          "trainLine": "JR Chūō Line (Rapid)",
+          "groupId": 1131105
+        },
+        {
+          "id": "1131224",
+          "name": "Kokubunji",
+          "trainLine": "JR Chūō Line (Rapid)",
+          "groupId": 1131106
+        },
+        {
+          "id": "1131225",
+          "name": "Nishi Kokubunji",
+          "trainLine": "JR Chūō Line (Rapid)",
+          "groupId": 1130503
+        },
+        {
+          "id": "1131227",
+          "name": "Tachikawa",
+          "trainLine": "JR Chūō Line (Rapid)",
+          "groupId": 1130325
+        },
+        {
+          "id": "1131228",
+          "name": "Hino",
+          "trainLine": "JR Chūō Line (Rapid)",
+          "groupId": 1131108
+        },
+        {
+          "id": "1131229",
+          "name": "Toyoda",
+          "trainLine": "JR Chūō Line (Rapid)",
+          "groupId": 1131109
+        },
+        {
+          "id": "1131230",
+          "name": "Hachioji",
+          "trainLine": "JR Chūō Line (Rapid)",
+          "groupId": 1130620
+        },
+        {
+          "id": "1131231",
+          "name": "Nishi Hachioji",
+          "trainLine": "JR Chūō Line (Rapid)",
+          "groupId": 1131111
+        },
+        {
+          "id": "1131232",
+          "name": "Takao",
+          "trainLine": "JR Chūō Line (Rapid)",
+          "groupId": 1131112
+        }
+      ]
+    },
+    {
+      "trainLine": "Tokyo Metro Marunouchi",
+      "count": 14,
+      "stations": [
+        {
+          "id": "2800201",
+          "name": "Ikebukuro",
+          "trainLine": "Tokyo Metro Marunouchi",
+          "groupId": 1130212
+        },
+        {
+          "id": "2800206",
+          "name": "Ochanomizu",
+          "trainLine": "Tokyo Metro Marunouchi",
+          "groupId": 1131203
+        },
+        {
+          "id": "2800208",
+          "name": "Otemachi",
+          "trainLine": "Tokyo Metro Marunouchi",
+          "groupId": 2800208
+        },
+        {
+          "id": "2800209",
+          "name": "Tokyo",
+          "trainLine": "Tokyo Metro Marunouchi",
+          "groupId": 1130101
+        },
+        {
+          "id": "2800210",
+          "name": "Ginza",
+          "trainLine": "Tokyo Metro Marunouchi",
+          "groupId": 2800111
+        },
+        {
+          "id": "2800213",
+          "name": "Akasaka-mitsuke",
+          "trainLine": "Tokyo Metro Marunouchi",
+          "groupId": 2800115
+        },
+        {
+          "id": "2800214",
+          "name": "Yotsuya",
+          "trainLine": "Tokyo Metro Marunouchi",
+          "groupId": 1131102
+        },
+        {
+          "id": "2800217",
+          "name": "Shinjukusanchoume",
+          "trainLine": "Tokyo Metro Marunouchi",
+          "groupId": 2800217
+        },
+        {
+          "id": "2800218",
+          "name": "Shinjuku",
+          "trainLine": "Tokyo Metro Marunouchi",
+          "groupId": 1130208
+        },
+        {
+          "id": "2800223",
+          "name": "Shin Koenji",
+          "trainLine": "Tokyo Metro Marunouchi",
+          "groupId": 2800223
+        },
+        {
+          "id": "2800225",
+          "name": "Ogikubo",
+          "trainLine": "Tokyo Metro Marunouchi",
+          "groupId": 1131217
+        },
+        {
+          "id": "2800226",
+          "name": "Nakanoshinbashi",
+          "trainLine": "Tokyo Metro Marunouchi",
+          "groupId": 2800226
+        },
+        {
+          "id": "2800227",
+          "name": "Nakanofujimichou",
+          "trainLine": "Tokyo Metro Marunouchi",
+          "groupId": 2800227
+        },
+        {
+          "id": "2800228",
+          "name": "Hounanchou",
+          "trainLine": "Tokyo Metro Marunouchi",
+          "groupId": 2800228
+        }
+      ]
+    },
+    {
+      "trainLine": "Tokyo Metro Chiyoda Line",
+      "count": 11,
+      "stations": [
+        {
+          "id": "2800501",
+          "name": "Kitaayase",
+          "trainLine": "Tokyo Metro Chiyoda Line",
+          "groupId": 2800501
+        },
+        {
+          "id": "2800502",
+          "name": "Ayase",
+          "trainLine": "Tokyo Metro Chiyoda Line",
+          "groupId": 1132006
+        },
+        {
+          "id": "2800503",
+          "name": "Kitasenju",
+          "trainLine": "Tokyo Metro Chiyoda Line",
+          "groupId": 1132005
+        },
+        {
+          "id": "2800504",
+          "name": "Machiya",
+          "trainLine": "Tokyo Metro Chiyoda Line",
+          "groupId": 2300104
+        },
+        {
+          "id": "2800505",
+          "name": "Nishinippori",
+          "trainLine": "Tokyo Metro Chiyoda Line",
+          "groupId": 1130217
+        },
+        {
+          "id": "2800510",
+          "name": "Otemachi",
+          "trainLine": "Tokyo Metro Chiyoda Line",
+          "groupId": 2800208
+        },
+        {
+          "id": "2800512",
+          "name": "Hibiya",
+          "trainLine": "Tokyo Metro Chiyoda Line",
+          "groupId": 1130225
+        },
+        {
+          "id": "2800513",
+          "name": "Kasumigaseki",
+          "trainLine": "Tokyo Metro Chiyoda Line",
+          "groupId": 2800211
+        },
+        {
+          "id": "2800514",
+          "name": "Kokkai Gijidou Mae",
+          "trainLine": "Tokyo Metro Chiyoda Line",
+          "groupId": 2800212
+        },
+        {
+          "id": "2800517",
+          "name": "Omotesando",
+          "trainLine": "Tokyo Metro Chiyoda Line",
+          "groupId": 2800118
+        },
+        {
+          "id": "2800520",
+          "name": "Yoyogi-uehara",
+          "trainLine": "Tokyo Metro Chiyoda Line",
+          "groupId": 2500105
+        }
+      ]
+    },
+    {
+      "trainLine": "Tokyo Metro Fukutoshin Line",
+      "count": 11,
+      "stations": [
+        {
+          "id": "2801002",
+          "name": "Chikatetsu Narimasu",
+          "trainLine": "Tokyo Metro Fukutoshin Line",
+          "groupId": 2100110
+        },
+        {
+          "id": "2801003",
+          "name": "Chikatetsu Akatsuka",
+          "trainLine": "Tokyo Metro Fukutoshin Line",
+          "groupId": 2100109
+        },
+        {
+          "id": "2801004",
+          "name": "Heiwadai",
+          "trainLine": "Tokyo Metro Fukutoshin Line",
+          "groupId": 2800604
+        },
+        {
+          "id": "2801005",
+          "name": "Hikawadai",
+          "trainLine": "Tokyo Metro Fukutoshin Line",
+          "groupId": 2800605
+        },
+        {
+          "id": "2801006",
+          "name": "Kotakemukaihara",
+          "trainLine": "Tokyo Metro Fukutoshin Line",
+          "groupId": 2200301
+        },
+        {
+          "id": "2801007",
+          "name": "Senkawa",
+          "trainLine": "Tokyo Metro Fukutoshin Line",
+          "groupId": 2800607
+        },
+        {
+          "id": "2801008",
+          "name": "Kanamechou",
+          "trainLine": "Tokyo Metro Fukutoshin Line",
+          "groupId": 2800608
+        },
+        {
+          "id": "2801009",
+          "name": "Ikebukuro",
+          "trainLine": "Tokyo Metro Fukutoshin Line",
+          "groupId": 1130212
+        },
+        {
+          "id": "2801013",
+          "name": "Shinjukusanchoume",
+          "trainLine": "Tokyo Metro Fukutoshin Line",
+          "groupId": 2800217
+        },
+        {
+          "id": "2801015",
+          "name": "Meiji Jingumae",
+          "trainLine": "Tokyo Metro Fukutoshin Line",
+          "groupId": 1130206
+        },
+        {
+          "id": "2801016",
+          "name": "Shibuya",
+          "trainLine": "Tokyo Metro Fukutoshin Line",
+          "groupId": 1130205
+        }
+      ]
+    },
+    {
+      "trainLine": "Toei Asakusa Line",
+      "count": 10,
+      "stations": [
+        {
+          "id": "9930203",
+          "name": "Nakanobu",
+          "trainLine": "Toei Asakusa Line",
+          "groupId": 2600404
+        },
+        {
+          "id": "9930205",
+          "name": "Gotanda",
+          "trainLine": "Toei Asakusa Line",
+          "groupId": 1130202
+        },
+        {
+          "id": "9930207",
+          "name": "Sengakuji",
+          "trainLine": "Toei Asakusa Line",
+          "groupId": 2700101
+        },
+        {
+          "id": "9930209",
+          "name": "Daimon",
+          "trainLine": "Toei Asakusa Line",
+          "groupId": 9930121
+        },
+        {
+          "id": "9930211",
+          "name": "Higashiginza",
+          "trainLine": "Toei Asakusa Line",
+          "groupId": 2800313
+        },
+        {
+          "id": "9930214",
+          "name": "Ningyouchou",
+          "trainLine": "Toei Asakusa Line",
+          "groupId": 2800309
+        },
+        {
+          "id": "9930216",
+          "name": "Asakusabashi",
+          "trainLine": "Toei Asakusa Line",
+          "groupId": 1131320
+        },
+        {
+          "id": "9930217",
+          "name": "Kuramae",
+          "trainLine": "Toei Asakusa Line",
+          "groupId": 9930112
+        },
+        {
+          "id": "9930218",
+          "name": "Asakusa",
+          "trainLine": "Toei Asakusa Line",
+          "groupId": 2100201
+        },
+        {
+          "id": "9930220",
+          "name": "Oshiage",
+          "trainLine": "Toei Asakusa Line",
+          "groupId": 2100203
+        }
+      ]
+    },
+    {
+      "trainLine": "Keiō Sagamihara Line",
+      "count": 9,
+      "stations": [
+        {
+          "id": "2400201",
+          "name": "Choufu",
+          "trainLine": "Keiō Sagamihara Line",
+          "groupId": 2400118
+        },
+        {
+          "id": "2400202",
+          "name": "Keioutamagawa",
+          "trainLine": "Keiō Sagamihara Line",
+          "groupId": 2400202
+        },
+        {
+          "id": "2400204",
+          "name": "Keiou Yomiurirando",
+          "trainLine": "Keiō Sagamihara Line",
+          "groupId": 2400204
+        },
+        {
+          "id": "2400205",
+          "name": "Inagi",
+          "trainLine": "Keiō Sagamihara Line",
+          "groupId": 2400205
+        },
+        {
+          "id": "2400207",
+          "name": "Keiou Nagayama",
+          "trainLine": "Keiō Sagamihara Line",
+          "groupId": 2400207
+        },
+        {
+          "id": "2400208",
+          "name": "Keio Tama Center",
+          "trainLine": "Keiō Sagamihara Line",
+          "groupId": 2400208
+        },
+        {
+          "id": "2400209",
+          "name": "Keiouhorinouchi",
+          "trainLine": "Keiō Sagamihara Line",
+          "groupId": 2400209
+        },
+        {
+          "id": "2400210",
+          "name": "Minamiosawa",
+          "trainLine": "Keiō Sagamihara Line",
+          "groupId": 2400210
+        },
+        {
+          "id": "2400211",
+          "name": "Tamasakai",
+          "trainLine": "Keiō Sagamihara Line",
+          "groupId": 2400211
+        }
+      ]
+    },
+    {
+      "trainLine": "Tokyo Metro Hibiya Line",
+      "count": 8,
+      "stations": [
+        {
+          "id": "2800301",
+          "name": "Kitasenju",
+          "trainLine": "Tokyo Metro Hibiya Line",
+          "groupId": 1132005
+        },
+        {
+          "id": "2800302",
+          "name": "Minamisenju",
+          "trainLine": "Tokyo Metro Hibiya Line",
+          "groupId": 1132004
+        },
+        {
+          "id": "2800305",
+          "name": "Ueno",
+          "trainLine": "Tokyo Metro Hibiya Line",
+          "groupId": 1130220
+        },
+        {
+          "id": "2800307",
+          "name": "Akihabara",
+          "trainLine": "Tokyo Metro Hibiya Line",
+          "groupId": 1130222
+        },
+        {
+          "id": "2800314",
+          "name": "Ginza",
+          "trainLine": "Tokyo Metro Hibiya Line",
+          "groupId": 2800111
+        },
+        {
+          "id": "2800316",
+          "name": "Kasumigaseki",
+          "trainLine": "Tokyo Metro Hibiya Line",
+          "groupId": 2800211
+        },
+        {
+          "id": "2800320",
+          "name": "Ebisu",
+          "trainLine": "Tokyo Metro Hibiya Line",
+          "groupId": 1130204
+        },
+        {
+          "id": "2800321",
+          "name": "Nakameguro",
+          "trainLine": "Tokyo Metro Hibiya Line",
+          "groupId": 2600103
+        }
+      ]
+    },
+    {
+      "trainLine": "Tokyo Metro Namboku Line",
+      "count": 8,
+      "stations": [
+        {
+          "id": "2800906",
+          "name": "Komagome",
+          "trainLine": "Tokyo Metro Namboku Line",
+          "groupId": 1130215
+        },
+        {
+          "id": "2800909",
+          "name": "Korakuen",
+          "trainLine": "Tokyo Metro Namboku Line",
+          "groupId": 2800204
+        },
+        {
+          "id": "2800910",
+          "name": "Iidabashi",
+          "trainLine": "Tokyo Metro Namboku Line",
+          "groupId": 1131316
+        },
+        {
+          "id": "2800911",
+          "name": "Ichigaya",
+          "trainLine": "Tokyo Metro Namboku Line",
+          "groupId": 1131315
+        },
+        {
+          "id": "2800912",
+          "name": "Yotsuya",
+          "trainLine": "Tokyo Metro Namboku Line",
+          "groupId": 1131102
+        },
+        {
+          "id": "2800913",
+          "name": "Nagatacho",
+          "trainLine": "Tokyo Metro Namboku Line",
+          "groupId": 2800115
+        },
+        {
+          "id": "2800914",
+          "name": "Tameike-sanno",
+          "trainLine": "Tokyo Metro Namboku Line",
+          "groupId": 2800114
+        },
+        {
+          "id": "2800919",
+          "name": "Meguro",
+          "trainLine": "Tokyo Metro Namboku Line",
+          "groupId": 1130203
+        }
+      ]
+    },
+    {
+      "trainLine": "Toei Mita Line",
+      "count": 8,
+      "stations": [
+        {
+          "id": "9930301",
+          "name": "Meguro",
+          "trainLine": "Toei Mita Line",
+          "groupId": 1130203
+        },
+        {
+          "id": "9930302",
+          "name": "Shirokanedai",
+          "trainLine": "Toei Mita Line",
+          "groupId": 2800918
+        },
+        {
+          "id": "9930303",
+          "name": "Shirokane-takanawa",
+          "trainLine": "Toei Mita Line",
+          "groupId": 2800917
+        },
+        {
+          "id": "9930304",
+          "name": "Mita",
+          "trainLine": "Toei Mita Line",
+          "groupId": 9930208
+        },
+        {
+          "id": "9930308",
+          "name": "Hibiya",
+          "trainLine": "Toei Mita Line",
+          "groupId": 1130225
+        },
+        {
+          "id": "9930310",
+          "name": "Jimbocho",
+          "trainLine": "Toei Mita Line",
+          "groupId": 2800807
+        },
+        {
+          "id": "9930312",
+          "name": "Kasuga",
+          "trainLine": "Toei Mita Line",
+          "groupId": 9930108
+        },
+        {
+          "id": "9930315",
+          "name": "Sugamo",
+          "trainLine": "Toei Mita Line",
+          "groupId": 1130214
+        }
+      ]
+    },
+    {
+      "trainLine": "JR Nambu Line",
+      "count": 7,
+      "stations": [
+        {
+          "id": "1130317",
+          "name": "Yanokuchi",
+          "trainLine": "JR Nambu Line",
+          "groupId": 1130317
+        },
+        {
+          "id": "1130318",
+          "name": "Inaginaganuma",
+          "trainLine": "JR Nambu Line",
+          "groupId": 1130318
+        },
+        {
+          "id": "1130319",
+          "name": "Minamitama",
+          "trainLine": "JR Nambu Line",
+          "groupId": 1130319
+        },
+        {
+          "id": "1130322",
+          "name": "Yaho",
+          "trainLine": "JR Nambu Line",
+          "groupId": 1130322
+        },
+        {
+          "id": "1130323",
+          "name": "Yagawa",
+          "trainLine": "JR Nambu Line",
+          "groupId": 1130323
+        },
+        {
+          "id": "1130324",
+          "name": "Nishikunitachi",
+          "trainLine": "JR Nambu Line",
+          "groupId": 1130324
+        },
+        {
+          "id": "1130329",
+          "name": "Nishifu",
+          "trainLine": "JR Nambu Line",
+          "groupId": 1130329
+        }
+      ]
+    },
+    {
+      "trainLine": "JR Shōnan-Shinjuku Line",
+      "count": 7,
+      "stations": [
+        {
+          "id": "1133302",
+          "name": "Akabane",
+          "trainLine": "JR Shōnan-Shinjuku Line",
+          "groupId": 1131903
+        },
+        {
+          "id": "1133303",
+          "name": "Ikebukuro",
+          "trainLine": "JR Shōnan-Shinjuku Line",
+          "groupId": 1130212
+        },
+        {
+          "id": "1133304",
+          "name": "Shinjuku",
+          "trainLine": "JR Shōnan-Shinjuku Line",
+          "groupId": 1130208
+        },
+        {
+          "id": "1133305",
+          "name": "Shibuya",
+          "trainLine": "JR Shōnan-Shinjuku Line",
+          "groupId": 1130205
+        },
+        {
+          "id": "1133306",
+          "name": "Ebisu",
+          "trainLine": "JR Shōnan-Shinjuku Line",
+          "groupId": 1130204
+        },
+        {
+          "id": "1133307",
+          "name": "Osaki",
+          "trainLine": "JR Shōnan-Shinjuku Line",
+          "groupId": 1130201
+        },
+        {
+          "id": "1133308",
+          "name": "Nishioi",
+          "trainLine": "JR Shōnan-Shinjuku Line",
+          "groupId": 1130804
+        }
+      ]
+    },
+    {
+      "trainLine": "Seibu Tamako Line",
+      "count": 7,
+      "stations": [
+        {
+          "id": "2201101",
+          "name": "Kokubunji",
+          "trainLine": "Seibu Tamako Line",
+          "groupId": 1131106
+        },
+        {
+          "id": "2201102",
+          "name": "Hitotsubashigakuen",
+          "trainLine": "Seibu Tamako Line",
+          "groupId": 2201102
+        },
+        {
+          "id": "2201103",
+          "name": "Oume Kaidou",
+          "trainLine": "Seibu Tamako Line",
+          "groupId": 2201103
+        },
+        {
+          "id": "2201105",
+          "name": "Hagiyama",
+          "trainLine": "Seibu Tamako Line",
+          "groupId": 2200802
+        },
+        {
+          "id": "2201106",
+          "name": "Hatsusaka",
+          "trainLine": "Seibu Tamako Line",
+          "groupId": 2201106
+        },
+        {
+          "id": "2201107",
+          "name": "Musashiyamato",
+          "trainLine": "Seibu Tamako Line",
+          "groupId": 2201107
+        },
+        {
+          "id": "2201108",
+          "name": "Tamako",
+          "trainLine": "Seibu Tamako Line",
+          "groupId": 2200601
+        }
+      ]
+    },
+    {
+      "trainLine": "Tokyo Metro Ginza Line",
+      "count": 7,
+      "stations": [
+        {
+          "id": "2800101",
+          "name": "Asakusa",
+          "trainLine": "Tokyo Metro Ginza Line",
+          "groupId": 2100201
+        },
+        {
+          "id": "2800104",
+          "name": "Ueno",
+          "trainLine": "Tokyo Metro Ginza Line",
+          "groupId": 1130220
+        },
+        {
+          "id": "2800107",
+          "name": "Kanda",
+          "trainLine": "Tokyo Metro Ginza Line",
+          "groupId": 1130223
+        },
+        {
+          "id": "2800109",
+          "name": "Nihonbashi",
+          "trainLine": "Tokyo Metro Ginza Line",
+          "groupId": 2800109
+        },
+        {
+          "id": "2800112",
+          "name": "Shinbashi",
+          "trainLine": "Tokyo Metro Ginza Line",
+          "groupId": 1130102
+        },
+        {
+          "id": "2800116",
+          "name": "Aoyamaicchoume",
+          "trainLine": "Tokyo Metro Ginza Line",
+          "groupId": 2800116
+        },
+        {
+          "id": "2800119",
+          "name": "Shibuya",
+          "trainLine": "Tokyo Metro Ginza Line",
+          "groupId": 1130205
+        }
+      ]
+    },
+    {
+      "trainLine": "Tokyo Metro Tōzai Line",
+      "count": 7,
+      "stations": [
+        {
+          "id": "2800401",
+          "name": "Nakano",
+          "trainLine": "Tokyo Metro Tōzai Line",
+          "groupId": 1131214
+        },
+        {
+          "id": "2800403",
+          "name": "Takadanobaba",
+          "trainLine": "Tokyo Metro Tōzai Line",
+          "groupId": 1130210
+        },
+        {
+          "id": "2800404",
+          "name": "Waseda",
+          "trainLine": "Tokyo Metro Tōzai Line",
+          "groupId": 2800404
+        },
+        {
+          "id": "2800406",
+          "name": "Iidabashi",
+          "trainLine": "Tokyo Metro Tōzai Line",
+          "groupId": 1131316
+        },
+        {
+          "id": "2800409",
+          "name": "Otemachi",
+          "trainLine": "Tokyo Metro Tōzai Line",
+          "groupId": 2800208
+        },
+        {
+          "id": "2800410",
+          "name": "Nihonbashi",
+          "trainLine": "Tokyo Metro Tōzai Line",
+          "groupId": 2800109
+        },
+        {
+          "id": "2800411",
+          "name": "Kayabacho",
+          "trainLine": "Tokyo Metro Tōzai Line",
+          "groupId": 2800310
+        }
+      ]
+    },
+    {
+      "trainLine": "Tokyo Metro Hanzōmon",
+      "count": 7,
+      "stations": [
+        {
+          "id": "2800801",
+          "name": "Shibuya",
+          "trainLine": "Tokyo Metro Hanzōmon",
+          "groupId": 1130205
+        },
+        {
+          "id": "2800802",
+          "name": "Omotesando",
+          "trainLine": "Tokyo Metro Hanzōmon",
+          "groupId": 2800118
+        },
+        {
+          "id": "2800804",
+          "name": "Nagatacho",
+          "trainLine": "Tokyo Metro Hanzōmon",
+          "groupId": 2800115
+        },
+        {
+          "id": "2800806",
+          "name": "Kudanshita",
+          "trainLine": "Tokyo Metro Hanzōmon",
+          "groupId": 2800407
+        },
+        {
+          "id": "2800808",
+          "name": "Otemachi",
+          "trainLine": "Tokyo Metro Hanzōmon",
+          "groupId": 2800208
+        },
+        {
+          "id": "2800809",
+          "name": "Mitsukoshi Mae",
+          "trainLine": "Tokyo Metro Hanzōmon",
+          "groupId": 1131402
+        },
+        {
+          "id": "2800813",
+          "name": "Oshiage",
+          "trainLine": "Tokyo Metro Hanzōmon",
+          "groupId": 2100203
+        }
+      ]
+    },
+    {
+      "trainLine": "JR Saikyō Line",
+      "count": 6,
+      "stations": [
+        {
+          "id": "1132101",
+          "name": "Osaki",
+          "trainLine": "JR Saikyō Line",
+          "groupId": 1130201
+        },
+        {
+          "id": "1132102",
+          "name": "Ebisu",
+          "trainLine": "JR Saikyō Line",
+          "groupId": 1130204
+        },
+        {
+          "id": "1132103",
+          "name": "Shibuya",
+          "trainLine": "JR Saikyō Line",
+          "groupId": 1130205
+        },
+        {
+          "id": "1132104",
+          "name": "Shinjuku",
+          "trainLine": "JR Saikyō Line",
+          "groupId": 1130208
+        },
+        {
+          "id": "1132105",
+          "name": "Ikebukuro",
+          "trainLine": "JR Saikyō Line",
+          "groupId": 1130212
+        },
+        {
+          "id": "1132108",
+          "name": "Akabane",
+          "trainLine": "JR Saikyō Line",
+          "groupId": 1131903
+        }
+      ]
+    },
+    {
+      "trainLine": "Seibu Tamagawa Line",
+      "count": 6,
+      "stations": [
+        {
+          "id": "2201201",
+          "name": "Musashisakai",
+          "trainLine": "Seibu Tamagawa Line",
+          "groupId": 1131221
+        },
+        {
+          "id": "2201202",
+          "name": "Shin Koganei",
+          "trainLine": "Seibu Tamagawa Line",
+          "groupId": 2201202
+        },
+        {
+          "id": "2201203",
+          "name": "Tama",
+          "trainLine": "Seibu Tamagawa Line",
+          "groupId": 2201203
+        },
+        {
+          "id": "2201204",
+          "name": "Shiraitodai",
+          "trainLine": "Seibu Tamagawa Line",
+          "groupId": 2201204
+        },
+        {
+          "id": "2201205",
+          "name": "Kyouteijoumae",
+          "trainLine": "Seibu Tamagawa Line",
+          "groupId": 2201205
+        },
+        {
+          "id": "2201206",
+          "name": "Koremasa",
+          "trainLine": "Seibu Tamagawa Line",
+          "groupId": 2201206
+        }
+      ]
+    },
+    {
+      "trainLine": "Keikyū Airport Line",
+      "count": 6,
+      "stations": [
+        {
+          "id": "2700201",
+          "name": "Keikyu Kamata",
+          "trainLine": "Keikyū Airport Line",
+          "groupId": 2700112
+        },
+        {
+          "id": "2700202",
+          "name": "Koujiya",
+          "trainLine": "Keikyū Airport Line",
+          "groupId": 2700202
+        },
+        {
+          "id": "2700203",
+          "name": "Otorii",
+          "trainLine": "Keikyū Airport Line",
+          "groupId": 2700203
+        },
+        {
+          "id": "2700204",
+          "name": "Anamoriinari",
+          "trainLine": "Keikyū Airport Line",
+          "groupId": 2700204
+        },
+        {
+          "id": "2700206",
+          "name": "Hanedakukou",
+          "trainLine": "Keikyū Airport Line",
+          "groupId": 2700206
+        },
+        {
+          "id": "2700207",
+          "name": "Hanedakukou Kokusaisen Taaminaru",
+          "trainLine": "Keikyū Airport Line",
+          "groupId": 2700207
+        }
+      ]
+    },
+    {
+      "trainLine": "Toei Shinjuku Line",
+      "count": 6,
+      "stations": [
+        {
+          "id": "9930401",
+          "name": "Shinjuku",
+          "trainLine": "Toei Shinjuku Line",
+          "groupId": 1130208
+        },
+        {
+          "id": "9930404",
+          "name": "Ichigaya",
+          "trainLine": "Toei Shinjuku Line",
+          "groupId": 1131315
+        },
+        {
+          "id": "9930405",
+          "name": "Kudanshita",
+          "trainLine": "Toei Shinjuku Line",
+          "groupId": 2800407
+        },
+        {
+          "id": "9930406",
+          "name": "Jimbocho",
+          "trainLine": "Toei Shinjuku Line",
+          "groupId": 2800807
+        },
+        {
+          "id": "9930411",
+          "name": "Morishita",
+          "trainLine": "Toei Shinjuku Line",
+          "groupId": 9930114
+        },
+        {
+          "id": "9930413",
+          "name": "Sumiyoshi",
+          "trainLine": "Toei Shinjuku Line",
+          "groupId": 2800814
+        }
+      ]
+    },
+    {
+      "trainLine": "Tokyo Monorail",
+      "count": 6,
+      "stations": [
+        {
+          "id": "9933601",
+          "name": "Hamamatsucho",
+          "trainLine": "Tokyo Monorail",
+          "groupId": 1130227
+        },
+        {
+          "id": "9933602",
+          "name": "Tennozu Isle",
+          "trainLine": "Tokyo Monorail",
+          "groupId": 9933602
+        },
+        {
+          "id": "9933603",
+          "name": "Oi Keibajoumae",
+          "trainLine": "Tokyo Monorail",
+          "groupId": 9933603
+        },
+        {
+          "id": "9933607",
+          "name": "Tenkubashi",
+          "trainLine": "Tokyo Monorail",
+          "groupId": 2700205
+        },
+        {
+          "id": "9933609",
+          "name": "Hanedakukou Dai Ichi Biru",
+          "trainLine": "Tokyo Monorail",
+          "groupId": 2700206
+        },
+        {
+          "id": "9933611",
+          "name": "Hanedakukou Kokusaisen Biru",
+          "trainLine": "Tokyo Monorail",
+          "groupId": 2700207
+        }
+      ]
+    },
+    {
+      "trainLine": "JR Yamanote Line",
+      "count": 5,
+      "stations": [
+        {
+          "id": "1130220",
+          "name": "Ueno",
+          "trainLine": "JR Yamanote Line",
+          "groupId": 1130220
+        },
+        {
+          "id": "1130224",
+          "name": "Tokyo",
+          "trainLine": "JR Yamanote Line",
+          "groupId": 1130101
+        },
+        {
+          "id": "1130225",
+          "name": "Yurakuchou",
+          "trainLine": "JR Yamanote Line",
+          "groupId": 1130225
+        },
+        {
+          "id": "1130226",
+          "name": "Shinbashi",
+          "trainLine": "JR Yamanote Line",
+          "groupId": 1130102
+        },
+        {
+          "id": "1130229",
+          "name": "Shinagawa",
+          "trainLine": "JR Yamanote Line",
+          "groupId": 1130103
+        }
+      ]
+    },
+    {
+      "trainLine": "Tokyo Metro Yūrakuchō Line",
+      "count": 5,
+      "stations": [
+        {
+          "id": "2800606",
+          "name": "Kotakemukaihara",
+          "trainLine": "Tokyo Metro Yūrakuchō Line",
+          "groupId": 2200301
+        },
+        {
+          "id": "2800609",
+          "name": "Ikebukuro",
+          "trainLine": "Tokyo Metro Yūrakuchō Line",
+          "groupId": 1130212
+        },
+        {
+          "id": "2800613",
+          "name": "Iidabashi",
+          "trainLine": "Tokyo Metro Yūrakuchō Line",
+          "groupId": 1131316
+        },
+        {
+          "id": "2800614",
+          "name": "Ichigaya",
+          "trainLine": "Tokyo Metro Yūrakuchō Line",
+          "groupId": 1131315
+        },
+        {
+          "id": "2800624",
+          "name": "Shinkiba",
+          "trainLine": "Tokyo Metro Yūrakuchō Line",
+          "groupId": 1132605
+        }
+      ]
+    },
+    {
+      "trainLine": "Sotetsu・JR chokutsu line",
+      "count": 5,
+      "stations": [
+        {
+          "id": "2900303",
+          "name": "Shinjuku",
+          "trainLine": "Sotetsu・JR chokutsu line",
+          "groupId": 1130208
+        },
+        {
+          "id": "2900304",
+          "name": "Shibuya",
+          "trainLine": "Sotetsu・JR chokutsu line",
+          "groupId": 1130205
+        },
+        {
+          "id": "2900305",
+          "name": "Ebisu",
+          "trainLine": "Sotetsu・JR chokutsu line",
+          "groupId": 1130204
+        },
+        {
+          "id": "2900306",
+          "name": "Osaki",
+          "trainLine": "Sotetsu・JR chokutsu line",
+          "groupId": 1130201
+        },
+        {
+          "id": "2900307",
+          "name": "Nishi-Ōi",
+          "trainLine": "Sotetsu・JR chokutsu line",
+          "groupId": 1130804
+        }
+      ]
+    },
+    {
+      "trainLine": "Tsukuba Express",
+      "count": 5,
+      "stations": [
+        {
+          "id": "9930901",
+          "name": "Akihabara",
+          "trainLine": "Tsukuba Express",
+          "groupId": 1130222
+        },
+        {
+          "id": "9930902",
+          "name": "Shin Okachimachi",
+          "trainLine": "Tsukuba Express",
+          "groupId": 9930111
+        },
+        {
+          "id": "9930903",
+          "name": "Asakusa",
+          "trainLine": "Tsukuba Express",
+          "groupId": 9930903
+        },
+        {
+          "id": "9930904",
+          "name": "Minamisenju",
+          "trainLine": "Tsukuba Express",
+          "groupId": 1132004
+        },
+        {
+          "id": "9930905",
+          "name": "Kitasenju",
+          "trainLine": "Tsukuba Express",
+          "groupId": 1132005
+        }
+      ]
+    },
+    {
+      "trainLine": "Yurikamome",
+      "count": 5,
+      "stations": [
+        {
+          "id": "9931101",
+          "name": "Shinbashi",
+          "trainLine": "Yurikamome",
+          "groupId": 1130102
+        },
+        {
+          "id": "9931102",
+          "name": "Shiodome",
+          "trainLine": "Yurikamome",
+          "groupId": 9930120
+        },
+        {
+          "id": "9931110",
+          "name": "Oumi",
+          "trainLine": "Yurikamome",
+          "groupId": 9931110
+        },
+        {
+          "id": "9931111",
+          "name": "Tokyo Big Sight",
+          "trainLine": "Yurikamome",
+          "groupId": 9931111
+        },
+        {
+          "id": "9931116",
+          "name": "Toyosu",
+          "trainLine": "Yurikamome",
+          "groupId": 2800622
+        }
+      ]
+    },
+    {
+      "trainLine": "JR Chūō Line (Tōkyō-Shiojiri)",
+      "count": 4,
+      "stations": [
+        {
+          "id": "1131101",
+          "name": "Tokyo",
+          "trainLine": "JR Chūō Line (Tōkyō-Shiojiri)",
+          "groupId": 1130101
+        },
+        {
+          "id": "1131103",
+          "name": "Shinjuku",
+          "trainLine": "JR Chūō Line (Tōkyō-Shiojiri)",
+          "groupId": 1130208
+        },
+        {
+          "id": "1131107",
+          "name": "Tachikawa",
+          "trainLine": "JR Chūō Line (Tōkyō-Shiojiri)",
+          "groupId": 1130325
+        },
+        {
+          "id": "1131110",
+          "name": "Hachioji",
+          "trainLine": "JR Chūō Line (Tōkyō-Shiojiri)",
+          "groupId": 1130620
+        }
+      ]
+    },
+    {
+      "trainLine": "JR Narita Express",
+      "count": 4,
+      "stations": [
+        {
+          "id": "1132806",
+          "name": "Shinjuku",
+          "trainLine": "JR Narita Express",
+          "groupId": 1130208
+        },
+        {
+          "id": "1132807",
+          "name": "Shibuya",
+          "trainLine": "JR Narita Express",
+          "groupId": 1130205
+        },
+        {
+          "id": "1132808",
+          "name": "Shinagawa",
+          "trainLine": "JR Narita Express",
+          "groupId": 1130103
+        },
+        {
+          "id": "1132809",
+          "name": "Tokyo",
+          "trainLine": "JR Narita Express",
+          "groupId": 1130101
+        }
+      ]
+    },
+    {
+      "trainLine": "Narita Sky Access",
+      "count": 4,
+      "stations": [
+        {
+          "id": "2300601",
+          "name": "Keiseiueno",
+          "trainLine": "Narita Sky Access",
+          "groupId": 2300101
+        },
+        {
+          "id": "2300602",
+          "name": "Nippori",
+          "trainLine": "Narita Sky Access",
+          "groupId": 1130218
+        },
+        {
+          "id": "2300603",
+          "name": "Aoto",
+          "trainLine": "Narita Sky Access",
+          "groupId": 2300109
+        },
+        {
+          "id": "2300604",
+          "name": "Keiseitakasago",
+          "trainLine": "Narita Sky Access",
+          "groupId": 2300110
+        }
+      ]
+    },
+    {
+      "trainLine": "Keiō Inokashira Line",
+      "count": 4,
+      "stations": [
+        {
+          "id": "2400601",
+          "name": "Shibuya",
+          "trainLine": "Keiō Inokashira Line",
+          "groupId": 1130205
+        },
+        {
+          "id": "2400608",
+          "name": "Meidaimae",
+          "trainLine": "Keiō Inokashira Line",
+          "groupId": 2400106
+        },
+        {
+          "id": "2400616",
+          "name": "Inokashirakouen",
+          "trainLine": "Keiō Inokashira Line",
+          "groupId": 2400616
+        },
+        {
+          "id": "2400617",
+          "name": "Kichijouji",
+          "trainLine": "Keiō Inokashira Line",
+          "groupId": 1131104
+        }
+      ]
+    },
+    {
+      "trainLine": "Keiō New Line",
+      "count": 4,
+      "stations": [
+        {
+          "id": "2400701",
+          "name": "Shinsen-Shinjuku",
+          "trainLine": "Keiō New Line",
+          "groupId": 1130208
+        },
+        {
+          "id": "2400702",
+          "name": "Hatsudai",
+          "trainLine": "Keiō New Line",
+          "groupId": 2400102
+        },
+        {
+          "id": "2400703",
+          "name": "Hatagaya",
+          "trainLine": "Keiō New Line",
+          "groupId": 2400103
+        },
+        {
+          "id": "2400704",
+          "name": "Sasazuka",
+          "trainLine": "Keiō New Line",
+          "groupId": 2400104
+        }
+      ]
+    },
+    {
+      "trainLine": "Tōkyū Ōimachi",
+      "count": 4,
+      "stations": [
+        {
+          "id": "2600401",
+          "name": "Oimachi",
+          "trainLine": "Tōkyū Ōimachi",
+          "groupId": 1133228
+        },
+        {
+          "id": "2600408",
+          "name": "Ōokayama",
+          "trainLine": "Tōkyū Ōimachi",
+          "groupId": 2600206
+        },
+        {
+          "id": "2600410",
+          "name": "Jiyugaoka",
+          "trainLine": "Tōkyū Ōimachi",
+          "groupId": 2600107
+        },
+        {
+          "id": "2600415",
+          "name": "Futako-Tamagawa",
+          "trainLine": "Tōkyū Ōimachi",
+          "groupId": 2600307
+        }
+      ]
+    },
+    {
+      "trainLine": "Keikyū Main Line",
+      "count": 4,
+      "stations": [
+        {
+          "id": "2700102",
+          "name": "Shinagawa",
+          "trainLine": "Keikyū Main Line",
+          "groupId": 1130103
+        },
+        {
+          "id": "2700104",
+          "name": "Shinbanba",
+          "trainLine": "Keikyū Main Line",
+          "groupId": 2700104
+        },
+        {
+          "id": "2700113",
+          "name": "Zōshiki",
+          "trainLine": "Keikyū Main Line",
+          "groupId": 2700113
+        },
+        {
+          "id": "2700114",
+          "name": "Rokugoudote",
+          "trainLine": "Keikyū Main Line",
+          "groupId": 2700114
+        }
+      ]
+    },
+    {
+      "trainLine": "Rinkai Line",
+      "count": 4,
+      "stations": [
+        {
+          "id": "9933701",
+          "name": "Shinkiba",
+          "trainLine": "Rinkai Line",
+          "groupId": 1132605
+        },
+        {
+          "id": "9933705",
+          "name": "Tennozu Isle",
+          "trainLine": "Rinkai Line",
+          "groupId": 9933602
+        },
+        {
+          "id": "9933707",
+          "name": "Oimachi",
+          "trainLine": "Rinkai Line",
+          "groupId": 1133228
+        },
+        {
+          "id": "9933708",
+          "name": "Osaki",
+          "trainLine": "Rinkai Line",
+          "groupId": 1130201
+        }
+      ]
+    },
+    {
+      "trainLine": "JR Tōkaidō Line (Tokyo-Atami)",
+      "count": 3,
+      "stations": [
+        {
+          "id": "1130101",
+          "name": "Tokyo",
+          "trainLine": "JR Tōkaidō Line (Tokyo-Atami)",
+          "groupId": 1130101
+        },
+        {
+          "id": "1130102",
+          "name": "Shinbashi",
+          "trainLine": "JR Tōkaidō Line (Tokyo-Atami)",
+          "groupId": 1130102
+        },
+        {
+          "id": "1130103",
+          "name": "Shinagawa",
+          "trainLine": "JR Tōkaidō Line (Tokyo-Atami)",
+          "groupId": 1130103
+        }
+      ]
+    },
+    {
+      "trainLine": "JR Yokosuka Line",
+      "count": 3,
+      "stations": [
+        {
+          "id": "1130801",
+          "name": "Tokyo",
+          "trainLine": "JR Yokosuka Line",
+          "groupId": 1130101
+        },
+        {
+          "id": "1130802",
+          "name": "Shinbashi",
+          "trainLine": "JR Yokosuka Line",
+          "groupId": 1130102
+        },
+        {
+          "id": "1130803",
+          "name": "Shinagawa",
+          "trainLine": "JR Yokosuka Line",
+          "groupId": 1130103
+        }
+      ]
+    },
+    {
+      "trainLine": "JR Sōbu Main Line",
+      "count": 3,
+      "stations": [
+        {
+          "id": "1131401",
+          "name": "Tokyo",
+          "trainLine": "JR Sōbu Main Line",
+          "groupId": 1130101
+        },
+        {
+          "id": "1131404",
+          "name": "Kinshichou",
+          "trainLine": "JR Sōbu Main Line",
+          "groupId": 1131322
+        },
+        {
+          "id": "1131405",
+          "name": "Shinkoiwa",
+          "trainLine": "JR Sōbu Main Line",
+          "groupId": 1131325
+        }
+      ]
+    },
+    {
+      "trainLine": "JR Jōban Line (Ueno-Toride)",
+      "count": 3,
+      "stations": [
+        {
+          "id": "1132001",
+          "name": "Ueno",
+          "trainLine": "JR Jōban Line (Ueno-Toride)",
+          "groupId": 1130220
+        },
+        {
+          "id": "1132002",
+          "name": "Nippori",
+          "trainLine": "JR Jōban Line (Ueno-Toride)",
+          "groupId": 1130218
+        },
+        {
+          "id": "1132004",
+          "name": "Minamisenju",
+          "trainLine": "JR Jōban Line (Ueno-Toride)",
+          "groupId": 1132004
+        }
+      ]
+    },
+    {
+      "trainLine": "JR Takasaki Line",
+      "count": 3,
+      "stations": [
+        {
+          "id": "1132301",
+          "name": "Ueno",
+          "trainLine": "JR Takasaki Line",
+          "groupId": 1130220
+        },
+        {
+          "id": "1132302",
+          "name": "Oku",
+          "trainLine": "JR Takasaki Line",
+          "groupId": 1131902
+        },
+        {
+          "id": "1132303",
+          "name": "Akabane",
+          "trainLine": "JR Takasaki Line",
+          "groupId": 1131903
+        }
+      ]
+    },
+    {
+      "trainLine": "Tōbu Isesaki Line",
+      "count": 3,
+      "stations": [
+        {
+          "id": "2100202",
+          "name": "Tokyo Skytree",
+          "trainLine": "Tōbu Isesaki Line",
+          "groupId": 2100202
+        },
+        {
+          "id": "2100203",
+          "name": "Oshiage",
+          "trainLine": "Tōbu Isesaki Line",
+          "groupId": 2100203
+        },
+        {
+          "id": "2100209",
+          "name": "Kitasenju",
+          "trainLine": "Tōbu Isesaki Line",
+          "groupId": 1132005
+        }
+      ]
+    },
+    {
+      "trainLine": "Seibu Haijima Line",
+      "count": 3,
+      "stations": [
+        {
+          "id": "2200801",
+          "name": "Kodaira",
+          "trainLine": "Seibu Haijima Line",
+          "groupId": 2200719
+        },
+        {
+          "id": "2200805",
+          "name": "Tamagawajousui",
+          "trainLine": "Seibu Haijima Line",
+          "groupId": 2200805
+        },
+        {
+          "id": "2200808",
+          "name": "Haijima",
+          "trainLine": "Seibu Haijima Line",
+          "groupId": 1131506
+        }
+      ]
+    },
+    {
+      "trainLine": "Seibu Kokubunji Line",
+      "count": 3,
+      "stations": [
+        {
+          "id": "2201001",
+          "name": "Kokubunji",
+          "trainLine": "Seibu Kokubunji Line",
+          "groupId": 1131106
+        },
+        {
+          "id": "2201004",
+          "name": "Ogawa",
+          "trainLine": "Seibu Kokubunji Line",
+          "groupId": 2200803
+        },
+        {
+          "id": "2201005",
+          "name": "Higashimurayama",
+          "trainLine": "Seibu Kokubunji Line",
+          "groupId": 2200721
+        }
+      ]
+    },
+    {
+      "trainLine": "Keisei Oshiage Line",
+      "count": 3,
+      "stations": [
+        {
+          "id": "2300201",
+          "name": "Oshiage",
+          "trainLine": "Keisei Oshiage Line",
+          "groupId": 2100203
+        },
+        {
+          "id": "2300206",
+          "name": "Aoto",
+          "trainLine": "Keisei Oshiage Line",
+          "groupId": 2300109
+        },
+        {
+          "id": "2300207",
+          "name": "Keiseitakasago",
+          "trainLine": "Keisei Oshiage Line",
+          "groupId": 2300110
+        }
+      ]
+    },
+    {
+      "trainLine": "Keisei Kanamachi Line",
+      "count": 3,
+      "stations": [
+        {
+          "id": "2300301",
+          "name": "Keiseitakasago",
+          "trainLine": "Keisei Kanamachi Line",
+          "groupId": 2300110
+        },
+        {
+          "id": "2300302",
+          "name": "Shibamata",
+          "trainLine": "Keisei Kanamachi Line",
+          "groupId": 2300302
+        },
+        {
+          "id": "2300303",
+          "name": "Keiseikanamachi",
+          "trainLine": "Keisei Kanamachi Line",
+          "groupId": 1132008
+        }
+      ]
+    },
+    {
+      "trainLine": "Keiō Line",
+      "count": 3,
+      "stations": [
+        {
+          "id": "2400101",
+          "name": "Shinjuku",
+          "trainLine": "Keiō Line",
+          "groupId": 1130208
+        },
+        {
+          "id": "2400125",
+          "name": "Bubaigawara",
+          "trainLine": "Keiō Line",
+          "groupId": 1130321
+        },
+        {
+          "id": "2400129",
+          "name": "Takahatafudou",
+          "trainLine": "Keiō Line",
+          "groupId": 2400129
+        }
+      ]
+    },
+    {
+      "trainLine": "Odakyū Line",
+      "count": 3,
+      "stations": [
+        {
+          "id": "2500101",
+          "name": "Shinjuku",
+          "trainLine": "Odakyū Line",
+          "groupId": 1130208
+        },
+        {
+          "id": "2500107",
+          "name": "Shimokitazawa",
+          "trainLine": "Odakyū Line",
+          "groupId": 2400605
+        },
+        {
+          "id": "2500127",
+          "name": "Machida",
+          "trainLine": "Odakyū Line",
+          "groupId": 1130611
+        }
+      ]
+    },
+    {
+      "trainLine": "Tōkyū Meguro Line",
+      "count": 3,
+      "stations": [
+        {
+          "id": "2600201",
+          "name": "Meguro",
+          "trainLine": "Tōkyū Meguro Line",
+          "groupId": 1130203
+        },
+        {
+          "id": "2600208",
+          "name": "Denenchoufu",
+          "trainLine": "Tōkyū Meguro Line",
+          "groupId": 2600108
+        },
+        {
+          "id": "2600209",
+          "name": "Tamagawa",
+          "trainLine": "Tōkyū Meguro Line",
+          "groupId": 2600109
+        }
+      ]
+    },
+    {
+      "trainLine": "Tōkyū Ikegami Line",
+      "count": 3,
+      "stations": [
+        {
+          "id": "2600501",
+          "name": "Gotanda",
+          "trainLine": "Tōkyū Ikegami Line",
+          "groupId": 1130202
+        },
+        {
+          "id": "2600505",
+          "name": "Hatanodai",
+          "trainLine": "Tōkyū Ikegami Line",
+          "groupId": 2600406
+        },
+        {
+          "id": "2600515",
+          "name": "Kamata",
+          "trainLine": "Tōkyū Ikegami Line",
+          "groupId": 1133230
+        }
+      ]
+    },
+    {
+      "trainLine": "Nippori-Toneri Liner",
+      "count": 3,
+      "stations": [
+        {
+          "id": "9934201",
+          "name": "Nippori",
+          "trainLine": "Nippori-Toneri Liner",
+          "groupId": 1130218
+        },
+        {
+          "id": "9934202",
+          "name": "Nishinippori",
+          "trainLine": "Nippori-Toneri Liner",
+          "groupId": 1130217
+        },
+        {
+          "id": "9934204",
+          "name": "Kumanomae",
+          "trainLine": "Nippori-Toneri Liner",
+          "groupId": 9930509
+        }
+      ]
+    },
+    {
+      "trainLine": "Joetsu Shinkansen",
+      "count": 2,
+      "stations": [
+        {
+          "id": "100501",
+          "name": "Tokyo",
+          "trainLine": "Joetsu Shinkansen",
+          "groupId": 1130101
+        },
+        {
+          "id": "100502",
+          "name": "Ueno",
+          "trainLine": "Joetsu Shinkansen",
+          "groupId": 1130220
+        }
+      ]
+    },
+    {
+      "trainLine": "Yamagata Shinkansen",
+      "count": 2,
+      "stations": [
+        {
+          "id": "100701",
+          "name": "Tokyo",
+          "trainLine": "Yamagata Shinkansen",
+          "groupId": 1130101
+        },
+        {
+          "id": "100702",
+          "name": "Ueno",
+          "trainLine": "Yamagata Shinkansen",
+          "groupId": 1130220
+        }
+      ]
+    },
+    {
+      "trainLine": "Akita Shinkansen",
+      "count": 2,
+      "stations": [
+        {
+          "id": "100801",
+          "name": "Tokyo",
+          "trainLine": "Akita Shinkansen",
+          "groupId": 1130101
+        },
+        {
+          "id": "100802",
+          "name": "Ueno",
+          "trainLine": "Akita Shinkansen",
+          "groupId": 1130220
+        }
+      ]
+    },
+    {
+      "trainLine": "Hokuriku Shinkansen",
+      "count": 2,
+      "stations": [
+        {
+          "id": "100901",
+          "name": "Tokyo",
+          "trainLine": "Hokuriku Shinkansen",
+          "groupId": 1130101
+        },
+        {
+          "id": "100902",
+          "name": "Ueno",
+          "trainLine": "Hokuriku Shinkansen",
+          "groupId": 1130220
+        }
+      ]
+    },
+    {
+      "trainLine": "JR Ōme Line",
+      "count": 2,
+      "stations": [
+        {
+          "id": "1131501",
+          "name": "Tachikawa",
+          "trainLine": "JR Ōme Line",
+          "groupId": 1130325
+        },
+        {
+          "id": "1131523",
+          "name": "Bato No Su",
+          "trainLine": "JR Ōme Line",
+          "groupId": 1131523
+        }
+      ]
+    },
+    {
+      "trainLine": "JR Hachikō Line (Hachiōji-Komagawa)",
+      "count": 2,
+      "stations": [
+        {
+          "id": "1131701",
+          "name": "Hachioji",
+          "trainLine": "JR Hachikō Line (Hachiōji-Komagawa)",
+          "groupId": 1130620
+        },
+        {
+          "id": "1131704",
+          "name": "Haijima",
+          "trainLine": "JR Hachikō Line (Hachiōji-Komagawa)",
+          "groupId": 1131506
+        }
+      ]
+    },
+    {
+      "trainLine": "Utsunomiya Line",
+      "count": 2,
+      "stations": [
+        {
+          "id": "1131901",
+          "name": "Ueno",
+          "trainLine": "Utsunomiya Line",
+          "groupId": 1130220
+        },
+        {
+          "id": "1131934",
+          "name": "Tokyo",
+          "trainLine": "Utsunomiya Line",
+          "groupId": 1130101
+        }
+      ]
+    },
+    {
+      "trainLine": "JR Keiyō Line",
+      "count": 2,
+      "stations": [
+        {
+          "id": "1132601",
+          "name": "Tokyo",
+          "trainLine": "JR Keiyō Line",
+          "groupId": 1130101
+        },
+        {
+          "id": "1132602",
+          "name": "Hacchoubori",
+          "trainLine": "JR Keiyō Line",
+          "groupId": 1132602
+        }
+      ]
+    },
+    {
+      "trainLine": "Ueno-Tokyo Line",
+      "count": 2,
+      "stations": [
+        {
+          "id": "1134301",
+          "name": "Tokyo",
+          "trainLine": "Ueno-Tokyo Line",
+          "groupId": 1130101
+        },
+        {
+          "id": "1134302",
+          "name": "Ueno",
+          "trainLine": "Ueno-Tokyo Line",
+          "groupId": 1130220
+        }
+      ]
+    },
+    {
+      "trainLine": "Tōbu Kameido Line",
+      "count": 2,
+      "stations": [
+        {
+          "id": "2100501",
+          "name": "Hikifune",
+          "trainLine": "Tōbu Kameido Line",
+          "groupId": 2100204
+        },
+        {
+          "id": "2100505",
+          "name": "Kameido",
+          "trainLine": "Tōbu Kameido Line",
+          "groupId": 1131323
+        }
+      ]
+    },
+    {
+      "trainLine": "Tōbu Daishi Line",
+      "count": 2,
+      "stations": [
+        {
+          "id": "2100601",
+          "name": "Nishiarai",
+          "trainLine": "Tōbu Daishi Line",
+          "groupId": 2100213
+        },
+        {
+          "id": "2100602",
+          "name": "Daishimae",
+          "trainLine": "Tōbu Daishi Line",
+          "groupId": 2100602
+        }
+      ]
+    },
+    {
+      "trainLine": "Seibu Yurakucho Line",
+      "count": 2,
+      "stations": [
+        {
+          "id": "2200302",
+          "name": "Shin Sakuradai",
+          "trainLine": "Seibu Yurakucho Line",
+          "groupId": 2200302
+        },
+        {
+          "id": "2200303",
+          "name": "Nerima",
+          "trainLine": "Seibu Yurakucho Line",
+          "groupId": 2200106
+        }
+      ]
+    },
+    {
+      "trainLine": "Seibu Toshima Line",
+      "count": 2,
+      "stations": [
+        {
+          "id": "2200401",
+          "name": "Nerima",
+          "trainLine": "Seibu Toshima Line",
+          "groupId": 2200106
+        },
+        {
+          "id": "2200402",
+          "name": "Toshimaen",
+          "trainLine": "Seibu Toshima Line",
+          "groupId": 2200402
+        }
+      ]
+    },
+    {
+      "trainLine": "Seibu Seibu-en Line",
+      "count": 2,
+      "stations": [
+        {
+          "id": "2200901",
+          "name": "Higashimurayama",
+          "trainLine": "Seibu Seibu-en Line",
+          "groupId": 2200721
+        },
+        {
+          "id": "2200902",
+          "name": "Seibuen",
+          "trainLine": "Seibu Seibu-en Line",
+          "groupId": 2200902
+        }
+      ]
+    },
+    {
+      "trainLine": "Keisei Main Line",
+      "count": 2,
+      "stations": [
+        {
+          "id": "2300102",
+          "name": "Nippori",
+          "trainLine": "Keisei Main Line",
+          "groupId": 1130218
+        },
+        {
+          "id": "2300104",
+          "name": "Machiya",
+          "trainLine": "Keisei Main Line",
+          "groupId": 2300104
+        }
+      ]
+    },
+    {
+      "trainLine": "Keiō Takao Line",
+      "count": 2,
+      "stations": [
+        {
+          "id": "2400301",
+          "name": "Kitano",
+          "trainLine": "Keiō Takao Line",
+          "groupId": 2400133
+        },
+        {
+          "id": "2400306",
+          "name": "Takao",
+          "trainLine": "Keiō Takao Line",
+          "groupId": 1131112
+        }
+      ]
+    },
+    {
+      "trainLine": "Keiō Keibajō Line",
+      "count": 2,
+      "stations": [
+        {
+          "id": "2400401",
+          "name": "Higashifuchu",
+          "trainLine": "Keiō Keibajō Line",
+          "groupId": 2400123
+        },
+        {
+          "id": "2400402",
+          "name": "Fuchu Keiba Seimon Mae",
+          "trainLine": "Keiō Keibajō Line",
+          "groupId": 2400402
+        }
+      ]
+    },
+    {
+      "trainLine": "Keiō Dōbutsuen Line",
+      "count": 2,
+      "stations": [
+        {
+          "id": "2400501",
+          "name": "Takahatafudou",
+          "trainLine": "Keiō Dōbutsuen Line",
+          "groupId": 2400129
+        },
+        {
+          "id": "2400502",
+          "name": "Tama Doubutsu Kouen",
+          "trainLine": "Keiō Dōbutsuen Line",
+          "groupId": 2400502
+        }
+      ]
+    },
+    {
+      "trainLine": "Tōkyū Den-en-toshi Line",
+      "count": 2,
+      "stations": [
+        {
+          "id": "2600301",
+          "name": "Shibuya",
+          "trainLine": "Tōkyū Den-en-toshi Line",
+          "groupId": 1130205
+        },
+        {
+          "id": "2600325",
+          "name": "Minami Machida",
+          "trainLine": "Tōkyū Den-en-toshi Line",
+          "groupId": 2600325
+        }
+      ]
+    },
+    {
+      "trainLine": "Tōkyū Tamagawa Line",
+      "count": 2,
+      "stations": [
+        {
+          "id": "2600601",
+          "name": "Tamagawa",
+          "trainLine": "Tōkyū Tamagawa Line",
+          "groupId": 2600109
+        },
+        {
+          "id": "2600607",
+          "name": "Kamata",
+          "trainLine": "Tōkyū Tamagawa Line",
+          "groupId": 1133230
+        }
+      ]
+    },
+    {
+      "trainLine": "Tōkyū Setagaya Line",
+      "count": 2,
+      "stations": [
+        {
+          "id": "2600701",
+          "name": "Sangenjaya",
+          "trainLine": "Tōkyū Setagaya Line",
+          "groupId": 2600303
+        },
+        {
+          "id": "2600710",
+          "name": "Shimotakaido",
+          "trainLine": "Tōkyū Setagaya Line",
+          "groupId": 2400107
+        }
+      ]
+    },
+    {
+      "trainLine": "Tokyo Metro Yūrakuchō New Line",
+      "count": 2,
+      "stations": [
+        {
+          "id": "2800701",
+          "name": "Shin Sen Ikebukuro",
+          "trainLine": "Tokyo Metro Yūrakuchō New Line",
+          "groupId": 1130212
+        },
+        {
+          "id": "2800702",
+          "name": "Kotakemukaihara",
+          "trainLine": "Tokyo Metro Yūrakuchō New Line",
+          "groupId": 2200301
+        }
+      ]
+    },
+    {
+      "trainLine": "Tama Monorail",
+      "count": 2,
+      "stations": [
+        {
+          "id": "9933414",
+          "name": "Tate Hi",
+          "trainLine": "Tama Monorail",
+          "groupId": 9933414
+        },
+        {
+          "id": "9933418",
+          "name": "Sakurakouji Michi",
+          "trainLine": "Tama Monorail",
+          "groupId": 9933418
+        }
+      ]
+    },
+    {
+      "trainLine": "Hokusō Railway Hokusō Line",
+      "count": 2,
+      "stations": [
+        {
+          "id": "9934001",
+          "name": "Keiseitakasago",
+          "trainLine": "Hokusō Railway Hokusō Line",
+          "groupId": 2300110
+        },
+        {
+          "id": "9934002",
+          "name": "Shinshibamata",
+          "trainLine": "Hokusō Railway Hokusō Line",
+          "groupId": 9934002
+        }
+      ]
+    },
+    {
+      "trainLine": "Tohoku Shinkansen",
+      "count": 1,
+      "stations": [
+        {
+          "id": "100401",
+          "name": "Tokyo",
+          "trainLine": "Tohoku Shinkansen",
+          "groupId": 1130101
+        }
+      ]
+    },
+    {
+      "trainLine": "JR Musashino Line",
+      "count": 1,
+      "stations": [
+        {
+          "id": "1130501",
+          "name": "Fuchuhonmachi",
+          "trainLine": "JR Musashino Line",
+          "groupId": 1130320
+        }
+      ]
+    },
+    {
+      "trainLine": "JR Itsukaichi Line",
+      "count": 1,
+      "stations": [
+        {
+          "id": "1131601",
+          "name": "Haijima",
+          "trainLine": "JR Itsukaichi Line",
+          "groupId": 1131506
+        }
+      ]
+    },
+    {
+      "trainLine": "Tōbu Tōjō Line",
+      "count": 1,
+      "stations": [
+        {
+          "id": "2100101",
+          "name": "Ikebukuro",
+          "trainLine": "Tōbu Tōjō Line",
+          "groupId": 1130212
+        }
+      ]
+    },
+    {
+      "trainLine": "Seibu Ikebukuro Line",
+      "count": 1,
+      "stations": [
+        {
+          "id": "2200101",
+          "name": "Ikebukuro",
+          "trainLine": "Seibu Ikebukuro Line",
+          "groupId": 1130212
+        }
+      ]
+    },
+    {
+      "trainLine": "Seibu Yamaguchi Line",
+      "count": 1,
+      "stations": [
+        {
+          "id": "2200601",
+          "name": "Tamako",
+          "trainLine": "Seibu Yamaguchi Line",
+          "groupId": 2200601
+        }
+      ]
+    },
+    {
+      "trainLine": "Seibu Shinjuku Line",
+      "count": 1,
+      "stations": [
+        {
+          "id": "2200702",
+          "name": "Takadanobaba",
+          "trainLine": "Seibu Shinjuku Line",
+          "groupId": 1130210
+        }
+      ]
+    },
+    {
+      "trainLine": "Tōkyū Tōyoko Line",
+      "count": 1,
+      "stations": [
+        {
+          "id": "2600101",
+          "name": "Shibuya",
+          "trainLine": "Tōkyū Tōyoko Line",
+          "groupId": 1130205
+        }
+      ]
+    },
+    {
+      "trainLine": "Saitama Rapid Railway Line",
+      "count": 1,
+      "stations": [
+        {
+          "id": "9930701",
+          "name": "Akabaneiwabuchi",
+          "trainLine": "Saitama Rapid Railway Line",
+          "groupId": 2800901
+        }
+      ]
+    }
+  ]
+}

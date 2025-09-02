@@ -1,0 +1,202 @@
+{
+  "line": "Shonan-Shinjuku Line",
+  "operator": "JR East",
+  "navitime_id": "00000910",
+  "first_station_id": "00004848",
+  "stations": [
+    {
+      "name": "Nishi-Oi",
+      "japanese_name": "西大井",
+      "station_id": "00004848",
+      "order": 1,
+      "transfers": [
+        "JR Yokosuka Line"
+      ]
+    },
+    {
+      "name": "Osaki",
+      "japanese_name": "大崎",
+      "station_id": "00005613",
+      "order": 2,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "Rinkai Line"
+      ]
+    },
+    {
+      "name": "Ebisu(Tokyo)",
+      "japanese_name": "恵比寿(東京都)",
+      "station_id": "00002025",
+      "order": 3,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "Tokyo Metro Hibiya Line"
+      ]
+    },
+    {
+      "name": "Shibuya",
+      "japanese_name": "渋谷",
+      "station_id": "00003544",
+      "order": 4,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "Keio Inokashira Line",
+        "Tokyo Metro Ginza Line",
+        "Tokyo Metro Hanzomon Line",
+        "Tokyo Metro Fukutoshin Line",
+        "Tokyu Den-en-toshi Line",
+        "Tokyu Toyoko Line"
+      ]
+    },
+    {
+      "name": "Shinjuku",
+      "japanese_name": "新宿",
+      "station_id": "00004254",
+      "order": 5,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "Keio Line",
+        "Keio New Line",
+        "Odakyu Odawara Line",
+        "Tokyo Metro Marunouchi Line",
+        "Toeioedo Line(Loop)",
+        "Toei Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Ikebukuro",
+      "japanese_name": "池袋",
+      "station_id": "00005947",
+      "order": 6,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "Seibu Ikebukuro Line",
+        "Tokyo Metro Marunouchi Line",
+        "Tokyo Metro Yurakucho Line",
+        "Tokyo Metro Fukutoshin Line",
+        "Tobu Tojo Line"
+      ]
+    },
+    {
+      "name": "Akabane",
+      "japanese_name": "赤羽",
+      "station_id": "00005069",
+      "order": 7,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Saikyo Line",
+        "JR Utsunomiya Line[Tohoku Main Line]‧JR Ueno Tokyo Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "807c0143",
+      "trainName": "JR Sotetsu Direct Line",
+      "destination": "Shinjuku",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "10",
+      "type": "Local"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Shonan-Shinjuku Line",
+      "train_type": "Local",
+      "total_stops": 5,
+      "stops": [
+        {
+          "name": "Nishi-Oi",
+          "station_id": "00004848",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.721823,
+            "lat": 35.601777
+          }
+        },
+        {
+          "name": "Osaki",
+          "station_id": "00005613",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.728161,
+            "lat": 35.619912
+          }
+        },
+        {
+          "name": "Ebisu(Tokyo)",
+          "station_id": "00002025",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.710153,
+            "lat": 35.646584
+          }
+        },
+        {
+          "name": "Shibuya",
+          "station_id": "00003544",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.701509,
+            "lat": 35.658424
+          }
+        },
+        {
+          "name": "Shinjuku",
+          "station_id": "00004254",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.700676,
+            "lat": 35.689579
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Nishi-Oi",
+          "from_id": "00004848",
+          "to": "Osaki",
+          "to_id": "00005613",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Osaki",
+          "from_id": "00005613",
+          "to": "Ebisu(Tokyo)",
+          "to_id": "00002025",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Ebisu(Tokyo)",
+          "from_id": "00002025",
+          "to": "Shibuya",
+          "to_id": "00003544",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shibuya",
+          "from_id": "00003544",
+          "to": "Shinjuku",
+          "to_id": "00004254",
+          "travel_time_minutes": 5
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:56:51.360Z"
+}

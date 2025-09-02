@@ -1,0 +1,541 @@
+{
+  "line": "Keio Takao",
+  "operator": "Keio Corporation",
+  "navitime_id": "00000276",
+  "first_station_id": "00008408",
+  "stations": [
+    {
+      "name": "Kitano(Tokyo)",
+      "japanese_name": "北野(東京都)",
+      "station_id": "00008408",
+      "order": 1,
+      "transfers": [
+        "Keio Line"
+      ]
+    },
+    {
+      "name": "Keio-katakura",
+      "japanese_name": "京王片倉",
+      "station_id": "00001712",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Yamada(Tokyo)",
+      "japanese_name": "山田(東京都)",
+      "station_id": "00003129",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Mejirodai",
+      "japanese_name": "めじろ台",
+      "station_id": "00000134",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Hazama",
+      "japanese_name": "狭間",
+      "station_id": "00001776",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Takao (Tokyo)",
+      "japanese_name": "高尾(東京都)",
+      "station_id": "00002628",
+      "order": 6,
+      "transfers": [
+        "JR Chuo Main Line(Tokyo-Shiojiri)"
+      ]
+    },
+    {
+      "name": "Takaosanguchi",
+      "japanese_name": "高尾山口",
+      "station_id": "00002629",
+      "order": 7,
+      "transfers": []
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Rapid",
+    "Limited Express",
+    "Liner"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "80f20014",
+      "trainName": "Keio Takao Line Local",
+      "destination": "Takaosanguchi",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "12",
+      "type": "Local"
+    },
+    "Rapid": {
+      "trainId": "80f20018",
+      "trainName": "Keio Takao Line Rapid",
+      "destination": "Takaosanguchi",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "41",
+      "type": "Rapid"
+    },
+    "Limited Express": {
+      "trainId": "80f20017",
+      "trainName": "Keio Takao Line Limited Express",
+      "destination": "Takaosanguchi",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "03",
+      "type": "Limited Express"
+    },
+    "Liner": {
+      "trainId": "80f20057",
+      "trainName": "Keio Liner 61 Go",
+      "destination": "Takaosanguchi",
+      "hour": 23,
+      "date": "2025-07-11",
+      "time": "04",
+      "type": "Liner"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Keio Takao",
+      "train_type": "Local",
+      "total_stops": 7,
+      "stops": [
+        {
+          "name": "Kitano(Tokyo)",
+          "station_id": "00008408",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.354489,
+            "lat": 35.644411
+          }
+        },
+        {
+          "name": "Keio-katakura",
+          "station_id": "00001712",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.337332,
+            "lat": 35.644264
+          }
+        },
+        {
+          "name": "Yamada(Tokyo)",
+          "station_id": "00003129",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.32128,
+            "lat": 35.644433
+          }
+        },
+        {
+          "name": "Mejirodai",
+          "station_id": "00000134",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.307715,
+            "lat": 35.643375
+          }
+        },
+        {
+          "name": "Hazama",
+          "station_id": "00001776",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.293312,
+            "lat": 35.640543
+          }
+        },
+        {
+          "name": "Takao (Tokyo)",
+          "station_id": "00002628",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.282795,
+            "lat": 35.642018
+          }
+        },
+        {
+          "name": "Takaosanguchi",
+          "station_id": "00002629",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.27,
+            "lat": 35.63251
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Kitano(Tokyo)",
+          "from_id": "00008408",
+          "to": "Keio-katakura",
+          "to_id": "00001712",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Keio-katakura",
+          "from_id": "00001712",
+          "to": "Yamada(Tokyo)",
+          "to_id": "00003129",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yamada(Tokyo)",
+          "from_id": "00003129",
+          "to": "Mejirodai",
+          "to_id": "00000134",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Mejirodai",
+          "from_id": "00000134",
+          "to": "Hazama",
+          "to_id": "00001776",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hazama",
+          "from_id": "00001776",
+          "to": "Takao (Tokyo)",
+          "to_id": "00002628",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Takao (Tokyo)",
+          "from_id": "00002628",
+          "to": "Takaosanguchi",
+          "to_id": "00002629",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Rapid": {
+      "line": "Keio Takao",
+      "train_type": "Rapid",
+      "total_stops": 7,
+      "stops": [
+        {
+          "name": "Kitano(Tokyo)",
+          "station_id": "00008408",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.354489,
+            "lat": 35.644411
+          }
+        },
+        {
+          "name": "Keio-katakura",
+          "station_id": "00001712",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.337332,
+            "lat": 35.644264
+          }
+        },
+        {
+          "name": "Yamada(Tokyo)",
+          "station_id": "00003129",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.32128,
+            "lat": 35.644433
+          }
+        },
+        {
+          "name": "Mejirodai",
+          "station_id": "00000134",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.307715,
+            "lat": 35.643375
+          }
+        },
+        {
+          "name": "Hazama",
+          "station_id": "00001776",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.293312,
+            "lat": 35.640543
+          }
+        },
+        {
+          "name": "Takao (Tokyo)",
+          "station_id": "00002628",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.282795,
+            "lat": 35.642018
+          }
+        },
+        {
+          "name": "Takaosanguchi",
+          "station_id": "00002629",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.27,
+            "lat": 35.63251
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Kitano(Tokyo)",
+          "from_id": "00008408",
+          "to": "Keio-katakura",
+          "to_id": "00001712",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Keio-katakura",
+          "from_id": "00001712",
+          "to": "Yamada(Tokyo)",
+          "to_id": "00003129",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Yamada(Tokyo)",
+          "from_id": "00003129",
+          "to": "Mejirodai",
+          "to_id": "00000134",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Mejirodai",
+          "from_id": "00000134",
+          "to": "Hazama",
+          "to_id": "00001776",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hazama",
+          "from_id": "00001776",
+          "to": "Takao (Tokyo)",
+          "to_id": "00002628",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Takao (Tokyo)",
+          "from_id": "00002628",
+          "to": "Takaosanguchi",
+          "to_id": "00002629",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Limited Express": {
+      "line": "Keio Takao",
+      "train_type": "Limited Express",
+      "total_stops": 7,
+      "stops": [
+        {
+          "name": "Kitano(Tokyo)",
+          "station_id": "00008408",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.354489,
+            "lat": 35.644411
+          }
+        },
+        {
+          "name": "Keio-katakura",
+          "station_id": "00001712",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.337332,
+            "lat": 35.644264
+          }
+        },
+        {
+          "name": "Yamada(Tokyo)",
+          "station_id": "00003129",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.32128,
+            "lat": 35.644433
+          }
+        },
+        {
+          "name": "Mejirodai",
+          "station_id": "00000134",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.307715,
+            "lat": 35.643375
+          }
+        },
+        {
+          "name": "Hazama",
+          "station_id": "00001776",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.293312,
+            "lat": 35.640543
+          }
+        },
+        {
+          "name": "Takao (Tokyo)",
+          "station_id": "00002628",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.282795,
+            "lat": 35.642018
+          }
+        },
+        {
+          "name": "Takaosanguchi",
+          "station_id": "00002629",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.27,
+            "lat": 35.63251
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Kitano(Tokyo)",
+          "from_id": "00008408",
+          "to": "Keio-katakura",
+          "to_id": "00001712",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Keio-katakura",
+          "from_id": "00001712",
+          "to": "Yamada(Tokyo)",
+          "to_id": "00003129",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yamada(Tokyo)",
+          "from_id": "00003129",
+          "to": "Mejirodai",
+          "to_id": "00000134",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Mejirodai",
+          "from_id": "00000134",
+          "to": "Hazama",
+          "to_id": "00001776",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hazama",
+          "from_id": "00001776",
+          "to": "Takao (Tokyo)",
+          "to_id": "00002628",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Takao (Tokyo)",
+          "from_id": "00002628",
+          "to": "Takaosanguchi",
+          "to_id": "00002629",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Liner": {
+      "line": "Keio Takao",
+      "train_type": "Liner",
+      "total_stops": 4,
+      "stops": [
+        {
+          "name": "Kitano(Tokyo)",
+          "station_id": "00008408",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.354489,
+            "lat": 35.644411
+          }
+        },
+        {
+          "name": "Mejirodai",
+          "station_id": "00000134",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.307715,
+            "lat": 35.643375
+          }
+        },
+        {
+          "name": "Takao (Tokyo)",
+          "station_id": "00002628",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.282795,
+            "lat": 35.642018
+          }
+        },
+        {
+          "name": "Takaosanguchi",
+          "station_id": "00002629",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.27,
+            "lat": 35.63251
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Kitano(Tokyo)",
+          "from_id": "00008408",
+          "to": "Mejirodai",
+          "to_id": "00000134",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Mejirodai",
+          "from_id": "00000134",
+          "to": "Takao (Tokyo)",
+          "to_id": "00002628",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Takao (Tokyo)",
+          "from_id": "00002628",
+          "to": "Takaosanguchi",
+          "to_id": "00002629",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:53:17.433Z"
+}

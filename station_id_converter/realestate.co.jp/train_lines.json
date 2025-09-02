@@ -1,0 +1,449 @@
+{
+	"data": {
+		"trainLines": {
+			"trainLines": [
+				{
+					"id": "1008",
+					"name": "Akita Shinkansen",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "1009",
+					"name": "Hokuriku Shinkansen",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "99340",
+					"name": "Hokusō Railway Hokusō Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "1005",
+					"name": "Joetsu Shinkansen",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11312",
+					"name": "JR Chūō Line (Rapid)",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11311",
+					"name": "JR Chūō Line (Tōkyō-Shiojiri)",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11313",
+					"name": "JR Chūō-Sōbu Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11317",
+					"name": "JR Hachikō Line (Hachiōji-Komagawa)",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11316",
+					"name": "JR Itsukaichi Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11320",
+					"name": "JR Jōban Line (Ueno-Toride)",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11332",
+					"name": "JR Keihin-Tōhoku Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11326",
+					"name": "JR Keiyō Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11305",
+					"name": "JR Musashino Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11303",
+					"name": "JR Nambu Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11328",
+					"name": "JR Narita Express",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11315",
+					"name": "JR Ōme Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11321",
+					"name": "JR Saikyō Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11333",
+					"name": "JR Shōnan-Shinjuku Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11314",
+					"name": "JR Sōbu Main Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11323",
+					"name": "JR Takasaki Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11301",
+					"name": "JR Tōkaidō Line (Tokyo-Atami)",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11302",
+					"name": "JR Yamanote Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11306",
+					"name": "JR Yokohama Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11308",
+					"name": "JR Yokosuka Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "27002",
+					"name": "Keikyū Airport Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "27001",
+					"name": "Keikyū Main Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "24005",
+					"name": "Keiō Dōbutsuen Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "24006",
+					"name": "Keiō Inokashira Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "24004",
+					"name": "Keiō Keibajō Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "24001",
+					"name": "Keiō Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "24007",
+					"name": "Keiō New Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "24002",
+					"name": "Keiō Sagamihara Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "24003",
+					"name": "Keiō Takao Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "23003",
+					"name": "Keisei Kanamachi Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "23001",
+					"name": "Keisei Main Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "23002",
+					"name": "Keisei Oshiage Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "23006",
+					"name": "Narita Sky Access",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "99342",
+					"name": "Nippori-Toneri Liner",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "25001",
+					"name": "Odakyū Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "25003",
+					"name": "Odakyū Tama Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "99337",
+					"name": "Rinkai Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "99307",
+					"name": "Saitama Rapid Railway Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "22008",
+					"name": "Seibu Haijima Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "22001",
+					"name": "Seibu Ikebukuro Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "22010",
+					"name": "Seibu Kokubunji Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "22009",
+					"name": "Seibu Seibu-en Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "22007",
+					"name": "Seibu Shinjuku Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "22012",
+					"name": "Seibu Tamagawa Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "22011",
+					"name": "Seibu Tamako Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "22004",
+					"name": "Seibu Toshima Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "22006",
+					"name": "Seibu Yamaguchi Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "22003",
+					"name": "Seibu Yurakucho Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "29003",
+					"name": "Sotetsu・JR chokutsu line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "99334",
+					"name": "Tama Monorail",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "21006",
+					"name": "Tōbu Daishi Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "21002",
+					"name": "Tōbu Isesaki Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "21005",
+					"name": "Tōbu Kameido Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "21001",
+					"name": "Tōbu Tōjō Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "99305",
+					"name": "Toden Arakawa Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "99302",
+					"name": "Toei Asakusa Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "99303",
+					"name": "Toei Mita Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "99301",
+					"name": "Toei Ōedo Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "99304",
+					"name": "Toei Shinjuku Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "1004",
+					"name": "Tohoku Shinkansen",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "1002",
+					"name": "Tokaido Shinkansen",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "28005",
+					"name": "Tokyo Metro Chiyoda Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "28010",
+					"name": "Tokyo Metro Fukutoshin Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "28001",
+					"name": "Tokyo Metro Ginza Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "28008",
+					"name": "Tokyo Metro Hanzōmon",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "28003",
+					"name": "Tokyo Metro Hibiya Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "28002",
+					"name": "Tokyo Metro Marunouchi",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "28009",
+					"name": "Tokyo Metro Namboku Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "28004",
+					"name": "Tokyo Metro Tōzai Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "28006",
+					"name": "Tokyo Metro Yūrakuchō Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "28007",
+					"name": "Tokyo Metro Yūrakuchō New Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "99336",
+					"name": "Tokyo Monorail",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "26003",
+					"name": "Tōkyū Den-en-toshi Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "26005",
+					"name": "Tōkyū Ikegami Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "26002",
+					"name": "Tōkyū Meguro Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "26004",
+					"name": "Tōkyū Ōimachi",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "26007",
+					"name": "Tōkyū Setagaya Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "26006",
+					"name": "Tōkyū Tamagawa Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "26001",
+					"name": "Tōkyū Tōyoko Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "99309",
+					"name": "Tsukuba Express",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11343",
+					"name": "Ueno-Tokyo Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "11319",
+					"name": "Utsunomiya Line",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "1007",
+					"name": "Yamagata Shinkansen",
+					"__typename": "TrainLine"
+				},
+				{
+					"id": "99311",
+					"name": "Yurikamome",
+					"__typename": "TrainLine"
+				}
+			],
+			"__typename": "TrainLineQuery"
+		}
+	}
+}

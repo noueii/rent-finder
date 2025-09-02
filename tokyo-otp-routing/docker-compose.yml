@@ -1,0 +1,23 @@
+services:
+  otp:
+    image: docker.io/opentripplanner/opentripplanner:2.5.0
+    container_name: tokyo-otp
+    ports:
+      - "8080:8080"  # OTP API
+      - "8081:8081"  # OTP Web UI
+    volumes:
+      - ./data:/var/opentripplanner
+      - ./otp-config.json:/var/opentripplanner/otp-config.json
+      - ./data/build-config.json:/var/opentripplanner/build-config.json
+      - ./data/router-config.json:/var/opentripplanner/routers/default/router-config.json
+      - ./data/graphs:/var/opentripplanner/graphs
+    command: --load --serve
+    environment:
+      - JAVA_OPTS=-Xmx3G
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "-q", "-O", "-", "http://localhost:8080/otp/actuators/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 300s

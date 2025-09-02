@@ -1,0 +1,518 @@
+{
+  "line": "Tokyo Metro Namboku",
+  "operator": "Tokyo Metro",
+  "navitime_id": "00000772",
+  "first_station_id": "00008684",
+  "stations": [
+    {
+      "name": "Meguro",
+      "japanese_name": "目黒",
+      "station_id": "00008684",
+      "order": 1,
+      "transfers": [
+        "JR Yamanote Line",
+        "Tokyu Meguro Line",
+        "Toei Mita Line"
+      ]
+    },
+    {
+      "name": "Shirokanedai",
+      "japanese_name": "白金台",
+      "station_id": "00009224",
+      "order": 2,
+      "transfers": [
+        "Toei Mita Line"
+      ]
+    },
+    {
+      "name": "Shirokane-takanawa",
+      "japanese_name": "白金高輪",
+      "station_id": "00009223",
+      "order": 3,
+      "transfers": [
+        "Toei Mita Line"
+      ]
+    },
+    {
+      "name": "Azabu-juban",
+      "japanese_name": "麻布十番",
+      "station_id": "00009225",
+      "order": 4,
+      "transfers": [
+        "Toeioedo Line(Loop)"
+      ]
+    },
+    {
+      "name": "Roppongi-itchome",
+      "japanese_name": "六本木一丁目",
+      "station_id": "00009227",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Tameike-sanno",
+      "japanese_name": "溜池山王",
+      "station_id": "00009002",
+      "order": 6,
+      "transfers": [
+        "Tokyo Metro Ginza Line"
+      ]
+    },
+    {
+      "name": "Nagatacho",
+      "japanese_name": "永田町",
+      "station_id": "00000665",
+      "order": 7,
+      "transfers": [
+        "Tokyo Metro Hanzomon Line",
+        "Tokyo Metro Yurakucho Line"
+      ]
+    },
+    {
+      "name": "Yotsuya",
+      "japanese_name": "四ツ谷",
+      "station_id": "00003176",
+      "order": 8,
+      "transfers": [
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "Tokyo Metro Marunouchi Line"
+      ]
+    },
+    {
+      "name": "Ichigaya",
+      "japanese_name": "市ヶ谷",
+      "station_id": "00003202",
+      "order": 9,
+      "transfers": [
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "Tokyo Metro Yurakucho Line",
+        "Toei Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Iidabashi",
+      "japanese_name": "飯田橋",
+      "station_id": "00007626",
+      "order": 10,
+      "transfers": [
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "Tokyo Metro Tozai Line",
+        "Tokyo Metro Yurakucho Line",
+        "Toeioedo Line(Loop)"
+      ]
+    },
+    {
+      "name": "Korakuen",
+      "japanese_name": "後楽園",
+      "station_id": "00002263",
+      "order": 11,
+      "transfers": [
+        "Tokyo Metro Marunouchi Line"
+      ]
+    },
+    {
+      "name": "Todai Mae",
+      "japanese_name": "東大前",
+      "station_id": "00006780",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Hon-komagome",
+      "japanese_name": "本駒込",
+      "station_id": "00008461",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Komagome",
+      "japanese_name": "駒込",
+      "station_id": "00001940",
+      "order": 14,
+      "transfers": [
+        "JR Yamanote Line"
+      ]
+    },
+    {
+      "name": "Nishigahara",
+      "japanese_name": "西ヶ原",
+      "station_id": "00004699",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Oji",
+      "japanese_name": "王子",
+      "station_id": "00000840",
+      "order": 16,
+      "transfers": [
+        "JR Keihintohoku Line"
+      ]
+    },
+    {
+      "name": "Oji-kamiya",
+      "japanese_name": "王子神谷",
+      "station_id": "00000843",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Shimo",
+      "japanese_name": "志茂",
+      "station_id": "00003274",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Akabane-iwabuchi",
+      "japanese_name": "赤羽岩淵",
+      "station_id": "00005070",
+      "order": 19,
+      "transfers": [
+        "Saitamakosoku Railway Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local Train"
+  ],
+  "example_trains": {
+    "Local Train": {
+      "trainId": "824c003a",
+      "trainName": "Tokyo Metro Namboku Line",
+      "destination": "Urawa-misono",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "11",
+      "type": "Local Train"
+    }
+  },
+  "train_stop_details": {
+    "Local Train": {
+      "line": "Tokyo Metro Namboku",
+      "train_type": "Local Train",
+      "total_stops": 19,
+      "stops": [
+        {
+          "name": "Meguro",
+          "station_id": "00008684",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.715627,
+            "lat": 35.63309
+          }
+        },
+        {
+          "name": "Shirokanedai",
+          "station_id": "00009224",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.726082,
+            "lat": 35.63789
+          }
+        },
+        {
+          "name": "Shirokane-takanawa",
+          "station_id": "00009223",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.734184,
+            "lat": 35.643076
+          }
+        },
+        {
+          "name": "Azabu-juban",
+          "station_id": "00009225",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.737083,
+            "lat": 35.654764
+          }
+        },
+        {
+          "name": "Roppongi-itchome",
+          "station_id": "00009227",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.739026,
+            "lat": 35.665179
+          }
+        },
+        {
+          "name": "Tameike-sanno",
+          "station_id": "00009002",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.741418,
+            "lat": 35.672825
+          }
+        },
+        {
+          "name": "Nagatacho",
+          "station_id": "00000665",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.739426,
+            "lat": 35.67843
+          }
+        },
+        {
+          "name": "Yotsuya",
+          "station_id": "00003176",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.729676,
+            "lat": 35.686122
+          }
+        },
+        {
+          "name": "Ichigaya",
+          "station_id": "00003202",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.736338,
+            "lat": 35.692857
+          }
+        },
+        {
+          "name": "Iidabashi",
+          "station_id": "00007626",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.743719,
+            "lat": 35.701604
+          }
+        },
+        {
+          "name": "Korakuen",
+          "station_id": "00002263",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.751849,
+            "lat": 35.708139
+          }
+        },
+        {
+          "name": "Todai Mae",
+          "station_id": "00006780",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.75806,
+            "lat": 35.717757
+          }
+        },
+        {
+          "name": "Hon-komagome",
+          "station_id": "00008461",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.753737,
+            "lat": 35.724539
+          }
+        },
+        {
+          "name": "Komagome",
+          "station_id": "00001940",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.74664,
+            "lat": 35.736316
+          }
+        },
+        {
+          "name": "Nishigahara",
+          "station_id": "00004699",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.742226,
+            "lat": 35.745976
+          }
+        },
+        {
+          "name": "Oji",
+          "station_id": "00000840",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.737398,
+            "lat": 35.75427
+          }
+        },
+        {
+          "name": "Oji-kamiya",
+          "station_id": "00000843",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.735725,
+            "lat": 35.765151
+          }
+        },
+        {
+          "name": "Shimo",
+          "station_id": "00003274",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.732408,
+            "lat": 35.778124
+          }
+        },
+        {
+          "name": "Akabane-iwabuchi",
+          "station_id": "00005070",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.722042,
+            "lat": 35.783449
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Meguro",
+          "from_id": "00008684",
+          "to": "Shirokanedai",
+          "to_id": "00009224",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shirokanedai",
+          "from_id": "00009224",
+          "to": "Shirokane-takanawa",
+          "to_id": "00009223",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shirokane-takanawa",
+          "from_id": "00009223",
+          "to": "Azabu-juban",
+          "to_id": "00009225",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Azabu-juban",
+          "from_id": "00009225",
+          "to": "Roppongi-itchome",
+          "to_id": "00009227",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Roppongi-itchome",
+          "from_id": "00009227",
+          "to": "Tameike-sanno",
+          "to_id": "00009002",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tameike-sanno",
+          "from_id": "00009002",
+          "to": "Nagatacho",
+          "to_id": "00000665",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nagatacho",
+          "from_id": "00000665",
+          "to": "Yotsuya",
+          "to_id": "00003176",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yotsuya",
+          "from_id": "00003176",
+          "to": "Ichigaya",
+          "to_id": "00003202",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ichigaya",
+          "from_id": "00003202",
+          "to": "Iidabashi",
+          "to_id": "00007626",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Iidabashi",
+          "from_id": "00007626",
+          "to": "Korakuen",
+          "to_id": "00002263",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Korakuen",
+          "from_id": "00002263",
+          "to": "Todai Mae",
+          "to_id": "00006780",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Todai Mae",
+          "from_id": "00006780",
+          "to": "Hon-komagome",
+          "to_id": "00008461",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hon-komagome",
+          "from_id": "00008461",
+          "to": "Komagome",
+          "to_id": "00001940",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Komagome",
+          "from_id": "00001940",
+          "to": "Nishigahara",
+          "to_id": "00004699",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nishigahara",
+          "from_id": "00004699",
+          "to": "Oji",
+          "to_id": "00000840",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Oji",
+          "from_id": "00000840",
+          "to": "Oji-kamiya",
+          "to_id": "00000843",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Oji-kamiya",
+          "from_id": "00000843",
+          "to": "Shimo",
+          "to_id": "00003274",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shimo",
+          "from_id": "00003274",
+          "to": "Akabane-iwabuchi",
+          "to_id": "00005070",
+          "travel_time_minutes": 2
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:55:02.349Z"
+}

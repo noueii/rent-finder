@@ -1,0 +1,1210 @@
+Unmatched Stations Debugging Report
+===================================
+Total Unmatched: 187
+
+
+Detailed Analysis:
+
+
+"" (appears 2 times)
+  Original forms:
+    - Station (Disneyland)
+  Possible matches in transit graph:
+    - Tokyo (東京) [tokyo]
+    - Shimbashi (新橋) [shimbashi]
+    - Shinagawa (品川) [shinagawa]
+
+"akasaka" (appears 1 times)
+  Original forms:
+    - Akasaka (Metro-Chiyoda line)
+  Possible matches in transit graph:
+    - Akabane (赤羽) [akabane]
+    - Akatsuka (赤塚) [akatsuka]
+    - Akasaka-mitsuke (赤坂見附) [akasaka-mitsuke]
+
+"arai" (appears 9 times)
+  Original forms:
+    - Arai (Nishi)
+    ... and 4 more
+  Possible matches in transit graph:
+    - Arakawaoki (荒川沖) [arakawaoki]
+    - Araiyakushi-mae (新井薬師前) [araiyakushi-mae]
+    - Nishiarai (西新井) [nishiarai]
+
+"asukayama" (appears 1 times)
+  Original forms:
+    - Asukayama (Toden-Arakawa line)
+  Possible matches in transit graph:
+    - Kayama (栢山) [kayama]
+
+"azuma" (appears 1 times)
+  Original forms:
+    - Azuma (Higashi)
+  Possible matches in transit graph:
+    - Honjo-Azumabashi (本所吾妻橋) [honjo-azumabashi]
+    - Higashi-azuma (東あずま) [higashi-azuma]
+
+"azumabashi" (appears 16 times)
+  Original forms:
+    - Azumabashi (Honjo)
+    ... and 11 more
+  Possible matches in transit graph:
+    - Mabashi (馬橋) [mabashi]
+    - Honjo-Azumabashi (本所吾妻橋) [honjo-azumabashi]
+
+"bakuroyokoyama" (appears 9 times)
+  Original forms:
+    - Bakuroyokoyama (Toei-Shinjuku line)
+    ... and 4 more
+  Possible matches in transit graph:
+    - Bakurocho (馬喰町) [bakurocho]
+    - Oyama (小山) [oyama]
+    - Bakuro-yokoyama (馬喰横山) [bakuro-yokoyama]
+
+"dai" (appears 4 times)
+  Original forms:
+    - Dai (Ishikawa)
+  Possible matches in transit graph:
+    - Yokodai (洋光台) [yokodai]
+    - Konandai (港南台) [konandai]
+    - Hongodai (本郷台) [hongodai]
+
+"daigaku" (appears 65 times)
+  Original forms:
+    - Daigaku (Komazawa)
+    - Daigaku (Toritsu)
+    - Daigaku (Gakugei)
+    ... and 60 more
+  Possible matches in transit graph:
+    - Daiba (台場) [daiba]
+    - Daitabashi (代田橋) [daitabashi]
+    - Daijingushita (大神宮下) [daijingushita]
+
+"daishimae" (appears 8 times)
+  Original forms:
+    - Daishimae (Tobu-Daishi line)
+    ... and 3 more
+  Possible matches in transit graph:
+    - Daiba (台場) [daiba]
+    - Daitabashi (代田橋) [daitabashi]
+    - Daijingushita (大神宮下) [daijingushita]
+
+"daita" (appears 5 times)
+  Original forms:
+    - Daita (Setagaya)
+  Possible matches in transit graph:
+    - Daiba (台場) [daiba]
+    - Shindaita (新代田) [shindaita]
+    - Daitabashi (代田橋) [daitabashi]
+
+"ebisu" (appears 7 times)
+  Original forms:
+    - Ebisu (Yamanote line)
+    - Ebisu (Metro-Hibiya line)
+    ... and 2 more
+  Possible matches in transit graph:
+    - Ebisu(Tokyo) (恵比寿(東京都)) [ebisu(tokyo)]
+    - Ebina(Odakyu-Sotetsu) (海老名(小田急・相鉄)) [ebina(odakyu-sotetsu)]
+
+"egota" (appears 6 times)
+  Original forms:
+    - Egota (Shin)
+    ... and 1 more
+  Possible matches in transit graph:
+    - Shin-egota (新江古田) [shin-egota]
+
+"eifuku" (appears 7 times)
+  Original forms:
+    - Eifuku (Nishi)
+    ... and 2 more
+  Possible matches in transit graph:
+    - Eifukucho (永福町) [eifukucho]
+    - Nishi-eifuku (西永福) [nishi-eifuku]
+
+"ekimae" (appears 2 times)
+  Original forms:
+    - Ekimae (Otsuka)
+  No similar stations found in transit graph
+
+"etchujima" (appears 1 times)
+  Original forms:
+    - Etchujima (Keiyo line)
+  Possible matches in transit graph:
+    - Etchūjima (越中島) [etchūjima]
+
+"fujimicho" (appears 19 times)
+  Original forms:
+    - Fujimicho (Nakano)
+    ... and 14 more
+  Possible matches in transit graph:
+    - Fujishiro (藤代) [fujishiro]
+    - Fujino (藤野) [fujino]
+    - Fujimi (富士見) [fujimi]
+
+"fushimi" (appears 1 times)
+  Original forms:
+    - Fushimi (Higashi)
+  Possible matches in transit graph:
+    - Fussa (福生) [fussa]
+    - Higashi-Fushimi (東伏見) [higashi-fushimi]
+
+"futo" (appears 13 times)
+  Original forms:
+    - Futo (Shibaura)
+    ... and 8 more
+  Possible matches in transit graph:
+    - Futamatashimmachi (二俣新町) [futamatashimmachi]
+    - Futaba (双葉) [futaba]
+    - Futamatao (二俣尾) [futamatao]
+
+"gakuen" (appears 17 times)
+  Original forms:
+    - Gakuen (Oizumi)
+    ... and 12 more
+  Possible matches in transit graph:
+    - Seijogakuen-mae (成城学園前) [seijogakuen-mae]
+    - Tamagawagakuen-mae (玉川学園前) [tamagawagakuen-mae]
+    - Oizumi-gakuen (大泉学園) [oizumi-gakuen]
+
+"gakushuinshita" (appears 3 times)
+  Original forms:
+    - Gakushuinshita (Toden-Arakawa line)
+  Possible matches in transit graph:
+    - Gakugei-daigaku (学芸大学) [gakugei-daigaku]
+
+"gochome" (appears 8 times)
+  Original forms:
+    - Gochome (Shinjuku)
+    ... and 3 more
+  Possible matches in transit graph:
+    - Ome (青梅) [ome]
+    - Nishi-shinjuku-gochome (西新宿五丁目) [nishi-shinjuku-gochome]
+
+"gyoemmae" (appears 2 times)
+  Original forms:
+    - Gyoemmae (Shinjuku)
+  Possible matches in transit graph:
+    - Gyoda (行田) [gyoda]
+    - Shinjuku-gyoemmae (新宿御苑前) [shinjuku-gyoemmae]
+    - Gyotoku (行徳) [gyotoku]
+
+"hachimanyama" (appears 5 times)
+  Original forms:
+    - Hachimanyama (Keio line)
+  Possible matches in transit graph:
+    - Hachiojiminamino (八王子みなみ野) [hachiojiminamino]
+    - Hachioji (八王子) [hachioji]
+    - Hachiman-yama (八幡山) [hachiman-yama]
+
+"hakusan" (appears 8 times)
+  Original forms:
+    - Hakusan (Toei-Mita line)
+    ... and 3 more
+  Possible matches in transit graph:
+    - Hakonegasaki (箱根ヶ崎) [hakonegasaki]
+    - Hakuraku (白楽) [hakuraku]
+    - Hakusan(Tokyo) (白山(東京都)) [hakusan(tokyo)]
+
+"hatchobori" (appears 9 times)
+  Original forms:
+    - Hatchobori (Keiyo line)
+    - Hatchobori (Metro-Hibiya line)
+    ... and 4 more
+  Possible matches in transit graph:
+    - Hatchobori(Tokyo) (八丁堀(東京都)) [hatchobori(tokyo)]
+    - Hatori (羽鳥) [hatori]
+    - Hatonosu (鳩ノ巣) [hatonosu]
+
+"heiwadai" (appears 6 times)
+  Original forms:
+    - Heiwadai (Metro-Yurakucho line)
+    - Heiwadai (Metro-Fukutoshin line)
+    ... and 1 more
+  Possible matches in transit graph:
+    - Heiwajima (平和島) [heiwajima]
+    - Heiwadai(Tokyo) (平和台(東京都)) [heiwadai(tokyo)]
+
+"hinode" (appears 2 times)
+  Original forms:
+    - Hinode (Yurikamome)
+  Possible matches in transit graph:
+    - Hinatawada (日向和田) [hinatawada]
+    - Hino(Tokyo) (日野(東京都)) [hino(tokyo)]
+    - Hinoharu (日野春) [hinoharu]
+
+"hirai" (appears 2 times)
+  Original forms:
+    - Hirai (Sobu line)
+  Possible matches in transit graph:
+    - Hirono(Fukushima) (広野(福島県)) [hirono(fukushima)]
+    - Hirai(Tokyo) (平井(東京都)) [hirai(tokyo)]
+    - Hiratsuka (平塚) [hiratsuka]
+
+"honancho" (appears 17 times)
+  Original forms:
+    - Honancho (Metro-Marunouchi line)
+    ... and 12 more
+  Possible matches in transit graph:
+    - Honjo (本庄) [honjo]
+    - Hongodai (本郷台) [hongodai]
+    - Hon-Kugenuma (本鵠沼) [hon-kugenuma]
+
+"igusa" (appears 18 times)
+  Original forms:
+    - Igusa (Shimo)
+    - Igusa (Kami)
+    ... and 13 more
+  Possible matches in transit graph:
+    - Shimo-Igusa (下井草) [shimo-igusa]
+    - Kami-Igusa (上井草) [kami-igusa]
+
+"ike" (appears 2 times)
+  Original forms:
+    - Ike (Senzoku)
+  Possible matches in transit graph:
+    - Ikebukuro (池袋) [ikebukuro]
+    - Ikenoue (池ノ上) [ikenoue]
+    - Funabashikeibajo (船橋競馬場) [funabashikeibajo]
+
+"inari" (appears 2 times)
+  Original forms:
+    - Inari (Anamori)
+  Possible matches in transit graph:
+    - Inagekaigan (稲毛海岸) [inagekaigan]
+    - Inage (稲毛) [inage]
+    - Inariyama-koen (稲荷山公園) [inariyama-koen]
+
+"iriya" (appears 23 times)
+  Original forms:
+    - Iriya (Metro-Hibiya line)
+    ... and 18 more
+  Possible matches in transit graph:
+    - Iriso (入曽) [iriso]
+    - Iriya(Tokyo) (入谷(東京都)) [iriya(tokyo)]
+
+"isle" (appears 34 times)
+  Original forms:
+    - Isle (Tennozu)
+    ... and 29 more
+  Possible matches in transit graph:
+    - Tennozu Isle(Tokyo Monorail) (天王洲アイル(モノレール)) [tennozu isle(tokyo monorail)]
+    - Tennozu Isle(Rinkai Line) (天王洲アイル(りんかい線)) [tennozu isle(rinkai line)]
+
+"itabashikuyakushomae" (appears 20 times)
+  Original forms:
+    - Itabashikuyakushomae (Toei-Mita line)
+    ... and 15 more
+  Possible matches in transit graph:
+    - Itabashi (板橋) [itabashi]
+    - Itabashi-kuyakushomae (板橋区役所前) [itabashi-kuyakushomae]
+    - Itabashihoncho (板橋本町) [itabashihoncho]
+
+"itchome" (appears 4 times)
+  Original forms:
+    - Itchome (Takinogawa)
+    - Itchome (Roppongi)
+    - Itchome (Aoyama)
+  Possible matches in transit graph:
+    - Ome (青梅) [ome]
+    - Aoyama-itchome (青山一丁目) [aoyama-itchome]
+    - Roppongi-itchome (六本木一丁目) [roppongi-itchome]
+
+"iwabuchi" (appears 14 times)
+  Original forms:
+    - Iwabuchi (Akabane)
+    ... and 9 more
+  Possible matches in transit graph:
+    - Iwama (岩間) [iwama]
+    - Iwaki (いわき) [iwaki]
+    - Iwakiota (磐城太田) [iwakiota]
+
+"jaya" (appears 21 times)
+  Original forms:
+    - Jaya (Sangen)
+    ... and 16 more
+  Possible matches in transit graph:
+    - Ohanajaya (お花茶屋) [ohanajaya]
+    - Sangen-jaya (三軒茶屋) [sangen-jaya]
+
+"jimbocho" (appears 1 times)
+  Original forms:
+    - Jimbocho (Toei-Shinjuku line)
+  Possible matches in transit graph:
+    - Jimbohara (神保原) [jimbohara]
+    - Jimbōchō (神保町) [jimbōchō]
+
+"jiyugaoka" (appears 4 times)
+  Original forms:
+    - Jiyugaoka (Tokyu-Toyoko line)
+    - Jiyugaoka (Tokyu-Oimachi line)
+  Possible matches in transit graph:
+    - Jiyugaoka(Tokyo) (自由が丘(東京都)) [jiyugaoka(tokyo)]
+
+"juban" (appears 6 times)
+  Original forms:
+    - Juban (Azabu)
+    ... and 1 more
+  Possible matches in transit graph:
+    - Azabu-juban (麻布十番) [azabu-juban]
+
+"jujo" (appears 20 times)
+  Original forms:
+    - Jujo (Higashi)
+    - Jujo (Saikyo line)
+    ... and 15 more
+  Possible matches in transit graph:
+    - Higashi-Jujo (東十条) [higashi-jujo]
+    - Jujo(Tokyo) (十条(東京都)) [jujo(tokyo)]
+
+"kamiya" (appears 7 times)
+  Original forms:
+    - Kamiya (Oji)
+    ... and 2 more
+  Possible matches in transit graph:
+    - Kamakura (鎌倉) [kamakura]
+    - Kamoi (鴨居) [kamoi]
+    - Kami-Nakazato (上中里) [kami-nakazato]
+
+"kanda" (appears 9 times)
+  Original forms:
+    - Kanda (Yamanote line)
+    - Kanda (Tohoku/Negishi line)
+    ... and 4 more
+  Possible matches in transit graph:
+    - Kanda(Tokyo) (神田(東京都)) [kanda(tokyo)]
+    - Kannai (関内) [kannai]
+    - Kanamachi (金町(東京都)) [kanamachi]
+
+"karasuyama" (appears 14 times)
+  Original forms:
+    - Karasuyama (Chitose)
+    ... and 9 more
+  Possible matches in transit graph:
+    - Chitose-karasuyama (千歳烏山) [chitose-karasuyama]
+    - Karakida (唐木田) [karakida]
+
+"kasei" (appears 11 times)
+  Original forms:
+    - Kasei (Toritsu)
+    ... and 6 more
+  Possible matches in transit graph:
+    - Kasairinkaikoen (葛西臨海公園) [kasairinkaikoen]
+    - Kashiwa (柏) [kashiwa]
+    - Kashima (鹿島) [kashima]
+
+"kasuga" (appears 2 times)
+  Original forms:
+    - Kasuga (Toei-Mita line)
+    - Kasuga (Toei-Oedo line)
+  Possible matches in transit graph:
+    - Kasairinkaikoen (葛西臨海公園) [kasairinkaikoen]
+    - Kashiwa (柏) [kashiwa]
+    - Kashima (鹿島) [kashima]
+
+"kasugacho" (appears 5 times)
+  Original forms:
+    - Kasugacho (Nerima)
+  Possible matches in transit graph:
+    - Kasairinkaikoen (葛西臨海公園) [kasairinkaikoen]
+    - Kashiwa (柏) [kashiwa]
+    - Kashima (鹿島) [kashima]
+
+"kawada" (appears 10 times)
+  Original forms:
+    - Kawada (Wakamatsu)
+    ... and 5 more
+  Possible matches in transit graph:
+    - Kawaguchi (川口) [kawaguchi]
+    - Kawasaki (川崎) [kawasaki]
+    - Kawai (川井) [kawai]
+
+"kayabacho" (appears 3 times)
+  Original forms:
+    - Kayabacho (Metro-Hibiya line)
+    - Kayabacho (Metro-Tozai line)
+  Possible matches in transit graph:
+    - Kayama (栢山) [kayama]
+    - Kayabachō (茅場町) [kayabachō]
+
+"kishibojimmae" (appears 1 times)
+  Original forms:
+    - Kishibojimmae (Toden-Arakawa line)
+  Possible matches in transit graph:
+    - Oji (王子) [oji]
+    - Kishine-koen (岸根公園) [kishine-koen]
+
+"kitashinagawa" (appears 3 times)
+  Original forms:
+    - Kitashinagawa (Keikyu-Main line)
+  Possible matches in transit graph:
+    - Shinagawa (品川) [shinagawa]
+    - Kita-Kamakura (北鎌倉) [kita-kamakura]
+    - Kita-Urawa (北浦和) [kita-urawa]
+
+"kitazawa" (appears 13 times)
+  Original forms:
+    - Kitazawa (Shimo)
+    - Kitazawa (Kami)
+    ... and 8 more
+  Possible matches in transit graph:
+    - Kita-Kamakura (北鎌倉) [kita-kamakura]
+    - Kita-Urawa (北浦和) [kita-urawa]
+    - Kita-Ageo (北上尾) [kita-ageo]
+
+"kodemmacho" (appears 4 times)
+  Original forms:
+    - Kodemmacho (Metro-Hibiya line)
+  Possible matches in transit graph:
+    - Kodaira (小平) [kodaira]
+    - Kodemmachō (小伝馬町) [kodemmachō]
+
+"koen" (appears 39 times)
+  Original forms:
+    - Koen (Roka)
+    - Koen (Toneri)
+    - Koen (Shakujii)
+    - Koen (Togoshi)
+    - Koen (Yoyogi)
+    ... and 34 more
+  Possible matches in transit graph:
+    - Kasairinkaikoen (葛西臨海公園) [kasairinkaikoen]
+    - Toda-Koen (戸田公園) [toda-koen]
+    - Koenji (高円寺) [koenji]
+
+"kohoku" (appears 3 times)
+  Original forms:
+    - Kohoku (Liner)
+  Possible matches in transit graph:
+    - Oku (尾久) [oku]
+    - Kohoku (Tokyo) (江北(東京都)) [kohoku (tokyo)]
+
+"kojiya" (appears 12 times)
+  Original forms:
+    - Kojiya (Keikyu-Airport line)
+    ... and 7 more
+  Possible matches in transit graph:
+    - Oji (王子) [oji]
+    - Kojimachi (麹町) [kojimachi]
+
+"koya" (appears 4 times)
+  Original forms:
+    - Koya (Liner)
+  Possible matches in transit graph:
+    - Shin-Koyasu (新子安) [shin-koyasu]
+    - Keikyu-Shinkoyasu (京急新子安) [keikyu-shinkoyasu]
+    - Koyasu (子安) [koyasu]
+
+"koyama" (appears 4 times)
+  Original forms:
+    - Koyama (Musashi)
+    - Koyama (Nishi)
+  Possible matches in transit graph:
+    - Oyama (小山) [oyama]
+    - Koyasu (子安) [koyasu]
+    - Musashi-koyama (武蔵小山) [musashi-koyama]
+
+"kumanomae" (appears 1 times)
+  Original forms:
+    - Kumanomae (Liner)
+  Possible matches in transit graph:
+    - Kumagawa (熊川) [kumagawa]
+    - Kumagaya (熊谷) [kumagaya]
+    - Kumegawa (久米川) [kumegawa]
+
+"machi" (appears 4 times)
+  Original forms:
+    - Machi (Ebara)
+  Possible matches in transit graph:
+    - Machida (町田) [machida]
+    - Okachimachi (御徒町) [okachimachi]
+    - Tamachi(Tokyo) (田町(東京都)) [tamachi(tokyo)]
+
+"machiya" (appears 18 times)
+  Original forms:
+    - Machiya (Keisei)
+    - Machiya (Metro-Chiyoda line)
+    ... and 13 more
+  Possible matches in transit graph:
+    - Machida (町田) [machida]
+    - Machiya(Keisei Line) (町屋〔京成線〕) [machiya(keisei line)]
+    - Machiya(Chiyoda Line) (町屋〔千代田線〕) [machiya(chiyoda line)]
+
+"mae" (appears 37 times)
+  Original forms:
+    - Mae (Seijogakuen)
+    - Mae (Keibajo)
+    - Mae (Araiyakushi)
+    - Mae (Fudo)
+    ... and 32 more
+  Possible matches in transit graph:
+    - Ishigami-mae (石神前) [ishigami-mae]
+    - Shijo-mae (市場前) [shijo-mae]
+    - Komaba-todaimae (駒場東大前) [komaba-todaimae]
+
+"matsubara" (appears 2 times)
+  Original forms:
+    - Matsubara (Tokyu-Setagaya line)
+    - Matsubara (Higashi)
+  Possible matches in transit graph:
+    - Matsudo (松戸) [matsudo]
+    - Matoba (的場) [matoba]
+    - Matsuo(Chiba) (松尾(千葉県)) [matsuo(chiba)]
+
+"meidaimae" (appears 2 times)
+  Original forms:
+    - Meidaimae (Keio line)
+  Possible matches in transit graph:
+    - Meidai-mae (明大前) [meidai-mae]
+    - Meiji-jingumae (明治神宮前) [meiji-jingumae]
+
+"midorigaoka" (appears 1 times)
+  Original forms:
+    - Midorigaoka (Tokyu-Oimachi line)
+  Possible matches in transit graph:
+    - Midoriko (みどり湖) [midoriko]
+    - Midorigaoka(Tokyo) (緑が丘(東京都)) [midorigaoka(tokyo)]
+    - Midorino (みどりの) [midorino]
+
+"minatocho" (appears 6 times)
+  Original forms:
+    - Minatocho (Keikyu-Daishi line)
+    ... and 1 more
+  Possible matches in transit graph:
+    - Minami-Urawa (南浦和) [minami-urawa]
+    - Minami-Funabashi (南船橋) [minami-funabashi]
+    - Minami-Yono (南与野) [minami-yono]
+
+"minowabashi" (appears 8 times)
+  Original forms:
+    - Minowabashi (Toden-Arakawa line)
+    ... and 3 more
+  Possible matches in transit graph:
+    - Minami-Urawa (南浦和) [minami-urawa]
+    - Minami-Funabashi (南船橋) [minami-funabashi]
+    - Minami-Yono (南与野) [minami-yono]
+
+"miyanomae" (appears 1 times)
+  Original forms:
+    - Miyanomae (Toden-Arakawa line)
+  Possible matches in transit graph:
+    - Miyahara (宮原) [miyahara]
+    - Miyanohira (宮ノ平) [miyanohira]
+    - Miyanosaka (宮の坂) [miyanosaka]
+
+"morishita" (appears 40 times)
+  Original forms:
+    - Morishita (Toei-Oedo line)
+    - Morishita (Toei-Shinjuku line)
+    ... and 35 more
+  Possible matches in transit graph:
+    - Morishita (Tokyo) (森下(東京都)) [morishita (tokyo)]
+    - Morinji-mae (茂林寺前) [morinji-mae]
+    - Moriya (守谷) [moriya]
+
+"mukaihara" (appears 5 times)
+  Original forms:
+    - Mukaihara (Kotake)
+  Possible matches in transit graph:
+    - Aihara (相原) [aihara]
+    - Mukogaoka-yuen (向ヶ丘遊園) [mukogaoka-yuen]
+    - Kotake-mukaihara (小竹向原) [kotake-mukaihara]
+
+"mukohara" (appears 1 times)
+  Original forms:
+    - Mukohara (Toden-Arakawa line)
+  Possible matches in transit graph:
+    - Mukogaoka-yuen (向ヶ丘遊園) [mukogaoka-yuen]
+
+"mukojima" (appears 21 times)
+  Original forms:
+    - Mukojima (Higashi)
+    ... and 16 more
+  Possible matches in transit graph:
+    - Oji (王子) [oji]
+    - Mukogaoka-yuen (向ヶ丘遊園) [mukogaoka-yuen]
+    - Ojima (大島(東京都)) [ojima]
+
+"nagahara" (appears 3 times)
+  Original forms:
+    - Nagahara (Tokyu-Ikegami line)
+  Possible matches in transit graph:
+    - Nagatsuta (長津田) [nagatsuta]
+    - Nagasaka (長坂) [nagasaka]
+    - Naganuma(Tokyo) (長沼(東京都)) [naganuma(tokyo)]
+
+"nagasaki" (appears 51 times)
+  Original forms:
+    - Nagasaki (Minami)
+    - Nagasaki (Higashi)
+    ... and 46 more
+  Possible matches in transit graph:
+    - Nagatsuta (長津田) [nagatsuta]
+    - Nagasaka (長坂) [nagasaka]
+    - Naganuma(Tokyo) (長沼(東京都)) [naganuma(tokyo)]
+
+"nakacho" (appears 98 times)
+  Original forms:
+    - Nakacho (Monzen)
+    ... and 93 more
+  Possible matches in transit graph:
+    - Nakayama(Kanagawa) (中山(神奈川県)) [nakayama(kanagawa)]
+    - Naka-Urawa (中浦和) [naka-urawa]
+    - Nakoso (勿来) [nakoso]
+
+"nakano" (appears 31 times)
+  Original forms:
+    - Nakano (Chuo line)
+    - Nakano (Sobu line)
+    - Nakano (Shin)
+    - Nakano (Higashi)
+    - Nakano (Metro-Tozai line)
+    ... and 26 more
+  Possible matches in transit graph:
+    - Nakayama(Kanagawa) (中山(神奈川県)) [nakayama(kanagawa)]
+    - Naka-Urawa (中浦和) [naka-urawa]
+    - Nakoso (勿来) [nakoso]
+
+"nakazato" (appears 4 times)
+  Original forms:
+    - Nakazato (Kami)
+  Possible matches in transit graph:
+    - Nakayama(Kanagawa) (中山(神奈川県)) [nakayama(kanagawa)]
+    - Kami-Nakazato (上中里) [kami-nakazato]
+    - Naka-Urawa (中浦和) [naka-urawa]
+
+"nishi" (appears 7 times)
+  Original forms:
+    - Nishi (Nishiaraidaishi)
+    ... and 2 more
+  Possible matches in transit graph:
+    - Nishi-Oi (西大井) [nishi-oi]
+    - Nishi-Kawaguchi (西川口) [nishi-kawaguchi]
+    - Nishi-nippori (西日暮里) [nishi-nippori]
+
+"nishiguchi" (appears 1 times)
+  Original forms:
+    - Nishiguchi (Shinjuku)
+  Possible matches in transit graph:
+    - Nishi-Oi (西大井) [nishi-oi]
+    - Nishi-Kawaguchi (西川口) [nishi-kawaguchi]
+    - Nishi-nippori (西日暮里) [nishi-nippori]
+
+"nitta" (appears 8 times)
+  Original forms:
+    - Nitta (Musashi)
+    ... and 3 more
+  Possible matches in transit graph:
+    - Nittaki (日立木) [nittaki]
+    - Musashi-nitta (武蔵新田) [musashi-nitta]
+
+"o" (appears 5 times)
+  Original forms:
+    - o (Hiro)
+  Possible matches in transit graph:
+    - Tokyo (東京) [tokyo]
+    - Nishi-Oi (西大井) [nishi-oi]
+    - Musashi-Kosugi (武蔵小杉) [musashi-kosugi]
+
+"ochiai" (appears 17 times)
+  Original forms:
+    - Ochiai (Metro-Tozai line)
+    - Ochiai (Shimo)
+    ... and 12 more
+  Possible matches in transit graph:
+    - Ochanomizu (御茶ノ水) [ochanomizu]
+    - Shimo-Ochiai (Tokyo) (下落合(東京都)) [shimo-ochiai (tokyo)]
+    - Ochiai(Tokyo) (落合(東京都)) [ochiai(tokyo)]
+
+"odai" (appears 10 times)
+  Original forms:
+    - Odai (Toden-Arakawa line)
+    - Odai (Adachi)
+    ... and 5 more
+  Possible matches in transit graph:
+    - Yokodai (洋光台) [yokodai]
+    - Hongodai (本郷台) [hongodai]
+    - Tennodai (天王台) [tennodai]
+
+"ogawamachi" (appears 2 times)
+  Original forms:
+    - Ogawamachi (Toei-Shinjuku line)
+  Possible matches in transit graph:
+    - Ogawa(Tokyo) (小川(東京都)) [ogawa(tokyo)]
+    - Ogawamachi(Tokyo) (小川町(東京都)) [ogawamachi(tokyo)]
+    - Ogawamachi(Saitama) (小川町(埼玉県)) [ogawamachi(saitama)]
+
+"ohashi" (appears 18 times)
+  Original forms:
+    - Ohashi (Ogi)
+    - Ohashi (Ikejiri)
+    ... and 13 more
+  Possible matches in transit graph:
+    - Ohanajaya (お花茶屋) [ohanajaya]
+    - Ikejiri-ohashi (池尻大橋) [ikejiri-ohashi]
+    - Ogi-ohashi (扇大橋) [ogi-ohashi]
+
+"oi" (appears 14 times)
+  Original forms:
+    - Oi (Nishi)
+    ... and 9 more
+  Possible matches in transit graph:
+    - Nishi-Oi (西大井) [nishi-oi]
+    - Kamoi (鴨居) [kamoi]
+    - Oimachi (大井町) [oimachi]
+
+"okubo" (appears 17 times)
+  Original forms:
+    - Okubo (Shin)
+    - Okubo (Sobu line)
+    ... and 12 more
+  Possible matches in transit graph:
+    - Shin-Okubo (新大久保) [shin-okubo]
+    - Okuma (逢隈) [okuma]
+    - Okutama (奥多摩) [okutama]
+
+"okura" (appears 10 times)
+  Original forms:
+    - Okura (Soshigaya)
+    ... and 5 more
+  Possible matches in transit graph:
+    - Okuma (逢隈) [okuma]
+    - Okutama (奥多摩) [okutama]
+    - Okubo (Tokyo) (大久保(東京都)) [okubo (tokyo)]
+
+"omokagebashi" (appears 3 times)
+  Original forms:
+    - Omokagebashi (Toden-Arakawa line)
+  Possible matches in transit graph:
+    - Omori(Tokyo) (大森(東京都)) [omori(tokyo)]
+    - Omorikaigan (大森海岸) [omorikaigan]
+    - Omorimachi (大森町) [omorimachi]
+
+"omori" (appears 14 times)
+  Original forms:
+    - Omori (Tohoku/Negishi line)
+    ... and 9 more
+  Possible matches in transit graph:
+    - Omori(Tokyo) (大森(東京都)) [omori(tokyo)]
+    - Yonomori (夜ノ森) [yonomori]
+    - Kozunomori (公津の杜) [kozunomori]
+
+"oshiage" (appears 17 times)
+  Original forms:
+    - Oshiage (Metro-Hanzomon line)
+    - Oshiage (Toei-Asakusa line)
+    - Oshiage (Tobu-Isesaki line)
+    ... and 12 more
+  Possible matches in transit graph:
+    - Oshiage(SKYTREE) (押上[スカイツリー前]) [oshiage(skytree)]
+
+"otemachi" (appears 3 times)
+  Original forms:
+    - Otemachi (Metro-Marunouchi line)
+  No similar stations found in transit graph
+
+"otorii" (appears 4 times)
+  Original forms:
+    - Otorii (Keikyu-Airport line)
+  No similar stations found in transit graph
+
+"park" (appears 1 times)
+  Original forms:
+    - Park (Rinkai)
+  Possible matches in transit graph:
+    - Minami-machida-grandberry-park (南町田グランベリーパーク) [minami-machida-grandberry-park]
+    - Nagareyama-centralpark (流山セントラルパーク) [nagareyama-centralpark]
+
+"ryogoku" (appears 67 times)
+  Original forms:
+    - Ryogoku (Toei-Oedo line)
+    - Ryogoku (Sobu line)
+    ... and 62 more
+  Possible matches in transit graph:
+    - Oku (尾久) [oku]
+
+"sakaue" (appears 19 times)
+  Original forms:
+    - Sakaue (Shimura)
+    - Sakaue (Nakano)
+    ... and 14 more
+  Possible matches in transit graph:
+    - Sakuragicho (桜木町) [sakuragicho]
+    - Sakamoto (坂元) [sakamoto]
+    - Sakura (佐倉) [sakura]
+
+"sakuradai" (appears 18 times)
+  Original forms:
+    - Sakuradai (Seibu-Ikebukuro line)
+    - Sakuradai (Shin)
+    ... and 13 more
+  Possible matches in transit graph:
+    - Sakuragicho (桜木町) [sakuragicho]
+    - Sakamoto (坂元) [sakamoto]
+    - Sakura (佐倉) [sakura]
+
+"sanchome" (appears 27 times)
+  Original forms:
+    - Sanchome (Yotsuya)
+    - Sanchome (Shimura)
+    - Sanchome (Hongo)
+    - Sanchome (Shinjuku)
+    - Sanchome (Ogu)
+    ... and 22 more
+  Possible matches in transit graph:
+    - Ome (青梅) [ome]
+    - Sangubashi (参宮橋) [sangubashi]
+    - Hongo-sanchome (本郷三丁目) [hongo-sanchome]
+
+"sando" (appears 2 times)
+  Original forms:
+    - Sando (Kita)
+  Possible matches in transit graph:
+    - Sogosando (宗吾参道) [sogosando]
+    - Sangubashi (参宮橋) [sangubashi]
+    - Omote-sando (表参道) [omote-sando]
+
+"seaside" (appears 6 times)
+  Original forms:
+    - Seaside (Shinagawa)
+    ... and 1 more
+  Possible matches in transit graph:
+    - Shinagawa Seaside (品川シーサイド) [shinagawa seaside]
+
+"seki" (appears 6 times)
+  Original forms:
+    - Seki (Musashi)
+    ... and 1 more
+  Possible matches in transit graph:
+    - Seiseki-sakuragaoka (聖蹟桜ヶ丘) [seiseki-sakuragaoka]
+    - Keisei-Sekiya (京成関屋) [keisei-sekiya]
+    - Musashi-Seki (武蔵関) [musashi-seki]
+
+"sekiya" (appears 1 times)
+  Original forms:
+    - Sekiya (Keisei)
+  Possible matches in transit graph:
+    - Keisei-Sekiya (京成関屋) [keisei-sekiya]
+
+"senju" (appears 29 times)
+  Original forms:
+    - Senju (Minami)
+    - Senju (Kita)
+    ... and 24 more
+  Possible matches in transit graph:
+    - Minami-senju(Joban Line) (南千住(常磐線)) [minami-senju(joban line)]
+    - Kita-senju (北千住) [kita-senju]
+    - Sendagaya (千駄ヶ谷) [sendagaya]
+
+"senjuohashi" (appears 3 times)
+  Original forms:
+    - Senjuohashi (Keisei-Main line)
+  Possible matches in transit graph:
+    - Juo (十王) [juo]
+    - Sendagaya (千駄ヶ谷) [sendagaya]
+    - Sengawa (仙川) [sengawa]
+
+"shakujii" (appears 14 times)
+  Original forms:
+    - Shakujii (Kami)
+    ... and 9 more
+  Possible matches in transit graph:
+    - Kami-Shakujii (上石神井) [kami-shakujii]
+    - Shakujii-koen (石神井公園) [shakujii-koen]
+
+"shibamata" (appears 16 times)
+  Original forms:
+    - Shibamata (Shin)
+    - Shibamata (Keisei-Kanamachi line)
+    ... and 11 more
+  Possible matches in transit graph:
+    - Shimbashi (新橋) [shimbashi]
+    - Shinagawa (品川) [shinagawa]
+    - Shin-Kawasaki (新川崎) [shin-kawasaki]
+
+"shimmachi" (appears 8 times)
+  Original forms:
+    - Shimmachi (Sakura)
+    ... and 3 more
+  Possible matches in transit graph:
+    - Shimbashi (新橋) [shimbashi]
+    - Shinagawa (品川) [shinagawa]
+    - Shin-Kawasaki (新川崎) [shin-kawasaki]
+
+"shimmei" (appears 3 times)
+  Original forms:
+    - Shimmei (Shimo)
+  Possible matches in transit graph:
+    - Shimbashi (新橋) [shimbashi]
+    - Shinagawa (品川) [shinagawa]
+    - Shin-Kawasaki (新川崎) [shin-kawasaki]
+
+"shinonome" (appears 3 times)
+  Original forms:
+    - Shinonome (Rinkai line)
+  Possible matches in transit graph:
+    - Shimbashi (新橋) [shimbashi]
+    - Shinagawa (品川) [shinagawa]
+    - Shin-Kawasaki (新川崎) [shin-kawasaki]
+
+"shinsuikoen" (appears 11 times)
+  Original forms:
+    - Shinsuikoen (Minumadai)
+    ... and 6 more
+  Possible matches in transit graph:
+    - Shimbashi (新橋) [shimbashi]
+    - Shinagawa (品川) [shinagawa]
+    - Shin-Kawasaki (新川崎) [shin-kawasaki]
+
+"shintomicho" (appears 3 times)
+  Original forms:
+    - Shintomicho (Metro-Yurakucho line)
+  Possible matches in transit graph:
+    - Shimbashi (新橋) [shimbashi]
+    - Shinagawa (品川) [shinagawa]
+    - Shin-Kawasaki (新川崎) [shin-kawasaki]
+
+"shirakawa" (appears 20 times)
+  Original forms:
+    - Shirakawa (Kiyosumi)
+    ... and 15 more
+  Possible matches in transit graph:
+    - Shimbashi (新橋) [shimbashi]
+    - Shinagawa (品川) [shinagawa]
+    - Shin-Kawasaki (新川崎) [shin-kawasaki]
+
+"shogakkomae" (appears 2 times)
+  Original forms:
+    - Shogakkomae (Akado)
+  Possible matches in transit graph:
+    - Shonandai (湘南台) [shonandai]
+    - Komae (狛江) [komae]
+    - Showajima (昭和島) [showajima]
+
+"skytree" (appears 4 times)
+  Original forms:
+    - Skytree (Tokyo)
+  Possible matches in transit graph:
+    - Oshiage(SKYTREE) (押上[スカイツリー前]) [oshiage(skytree)]
+    - Tokyo Skytree[Narihirabashi] (とうきょうスカイツリー[業平橋]) [tokyo skytree[narihirabashi]]
+
+"suehirocho" (appears 4 times)
+  Original forms:
+    - Suehirocho (Metro-Ginza line)
+  Possible matches in transit graph:
+    - Suetsugi (末続) [suetsugi]
+    - Suehirocho(Tokyo) (末広町(東京都)) [suehirocho(tokyo)]
+
+"sugamoshinden" (appears 3 times)
+  Original forms:
+    - Sugamoshinden (Toden-Arakawa line)
+  Possible matches in transit graph:
+    - Sugamo (巣鴨) [sugamo]
+    - Sugano (菅野) [sugano]
+    - Sugita(Kanagawa) (杉田(神奈川県)) [sugita(kanagawa)]
+
+"suijin" (appears 34 times)
+  Original forms:
+    - Suijin (Kameido)
+    ... and 29 more
+  Possible matches in transit graph:
+    - Suidobashi (水道橋) [suidobashi]
+    - Suitengu-mae (水天宮前) [suitengu-mae]
+    - Kameidosuijin (亀戸水神) [kameidosuijin]
+
+"suitengumae" (appears 65 times)
+  Original forms:
+    - Suitengumae (Metro-Hanzomon line)
+    ... and 60 more
+  Possible matches in transit graph:
+    - Suidobashi (水道橋) [suidobashi]
+    - Suitengu-mae (水天宮前) [suitengu-mae]
+
+"sumiyoshi" (appears 20 times)
+  Original forms:
+    - Sumiyoshi (Toei-Shinjuku line)
+    - Sumiyoshi (Metro-Hanzomon line)
+    ... and 15 more
+  Possible matches in transit graph:
+    - Sumiyoshi(Tokyo) (住吉(東京都)) [sumiyoshi(tokyo)]
+    - Motosumiyoshi (元住吉) [motosumiyoshi]
+
+"sunamachi" (appears 11 times)
+  Original forms:
+    - Sunamachi (Minami)
+    ... and 6 more
+  Possible matches in transit graph:
+    - Sunagawa-Nanaban (砂川七番) [sunagawa-nanaban]
+    - Minami-sunamachi (南砂町) [minami-sunamachi]
+
+"taishido" (appears 1 times)
+  Original forms:
+    - Taishido (Nishi)
+  Possible matches in transit graph:
+    - Nishi-taishido (西太子堂) [nishi-taishido]
+
+"takanawa" (appears 11 times)
+  Original forms:
+    - Takanawa (Shirokane)
+    ... and 6 more
+  Possible matches in transit graph:
+    - Takanawa Gateway (高輪ゲートウェイ) [takanawa gateway]
+    - Takasaki (高崎) [takasaki]
+    - Takadanobaba (高田馬場) [takadanobaba]
+
+"takasago" (appears 1 times)
+  Original forms:
+    - Takasago (Keisei)
+  Possible matches in transit graph:
+    - Takanawa Gateway (高輪ゲートウェイ) [takanawa gateway]
+    - Takasaki (高崎) [takasaki]
+    - Takadanobaba (高田馬場) [takadanobaba]
+
+"tamachi" (appears 20 times)
+  Original forms:
+    - Tamachi (Yamanote line)
+    - Tamachi (Tohoku/Negishi line)
+    ... and 15 more
+  Possible matches in transit graph:
+    - Tamachi(Tokyo) (田町(東京都)) [tamachi(tokyo)]
+    - Tama-reien (多磨霊園) [tama-reien]
+    - Tama-dobutsukoen (多摩動物公園) [tama-dobutsukoen]
+
+"tateishi" (appears 9 times)
+  Original forms:
+    - Tateishi (Keisei)
+    ... and 4 more
+  Possible matches in transit graph:
+    - Tatsuta (竜田) [tatsuta]
+    - Tateba (立場) [tateba]
+    - Keisei-Tateishi (京成立石) [keisei-tateishi]
+
+"tawaramachi" (appears 3 times)
+  Original forms:
+    - Tawaramachi (Metro-Ginza line)
+  Possible matches in transit graph:
+    - Tawaramachi(Tokyo) (田原町(東京都)) [tawaramachi(tokyo)]
+
+"tochomae" (appears 2 times)
+  Original forms:
+    - Tochomae (Toei-Oedo line)
+  Possible matches in transit graph:
+    - Tocho-mae (都庁前) [tocho-mae]
+
+"tokiwadai" (appears 29 times)
+  Original forms:
+    - Tokiwadai (Tobu-Tojo line)
+    ... and 24 more
+  Possible matches in transit graph:
+    - Tokyo (東京) [tokyo]
+    - Tokaichiba(Kanagawa) (十日市場(神奈川県)) [tokaichiba(kanagawa)]
+    - Tokai (東海) [tokai]
+
+"toshimaen" (appears 4 times)
+  Original forms:
+    - Toshimaen (Toei-Oedo line)
+    - Toshimaen (Seibu-Ikebukuro line)
+  Possible matches in transit graph:
+    - Toshimaen(Oedo Line) (豊島園〔大江戸線〕) [toshimaen(oedo line)]
+
+"umeyashiki" (appears 4 times)
+  Original forms:
+    - Umeyashiki (Keikyu-Main line)
+  Possible matches in transit graph:
+    - Umeyashiki(Tokyo) (梅屋敷(東京都)) [umeyashiki(tokyo)]
+    - Umegaoka (梅ヶ丘) [umegaoka]
+    - Umejima (梅島) [umejima]
+
+"waseda" (appears 33 times)
+  Original forms:
+    - Waseda (Nishi)
+    - Waseda (Metro-Tozai line)
+    - Waseda (Toden-Arakawa line)
+    ... and 28 more
+  Possible matches in transit graph:
+    - Waseda(Tozai Line) (早稲田〔東西線〕) [waseda(tozai line)]
+    - Nishi-Waseda (西早稲田) [nishi-waseda]
+    - Washinomiya (鷲宮) [washinomiya]
+
+"watashi" (appears 9 times)
+  Original forms:
+    - Watashi (no)
+    ... and 4 more
+  Possible matches in transit graph:
+    - Watari (亘理) [watari]
+    - Yaguchi-no-watashi (矢口渡) [yaguchi-no-watashi]
+
+"yanagicho" (appears 19 times)
+  Original forms:
+    - Yanagicho (Ushigome)
+    ... and 14 more
+  Possible matches in transit graph:
+    - Yanagawa(Yamanashi) (梁川(山梨県)) [yanagawa(yamanashi)]
+    - Yanasegawa (柳瀬川) [yanasegawa]
+
+"yokocho" (appears 2 times)
+  Original forms:
+    - Yokocho (Aomono)
+  Possible matches in transit graph:
+    - Yokohama (横浜) [yokohama]
+    - Yokosuka (横須賀) [yokosuka]
+    - Yokodai (洋光台) [yokodai]
+
+"yuenchimae" (appears 2 times)
+  Original forms:
+    - Yuenchimae (Arakawa)
+  No similar stations found in transit graph
+
+
+All Available Stations in Transit Graph:
+
+  Abiko(Chiba) (我孫子(千葉県))
+  Adachi-odai (足立小台)
+  Agata (県)
+  Ageo (上尾)
+  Aihara (相原)
+  Aiko-Ishida (愛甲石田)
+  Akabane (赤羽)
+  Akabane-iwabuchi (赤羽岩淵)
+  Akado-Shōgakkō (赤土小学校前)
+  Akasaka(Tokyo) (赤坂(東京都))
+  Akasaka-mitsuke (赤坂見附)
+  Akatsuka (赤塚)
+  Akebonobashi (曙橋)
+  Akigawa (秋川)
+  Akihabara (秋葉原)
+  Akishima (昭島)
+  Akitsu (秋津)
+  Anayama (穴山)
+  Anjinzuka (安針塚)
+  Aobadai (青葉台)
+  Aoi (青井)
+  Aomi (青海(東京都))
+  Aomono-Yokochō (青物横丁)
+  Aoto (青砥)
+  Aoyagi (青柳)
+  Aoyama-itchome (青山一丁目)
+  Araiyakushi-mae (新井薬師前)
+  Arakawaoki (荒川沖)
+  Ariake Tennis No-Mori (有明テニスの森)
+  Ariake(Tokyo) (有明(東京都))
+  Asagaya (阿佐ヶ谷)
+  Asahi(Chiba) (旭(千葉県))
+  Asaka (朝霞)
+  Asakadai (朝霞台)
+  Asakusa (浅草)
+  Asakusa(Tsukuba) (浅草(つくばエクスプレス))
+  Asakusabashi (浅草橋)
+  Ashigara(Kanagawa) (足柄(神奈川県))
+  Ashikagashi (足利市〔東武線〕)
+  Atago(Chiba) (愛宕(千葉県))
+  Atami (熱海)
+  Atsugi (厚木)
+  Awajicho (淡路町)
+  Ayase (綾瀬)
+  Azabu-juban (麻布十番)
+  Azamino (あざみ野)
+  Bakuro-yokoyama (馬喰横山)
+  Bakurocho (馬喰町)
+  Bampaku-kinenkoen(Ibaraki) (万博記念公園(茨城県))
+  Bandobashi (阪東橋)
+  ... and 1140 more stations

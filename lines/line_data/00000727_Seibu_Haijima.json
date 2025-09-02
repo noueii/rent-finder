@@ -1,0 +1,574 @@
+{
+  "line": "Seibu Haijima",
+  "operator": "Seibu Railway",
+  "navitime_id": "00000727",
+  "first_station_id": "00003758",
+  "stations": [
+    {
+      "name": "Kodaira",
+      "japanese_name": "小平",
+      "station_id": "00003758",
+      "order": 1,
+      "transfers": [
+        "Seibu Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Hagiyama",
+      "japanese_name": "萩山",
+      "station_id": "00007415",
+      "order": 2,
+      "transfers": [
+        "Seibu Tamako Line(Kokubunji-Hagiyama)",
+        "Seibu Tamako Line (Hagiyama-Tamako)"
+      ]
+    },
+    {
+      "name": "Ogawa(Tokyo)",
+      "japanese_name": "小川(東京都)",
+      "station_id": "00003705",
+      "order": 3,
+      "transfers": [
+        "Seibu Kokubunji Line"
+      ]
+    },
+    {
+      "name": "Higashi-Yamatoshi",
+      "japanese_name": "東大和市",
+      "station_id": "00006782",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Tamagawa-josui",
+      "japanese_name": "玉川上水",
+      "station_id": "00001804",
+      "order": 5,
+      "transfers": [
+        "Tamatoshi Monorail"
+      ]
+    },
+    {
+      "name": "Musashi-Sunagawa",
+      "japanese_name": "武蔵砂川",
+      "station_id": "00007962",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Seibu-Tachikawa",
+      "japanese_name": "西武立川",
+      "station_id": "00004932",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Haijima",
+      "japanese_name": "拝島",
+      "station_id": "00007388",
+      "order": 8,
+      "transfers": [
+        "JR Itsukaichi Line",
+        "JR Ome Line",
+        "JR Hachiko Line(Hachioji-Komagawa)"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Express",
+    "Semi Express",
+    "Liner"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "82230042",
+      "trainName": "Seibu Haijima Line Local",
+      "destination": "Tamagawa-josui",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "19",
+      "type": "Local"
+    },
+    "Express": {
+      "trainId": "82230013",
+      "trainName": "Seibu Haijima Line Express",
+      "destination": "Haijima",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "09",
+      "type": "Express"
+    },
+    "Semi Express": {
+      "trainId": "8223002e",
+      "trainName": "Seibu Haijima Line Semi Express",
+      "destination": "Tamagawa-josui",
+      "hour": 8,
+      "date": "2025-07-11",
+      "time": "19",
+      "type": "Semi Express"
+    },
+    "Liner": {
+      "trainId": "82230000",
+      "trainName": "Haijima Liner 1 Go",
+      "destination": "Haijima",
+      "hour": 17,
+      "date": "2025-07-11",
+      "time": "42",
+      "type": "Liner"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Seibu Haijima",
+      "train_type": "Local",
+      "total_stops": 5,
+      "stops": [
+        {
+          "name": "Kodaira",
+          "station_id": "00003758",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.488236,
+            "lat": 35.737042
+          }
+        },
+        {
+          "name": "Hagiyama",
+          "station_id": "00007415",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.47745,
+            "lat": 35.740413
+          }
+        },
+        {
+          "name": "Ogawa(Tokyo)",
+          "station_id": "00003705",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.463548,
+            "lat": 35.737512
+          }
+        },
+        {
+          "name": "Higashi-Yamatoshi",
+          "station_id": "00006782",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.434522,
+            "lat": 35.732858
+          }
+        },
+        {
+          "name": "Tamagawa-josui",
+          "station_id": "00001804",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.418384,
+            "lat": 35.731706
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Kodaira",
+          "from_id": "00003758",
+          "to": "Hagiyama",
+          "to_id": "00007415",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hagiyama",
+          "from_id": "00007415",
+          "to": "Ogawa(Tokyo)",
+          "to_id": "00003705",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Ogawa(Tokyo)",
+          "from_id": "00003705",
+          "to": "Higashi-Yamatoshi",
+          "to_id": "00006782",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Higashi-Yamatoshi",
+          "from_id": "00006782",
+          "to": "Tamagawa-josui",
+          "to_id": "00001804",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Express": {
+      "line": "Seibu Haijima",
+      "train_type": "Express",
+      "total_stops": 8,
+      "stops": [
+        {
+          "name": "Kodaira",
+          "station_id": "00003758",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.488236,
+            "lat": 35.737042
+          }
+        },
+        {
+          "name": "Hagiyama",
+          "station_id": "00007415",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.47745,
+            "lat": 35.740413
+          }
+        },
+        {
+          "name": "Ogawa(Tokyo)",
+          "station_id": "00003705",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.463548,
+            "lat": 35.737512
+          }
+        },
+        {
+          "name": "Higashi-Yamatoshi",
+          "station_id": "00006782",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.434522,
+            "lat": 35.732858
+          }
+        },
+        {
+          "name": "Tamagawa-josui",
+          "station_id": "00001804",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.418384,
+            "lat": 35.731706
+          }
+        },
+        {
+          "name": "Musashi-Sunagawa",
+          "station_id": "00007962",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.392359,
+            "lat": 35.728896
+          }
+        },
+        {
+          "name": "Seibu-Tachikawa",
+          "station_id": "00004932",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.370491,
+            "lat": 35.726284
+          }
+        },
+        {
+          "name": "Haijima",
+          "station_id": "00007388",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.344299,
+            "lat": 35.721251
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Kodaira",
+          "from_id": "00003758",
+          "to": "Hagiyama",
+          "to_id": "00007415",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hagiyama",
+          "from_id": "00007415",
+          "to": "Ogawa(Tokyo)",
+          "to_id": "00003705",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Ogawa(Tokyo)",
+          "from_id": "00003705",
+          "to": "Higashi-Yamatoshi",
+          "to_id": "00006782",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Higashi-Yamatoshi",
+          "from_id": "00006782",
+          "to": "Tamagawa-josui",
+          "to_id": "00001804",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tamagawa-josui",
+          "from_id": "00001804",
+          "to": "Musashi-Sunagawa",
+          "to_id": "00007962",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Musashi-Sunagawa",
+          "from_id": "00007962",
+          "to": "Seibu-Tachikawa",
+          "to_id": "00004932",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Seibu-Tachikawa",
+          "from_id": "00004932",
+          "to": "Haijima",
+          "to_id": "00007388",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Semi Express": {
+      "line": "Seibu Haijima",
+      "train_type": "Semi Express",
+      "total_stops": 5,
+      "stops": [
+        {
+          "name": "Kodaira",
+          "station_id": "00003758",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.488236,
+            "lat": 35.737042
+          }
+        },
+        {
+          "name": "Hagiyama",
+          "station_id": "00007415",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.47745,
+            "lat": 35.740413
+          }
+        },
+        {
+          "name": "Ogawa(Tokyo)",
+          "station_id": "00003705",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.463548,
+            "lat": 35.737512
+          }
+        },
+        {
+          "name": "Higashi-Yamatoshi",
+          "station_id": "00006782",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.434522,
+            "lat": 35.732858
+          }
+        },
+        {
+          "name": "Tamagawa-josui",
+          "station_id": "00001804",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.418384,
+            "lat": 35.731706
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Kodaira",
+          "from_id": "00003758",
+          "to": "Hagiyama",
+          "to_id": "00007415",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hagiyama",
+          "from_id": "00007415",
+          "to": "Ogawa(Tokyo)",
+          "to_id": "00003705",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ogawa(Tokyo)",
+          "from_id": "00003705",
+          "to": "Higashi-Yamatoshi",
+          "to_id": "00006782",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Higashi-Yamatoshi",
+          "from_id": "00006782",
+          "to": "Tamagawa-josui",
+          "to_id": "00001804",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Liner": {
+      "line": "Seibu Haijima",
+      "train_type": "Liner",
+      "total_stops": 8,
+      "stops": [
+        {
+          "name": "Kodaira",
+          "station_id": "00003758",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.488236,
+            "lat": 35.737042
+          }
+        },
+        {
+          "name": "Hagiyama",
+          "station_id": "00007415",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.47745,
+            "lat": 35.740413
+          }
+        },
+        {
+          "name": "Ogawa(Tokyo)",
+          "station_id": "00003705",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.463548,
+            "lat": 35.737512
+          }
+        },
+        {
+          "name": "Higashi-Yamatoshi",
+          "station_id": "00006782",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.434522,
+            "lat": 35.732858
+          }
+        },
+        {
+          "name": "Tamagawa-josui",
+          "station_id": "00001804",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.418384,
+            "lat": 35.731706
+          }
+        },
+        {
+          "name": "Musashi-Sunagawa",
+          "station_id": "00007962",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.392359,
+            "lat": 35.728896
+          }
+        },
+        {
+          "name": "Seibu-Tachikawa",
+          "station_id": "00004932",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.370491,
+            "lat": 35.726284
+          }
+        },
+        {
+          "name": "Haijima",
+          "station_id": "00007388",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.344299,
+            "lat": 35.721251
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Kodaira",
+          "from_id": "00003758",
+          "to": "Hagiyama",
+          "to_id": "00007415",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hagiyama",
+          "from_id": "00007415",
+          "to": "Ogawa(Tokyo)",
+          "to_id": "00003705",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ogawa(Tokyo)",
+          "from_id": "00003705",
+          "to": "Higashi-Yamatoshi",
+          "to_id": "00006782",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Higashi-Yamatoshi",
+          "from_id": "00006782",
+          "to": "Tamagawa-josui",
+          "to_id": "00001804",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tamagawa-josui",
+          "from_id": "00001804",
+          "to": "Musashi-Sunagawa",
+          "to_id": "00007962",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Musashi-Sunagawa",
+          "from_id": "00007962",
+          "to": "Seibu-Tachikawa",
+          "to_id": "00004932",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Seibu-Tachikawa",
+          "from_id": "00004932",
+          "to": "Haijima",
+          "to_id": "00007388",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:54:36.168Z"
+}

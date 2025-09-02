@@ -1,0 +1,255 @@
+{
+  "line": "Hachiko Line",
+  "operator": "JR East",
+  "navitime_id": "00000197",
+  "first_station_id": "00007508",
+  "stations": [
+    {
+      "name": "Hachioji",
+      "japanese_name": "八王子",
+      "station_id": "00007508",
+      "order": 1,
+      "transfers": [
+        "JR Yokohama Line",
+        "JR Chuo Main Line(Tokyo-Shiojiri)"
+      ]
+    },
+    {
+      "name": "Kita-Hachioji",
+      "japanese_name": "北八王子",
+      "station_id": "00008389",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Komiya",
+      "japanese_name": "小宮",
+      "station_id": "00003662",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Haijima",
+      "japanese_name": "拝島",
+      "station_id": "00007388",
+      "order": 4,
+      "transfers": [
+        "JR Itsukaichi Line",
+        "JR Ome Line",
+        "Seibu Haijima Line"
+      ]
+    },
+    {
+      "name": "Higashi-Fussa",
+      "japanese_name": "東福生",
+      "station_id": "00006846",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Hakonegasaki",
+      "japanese_name": "箱根ヶ崎",
+      "station_id": "00007490",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Kaneko",
+      "japanese_name": "金子",
+      "station_id": "00001881",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-Hanno",
+      "japanese_name": "東飯能",
+      "station_id": "00006822",
+      "order": 8,
+      "transfers": [
+        "Seibu Chichibu Line"
+      ]
+    },
+    {
+      "name": "Komagawa",
+      "japanese_name": "高麗川",
+      "station_id": "00002645",
+      "order": 9,
+      "transfers": [
+        "JR Kawagoe Line",
+        "JR Hachiko Line(Komagawa-Kuragano)"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "80ae0018",
+      "trainName": "JR Hachiko Line(Hachioji-Komagawa)",
+      "destination": "Kawagoe",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "15",
+      "type": "Local"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Hachiko Line",
+      "train_type": "Local",
+      "total_stops": 9,
+      "stops": [
+        {
+          "name": "Hachioji",
+          "station_id": "00007508",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.339275,
+            "lat": 35.655425
+          }
+        },
+        {
+          "name": "Kita-Hachioji",
+          "station_id": "00008389",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.363399,
+            "lat": 35.669332
+          }
+        },
+        {
+          "name": "Komiya",
+          "station_id": "00003662",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.368892,
+            "lat": 35.685483
+          }
+        },
+        {
+          "name": "Haijima",
+          "station_id": "00007388",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.343703,
+            "lat": 35.721108
+          }
+        },
+        {
+          "name": "Higashi-Fussa",
+          "station_id": "00006846",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.335978,
+            "lat": 35.745814
+          }
+        },
+        {
+          "name": "Hakonegasaki",
+          "station_id": "00007490",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.34675,
+            "lat": 35.771327
+          }
+        },
+        {
+          "name": "Kaneko",
+          "station_id": "00001881",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.328562,
+            "lat": 35.811026
+          }
+        },
+        {
+          "name": "Higashi-Hanno",
+          "station_id": "00006822",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.325975,
+            "lat": 35.852654
+          }
+        },
+        {
+          "name": "Komagawa",
+          "station_id": "00002645",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.3381,
+            "lat": 35.896307
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Hachioji",
+          "from_id": "00007508",
+          "to": "Kita-Hachioji",
+          "to_id": "00008389",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Kita-Hachioji",
+          "from_id": "00008389",
+          "to": "Komiya",
+          "to_id": "00003662",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Komiya",
+          "from_id": "00003662",
+          "to": "Haijima",
+          "to_id": "00007388",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Haijima",
+          "from_id": "00007388",
+          "to": "Higashi-Fussa",
+          "to_id": "00006846",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Higashi-Fussa",
+          "from_id": "00006846",
+          "to": "Hakonegasaki",
+          "to_id": "00007490",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Hakonegasaki",
+          "from_id": "00007490",
+          "to": "Kaneko",
+          "to_id": "00001881",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Kaneko",
+          "from_id": "00001881",
+          "to": "Higashi-Hanno",
+          "to_id": "00006822",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Higashi-Hanno",
+          "from_id": "00006822",
+          "to": "Komagawa",
+          "to_id": "00002645",
+          "travel_time_minutes": 6
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:52:47.608Z"
+}

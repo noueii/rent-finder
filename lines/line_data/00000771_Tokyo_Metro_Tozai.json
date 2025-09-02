@@ -1,0 +1,740 @@
+{
+  "line": "Tokyo Metro Tozai",
+  "operator": "Tokyo Metro",
+  "navitime_id": "00000771",
+  "first_station_id": "00006137",
+  "stations": [
+    {
+      "name": "Nakano(Tokyo)",
+      "japanese_name": "中野(東京都)",
+      "station_id": "00006137",
+      "order": 1,
+      "transfers": [
+        "JR Chuo Main Line(Tokyo-Shiojiri)"
+      ]
+    },
+    {
+      "name": "Ochiai(Tokyo)",
+      "japanese_name": "落合(東京都)",
+      "station_id": "00008911",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Takadanobaba",
+      "japanese_name": "高田馬場",
+      "station_id": "00002616",
+      "order": 3,
+      "transfers": [
+        "JR Yamanote Line",
+        "Seibu Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Waseda(Tozai Line)",
+      "japanese_name": "早稲田〔東西線〕",
+      "station_id": "00005357",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Kagurazaka",
+      "japanese_name": "神楽坂",
+      "station_id": "00004435",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Iidabashi",
+      "japanese_name": "飯田橋",
+      "station_id": "00007626",
+      "order": 6,
+      "transfers": [
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "Tokyo Metro Namboku Line",
+        "Tokyo Metro Yurakucho Line",
+        "Toeioedo Line(Loop)"
+      ]
+    },
+    {
+      "name": "Kudanshita",
+      "japanese_name": "九段下",
+      "station_id": "00001921",
+      "order": 7,
+      "transfers": [
+        "Tokyo Metro Hanzomon Line",
+        "Toei Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Takebashi",
+      "japanese_name": "竹橋",
+      "station_id": "00005972",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Ōtemachi",
+      "japanese_name": "大手町(東京都)",
+      "station_id": "00005630",
+      "order": 9,
+      "transfers": [
+        "Tokyo Metro Marunouchi Line",
+        "Tokyo Metro Chiyoda Line",
+        "Tokyo Metro Hanzomon Line",
+        "Toei Mita Line"
+      ]
+    },
+    {
+      "name": "Nihombashi",
+      "japanese_name": "日本橋(東京都)",
+      "station_id": "00007297",
+      "order": 10,
+      "transfers": [
+        "Tokyo Metro Ginza Line",
+        "Toei Asakusa Line"
+      ]
+    },
+    {
+      "name": "Kayabachō",
+      "japanese_name": "茅場町",
+      "station_id": "00001303",
+      "order": 11,
+      "transfers": [
+        "Tokyo Metro Hibiya Line"
+      ]
+    },
+    {
+      "name": "Monzen-Nakachō",
+      "japanese_name": "門前仲町",
+      "station_id": "00008702",
+      "order": 12,
+      "transfers": [
+        "Toeioedo Line(Loop)"
+      ]
+    },
+    {
+      "name": "Kiba",
+      "japanese_name": "木場",
+      "station_id": "00008657",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Toyocho",
+      "japanese_name": "東陽町",
+      "station_id": "00006866",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Minami-sunamachi",
+      "japanese_name": "南砂町",
+      "station_id": "00007088",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Nishi-kasai",
+      "japanese_name": "西葛西",
+      "station_id": "00004734",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Kasai",
+      "japanese_name": "葛西",
+      "station_id": "00001262",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Urayasu(Chiba)",
+      "japanese_name": "浦安(千葉県)",
+      "station_id": "00000616",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Minami-gyotoku",
+      "japanese_name": "南行徳",
+      "station_id": "00007082",
+      "order": 19,
+      "transfers": []
+    },
+    {
+      "name": "Gyotoku",
+      "japanese_name": "行徳",
+      "station_id": "00002513",
+      "order": 20,
+      "transfers": []
+    },
+    {
+      "name": "Myoden",
+      "japanese_name": "妙典",
+      "station_id": "00008561",
+      "order": 21,
+      "transfers": []
+    },
+    {
+      "name": "Baraki-nakayama",
+      "japanese_name": "原木中山",
+      "station_id": "00002139",
+      "order": 22,
+      "transfers": []
+    },
+    {
+      "name": "Nishi-Funabashi",
+      "japanese_name": "西船橋",
+      "station_id": "00004837",
+      "order": 23,
+      "transfers": [
+        "JR Sobu Main Line(Tokyo-Choshi)",
+        "JR Musashino Line(Nishifunabashi-Ichikawashiohama)",
+        "JR Musashino Line(Fuchuhommachi-Minamifunabashi)",
+        "Toyokosoku Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local Train",
+    "Rapid"
+  ],
+  "example_trains": {
+    "Local Train": {
+      "trainId": "824b0062",
+      "trainName": "Tokyo Metro Tozai Line",
+      "destination": "Toyocho",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "02",
+      "type": "Local Train"
+    },
+    "Rapid": {
+      "trainId": "824b0063",
+      "trainName": "Tokyo Metro Tozai Line Rapid",
+      "destination": "Toyo-katsutadai",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "05",
+      "type": "Rapid"
+    }
+  },
+  "train_stop_details": {
+    "Local Train": {
+      "line": "Tokyo Metro Tozai",
+      "train_type": "Local Train",
+      "total_stops": 14,
+      "stops": [
+        {
+          "name": "Nakano(Tokyo)",
+          "station_id": "00006137",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.66594,
+            "lat": 35.705816
+          }
+        },
+        {
+          "name": "Ochiai(Tokyo)",
+          "station_id": "00008911",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.685899,
+            "lat": 35.710614
+          }
+        },
+        {
+          "name": "Takadanobaba",
+          "station_id": "00002616",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.705389,
+            "lat": 35.713194
+          }
+        },
+        {
+          "name": "Waseda(Tozai Line)",
+          "station_id": "00005357",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.721593,
+            "lat": 35.705778
+          }
+        },
+        {
+          "name": "Kagurazaka",
+          "station_id": "00004435",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.734656,
+            "lat": 35.703819
+          }
+        },
+        {
+          "name": "Iidabashi",
+          "station_id": "00007626",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.746604,
+            "lat": 35.701312
+          }
+        },
+        {
+          "name": "Kudanshita",
+          "station_id": "00001921",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.751429,
+            "lat": 35.695476
+          }
+        },
+        {
+          "name": "Takebashi",
+          "station_id": "00005972",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.758401,
+            "lat": 35.690195
+          }
+        },
+        {
+          "name": "Ōtemachi",
+          "station_id": "00005630",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.766189,
+            "lat": 35.684664
+          }
+        },
+        {
+          "name": "Nihombashi",
+          "station_id": "00007297",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.773717,
+            "lat": 35.682527
+          }
+        },
+        {
+          "name": "Kayabachō",
+          "station_id": "00001303",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.779376,
+            "lat": 35.680267
+          }
+        },
+        {
+          "name": "Monzen-Nakachō",
+          "station_id": "00008702",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.795636,
+            "lat": 35.672078
+          }
+        },
+        {
+          "name": "Kiba",
+          "station_id": "00008657",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.806735,
+            "lat": 35.66938
+          }
+        },
+        {
+          "name": "Toyocho",
+          "station_id": "00006866",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.817706,
+            "lat": 35.669631
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Nakano(Tokyo)",
+          "from_id": "00006137",
+          "to": "Ochiai(Tokyo)",
+          "to_id": "00008911",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Ochiai(Tokyo)",
+          "from_id": "00008911",
+          "to": "Takadanobaba",
+          "to_id": "00002616",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Takadanobaba",
+          "from_id": "00002616",
+          "to": "Waseda(Tozai Line)",
+          "to_id": "00005357",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Waseda(Tozai Line)",
+          "from_id": "00005357",
+          "to": "Kagurazaka",
+          "to_id": "00004435",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kagurazaka",
+          "from_id": "00004435",
+          "to": "Iidabashi",
+          "to_id": "00007626",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Iidabashi",
+          "from_id": "00007626",
+          "to": "Kudanshita",
+          "to_id": "00001921",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kudanshita",
+          "from_id": "00001921",
+          "to": "Takebashi",
+          "to_id": "00005972",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Takebashi",
+          "from_id": "00005972",
+          "to": "Ōtemachi",
+          "to_id": "00005630",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ōtemachi",
+          "from_id": "00005630",
+          "to": "Nihombashi",
+          "to_id": "00007297",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nihombashi",
+          "from_id": "00007297",
+          "to": "Kayabachō",
+          "to_id": "00001303",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kayabachō",
+          "from_id": "00001303",
+          "to": "Monzen-Nakachō",
+          "to_id": "00008702",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Monzen-Nakachō",
+          "from_id": "00008702",
+          "to": "Kiba",
+          "to_id": "00008657",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kiba",
+          "from_id": "00008657",
+          "to": "Toyocho",
+          "to_id": "00006866",
+          "travel_time_minutes": 1
+        }
+      ]
+    },
+    "Rapid": {
+      "line": "Tokyo Metro Tozai",
+      "train_type": "Rapid",
+      "total_stops": 16,
+      "stops": [
+        {
+          "name": "Nakano(Tokyo)",
+          "station_id": "00006137",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.66594,
+            "lat": 35.705816
+          }
+        },
+        {
+          "name": "Ochiai(Tokyo)",
+          "station_id": "00008911",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.685899,
+            "lat": 35.710614
+          }
+        },
+        {
+          "name": "Takadanobaba",
+          "station_id": "00002616",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.705389,
+            "lat": 35.713194
+          }
+        },
+        {
+          "name": "Waseda(Tozai Line)",
+          "station_id": "00005357",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.721593,
+            "lat": 35.705778
+          }
+        },
+        {
+          "name": "Kagurazaka",
+          "station_id": "00004435",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.734656,
+            "lat": 35.703819
+          }
+        },
+        {
+          "name": "Iidabashi",
+          "station_id": "00007626",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.746604,
+            "lat": 35.701312
+          }
+        },
+        {
+          "name": "Kudanshita",
+          "station_id": "00001921",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.751429,
+            "lat": 35.695476
+          }
+        },
+        {
+          "name": "Takebashi",
+          "station_id": "00005972",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.758401,
+            "lat": 35.690195
+          }
+        },
+        {
+          "name": "Ōtemachi",
+          "station_id": "00005630",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.766189,
+            "lat": 35.684664
+          }
+        },
+        {
+          "name": "Nihombashi",
+          "station_id": "00007297",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.773717,
+            "lat": 35.682527
+          }
+        },
+        {
+          "name": "Kayabachō",
+          "station_id": "00001303",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.779376,
+            "lat": 35.680267
+          }
+        },
+        {
+          "name": "Monzen-Nakachō",
+          "station_id": "00008702",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.795636,
+            "lat": 35.672078
+          }
+        },
+        {
+          "name": "Kiba",
+          "station_id": "00008657",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.806735,
+            "lat": 35.66938
+          }
+        },
+        {
+          "name": "Toyocho",
+          "station_id": "00006866",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.817706,
+            "lat": 35.669631
+          }
+        },
+        {
+          "name": "Urayasu(Chiba)",
+          "station_id": "00000616",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.893006,
+            "lat": 35.665911
+          }
+        },
+        {
+          "name": "Nishi-Funabashi",
+          "station_id": "00004837",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.959232,
+            "lat": 35.707459
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Nakano(Tokyo)",
+          "from_id": "00006137",
+          "to": "Ochiai(Tokyo)",
+          "to_id": "00008911",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ochiai(Tokyo)",
+          "from_id": "00008911",
+          "to": "Takadanobaba",
+          "to_id": "00002616",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Takadanobaba",
+          "from_id": "00002616",
+          "to": "Waseda(Tozai Line)",
+          "to_id": "00005357",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Waseda(Tozai Line)",
+          "from_id": "00005357",
+          "to": "Kagurazaka",
+          "to_id": "00004435",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kagurazaka",
+          "from_id": "00004435",
+          "to": "Iidabashi",
+          "to_id": "00007626",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Iidabashi",
+          "from_id": "00007626",
+          "to": "Kudanshita",
+          "to_id": "00001921",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kudanshita",
+          "from_id": "00001921",
+          "to": "Takebashi",
+          "to_id": "00005972",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Takebashi",
+          "from_id": "00005972",
+          "to": "Ōtemachi",
+          "to_id": "00005630",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ōtemachi",
+          "from_id": "00005630",
+          "to": "Nihombashi",
+          "to_id": "00007297",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nihombashi",
+          "from_id": "00007297",
+          "to": "Kayabachō",
+          "to_id": "00001303",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kayabachō",
+          "from_id": "00001303",
+          "to": "Monzen-Nakachō",
+          "to_id": "00008702",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Monzen-Nakachō",
+          "from_id": "00008702",
+          "to": "Kiba",
+          "to_id": "00008657",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kiba",
+          "from_id": "00008657",
+          "to": "Toyocho",
+          "to_id": "00006866",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Toyocho",
+          "from_id": "00006866",
+          "to": "Urayasu(Chiba)",
+          "to_id": "00000616",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Urayasu(Chiba)",
+          "from_id": "00000616",
+          "to": "Nishi-Funabashi",
+          "to_id": "00004837",
+          "travel_time_minutes": 7
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:54:59.127Z"
+}

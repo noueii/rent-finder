@@ -1,0 +1,525 @@
+{
+  "line": "Rinkai Line",
+  "operator": "Tokyo Waterfront Area Rapid Transit",
+  "navitime_id": "00000797",
+  "first_station_id": "00004376",
+  "stations": [
+    {
+      "name": "Shin-kiba",
+      "japanese_name": "新木場",
+      "station_id": "00004376",
+      "order": 1,
+      "transfers": [
+        "JR Keiyo Line",
+        "Tokyo Metro Yurakucho Line"
+      ]
+    },
+    {
+      "name": "Shinonome(Tokyo)",
+      "japanese_name": "東雲(東京都)",
+      "station_id": "00006636",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Kokusai-tenjijo",
+      "japanese_name": "国際展示場(りんかい線)",
+      "station_id": "00002665",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Tokyo-Teleport",
+      "japanese_name": "東京テレポート",
+      "station_id": "00006669",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Tennozu Isle(Rinkai Line)",
+      "japanese_name": "天王洲アイル(りんかい線)",
+      "station_id": "00009239",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Shinagawa Seaside",
+      "japanese_name": "品川シーサイド",
+      "station_id": "00009321",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Oimachi",
+      "japanese_name": "大井町",
+      "station_id": "00005517",
+      "order": 7,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "Tokyu Oimachi Line"
+      ]
+    },
+    {
+      "name": "Osaki",
+      "japanese_name": "大崎",
+      "station_id": "00005613",
+      "order": 8,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "JR Shonan-Shinjuku Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Rapid",
+    "Commuter Rapid"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "826100a7",
+      "trainName": "Rinkai Line",
+      "destination": "Osaki",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "02",
+      "type": "Local"
+    },
+    "Rapid": {
+      "trainId": "8261006f",
+      "trainName": "Rinkai Line Rapid",
+      "destination": "Kawagoe",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "23",
+      "type": "Rapid"
+    },
+    "Commuter Rapid": {
+      "trainId": "82610009",
+      "trainName": "Rinkai Line Commuter Rapid",
+      "destination": "Kawagoe",
+      "hour": 6,
+      "date": "2025-07-11",
+      "time": "30",
+      "type": "Commuter Rapid"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Rinkai Line",
+      "train_type": "Local",
+      "total_stops": 8,
+      "stops": [
+        {
+          "name": "Shin-kiba",
+          "station_id": "00004376",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.826584,
+            "lat": 35.645871
+          }
+        },
+        {
+          "name": "Shinonome(Tokyo)",
+          "station_id": "00006636",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.803616,
+            "lat": 35.640709
+          }
+        },
+        {
+          "name": "Kokusai-tenjijo",
+          "station_id": "00002665",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.791617,
+            "lat": 35.634429
+          }
+        },
+        {
+          "name": "Tokyo-Teleport",
+          "station_id": "00006669",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.778848,
+            "lat": 35.627526
+          }
+        },
+        {
+          "name": "Tennozu Isle(Rinkai Line)",
+          "station_id": "00009239",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.750826,
+            "lat": 35.62039
+          }
+        },
+        {
+          "name": "Shinagawa Seaside",
+          "station_id": "00009321",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.749763,
+            "lat": 35.609773
+          }
+        },
+        {
+          "name": "Oimachi",
+          "station_id": "00005517",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.734679,
+            "lat": 35.607396
+          }
+        },
+        {
+          "name": "Osaki",
+          "station_id": "00005613",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.728161,
+            "lat": 35.619912
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shin-kiba",
+          "from_id": "00004376",
+          "to": "Shinonome(Tokyo)",
+          "to_id": "00006636",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shinonome(Tokyo)",
+          "from_id": "00006636",
+          "to": "Kokusai-tenjijo",
+          "to_id": "00002665",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kokusai-tenjijo",
+          "from_id": "00002665",
+          "to": "Tokyo-Teleport",
+          "to_id": "00006669",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tokyo-Teleport",
+          "from_id": "00006669",
+          "to": "Tennozu Isle(Rinkai Line)",
+          "to_id": "00009239",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Tennozu Isle(Rinkai Line)",
+          "from_id": "00009239",
+          "to": "Shinagawa Seaside",
+          "to_id": "00009321",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shinagawa Seaside",
+          "from_id": "00009321",
+          "to": "Oimachi",
+          "to_id": "00005517",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Oimachi",
+          "from_id": "00005517",
+          "to": "Osaki",
+          "to_id": "00005613",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Rapid": {
+      "line": "Rinkai Line",
+      "train_type": "Rapid",
+      "total_stops": 8,
+      "stops": [
+        {
+          "name": "Shin-kiba",
+          "station_id": "00004376",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.826584,
+            "lat": 35.645871
+          }
+        },
+        {
+          "name": "Shinonome(Tokyo)",
+          "station_id": "00006636",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.803616,
+            "lat": 35.640709
+          }
+        },
+        {
+          "name": "Kokusai-tenjijo",
+          "station_id": "00002665",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.791617,
+            "lat": 35.634429
+          }
+        },
+        {
+          "name": "Tokyo-Teleport",
+          "station_id": "00006669",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.778848,
+            "lat": 35.627526
+          }
+        },
+        {
+          "name": "Tennozu Isle(Rinkai Line)",
+          "station_id": "00009239",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.750826,
+            "lat": 35.62039
+          }
+        },
+        {
+          "name": "Shinagawa Seaside",
+          "station_id": "00009321",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.749763,
+            "lat": 35.609773
+          }
+        },
+        {
+          "name": "Oimachi",
+          "station_id": "00005517",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.734679,
+            "lat": 35.607396
+          }
+        },
+        {
+          "name": "Osaki",
+          "station_id": "00005613",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.728161,
+            "lat": 35.619912
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shin-kiba",
+          "from_id": "00004376",
+          "to": "Shinonome(Tokyo)",
+          "to_id": "00006636",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shinonome(Tokyo)",
+          "from_id": "00006636",
+          "to": "Kokusai-tenjijo",
+          "to_id": "00002665",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kokusai-tenjijo",
+          "from_id": "00002665",
+          "to": "Tokyo-Teleport",
+          "to_id": "00006669",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tokyo-Teleport",
+          "from_id": "00006669",
+          "to": "Tennozu Isle(Rinkai Line)",
+          "to_id": "00009239",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Tennozu Isle(Rinkai Line)",
+          "from_id": "00009239",
+          "to": "Shinagawa Seaside",
+          "to_id": "00009321",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shinagawa Seaside",
+          "from_id": "00009321",
+          "to": "Oimachi",
+          "to_id": "00005517",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Oimachi",
+          "from_id": "00005517",
+          "to": "Osaki",
+          "to_id": "00005613",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Commuter Rapid": {
+      "line": "Rinkai Line",
+      "train_type": "Commuter Rapid",
+      "total_stops": 8,
+      "stops": [
+        {
+          "name": "Shin-kiba",
+          "station_id": "00004376",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.826584,
+            "lat": 35.645871
+          }
+        },
+        {
+          "name": "Shinonome(Tokyo)",
+          "station_id": "00006636",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.803616,
+            "lat": 35.640709
+          }
+        },
+        {
+          "name": "Kokusai-tenjijo",
+          "station_id": "00002665",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.791617,
+            "lat": 35.634429
+          }
+        },
+        {
+          "name": "Tokyo-Teleport",
+          "station_id": "00006669",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.778848,
+            "lat": 35.627526
+          }
+        },
+        {
+          "name": "Tennozu Isle(Rinkai Line)",
+          "station_id": "00009239",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.750826,
+            "lat": 35.62039
+          }
+        },
+        {
+          "name": "Shinagawa Seaside",
+          "station_id": "00009321",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.749763,
+            "lat": 35.609773
+          }
+        },
+        {
+          "name": "Oimachi",
+          "station_id": "00005517",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.734679,
+            "lat": 35.607396
+          }
+        },
+        {
+          "name": "Osaki",
+          "station_id": "00005613",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.728161,
+            "lat": 35.619912
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shin-kiba",
+          "from_id": "00004376",
+          "to": "Shinonome(Tokyo)",
+          "to_id": "00006636",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shinonome(Tokyo)",
+          "from_id": "00006636",
+          "to": "Kokusai-tenjijo",
+          "to_id": "00002665",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kokusai-tenjijo",
+          "from_id": "00002665",
+          "to": "Tokyo-Teleport",
+          "to_id": "00006669",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tokyo-Teleport",
+          "from_id": "00006669",
+          "to": "Tennozu Isle(Rinkai Line)",
+          "to_id": "00009239",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Tennozu Isle(Rinkai Line)",
+          "from_id": "00009239",
+          "to": "Shinagawa Seaside",
+          "to_id": "00009321",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shinagawa Seaside",
+          "from_id": "00009321",
+          "to": "Oimachi",
+          "to_id": "00005517",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Oimachi",
+          "from_id": "00005517",
+          "to": "Osaki",
+          "to_id": "00005613",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:56:21.049Z"
+}

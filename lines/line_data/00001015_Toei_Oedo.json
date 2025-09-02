@@ -1,0 +1,321 @@
+{
+  "line": "Toei Oedo",
+  "operator": "Toei",
+  "navitime_id": "00001015",
+  "first_station_id": "00006547",
+  "stations": [
+    {
+      "name": "Tocho-mae",
+      "japanese_name": "都庁前",
+      "station_id": "00006547",
+      "order": 1,
+      "transfers": [
+        "Toeioedo Line(Loop)"
+      ]
+    },
+    {
+      "name": "Nishi-shinjuku-gochome",
+      "japanese_name": "西新宿五丁目",
+      "station_id": "00004814",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Nakano-Sakaue",
+      "japanese_name": "中野坂上",
+      "station_id": "00006139",
+      "order": 3,
+      "transfers": [
+        "Tokyo Metro Marunouchi Line",
+        "Tokyo Metro Marunouchi Line(Nakanosakaue-Honancho)"
+      ]
+    },
+    {
+      "name": "Higashi-Nakano",
+      "japanese_name": "東中野",
+      "station_id": "00006790",
+      "order": 4,
+      "transfers": [
+        "JR Chuo Main Line(Tokyo-Shiojiri)"
+      ]
+    },
+    {
+      "name": "Nakai",
+      "japanese_name": "中井",
+      "station_id": "00006016",
+      "order": 5,
+      "transfers": [
+        "Seibu Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Ochiai-minami-nagasaki",
+      "japanese_name": "落合南長崎",
+      "station_id": "00008914",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Shin-egota",
+      "japanese_name": "新江古田",
+      "station_id": "00004227",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Nerima",
+      "japanese_name": "練馬",
+      "station_id": "00009060",
+      "order": 8,
+      "transfers": [
+        "Seibu Ikebukuro Line",
+        "Seibu Toshima Line",
+        "Seibu Yurakucho Line"
+      ]
+    },
+    {
+      "name": "Toshimaen(Oedo Line)",
+      "japanese_name": "豊島園〔大江戸線〕",
+      "station_id": "00008247",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Nerima-kasugacho",
+      "japanese_name": "練馬春日町",
+      "station_id": "00009062",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Hikarigaoka",
+      "japanese_name": "光が丘",
+      "station_id": "00002321",
+      "order": 11,
+      "transfers": []
+    }
+  ],
+  "train_types": [
+    "Local"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "825d0078",
+      "trainName": "Toei Oedo Line(Hikarigaoka-Tocho-Mae)",
+      "destination": "Hikarigaoka",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "02",
+      "type": "Local"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Toei Oedo",
+      "train_type": "Local",
+      "total_stops": 12,
+      "stops": [
+        {
+          "name": "Tocho-mae",
+          "station_id": "00006547",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.692629,
+            "lat": 35.690558
+          }
+        },
+        {
+          "name": "Tocho-mae",
+          "station_id": "00006547",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.692629,
+            "lat": 35.690558
+          }
+        },
+        {
+          "name": "Nishi-shinjuku-gochome",
+          "station_id": "00004814",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.684456,
+            "lat": 35.689834
+          }
+        },
+        {
+          "name": "Nakano-Sakaue",
+          "station_id": "00006139",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.682933,
+            "lat": 35.698
+          }
+        },
+        {
+          "name": "Higashi-Nakano",
+          "station_id": "00006790",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.683165,
+            "lat": 35.707317
+          }
+        },
+        {
+          "name": "Nakai",
+          "station_id": "00006016",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.686381,
+            "lat": 35.714056
+          }
+        },
+        {
+          "name": "Ochiai-minami-nagasaki",
+          "station_id": "00008914",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.683416,
+            "lat": 35.723423
+          }
+        },
+        {
+          "name": "Shin-egota",
+          "station_id": "00004227",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.670463,
+            "lat": 35.732577
+          }
+        },
+        {
+          "name": "Nerima",
+          "station_id": "00009060",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.654769,
+            "lat": 35.737409
+          }
+        },
+        {
+          "name": "Toshimaen(Oedo Line)",
+          "station_id": "00008247",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.649099,
+            "lat": 35.742019
+          }
+        },
+        {
+          "name": "Nerima-kasugacho",
+          "station_id": "00009062",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.640413,
+            "lat": 35.751378
+          }
+        },
+        {
+          "name": "Hikarigaoka",
+          "station_id": "00002321",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.628441,
+            "lat": 35.758505
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Tocho-mae",
+          "from_id": "00006547",
+          "to": "Tocho-mae",
+          "to_id": "00006547",
+          "travel_time_minutes": 50
+        },
+        {
+          "from": "Tocho-mae",
+          "from_id": "00006547",
+          "to": "Nishi-shinjuku-gochome",
+          "to_id": "00004814",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nishi-shinjuku-gochome",
+          "from_id": "00004814",
+          "to": "Nakano-Sakaue",
+          "to_id": "00006139",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nakano-Sakaue",
+          "from_id": "00006139",
+          "to": "Higashi-Nakano",
+          "to_id": "00006790",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Higashi-Nakano",
+          "from_id": "00006790",
+          "to": "Nakai",
+          "to_id": "00006016",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nakai",
+          "from_id": "00006016",
+          "to": "Ochiai-minami-nagasaki",
+          "to_id": "00008914",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ochiai-minami-nagasaki",
+          "from_id": "00008914",
+          "to": "Shin-egota",
+          "to_id": "00004227",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-egota",
+          "from_id": "00004227",
+          "to": "Nerima",
+          "to_id": "00009060",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nerima",
+          "from_id": "00009060",
+          "to": "Toshimaen(Oedo Line)",
+          "to_id": "00008247",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Toshimaen(Oedo Line)",
+          "from_id": "00008247",
+          "to": "Nerima-kasugacho",
+          "to_id": "00009062",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nerima-kasugacho",
+          "from_id": "00009062",
+          "to": "Hikarigaoka",
+          "to_id": "00002321",
+          "travel_time_minutes": 1
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:56:58.838Z"
+}

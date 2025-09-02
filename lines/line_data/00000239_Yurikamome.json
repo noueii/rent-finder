@@ -1,0 +1,422 @@
+{
+  "line": "Yurikamome",
+  "operator": "Yurikamome, Inc.",
+  "navitime_id": "00000239",
+  "first_station_id": "00004212",
+  "stations": [
+    {
+      "name": "Shimbashi",
+      "japanese_name": "新橋",
+      "station_id": "00004212",
+      "order": 1,
+      "transfers": [
+        "JR Yokosuka Line",
+        "JR Keihintohoku Line",
+        "JR Yamanote Line",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "Tokyo Metro Ginza Line",
+        "Toei Asakusa Line"
+      ]
+    },
+    {
+      "name": "Shiodome",
+      "japanese_name": "汐留",
+      "station_id": "00009318",
+      "order": 2,
+      "transfers": [
+        "Toeioedo Line(Loop)"
+      ]
+    },
+    {
+      "name": "Takeshiba",
+      "japanese_name": "竹芝",
+      "station_id": "00005975",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Hinode(Tokyo)",
+      "japanese_name": "日の出(東京都)",
+      "station_id": "00007236",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Shibaura-futo",
+      "japanese_name": "芝浦ふ頭",
+      "station_id": "00003414",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Odaiba-kaihinkoen",
+      "japanese_name": "お台場海浜公園",
+      "station_id": "00000043",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Daiba",
+      "japanese_name": "台場",
+      "station_id": "00005512",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Tokyo International Cruise Terminal",
+      "japanese_name": "東京国際クルーズターミナル",
+      "station_id": "00005281",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Telecom-Center",
+      "japanese_name": "テレコムセンター",
+      "station_id": "00000083",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Aomi",
+      "japanese_name": "青海(東京都)",
+      "station_id": "00004966",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Tokyo Big Sight (Yurikamome)",
+      "japanese_name": "東京ビッグサイト(ゆりかもめ)",
+      "station_id": "00002666",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Ariake(Tokyo)",
+      "japanese_name": "有明(東京都)",
+      "station_id": "00008854",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Ariake Tennis No-Mori",
+      "japanese_name": "有明テニスの森",
+      "station_id": "00009470",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Shijo-mae",
+      "japanese_name": "市場前",
+      "station_id": "00009465",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Shin-toyosu",
+      "japanese_name": "新豊洲",
+      "station_id": "00009466",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Toyosu",
+      "japanese_name": "豊洲",
+      "station_id": "00008223",
+      "order": 16,
+      "transfers": [
+        "Tokyo Metro Yurakucho Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "80d00136",
+      "trainName": "Yurikamome",
+      "destination": "Toyosu",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "01",
+      "type": "Local"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Yurikamome",
+      "train_type": "Local",
+      "total_stops": 16,
+      "stops": [
+        {
+          "name": "Shimbashi",
+          "station_id": "00004212",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.759514,
+            "lat": 35.665578
+          }
+        },
+        {
+          "name": "Shiodome",
+          "station_id": "00009318",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.760008,
+            "lat": 35.662937
+          }
+        },
+        {
+          "name": "Takeshiba",
+          "station_id": "00005975",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.761899,
+            "lat": 35.653941
+          }
+        },
+        {
+          "name": "Hinode(Tokyo)",
+          "station_id": "00007236",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.759085,
+            "lat": 35.649119
+          }
+        },
+        {
+          "name": "Shibaura-futo",
+          "station_id": "00003414",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.757756,
+            "lat": 35.64171
+          }
+        },
+        {
+          "name": "Odaiba-kaihinkoen",
+          "station_id": "00000043",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.778777,
+            "lat": 35.629878
+          }
+        },
+        {
+          "name": "Daiba",
+          "station_id": "00005512",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.771441,
+            "lat": 35.625903
+          }
+        },
+        {
+          "name": "Tokyo International Cruise Terminal",
+          "station_id": "00005281",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.773125,
+            "lat": 35.621345
+          }
+        },
+        {
+          "name": "Telecom-Center",
+          "station_id": "00000083",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.779409,
+            "lat": 35.617547
+          }
+        },
+        {
+          "name": "Aomi",
+          "station_id": "00004966",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.781242,
+            "lat": 35.624695
+          }
+        },
+        {
+          "name": "Tokyo Big Sight (Yurikamome)",
+          "station_id": "00002666",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.791404,
+            "lat": 35.630215
+          }
+        },
+        {
+          "name": "Ariake(Tokyo)",
+          "station_id": "00008854",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.793262,
+            "lat": 35.634624
+          }
+        },
+        {
+          "name": "Ariake Tennis No-Mori",
+          "station_id": "00009470",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.788841,
+            "lat": 35.640043
+          }
+        },
+        {
+          "name": "Shijo-mae",
+          "station_id": "00009465",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.785716,
+            "lat": 35.645724
+          }
+        },
+        {
+          "name": "Shin-toyosu",
+          "station_id": "00009466",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.79016,
+            "lat": 35.648717
+          }
+        },
+        {
+          "name": "Toyosu",
+          "station_id": "00008223",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.795476,
+            "lat": 35.653758
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shimbashi",
+          "from_id": "00004212",
+          "to": "Shiodome",
+          "to_id": "00009318",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shiodome",
+          "from_id": "00009318",
+          "to": "Takeshiba",
+          "to_id": "00005975",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Takeshiba",
+          "from_id": "00005975",
+          "to": "Hinode(Tokyo)",
+          "to_id": "00007236",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hinode(Tokyo)",
+          "from_id": "00007236",
+          "to": "Shibaura-futo",
+          "to_id": "00003414",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shibaura-futo",
+          "from_id": "00003414",
+          "to": "Odaiba-kaihinkoen",
+          "to_id": "00000043",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Odaiba-kaihinkoen",
+          "from_id": "00000043",
+          "to": "Daiba",
+          "to_id": "00005512",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Daiba",
+          "from_id": "00005512",
+          "to": "Tokyo International Cruise Terminal",
+          "to_id": "00005281",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tokyo International Cruise Terminal",
+          "from_id": "00005281",
+          "to": "Telecom-Center",
+          "to_id": "00000083",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Telecom-Center",
+          "from_id": "00000083",
+          "to": "Aomi",
+          "to_id": "00004966",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Aomi",
+          "from_id": "00004966",
+          "to": "Tokyo Big Sight (Yurikamome)",
+          "to_id": "00002666",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tokyo Big Sight (Yurikamome)",
+          "from_id": "00002666",
+          "to": "Ariake(Tokyo)",
+          "to_id": "00008854",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ariake(Tokyo)",
+          "from_id": "00008854",
+          "to": "Ariake Tennis No-Mori",
+          "to_id": "00009470",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ariake Tennis No-Mori",
+          "from_id": "00009470",
+          "to": "Shijo-mae",
+          "to_id": "00009465",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shijo-mae",
+          "from_id": "00009465",
+          "to": "Shin-toyosu",
+          "to_id": "00009466",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-toyosu",
+          "from_id": "00009466",
+          "to": "Toyosu",
+          "to_id": "00008223",
+          "travel_time_minutes": 2
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:52:53.174Z"
+}

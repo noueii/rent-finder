@@ -1,0 +1,155 @@
+{
+  "line": "Seibu Kokubunji",
+  "operator": "Seibu Railway",
+  "navitime_id": "00000719",
+  "first_station_id": "00002678",
+  "stations": [
+    {
+      "name": "Kokubunji",
+      "japanese_name": "国分寺",
+      "station_id": "00002678",
+      "order": 1,
+      "transfers": [
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "Seibu Tamako Line(Kokubunji-Hagiyama)"
+      ]
+    },
+    {
+      "name": "Koigakubo",
+      "japanese_name": "恋ヶ窪",
+      "station_id": "00009057",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Takanodai",
+      "japanese_name": "鷹の台",
+      "station_id": "00005808",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Ogawa(Tokyo)",
+      "japanese_name": "小川(東京都)",
+      "station_id": "00003705",
+      "order": 4,
+      "transfers": [
+        "Seibu Haijima Line"
+      ]
+    },
+    {
+      "name": "Higashi-Murayama",
+      "japanese_name": "東村山",
+      "station_id": "00006770",
+      "order": 5,
+      "transfers": [
+        "Seibu En Line",
+        "Seibu Shinjuku Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "821f001d",
+      "trainName": "Seibu Kokubunji Line Local",
+      "destination": "Higashi-Murayama",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "03",
+      "type": "Local"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Seibu Kokubunji",
+      "train_type": "Local",
+      "total_stops": 5,
+      "stops": [
+        {
+          "name": "Kokubunji",
+          "station_id": "00002678",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.480215,
+            "lat": 35.700217
+          }
+        },
+        {
+          "name": "Koigakubo",
+          "station_id": "00009057",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.464039,
+            "lat": 35.711307
+          }
+        },
+        {
+          "name": "Takanodai",
+          "station_id": "00005808",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.461199,
+            "lat": 35.723439
+          }
+        },
+        {
+          "name": "Ogawa(Tokyo)",
+          "station_id": "00003705",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.463548,
+            "lat": 35.737512
+          }
+        },
+        {
+          "name": "Higashi-Murayama",
+          "station_id": "00006770",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.465834,
+            "lat": 35.760675
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Kokubunji",
+          "from_id": "00002678",
+          "to": "Koigakubo",
+          "to_id": "00009057",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Koigakubo",
+          "from_id": "00009057",
+          "to": "Takanodai",
+          "to_id": "00005808",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Takanodai",
+          "from_id": "00005808",
+          "to": "Ogawa(Tokyo)",
+          "to_id": "00003705",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ogawa(Tokyo)",
+          "from_id": "00003705",
+          "to": "Higashi-Murayama",
+          "to_id": "00006770",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:54:13.453Z"
+}

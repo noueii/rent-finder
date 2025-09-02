@@ -1,0 +1,152 @@
+{
+  "line": "Tobu Kameido",
+  "operator": "Tobu Railway",
+  "navitime_id": "00000802",
+  "first_station_id": "00000650",
+  "stations": [
+    {
+      "name": "Hikifune",
+      "japanese_name": "曳舟",
+      "station_id": "00000650",
+      "order": 1,
+      "transfers": [
+        "Tobu Isesaki Line (SKYTREE Line)",
+        "Tobu Isesaki Line (SKYTREE Line)( Oshiage-Hikifune)"
+      ]
+    },
+    {
+      "name": "Omurai",
+      "japanese_name": "小村井",
+      "station_id": "00003718",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-azuma",
+      "japanese_name": "東あずま",
+      "station_id": "00006629",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Kameidosuijin",
+      "japanese_name": "亀戸水神",
+      "station_id": "00001523",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Kameido",
+      "japanese_name": "亀戸",
+      "station_id": "00001522",
+      "order": 5,
+      "transfers": [
+        "JR Sobu Main Line(Tokyo-Choshi)"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "8266008f",
+      "trainName": "Tobu Kameido Line",
+      "destination": "Kameido",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "03",
+      "type": "Local"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Tobu Kameido",
+      "train_type": "Local",
+      "total_stops": 5,
+      "stops": [
+        {
+          "name": "Hikifune",
+          "station_id": "00000650",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.816669,
+            "lat": 35.718084
+          }
+        },
+        {
+          "name": "Omurai",
+          "station_id": "00003718",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.828069,
+            "lat": 35.710165
+          }
+        },
+        {
+          "name": "Higashi-azuma",
+          "station_id": "00006629",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.831906,
+            "lat": 35.70706
+          }
+        },
+        {
+          "name": "Kameidosuijin",
+          "station_id": "00001523",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.833673,
+            "lat": 35.700297
+          }
+        },
+        {
+          "name": "Kameido",
+          "station_id": "00001522",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.826864,
+            "lat": 35.697696
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Hikifune",
+          "from_id": "00000650",
+          "to": "Omurai",
+          "to_id": "00003718",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Omurai",
+          "from_id": "00003718",
+          "to": "Higashi-azuma",
+          "to_id": "00006629",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Higashi-azuma",
+          "from_id": "00006629",
+          "to": "Kameidosuijin",
+          "to_id": "00001523",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kameidosuijin",
+          "from_id": "00001523",
+          "to": "Kameido",
+          "to_id": "00001522",
+          "travel_time_minutes": 2
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:56:30.878Z"
+}

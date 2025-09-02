@@ -1,0 +1,1049 @@
+{
+  "line": "Keikyu Main Line",
+  "operator": "Keikyu Corporation",
+  "navitime_id": "00000298",
+  "first_station_id": "00005252",
+  "stations": [
+    {
+      "name": "Sengakuji",
+      "japanese_name": "泉岳寺",
+      "station_id": "00005252",
+      "order": 1,
+      "transfers": [
+        "Toei Asakusa Line"
+      ]
+    },
+    {
+      "name": "Shinagawa",
+      "japanese_name": "品川",
+      "station_id": "00007825",
+      "order": 2,
+      "transfers": [
+        "JR Tokaido Shinkansen",
+        "JR Yokosuka Line",
+        "JR Keihintohoku Line",
+        "JR Yamanote Line",
+        "JR Tokaido Main Line(Tokyo-Atami)"
+      ]
+    },
+    {
+      "name": "Kita-Shinagawa",
+      "japanese_name": "北品川",
+      "station_id": "00008393",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Shim-bamba",
+      "japanese_name": "新馬場",
+      "station_id": "00004344",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Aomono-Yokochō",
+      "japanese_name": "青物横丁",
+      "station_id": "00004985",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Samezu",
+      "japanese_name": "鮫洲",
+      "station_id": "00002944",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Tachiaigawa",
+      "japanese_name": "立会川",
+      "station_id": "00008983",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Omorikaigan",
+      "japanese_name": "大森海岸",
+      "station_id": "00005644",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Heiwajima",
+      "japanese_name": "平和島",
+      "station_id": "00008112",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Omorimachi",
+      "japanese_name": "大森町",
+      "station_id": "00005646",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Umeyashiki(Tokyo)",
+      "japanese_name": "梅屋敷(東京都)",
+      "station_id": "00007394",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Keikyu-Kamata",
+      "japanese_name": "京急蒲田",
+      "station_id": "00001715",
+      "order": 12,
+      "transfers": [
+        "Keikyu Airport Line"
+      ]
+    },
+    {
+      "name": "Zoshiki",
+      "japanese_name": "雑色",
+      "station_id": "00002938",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Rokugodote",
+      "japanese_name": "六郷土手",
+      "station_id": "00009079",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Keikyu-Kawasaki",
+      "japanese_name": "京急川崎",
+      "station_id": "00001718",
+      "order": 15,
+      "transfers": [
+        "Keikyudaishi Line"
+      ]
+    },
+    {
+      "name": "Hatchonawate",
+      "japanese_name": "八丁畷",
+      "station_id": "00007545",
+      "order": 16,
+      "transfers": [
+        "JR Nambu Line(Shitte-Hamakawasaki)"
+      ]
+    },
+    {
+      "name": "Tsurumi-ichiba",
+      "japanese_name": "鶴見市場",
+      "station_id": "00006387",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Keikyu-Tsurumi",
+      "japanese_name": "京急鶴見",
+      "station_id": "00001721",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Kagetsusojiji",
+      "japanese_name": "花月総持寺",
+      "station_id": "00001099",
+      "order": 19,
+      "transfers": []
+    },
+    {
+      "name": "Namamugi",
+      "japanese_name": "生麦",
+      "station_id": "00004684",
+      "order": 20,
+      "transfers": []
+    },
+    {
+      "name": "Keikyu-Shinkoyasu",
+      "japanese_name": "京急新子安",
+      "station_id": "00001717",
+      "order": 21,
+      "transfers": []
+    },
+    {
+      "name": "Koyasu",
+      "japanese_name": "子安",
+      "station_id": "00003197",
+      "order": 22,
+      "transfers": []
+    },
+    {
+      "name": "Kanagawa-shimmachi",
+      "japanese_name": "神奈川新町",
+      "station_id": "00004466",
+      "order": 23,
+      "transfers": []
+    },
+    {
+      "name": "Keikyu Higashikanagawa",
+      "japanese_name": "京急東神奈川",
+      "station_id": "00006151",
+      "order": 24,
+      "transfers": []
+    },
+    {
+      "name": "Kanagawa",
+      "japanese_name": "神奈川",
+      "station_id": "00004465",
+      "order": 25,
+      "transfers": []
+    },
+    {
+      "name": "Yokohama",
+      "japanese_name": "横浜",
+      "station_id": "00000838",
+      "order": 26,
+      "transfers": [
+        "JR Yokosuka Line",
+        "JR Keihintohoku Line",
+        "JR Negishi Line",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "Yokohama City Subway Blue Line",
+        "Sotetsu Main Line",
+        "Tokyu Toyoko Line",
+        "Yokohamakosoku Railway Minatomirai Line"
+      ]
+    },
+    {
+      "name": "Tobe",
+      "japanese_name": "戸部",
+      "station_id": "00002203",
+      "order": 27,
+      "transfers": []
+    },
+    {
+      "name": "Hinodecho",
+      "japanese_name": "日ノ出町",
+      "station_id": "00007238",
+      "order": 28,
+      "transfers": []
+    },
+    {
+      "name": "Koganecho",
+      "japanese_name": "黄金町",
+      "station_id": "00000849",
+      "order": 29,
+      "transfers": []
+    },
+    {
+      "name": "Minami-ota",
+      "japanese_name": "南太田",
+      "station_id": "00007129",
+      "order": 30,
+      "transfers": []
+    },
+    {
+      "name": "Idogaya",
+      "japanese_name": "井土ヶ谷",
+      "station_id": "00000431",
+      "order": 31,
+      "transfers": []
+    },
+    {
+      "name": "Gumyoji(Keikyu Line)",
+      "japanese_name": "弘明寺(京急線)",
+      "station_id": "00002411",
+      "order": 32,
+      "transfers": []
+    },
+    {
+      "name": "Kamiooka",
+      "japanese_name": "上大岡",
+      "station_id": "00004013",
+      "order": 33,
+      "transfers": [
+        "Yokohama City Subway Blue Line"
+      ]
+    },
+    {
+      "name": "Byobugaura",
+      "japanese_name": "屏風浦",
+      "station_id": "00009150",
+      "order": 34,
+      "transfers": []
+    },
+    {
+      "name": "Sugita(Kanagawa)",
+      "japanese_name": "杉田(神奈川県)",
+      "station_id": "00004592",
+      "order": 35,
+      "transfers": []
+    },
+    {
+      "name": "Keikyu-Tomioka",
+      "japanese_name": "京急富岡",
+      "station_id": "00001723",
+      "order": 36,
+      "transfers": []
+    },
+    {
+      "name": "Nokendai",
+      "japanese_name": "能見台",
+      "station_id": "00007332",
+      "order": 37,
+      "transfers": []
+    },
+    {
+      "name": "Kanazawa-bunko",
+      "japanese_name": "金沢文庫",
+      "station_id": "00001891",
+      "order": 38,
+      "transfers": []
+    },
+    {
+      "name": "Kanazawa-hakkei(Keikyu Line)",
+      "japanese_name": "金沢八景(京急線)",
+      "station_id": "00001890",
+      "order": 39,
+      "transfers": [
+        "Keikyuzushi Line"
+      ]
+    },
+    {
+      "name": "Oppama",
+      "japanese_name": "追浜",
+      "station_id": "00006344",
+      "order": 40,
+      "transfers": []
+    },
+    {
+      "name": "Keikyu-Taura",
+      "japanese_name": "京急田浦",
+      "station_id": "00001722",
+      "order": 41,
+      "transfers": []
+    },
+    {
+      "name": "Anjinzuka",
+      "japanese_name": "安針塚",
+      "station_id": "00000272",
+      "order": 42,
+      "transfers": []
+    },
+    {
+      "name": "Hemi",
+      "japanese_name": "逸見",
+      "station_id": "00000467",
+      "order": 43,
+      "transfers": []
+    },
+    {
+      "name": "Shioiri",
+      "japanese_name": "汐入",
+      "station_id": "00003335",
+      "order": 44,
+      "transfers": []
+    },
+    {
+      "name": "Yokosuka-chuo",
+      "japanese_name": "横須賀中央",
+      "station_id": "00000827",
+      "order": 45,
+      "transfers": []
+    },
+    {
+      "name": "Kenritsu-daigaku",
+      "japanese_name": "県立大学",
+      "station_id": "00001714",
+      "order": 46,
+      "transfers": []
+    },
+    {
+      "name": "Horinouchi",
+      "japanese_name": "堀ノ内",
+      "station_id": "00008428",
+      "order": 47,
+      "transfers": [
+        "Keikyu Kurihama Line"
+      ]
+    },
+    {
+      "name": "Keikyu-Otsu",
+      "japanese_name": "京急大津",
+      "station_id": "00001719",
+      "order": 48,
+      "transfers": []
+    },
+    {
+      "name": "Mabori-kaigan",
+      "japanese_name": "馬堀海岸",
+      "station_id": "00007383",
+      "order": 49,
+      "transfers": []
+    },
+    {
+      "name": "Uraga",
+      "japanese_name": "浦賀",
+      "station_id": "00000620",
+      "order": 50,
+      "transfers": []
+    }
+  ],
+  "train_types": [
+    "Rapid Express",
+    "Express",
+    "Limited Express",
+    "AP Limited Express",
+    "Local"
+  ],
+  "example_trains": {
+    "Rapid Express": {
+      "trainId": "810500c2",
+      "trainName": "Keikyu Main Line Limited Express",
+      "destination": "Misakiguchi",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "11",
+      "type": "Rapid Express"
+    },
+    "Express": {
+      "trainId": "810500bd",
+      "trainName": "Keikyu Main Line Express",
+      "destination": "Haneda Airport Terminal 1‧2 (Keikyu)",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "03",
+      "type": "Express"
+    },
+    "Limited Express": {
+      "trainId": "810500c6",
+      "trainName": "Keikyu Main Line Limited Express",
+      "destination": "Keikyu-Kurihama",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "19",
+      "type": "Limited Express"
+    },
+    "AP Limited Express": {
+      "trainId": "810500ce",
+      "trainName": "Keikyu Main Line Airport Rapid Limited Express",
+      "destination": "Haneda Airport Terminal 1‧2 (Keikyu)",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "42",
+      "type": "AP Limited Express"
+    },
+    "Local": {
+      "trainId": "8105026e",
+      "trainName": "Keikyu Main Line",
+      "destination": "Shinagawa",
+      "hour": 0,
+      "date": "2025-07-11",
+      "time": "20",
+      "type": "Local"
+    }
+  },
+  "train_stop_details": {
+    "Rapid Express": {
+      "line": "Keikyu Main Line",
+      "train_type": "Rapid Express",
+      "total_stops": 10,
+      "stops": [
+        {
+          "name": "Sengakuji",
+          "station_id": "00005252",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.739946,
+            "lat": 35.638664
+          }
+        },
+        {
+          "name": "Shinagawa",
+          "station_id": "00007825",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.737987,
+            "lat": 35.628075
+          }
+        },
+        {
+          "name": "Keikyu-Kamata",
+          "station_id": "00001715",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.723737,
+            "lat": 35.560695
+          }
+        },
+        {
+          "name": "Keikyu-Kawasaki",
+          "station_id": "00001718",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.700787,
+            "lat": 35.5328
+          }
+        },
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.622249,
+            "lat": 35.465767
+          }
+        },
+        {
+          "name": "Kamiooka",
+          "station_id": "00004013",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.596682,
+            "lat": 35.409178
+          }
+        },
+        {
+          "name": "Kanazawa-bunko",
+          "station_id": "00001891",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.621595,
+            "lat": 35.342844
+          }
+        },
+        {
+          "name": "Kanazawa-hakkei(Keikyu Line)",
+          "station_id": "00001890",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.620167,
+            "lat": 35.331186
+          }
+        },
+        {
+          "name": "Yokosuka-chuo",
+          "station_id": "00000827",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.670225,
+            "lat": 35.278588
+          }
+        },
+        {
+          "name": "Horinouchi",
+          "station_id": "00008428",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.686541,
+            "lat": 35.263372
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Sengakuji",
+          "from_id": "00005252",
+          "to": "Shinagawa",
+          "to_id": "00007825",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shinagawa",
+          "from_id": "00007825",
+          "to": "Keikyu-Kamata",
+          "to_id": "00001715",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Keikyu-Kamata",
+          "from_id": "00001715",
+          "to": "Keikyu-Kawasaki",
+          "to_id": "00001718",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Keikyu-Kawasaki",
+          "from_id": "00001718",
+          "to": "Yokohama",
+          "to_id": "00000838",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Yokohama",
+          "from_id": "00000838",
+          "to": "Kamiooka",
+          "to_id": "00004013",
+          "travel_time_minutes": 8
+        },
+        {
+          "from": "Kamiooka",
+          "from_id": "00004013",
+          "to": "Kanazawa-bunko",
+          "to_id": "00001891",
+          "travel_time_minutes": 8
+        },
+        {
+          "from": "Kanazawa-bunko",
+          "from_id": "00001891",
+          "to": "Kanazawa-hakkei(Keikyu Line)",
+          "to_id": "00001890",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kanazawa-hakkei(Keikyu Line)",
+          "from_id": "00001890",
+          "to": "Yokosuka-chuo",
+          "to_id": "00000827",
+          "travel_time_minutes": 9
+        },
+        {
+          "from": "Yokosuka-chuo",
+          "from_id": "00000827",
+          "to": "Horinouchi",
+          "to_id": "00008428",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Express": {
+      "line": "Keikyu Main Line",
+      "train_type": "Express",
+      "total_stops": 6,
+      "stops": [
+        {
+          "name": "Sengakuji",
+          "station_id": "00005252",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.739946,
+            "lat": 35.638664
+          }
+        },
+        {
+          "name": "Shinagawa",
+          "station_id": "00007825",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.737987,
+            "lat": 35.628075
+          }
+        },
+        {
+          "name": "Aomono-Yokochō",
+          "station_id": "00004985",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.742917,
+            "lat": 35.609556
+          }
+        },
+        {
+          "name": "Tachiaigawa",
+          "station_id": "00008983",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.738758,
+            "lat": 35.598201
+          }
+        },
+        {
+          "name": "Heiwajima",
+          "station_id": "00008112",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.734975,
+            "lat": 35.578735
+          }
+        },
+        {
+          "name": "Keikyu-Kamata",
+          "station_id": "00001715",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.723737,
+            "lat": 35.560695
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Sengakuji",
+          "from_id": "00005252",
+          "to": "Shinagawa",
+          "to_id": "00007825",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shinagawa",
+          "from_id": "00007825",
+          "to": "Aomono-Yokochō",
+          "to_id": "00004985",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Aomono-Yokochō",
+          "from_id": "00004985",
+          "to": "Tachiaigawa",
+          "to_id": "00008983",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tachiaigawa",
+          "from_id": "00008983",
+          "to": "Heiwajima",
+          "to_id": "00008112",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Heiwajima",
+          "from_id": "00008112",
+          "to": "Keikyu-Kamata",
+          "to_id": "00001715",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Limited Express": {
+      "line": "Keikyu Main Line",
+      "train_type": "Limited Express",
+      "total_stops": 15,
+      "stops": [
+        {
+          "name": "Sengakuji",
+          "station_id": "00005252",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.739946,
+            "lat": 35.638664
+          }
+        },
+        {
+          "name": "Shinagawa",
+          "station_id": "00007825",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.737987,
+            "lat": 35.628075
+          }
+        },
+        {
+          "name": "Aomono-Yokochō",
+          "station_id": "00004985",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.742917,
+            "lat": 35.609556
+          }
+        },
+        {
+          "name": "Heiwajima",
+          "station_id": "00008112",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.734975,
+            "lat": 35.578735
+          }
+        },
+        {
+          "name": "Keikyu-Kamata",
+          "station_id": "00001715",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.723737,
+            "lat": 35.560695
+          }
+        },
+        {
+          "name": "Keikyu-Kawasaki",
+          "station_id": "00001718",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.700787,
+            "lat": 35.5328
+          }
+        },
+        {
+          "name": "Kanagawa-shimmachi",
+          "station_id": "00004466",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.639949,
+            "lat": 35.48136
+          }
+        },
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.622249,
+            "lat": 35.465767
+          }
+        },
+        {
+          "name": "Kamiooka",
+          "station_id": "00004013",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.596682,
+            "lat": 35.409178
+          }
+        },
+        {
+          "name": "Kanazawa-bunko",
+          "station_id": "00001891",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.621595,
+            "lat": 35.342844
+          }
+        },
+        {
+          "name": "Kanazawa-hakkei(Keikyu Line)",
+          "station_id": "00001890",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.620167,
+            "lat": 35.331186
+          }
+        },
+        {
+          "name": "Oppama",
+          "station_id": "00006344",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.624866,
+            "lat": 35.315799
+          }
+        },
+        {
+          "name": "Shioiri",
+          "station_id": "00003335",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.661964,
+            "lat": 35.280257
+          }
+        },
+        {
+          "name": "Yokosuka-chuo",
+          "station_id": "00000827",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.670225,
+            "lat": 35.278588
+          }
+        },
+        {
+          "name": "Horinouchi",
+          "station_id": "00008428",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.686541,
+            "lat": 35.263372
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Sengakuji",
+          "from_id": "00005252",
+          "to": "Shinagawa",
+          "to_id": "00007825",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shinagawa",
+          "from_id": "00007825",
+          "to": "Aomono-Yokochō",
+          "to_id": "00004985",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Aomono-Yokochō",
+          "from_id": "00004985",
+          "to": "Heiwajima",
+          "to_id": "00008112",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Heiwajima",
+          "from_id": "00008112",
+          "to": "Keikyu-Kamata",
+          "to_id": "00001715",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Keikyu-Kamata",
+          "from_id": "00001715",
+          "to": "Keikyu-Kawasaki",
+          "to_id": "00001718",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Keikyu-Kawasaki",
+          "from_id": "00001718",
+          "to": "Kanagawa-shimmachi",
+          "to_id": "00004466",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Kanagawa-shimmachi",
+          "from_id": "00004466",
+          "to": "Yokohama",
+          "to_id": "00000838",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yokohama",
+          "from_id": "00000838",
+          "to": "Kamiooka",
+          "to_id": "00004013",
+          "travel_time_minutes": 9
+        },
+        {
+          "from": "Kamiooka",
+          "from_id": "00004013",
+          "to": "Kanazawa-bunko",
+          "to_id": "00001891",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Kanazawa-bunko",
+          "from_id": "00001891",
+          "to": "Kanazawa-hakkei(Keikyu Line)",
+          "to_id": "00001890",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kanazawa-hakkei(Keikyu Line)",
+          "from_id": "00001890",
+          "to": "Oppama",
+          "to_id": "00006344",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Oppama",
+          "from_id": "00006344",
+          "to": "Shioiri",
+          "to_id": "00003335",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Shioiri",
+          "from_id": "00003335",
+          "to": "Yokosuka-chuo",
+          "to_id": "00000827",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Yokosuka-chuo",
+          "from_id": "00000827",
+          "to": "Horinouchi",
+          "to_id": "00008428",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "AP Limited Express": {
+      "line": "Keikyu Main Line",
+      "train_type": "AP Limited Express",
+      "total_stops": 2,
+      "stops": [
+        {
+          "name": "Sengakuji",
+          "station_id": "00005252",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.739946,
+            "lat": 35.638664
+          }
+        },
+        {
+          "name": "Shinagawa",
+          "station_id": "00007825",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.737987,
+            "lat": 35.628075
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Sengakuji",
+          "from_id": "00005252",
+          "to": "Shinagawa",
+          "to_id": "00007825",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Local": {
+      "line": "Keikyu Main Line",
+      "train_type": "Local",
+      "total_stops": 2,
+      "stops": [
+        {
+          "name": "Sengakuji",
+          "station_id": "00005252",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.739946,
+            "lat": 35.638664
+          }
+        },
+        {
+          "name": "Shinagawa",
+          "station_id": "00007825",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.737987,
+            "lat": 35.628075
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Sengakuji",
+          "from_id": "00005252",
+          "to": "Shinagawa",
+          "to_id": "00007825",
+          "travel_time_minutes": 2
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:53:52.566Z"
+}

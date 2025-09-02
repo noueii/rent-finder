@@ -1,0 +1,706 @@
+{
+  "line": "Toei Shinjuku",
+  "operator": "Toei",
+  "navitime_id": "00000794",
+  "first_station_id": "00004254",
+  "stations": [
+    {
+      "name": "Shinjuku",
+      "japanese_name": "新宿",
+      "station_id": "00004254",
+      "order": 1,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "Keio Line",
+        "Keio New Line",
+        "Odakyu Odawara Line",
+        "Tokyo Metro Marunouchi Line",
+        "Toeioedo Line(Loop)",
+        "JR Shonan-Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Shinjuku Sanchome",
+      "japanese_name": "新宿三丁目",
+      "station_id": "00004256",
+      "order": 2,
+      "transfers": [
+        "Tokyo Metro Marunouchi Line",
+        "Tokyo Metro Fukutoshin Line"
+      ]
+    },
+    {
+      "name": "Akebonobashi",
+      "japanese_name": "曙橋",
+      "station_id": "00003612",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Ichigaya",
+      "japanese_name": "市ヶ谷",
+      "station_id": "00003202",
+      "order": 4,
+      "transfers": [
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "Tokyo Metro Namboku Line",
+        "Tokyo Metro Yurakucho Line"
+      ]
+    },
+    {
+      "name": "Kudanshita",
+      "japanese_name": "九段下",
+      "station_id": "00001921",
+      "order": 5,
+      "transfers": [
+        "Tokyo Metro Tozai Line",
+        "Tokyo Metro Hanzomon Line"
+      ]
+    },
+    {
+      "name": "Jimbōchō",
+      "japanese_name": "神保町",
+      "station_id": "00004473",
+      "order": 6,
+      "transfers": [
+        "Tokyo Metro Hanzomon Line",
+        "Toei Mita Line"
+      ]
+    },
+    {
+      "name": "Ogawamachi(Tokyo)",
+      "japanese_name": "小川町(東京都)",
+      "station_id": "00003710",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Iwamotocho",
+      "japanese_name": "岩本町",
+      "station_id": "00001443",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Bakuro-yokoyama",
+      "japanese_name": "馬喰横山",
+      "station_id": "00007372",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Hamacho",
+      "japanese_name": "浜町",
+      "station_id": "00007848",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Morishita (Tokyo)",
+      "japanese_name": "森下(東京都)",
+      "station_id": "00004388",
+      "order": 11,
+      "transfers": [
+        "Toeioedo Line(Loop)"
+      ]
+    },
+    {
+      "name": "Kikukawa",
+      "japanese_name": "菊川(東京都)",
+      "station_id": "00001542",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Sumiyoshi(Tokyo)",
+      "japanese_name": "住吉(東京都)",
+      "station_id": "00003508",
+      "order": 13,
+      "transfers": [
+        "Tokyo Metro Hanzomon Line"
+      ]
+    },
+    {
+      "name": "Nishi-ojima",
+      "japanese_name": "西大島",
+      "station_id": "00004862",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Ojima",
+      "japanese_name": "大島(東京都)",
+      "station_id": "00005730",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-ojima",
+      "japanese_name": "東大島",
+      "station_id": "00006781",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Funabori",
+      "japanese_name": "船堀",
+      "station_id": "00005300",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Ichinoe",
+      "japanese_name": "一之江",
+      "station_id": "00000460",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Mizue",
+      "japanese_name": "瑞江",
+      "station_id": "00004580",
+      "order": 19,
+      "transfers": []
+    },
+    {
+      "name": "Shinozaki",
+      "japanese_name": "篠崎",
+      "station_id": "00003399",
+      "order": 20,
+      "transfers": []
+    },
+    {
+      "name": "Motoyawata(Toei Shinjuku Line)",
+      "japanese_name": "本八幡〔新宿線〕",
+      "station_id": "00008497",
+      "order": 21,
+      "transfers": []
+    }
+  ],
+  "train_types": [
+    "Local Train",
+    "Express"
+  ],
+  "example_trains": {
+    "Local Train": {
+      "trainId": "825e0039",
+      "trainName": "Toei Shinjuku Line",
+      "destination": "Motoyawata(Toei Shinjuku Line)",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "04",
+      "type": "Local Train"
+    },
+    "Express": {
+      "trainId": "825e0089",
+      "trainName": "Toei Shinjuku Line Express",
+      "destination": "Motoyawata(Toei Shinjuku Line)",
+      "hour": 17,
+      "date": "2025-07-11",
+      "time": "38",
+      "type": "Express"
+    }
+  },
+  "train_stop_details": {
+    "Local Train": {
+      "line": "Toei Shinjuku",
+      "train_type": "Local Train",
+      "total_stops": 21,
+      "stops": [
+        {
+          "name": "Shinjuku",
+          "station_id": "00004254",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.698504,
+            "lat": 35.688466
+          }
+        },
+        {
+          "name": "Shinjuku Sanchome",
+          "station_id": "00004256",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.706866,
+            "lat": 35.691037
+          }
+        },
+        {
+          "name": "Akebonobashi",
+          "station_id": "00003612",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.722129,
+            "lat": 35.692403
+          }
+        },
+        {
+          "name": "Ichigaya",
+          "station_id": "00003202",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.737703,
+            "lat": 35.691609
+          }
+        },
+        {
+          "name": "Kudanshita",
+          "station_id": "00001921",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.751429,
+            "lat": 35.695476
+          }
+        },
+        {
+          "name": "Jimbōchō",
+          "station_id": "00004473",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.758061,
+            "lat": 35.695963
+          }
+        },
+        {
+          "name": "Ogawamachi(Tokyo)",
+          "station_id": "00003710",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.766493,
+            "lat": 35.694976
+          }
+        },
+        {
+          "name": "Iwamotocho",
+          "station_id": "00001443",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.775209,
+            "lat": 35.695584
+          }
+        },
+        {
+          "name": "Bakuro-yokoyama",
+          "station_id": "00007372",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.782727,
+            "lat": 35.692186
+          }
+        },
+        {
+          "name": "Hamacho",
+          "station_id": "00007848",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.787791,
+            "lat": 35.688572
+          }
+        },
+        {
+          "name": "Morishita (Tokyo)",
+          "station_id": "00004388",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.796756,
+            "lat": 35.687992
+          }
+        },
+        {
+          "name": "Kikukawa",
+          "station_id": "00001542",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.805972,
+            "lat": 35.688392
+          }
+        },
+        {
+          "name": "Sumiyoshi(Tokyo)",
+          "station_id": "00003508",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.815729,
+            "lat": 35.689001
+          }
+        },
+        {
+          "name": "Nishi-ojima",
+          "station_id": "00004862",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.826327,
+            "lat": 35.689382
+          }
+        },
+        {
+          "name": "Ojima",
+          "station_id": "00005730",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.83477,
+            "lat": 35.689762
+          }
+        },
+        {
+          "name": "Higashi-ojima",
+          "station_id": "00006781",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.847467,
+            "lat": 35.689874
+          }
+        },
+        {
+          "name": "Funabori",
+          "station_id": "00005300",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.864249,
+            "lat": 35.683797
+          }
+        },
+        {
+          "name": "Ichinoe",
+          "station_id": "00000460",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.882867,
+            "lat": 35.68602
+          }
+        },
+        {
+          "name": "Mizue",
+          "station_id": "00004580",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.897686,
+            "lat": 35.693284
+          }
+        },
+        {
+          "name": "Shinozaki",
+          "station_id": "00003399",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.903725,
+            "lat": 35.706101
+          }
+        },
+        {
+          "name": "Motoyawata(Toei Shinjuku Line)",
+          "station_id": "00008497",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.926722,
+            "lat": 35.72306
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shinjuku",
+          "from_id": "00004254",
+          "to": "Shinjuku Sanchome",
+          "to_id": "00004256",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shinjuku Sanchome",
+          "from_id": "00004256",
+          "to": "Akebonobashi",
+          "to_id": "00003612",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Akebonobashi",
+          "from_id": "00003612",
+          "to": "Ichigaya",
+          "to_id": "00003202",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ichigaya",
+          "from_id": "00003202",
+          "to": "Kudanshita",
+          "to_id": "00001921",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kudanshita",
+          "from_id": "00001921",
+          "to": "Jimbōchō",
+          "to_id": "00004473",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Jimbōchō",
+          "from_id": "00004473",
+          "to": "Ogawamachi(Tokyo)",
+          "to_id": "00003710",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ogawamachi(Tokyo)",
+          "from_id": "00003710",
+          "to": "Iwamotocho",
+          "to_id": "00001443",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Iwamotocho",
+          "from_id": "00001443",
+          "to": "Bakuro-yokoyama",
+          "to_id": "00007372",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Bakuro-yokoyama",
+          "from_id": "00007372",
+          "to": "Hamacho",
+          "to_id": "00007848",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hamacho",
+          "from_id": "00007848",
+          "to": "Morishita (Tokyo)",
+          "to_id": "00004388",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Morishita (Tokyo)",
+          "from_id": "00004388",
+          "to": "Kikukawa",
+          "to_id": "00001542",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kikukawa",
+          "from_id": "00001542",
+          "to": "Sumiyoshi(Tokyo)",
+          "to_id": "00003508",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Sumiyoshi(Tokyo)",
+          "from_id": "00003508",
+          "to": "Nishi-ojima",
+          "to_id": "00004862",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nishi-ojima",
+          "from_id": "00004862",
+          "to": "Ojima",
+          "to_id": "00005730",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ojima",
+          "from_id": "00005730",
+          "to": "Higashi-ojima",
+          "to_id": "00006781",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Higashi-ojima",
+          "from_id": "00006781",
+          "to": "Funabori",
+          "to_id": "00005300",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Funabori",
+          "from_id": "00005300",
+          "to": "Ichinoe",
+          "to_id": "00000460",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ichinoe",
+          "from_id": "00000460",
+          "to": "Mizue",
+          "to_id": "00004580",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Mizue",
+          "from_id": "00004580",
+          "to": "Shinozaki",
+          "to_id": "00003399",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shinozaki",
+          "from_id": "00003399",
+          "to": "Motoyawata(Toei Shinjuku Line)",
+          "to_id": "00008497",
+          "travel_time_minutes": 4
+        }
+      ]
+    },
+    "Express": {
+      "line": "Toei Shinjuku",
+      "train_type": "Express",
+      "total_stops": 8,
+      "stops": [
+        {
+          "name": "Shinjuku",
+          "station_id": "00004254",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.698504,
+            "lat": 35.688466
+          }
+        },
+        {
+          "name": "Ichigaya",
+          "station_id": "00003202",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.737703,
+            "lat": 35.691609
+          }
+        },
+        {
+          "name": "Jimbōchō",
+          "station_id": "00004473",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.758061,
+            "lat": 35.695963
+          }
+        },
+        {
+          "name": "Bakuro-yokoyama",
+          "station_id": "00007372",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.782727,
+            "lat": 35.692186
+          }
+        },
+        {
+          "name": "Morishita (Tokyo)",
+          "station_id": "00004388",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.796756,
+            "lat": 35.687992
+          }
+        },
+        {
+          "name": "Ojima",
+          "station_id": "00005730",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.83477,
+            "lat": 35.689762
+          }
+        },
+        {
+          "name": "Funabori",
+          "station_id": "00005300",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.864249,
+            "lat": 35.683797
+          }
+        },
+        {
+          "name": "Motoyawata(Toei Shinjuku Line)",
+          "station_id": "00008497",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.926722,
+            "lat": 35.72306
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shinjuku",
+          "from_id": "00004254",
+          "to": "Ichigaya",
+          "to_id": "00003202",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Ichigaya",
+          "from_id": "00003202",
+          "to": "Jimbōchō",
+          "to_id": "00004473",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Jimbōchō",
+          "from_id": "00004473",
+          "to": "Bakuro-yokoyama",
+          "to_id": "00007372",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Bakuro-yokoyama",
+          "from_id": "00007372",
+          "to": "Morishita (Tokyo)",
+          "to_id": "00004388",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Morishita (Tokyo)",
+          "from_id": "00004388",
+          "to": "Ojima",
+          "to_id": "00005730",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Ojima",
+          "from_id": "00005730",
+          "to": "Funabori",
+          "to_id": "00005300",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Funabori",
+          "from_id": "00005300",
+          "to": "Motoyawata(Toei Shinjuku Line)",
+          "to_id": "00008497",
+          "travel_time_minutes": 8
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:56:08.042Z"
+}

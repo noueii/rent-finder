@@ -1,0 +1,128 @@
+{
+  "line": "Tobu Isesaki Line (Skytree Line)",
+  "operator": "Tobu Railway",
+  "navitime_id": "00000999",
+  "first_station_id": "00000813",
+  "stations": [
+    {
+      "name": "Oshiage(SKYTREE)",
+      "japanese_name": "押上[スカイツリー前]",
+      "station_id": "00000813",
+      "order": 1,
+      "transfers": [
+        "Keisei Oshiage Line",
+        "Tokyo Metro Hanzomon Line",
+        "Toei Asakusa Line"
+      ]
+    },
+    {
+      "name": "Hikifune",
+      "japanese_name": "曳舟",
+      "station_id": "00000650",
+      "order": 2,
+      "transfers": [
+        "Tobu Isesaki Line (SKYTREE Line)",
+        "Tobu Kameido Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Semi Express",
+    "Express"
+  ],
+  "example_trains": {
+    "Semi Express": {
+      "trainId": "82eb0000",
+      "trainName": "Tobu Isesaki Line(Sky Tree Line)Semi Express",
+      "destination": "Minamikurihashi",
+      "hour": 5,
+      "date": "2025-07-11",
+      "time": "14",
+      "type": "Semi Express"
+    },
+    "Express": {
+      "trainId": "82eb002b",
+      "trainName": "Tobu Isesaki Line(Sky Tree Line)Express",
+      "destination": "Kuki",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "05",
+      "type": "Express"
+    }
+  },
+  "train_stop_details": {
+    "Semi Express": {
+      "line": "Tobu Isesaki Line (Skytree Line)",
+      "train_type": "Semi Express",
+      "total_stops": 2,
+      "stops": [
+        {
+          "name": "Oshiage(SKYTREE)",
+          "station_id": "00000813",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.813287,
+            "lat": 35.710286
+          }
+        },
+        {
+          "name": "Hikifune",
+          "station_id": "00000650",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.816669,
+            "lat": 35.718084
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Oshiage(SKYTREE)",
+          "from_id": "00000813",
+          "to": "Hikifune",
+          "to_id": "00000650",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Express": {
+      "line": "Tobu Isesaki Line (Skytree Line)",
+      "train_type": "Express",
+      "total_stops": 2,
+      "stops": [
+        {
+          "name": "Oshiage(SKYTREE)",
+          "station_id": "00000813",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.813287,
+            "lat": 35.710286
+          }
+        },
+        {
+          "name": "Hikifune",
+          "station_id": "00000650",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.816669,
+            "lat": 35.718084
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Oshiage(SKYTREE)",
+          "from_id": "00000813",
+          "to": "Hikifune",
+          "to_id": "00000650",
+          "travel_time_minutes": 2
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:56:55.559Z"
+}

@@ -1,0 +1,19 @@
+{
+  "routingDefaults": {
+    "walkSpeed": 1.33,
+    "transferPenalty": 180,
+    "transferSlack": 90,
+    "waitReluctance": 0.95,
+    "walkReluctance": 2.0,
+    "stairsReluctance": 2.0,
+    "numItineraries": 5,
+    "locale": "ja"
+  },
+  "transit": {
+    "dynamicSearchWindow": {
+      "minWindow": "PT45M",
+      "maxWindow": "PT2H"
+    }
+  },
+  "updaters": []
+}

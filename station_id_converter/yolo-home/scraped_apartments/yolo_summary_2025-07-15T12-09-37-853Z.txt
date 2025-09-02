@@ -1,0 +1,109 @@
+YOLO HOME Scraping Summary
+===========================
+
+Source: YOLO HOME (home.yolo-japan.com)
+Search URL: https://home.yolo-japan.com/en/tokyo/list?municipality_code=13101,13102,13103,13104,13105,13106,13107,13108,13109,13110,13111,13112,13113,13114,13115,13116,13117,13118,13119,13120,13121,13122,13123&priceTo=150&areaFrom=25&perPage=50&page=1
+Generated: 7/15/2025, 3:09:37 PM
+Execution Time: 3.92s
+
+Overview
+--------
+Total Apartments: 106
+Pages Scraped: 1
+
+Price Analysis
+--------------
+Monthly Rent Range: ¥0 - ¥0
+Average Monthly Rent: ¥0
+
+Size Analysis
+-------------
+Size Range: 0.0m² - 0.0m²
+Average Size: 0.0m²
+
+Layout Distribution
+-------------------
+
+
+Buildings (Top 10)
+------------------
+
+
+Ward Distribution
+-----------------
+
+
+Popular Stations (Top 10)
+-------------------------
+
+
+Sample Listings
+---------------
+
+1.  Apartment
+   Building: N/A
+   Room: N/A
+   
+   Price: ¥0/month
+   Size: 0m² | Floor: 
+   
+   Location:  
+   
+   
+   URL: https://home.yolo-japan.com/en/property/1462368
+
+---
+
+2.  Apartment
+   Building: N/A
+   Room: N/A
+   
+   Price: ¥0/month
+   Size: 0m² | Floor: 
+   
+   Location:  
+   
+   
+   URL: https://home.yolo-japan.com/en/property/1426524
+
+---
+
+3.  Apartment
+   Building: N/A
+   Room: N/A
+   
+   Price: ¥0/month
+   Size: 0m² | Floor: 
+   
+   Location:  
+   
+   
+   URL: https://home.yolo-japan.com/en/property/1387219
+
+---
+
+4.  Apartment
+   Building: N/A
+   Room: N/A
+   
+   Price: ¥0/month
+   Size: 0m² | Floor: 
+   
+   Location:  
+   
+   
+   URL: https://home.yolo-japan.com/en/property/1374969
+
+---
+
+5.  Apartment
+   Building: N/A
+   Room: N/A
+   
+   Price: ¥0/month
+   Size: 0m² | Floor: 
+   
+   Location:  
+   
+   
+   URL: https://home.yolo-japan.com/en/property/1441600

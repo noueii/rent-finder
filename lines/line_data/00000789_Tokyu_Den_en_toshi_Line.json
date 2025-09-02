@@ -1,0 +1,1218 @@
+{
+  "line": "Tokyu Den-en-toshi Line",
+  "operator": "Tokyu Corporation",
+  "navitime_id": "00000789",
+  "first_station_id": "00003544",
+  "stations": [
+    {
+      "name": "Shibuya",
+      "japanese_name": "渋谷",
+      "station_id": "00003544",
+      "order": 1,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "Keio Inokashira Line",
+        "Tokyo Metro Ginza Line",
+        "Tokyo Metro Hanzomon Line",
+        "Tokyo Metro Fukutoshin Line",
+        "Tokyu Toyoko Line",
+        "JR Shonan-Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Ikejiri-ohashi",
+      "japanese_name": "池尻大橋",
+      "station_id": "00005946",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Sangen-jaya",
+      "japanese_name": "三軒茶屋",
+      "station_id": "00003004",
+      "order": 3,
+      "transfers": [
+        "Tokyu Setagaya Line"
+      ]
+    },
+    {
+      "name": "Komazawa-daigaku",
+      "japanese_name": "駒沢大学",
+      "station_id": "00001944",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Sakura-shimmachi",
+      "japanese_name": "桜新町",
+      "station_id": "00002891",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Yoga",
+      "japanese_name": "用賀",
+      "station_id": "00008889",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Futako-tamagawa",
+      "japanese_name": "二子玉川",
+      "station_id": "00007197",
+      "order": 7,
+      "transfers": [
+        "Tokyu Oimachi Line"
+      ]
+    },
+    {
+      "name": "Futako-shinchi",
+      "japanese_name": "二子新地",
+      "station_id": "00007198",
+      "order": 8,
+      "transfers": [
+        "Tokyu Oimachi Line"
+      ]
+    },
+    {
+      "name": "Takatsu(Kanagawa)",
+      "japanese_name": "高津(神奈川県)",
+      "station_id": "00002605",
+      "order": 9,
+      "transfers": [
+        "Tokyu Oimachi Line"
+      ]
+    },
+    {
+      "name": "Mizonokuchi",
+      "japanese_name": "溝の口〔東急線〕",
+      "station_id": "00002454",
+      "order": 10,
+      "transfers": [
+        "Tokyu Oimachi Line"
+      ]
+    },
+    {
+      "name": "Kajigaya",
+      "japanese_name": "梶が谷",
+      "station_id": "00001248",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Miyazakidai",
+      "japanese_name": "宮崎台",
+      "station_id": "00001649",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Miyamaedaira",
+      "japanese_name": "宮前平",
+      "station_id": "00001655",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Saginuma",
+      "japanese_name": "鷺沼",
+      "station_id": "00002875",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Tama-plaza",
+      "japanese_name": "たまプラーザ",
+      "station_id": "00000077",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Azamino",
+      "japanese_name": "あざみ野",
+      "station_id": "00000012",
+      "order": 16,
+      "transfers": [
+        "Yokohama City Subway Blue Line"
+      ]
+    },
+    {
+      "name": "Eda(Kanagawa)",
+      "japanese_name": "江田(神奈川県)",
+      "station_id": "00002438",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Ichigao",
+      "japanese_name": "市が尾",
+      "station_id": "00003201",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Fujigaoka(Kanagawa)",
+      "japanese_name": "藤が丘(神奈川県)",
+      "station_id": "00006923",
+      "order": 19,
+      "transfers": []
+    },
+    {
+      "name": "Aobadai",
+      "japanese_name": "青葉台",
+      "station_id": "00004993",
+      "order": 20,
+      "transfers": []
+    },
+    {
+      "name": "Tana",
+      "japanese_name": "田奈",
+      "station_id": "00006502",
+      "order": 21,
+      "transfers": []
+    },
+    {
+      "name": "Nagatsuta",
+      "japanese_name": "長津田",
+      "station_id": "00006248",
+      "order": 22,
+      "transfers": [
+        "JR Yokohama Line",
+        "Tokyu Kodomonokuni Line"
+      ]
+    },
+    {
+      "name": "Tsukushino",
+      "japanese_name": "つくし野",
+      "station_id": "00000080",
+      "order": 23,
+      "transfers": []
+    },
+    {
+      "name": "Suzukakedai",
+      "japanese_name": "すずかけ台",
+      "station_id": "00000067",
+      "order": 24,
+      "transfers": []
+    },
+    {
+      "name": "Minami-machida-grandberry-park",
+      "japanese_name": "南町田グランベリーパーク",
+      "station_id": "00007142",
+      "order": 25,
+      "transfers": []
+    },
+    {
+      "name": "Tsukimino",
+      "japanese_name": "つきみ野",
+      "station_id": "00000079",
+      "order": 26,
+      "transfers": []
+    },
+    {
+      "name": "Chuo-Rinkan",
+      "japanese_name": "中央林間",
+      "station_id": "00006029",
+      "order": 27,
+      "transfers": [
+        "Odakyu Enoshima Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Express",
+    "Semi Express"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "825901b7",
+      "trainName": "Tokyu Den-en-toshi Line Local",
+      "destination": "Chuo-Rinkan",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "06",
+      "type": "Local"
+    },
+    "Express": {
+      "trainId": "825901b6",
+      "trainName": "Tokyu Den-en-toshi Line Express",
+      "destination": "Chuo-Rinkan",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "01",
+      "type": "Express"
+    },
+    "Semi Express": {
+      "trainId": "8259037b",
+      "trainName": "Tokyu Den-en-toshi Line Semi Express",
+      "destination": "Chuo-Rinkan",
+      "hour": 11,
+      "date": "2025-07-11",
+      "time": "31",
+      "type": "Semi Express"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Tokyu Den-en-toshi Line",
+      "train_type": "Local",
+      "total_stops": 27,
+      "stops": [
+        {
+          "name": "Shibuya",
+          "station_id": "00003544",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.701293,
+            "lat": 35.659463
+          }
+        },
+        {
+          "name": "Ikejiri-ohashi",
+          "station_id": "00005946",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.684567,
+            "lat": 35.650634
+          }
+        },
+        {
+          "name": "Sangen-jaya",
+          "station_id": "00003004",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.671198,
+            "lat": 35.643529
+          }
+        },
+        {
+          "name": "Komazawa-daigaku",
+          "station_id": "00001944",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.66169,
+            "lat": 35.633473
+          }
+        },
+        {
+          "name": "Sakura-shimmachi",
+          "station_id": "00002891",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.644982,
+            "lat": 35.631701
+          }
+        },
+        {
+          "name": "Yoga",
+          "station_id": "00008889",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.633913,
+            "lat": 35.626459
+          }
+        },
+        {
+          "name": "Futako-tamagawa",
+          "station_id": "00007197",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.627239,
+            "lat": 35.612205
+          }
+        },
+        {
+          "name": "Futako-shinchi",
+          "station_id": "00007198",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.622606,
+            "lat": 35.607208
+          }
+        },
+        {
+          "name": "Takatsu(Kanagawa)",
+          "station_id": "00002605",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.617572,
+            "lat": 35.603469
+          }
+        },
+        {
+          "name": "Mizonokuchi",
+          "station_id": "00002454",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.610652,
+            "lat": 35.599937
+          }
+        },
+        {
+          "name": "Kajigaya",
+          "station_id": "00001248",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.605713,
+            "lat": 35.593775
+          }
+        },
+        {
+          "name": "Miyazakidai",
+          "station_id": "00001649",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.591358,
+            "lat": 35.58732
+          }
+        },
+        {
+          "name": "Miyamaedaira",
+          "station_id": "00001655",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.582041,
+            "lat": 35.584937
+          }
+        },
+        {
+          "name": "Saginuma",
+          "station_id": "00002875",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.572986,
+            "lat": 35.579462
+          }
+        },
+        {
+          "name": "Tama-plaza",
+          "station_id": "00000077",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.558742,
+            "lat": 35.577519
+          }
+        },
+        {
+          "name": "Azamino",
+          "station_id": "00000012",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.553447,
+            "lat": 35.568604
+          }
+        },
+        {
+          "name": "Eda(Kanagawa)",
+          "station_id": "00002438",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.55149,
+            "lat": 35.558572
+          }
+        },
+        {
+          "name": "Ichigao",
+          "station_id": "00003201",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.541489,
+            "lat": 35.551579
+          }
+        },
+        {
+          "name": "Fujigaoka(Kanagawa)",
+          "station_id": "00006923",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.527859,
+            "lat": 35.543439
+          }
+        },
+        {
+          "name": "Aobadai",
+          "station_id": "00004993",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.516949,
+            "lat": 35.542863
+          }
+        },
+        {
+          "name": "Tana",
+          "station_id": "00006502",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.504868,
+            "lat": 35.53614
+          }
+        },
+        {
+          "name": "Nagatsuta",
+          "station_id": "00006248",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.494497,
+            "lat": 35.531953
+          }
+        },
+        {
+          "name": "Tsukushino",
+          "station_id": "00000080",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.485131,
+            "lat": 35.527594
+          }
+        },
+        {
+          "name": "Suzukakedai",
+          "station_id": "00000067",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.481784,
+            "lat": 35.517001
+          }
+        },
+        {
+          "name": "Minami-machida-grandberry-park",
+          "station_id": "00007142",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.470831,
+            "lat": 35.511457
+          }
+        },
+        {
+          "name": "Tsukimino",
+          "station_id": "00000079",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.458044,
+            "lat": 35.510315
+          }
+        },
+        {
+          "name": "Chuo-Rinkan",
+          "station_id": "00006029",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.444702,
+            "lat": 35.507589
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shibuya",
+          "from_id": "00003544",
+          "to": "Ikejiri-ohashi",
+          "to_id": "00005946",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Ikejiri-ohashi",
+          "from_id": "00005946",
+          "to": "Sangen-jaya",
+          "to_id": "00003004",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Sangen-jaya",
+          "from_id": "00003004",
+          "to": "Komazawa-daigaku",
+          "to_id": "00001944",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Komazawa-daigaku",
+          "from_id": "00001944",
+          "to": "Sakura-shimmachi",
+          "to_id": "00002891",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Sakura-shimmachi",
+          "from_id": "00002891",
+          "to": "Yoga",
+          "to_id": "00008889",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yoga",
+          "from_id": "00008889",
+          "to": "Futako-tamagawa",
+          "to_id": "00007197",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Futako-tamagawa",
+          "from_id": "00007197",
+          "to": "Futako-shinchi",
+          "to_id": "00007198",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Futako-shinchi",
+          "from_id": "00007198",
+          "to": "Takatsu(Kanagawa)",
+          "to_id": "00002605",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Takatsu(Kanagawa)",
+          "from_id": "00002605",
+          "to": "Mizonokuchi",
+          "to_id": "00002454",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Mizonokuchi",
+          "from_id": "00002454",
+          "to": "Kajigaya",
+          "to_id": "00001248",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kajigaya",
+          "from_id": "00001248",
+          "to": "Miyazakidai",
+          "to_id": "00001649",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Miyazakidai",
+          "from_id": "00001649",
+          "to": "Miyamaedaira",
+          "to_id": "00001655",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Miyamaedaira",
+          "from_id": "00001655",
+          "to": "Saginuma",
+          "to_id": "00002875",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Saginuma",
+          "from_id": "00002875",
+          "to": "Tama-plaza",
+          "to_id": "00000077",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tama-plaza",
+          "from_id": "00000077",
+          "to": "Azamino",
+          "to_id": "00000012",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Azamino",
+          "from_id": "00000012",
+          "to": "Eda(Kanagawa)",
+          "to_id": "00002438",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Eda(Kanagawa)",
+          "from_id": "00002438",
+          "to": "Ichigao",
+          "to_id": "00003201",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ichigao",
+          "from_id": "00003201",
+          "to": "Fujigaoka(Kanagawa)",
+          "to_id": "00006923",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Fujigaoka(Kanagawa)",
+          "from_id": "00006923",
+          "to": "Aobadai",
+          "to_id": "00004993",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Aobadai",
+          "from_id": "00004993",
+          "to": "Tana",
+          "to_id": "00006502",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tana",
+          "from_id": "00006502",
+          "to": "Nagatsuta",
+          "to_id": "00006248",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nagatsuta",
+          "from_id": "00006248",
+          "to": "Tsukushino",
+          "to_id": "00000080",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tsukushino",
+          "from_id": "00000080",
+          "to": "Suzukakedai",
+          "to_id": "00000067",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Suzukakedai",
+          "from_id": "00000067",
+          "to": "Minami-machida-grandberry-park",
+          "to_id": "00007142",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Minami-machida-grandberry-park",
+          "from_id": "00007142",
+          "to": "Tsukimino",
+          "to_id": "00000079",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tsukimino",
+          "from_id": "00000079",
+          "to": "Chuo-Rinkan",
+          "to_id": "00006029",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Express": {
+      "line": "Tokyu Den-en-toshi Line",
+      "train_type": "Express",
+      "total_stops": 11,
+      "stops": [
+        {
+          "name": "Shibuya",
+          "station_id": "00003544",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.701293,
+            "lat": 35.659463
+          }
+        },
+        {
+          "name": "Sangen-jaya",
+          "station_id": "00003004",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.671198,
+            "lat": 35.643529
+          }
+        },
+        {
+          "name": "Futako-tamagawa",
+          "station_id": "00007197",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.627239,
+            "lat": 35.612205
+          }
+        },
+        {
+          "name": "Mizonokuchi",
+          "station_id": "00002454",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.610652,
+            "lat": 35.599937
+          }
+        },
+        {
+          "name": "Saginuma",
+          "station_id": "00002875",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.572986,
+            "lat": 35.579462
+          }
+        },
+        {
+          "name": "Tama-plaza",
+          "station_id": "00000077",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.558742,
+            "lat": 35.577519
+          }
+        },
+        {
+          "name": "Azamino",
+          "station_id": "00000012",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.553447,
+            "lat": 35.568604
+          }
+        },
+        {
+          "name": "Aobadai",
+          "station_id": "00004993",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.516949,
+            "lat": 35.542863
+          }
+        },
+        {
+          "name": "Nagatsuta",
+          "station_id": "00006248",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.494497,
+            "lat": 35.531953
+          }
+        },
+        {
+          "name": "Minami-machida-grandberry-park",
+          "station_id": "00007142",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.470831,
+            "lat": 35.511457
+          }
+        },
+        {
+          "name": "Chuo-Rinkan",
+          "station_id": "00006029",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.444702,
+            "lat": 35.507589
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shibuya",
+          "from_id": "00003544",
+          "to": "Sangen-jaya",
+          "to_id": "00003004",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Sangen-jaya",
+          "from_id": "00003004",
+          "to": "Futako-tamagawa",
+          "to_id": "00007197",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Futako-tamagawa",
+          "from_id": "00007197",
+          "to": "Mizonokuchi",
+          "to_id": "00002454",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Mizonokuchi",
+          "from_id": "00002454",
+          "to": "Saginuma",
+          "to_id": "00002875",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Saginuma",
+          "from_id": "00002875",
+          "to": "Tama-plaza",
+          "to_id": "00000077",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tama-plaza",
+          "from_id": "00000077",
+          "to": "Azamino",
+          "to_id": "00000012",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Azamino",
+          "from_id": "00000012",
+          "to": "Aobadai",
+          "to_id": "00004993",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Aobadai",
+          "from_id": "00004993",
+          "to": "Nagatsuta",
+          "to_id": "00006248",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Nagatsuta",
+          "from_id": "00006248",
+          "to": "Minami-machida-grandberry-park",
+          "to_id": "00007142",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Minami-machida-grandberry-park",
+          "from_id": "00007142",
+          "to": "Chuo-Rinkan",
+          "to_id": "00006029",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Semi Express": {
+      "line": "Tokyu Den-en-toshi Line",
+      "train_type": "Semi Express",
+      "total_stops": 18,
+      "stops": [
+        {
+          "name": "Shibuya",
+          "station_id": "00003544",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.701293,
+            "lat": 35.659463
+          }
+        },
+        {
+          "name": "Ikejiri-ohashi",
+          "station_id": "00005946",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.684567,
+            "lat": 35.650634
+          }
+        },
+        {
+          "name": "Sangen-jaya",
+          "station_id": "00003004",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.671198,
+            "lat": 35.643529
+          }
+        },
+        {
+          "name": "Komazawa-daigaku",
+          "station_id": "00001944",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.66169,
+            "lat": 35.633473
+          }
+        },
+        {
+          "name": "Sakura-shimmachi",
+          "station_id": "00002891",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.644982,
+            "lat": 35.631701
+          }
+        },
+        {
+          "name": "Yoga",
+          "station_id": "00008889",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.633913,
+            "lat": 35.626459
+          }
+        },
+        {
+          "name": "Futako-tamagawa",
+          "station_id": "00007197",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.627239,
+            "lat": 35.612205
+          }
+        },
+        {
+          "name": "Mizonokuchi",
+          "station_id": "00002454",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.610652,
+            "lat": 35.599937
+          }
+        },
+        {
+          "name": "Saginuma",
+          "station_id": "00002875",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.572986,
+            "lat": 35.579462
+          }
+        },
+        {
+          "name": "Tama-plaza",
+          "station_id": "00000077",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.558742,
+            "lat": 35.577519
+          }
+        },
+        {
+          "name": "Azamino",
+          "station_id": "00000012",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.553447,
+            "lat": 35.568604
+          }
+        },
+        {
+          "name": "Aobadai",
+          "station_id": "00004993",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.516949,
+            "lat": 35.542863
+          }
+        },
+        {
+          "name": "Nagatsuta",
+          "station_id": "00006248",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.494497,
+            "lat": 35.531953
+          }
+        },
+        {
+          "name": "Tsukushino",
+          "station_id": "00000080",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.485131,
+            "lat": 35.527594
+          }
+        },
+        {
+          "name": "Suzukakedai",
+          "station_id": "00000067",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.481784,
+            "lat": 35.517001
+          }
+        },
+        {
+          "name": "Minami-machida-grandberry-park",
+          "station_id": "00007142",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.470831,
+            "lat": 35.511457
+          }
+        },
+        {
+          "name": "Tsukimino",
+          "station_id": "00000079",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.458044,
+            "lat": 35.510315
+          }
+        },
+        {
+          "name": "Chuo-Rinkan",
+          "station_id": "00006029",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.444702,
+            "lat": 35.507589
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shibuya",
+          "from_id": "00003544",
+          "to": "Ikejiri-ohashi",
+          "to_id": "00005946",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ikejiri-ohashi",
+          "from_id": "00005946",
+          "to": "Sangen-jaya",
+          "to_id": "00003004",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Sangen-jaya",
+          "from_id": "00003004",
+          "to": "Komazawa-daigaku",
+          "to_id": "00001944",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Komazawa-daigaku",
+          "from_id": "00001944",
+          "to": "Sakura-shimmachi",
+          "to_id": "00002891",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Sakura-shimmachi",
+          "from_id": "00002891",
+          "to": "Yoga",
+          "to_id": "00008889",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yoga",
+          "from_id": "00008889",
+          "to": "Futako-tamagawa",
+          "to_id": "00007197",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Futako-tamagawa",
+          "from_id": "00007197",
+          "to": "Mizonokuchi",
+          "to_id": "00002454",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Mizonokuchi",
+          "from_id": "00002454",
+          "to": "Saginuma",
+          "to_id": "00002875",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Saginuma",
+          "from_id": "00002875",
+          "to": "Tama-plaza",
+          "to_id": "00000077",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tama-plaza",
+          "from_id": "00000077",
+          "to": "Azamino",
+          "to_id": "00000012",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Azamino",
+          "from_id": "00000012",
+          "to": "Aobadai",
+          "to_id": "00004993",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Aobadai",
+          "from_id": "00004993",
+          "to": "Nagatsuta",
+          "to_id": "00006248",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Nagatsuta",
+          "from_id": "00006248",
+          "to": "Tsukushino",
+          "to_id": "00000080",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tsukushino",
+          "from_id": "00000080",
+          "to": "Suzukakedai",
+          "to_id": "00000067",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Suzukakedai",
+          "from_id": "00000067",
+          "to": "Minami-machida-grandberry-park",
+          "to_id": "00007142",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Minami-machida-grandberry-park",
+          "from_id": "00007142",
+          "to": "Tsukimino",
+          "to_id": "00000079",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tsukimino",
+          "from_id": "00000079",
+          "to": "Chuo-Rinkan",
+          "to_id": "00006029",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:55:47.667Z"
+}

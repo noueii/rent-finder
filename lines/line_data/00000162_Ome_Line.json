@@ -1,0 +1,1129 @@
+{
+  "line": "Ome Line",
+  "operator": "JR East",
+  "navitime_id": "00000162",
+  "first_station_id": "00008990",
+  "stations": [
+    {
+      "name": "Tachikawa",
+      "japanese_name": "立川",
+      "station_id": "00008990",
+      "order": 1,
+      "transfers": [
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "JR Nambu Line(Kawasaki-Tachikawa)"
+      ]
+    },
+    {
+      "name": "Nishi-Tachikawa",
+      "japanese_name": "西立川",
+      "station_id": "00004957",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-Nakagami",
+      "japanese_name": "東中神",
+      "station_id": "00006788",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Nakagami",
+      "japanese_name": "中神",
+      "station_id": "00006080",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Akishima",
+      "japanese_name": "昭島",
+      "station_id": "00003806",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Haijima",
+      "japanese_name": "拝島",
+      "station_id": "00007388",
+      "order": 6,
+      "transfers": [
+        "JR Itsukaichi Line",
+        "JR Hachiko Line(Hachioji-Komagawa)",
+        "Seibu Haijima Line"
+      ]
+    },
+    {
+      "name": "Ushihama",
+      "japanese_name": "牛浜",
+      "station_id": "00001692",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Fussa",
+      "japanese_name": "福生",
+      "station_id": "00008024",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Hamura",
+      "japanese_name": "羽村",
+      "station_id": "00000589",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Ozaku",
+      "japanese_name": "小作",
+      "station_id": "00003686",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Kabe",
+      "japanese_name": "河辺",
+      "station_id": "00001085",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-Ōme",
+      "japanese_name": "東青梅",
+      "station_id": "00006757",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Ome",
+      "japanese_name": "青梅",
+      "station_id": "00004982",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Miyanohira",
+      "japanese_name": "宮ノ平",
+      "station_id": "00001640",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Hinatawada",
+      "japanese_name": "日向和田",
+      "station_id": "00007263",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Ishigami-mae",
+      "japanese_name": "石神前",
+      "station_id": "00005041",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Futamatao",
+      "japanese_name": "二俣尾",
+      "station_id": "00007220",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Ikusabata",
+      "japanese_name": "軍畑",
+      "station_id": "00002007",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Sawai",
+      "japanese_name": "沢井",
+      "station_id": "00005837",
+      "order": 19,
+      "transfers": []
+    },
+    {
+      "name": "Mitake",
+      "japanese_name": "御嶽",
+      "station_id": "00002312",
+      "order": 20,
+      "transfers": []
+    },
+    {
+      "name": "Kawai",
+      "japanese_name": "川井",
+      "station_id": "00005188",
+      "order": 21,
+      "transfers": []
+    },
+    {
+      "name": "Kori(Tokyo)",
+      "japanese_name": "古里(東京都)",
+      "station_id": "00002180",
+      "order": 22,
+      "transfers": []
+    },
+    {
+      "name": "Hatonosu",
+      "japanese_name": "鳩ノ巣",
+      "station_id": "00007587",
+      "order": 23,
+      "transfers": []
+    },
+    {
+      "name": "Shiromaru (Tokyo)",
+      "japanese_name": "白丸(東京都)",
+      "station_id": "00007445",
+      "order": 24,
+      "transfers": []
+    },
+    {
+      "name": "Okutama",
+      "japanese_name": "奥多摩",
+      "station_id": "00000801",
+      "order": 25,
+      "transfers": []
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Rapid",
+    "Ome S-Rapid",
+    "Commuter Rapid"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "808f0065",
+      "trainName": "JR Ome Line",
+      "destination": "Ome",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "33",
+      "type": "Local"
+    },
+    "Rapid": {
+      "trainId": "808f00c6",
+      "trainName": "JR Ome Line Rapid",
+      "destination": "Ome",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "06",
+      "type": "Rapid"
+    },
+    "Ome S-Rapid": {
+      "trainId": "808f00cb",
+      "trainName": "JR Ome Line Ome Special Rapid",
+      "destination": "Ome",
+      "hour": 11,
+      "date": "2025-07-11",
+      "time": "03",
+      "type": "Ome S-Rapid"
+    },
+    "Commuter Rapid": {
+      "trainId": "808f00e6",
+      "trainName": "JR Ome Line Commuter Rapid",
+      "destination": "Ome",
+      "hour": 18,
+      "date": "2025-07-11",
+      "time": "06",
+      "type": "Commuter Rapid"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Ome Line",
+      "train_type": "Local",
+      "total_stops": 13,
+      "stops": [
+        {
+          "name": "Tachikawa",
+          "station_id": "00008990",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.413775,
+            "lat": 35.697806
+          }
+        },
+        {
+          "name": "Nishi-Tachikawa",
+          "station_id": "00004957",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.393628,
+            "lat": 35.703507
+          }
+        },
+        {
+          "name": "Higashi-Nakagami",
+          "station_id": "00006788",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.384454,
+            "lat": 35.70635
+          }
+        },
+        {
+          "name": "Nakagami",
+          "station_id": "00006080",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.375832,
+            "lat": 35.708998
+          }
+        },
+        {
+          "name": "Akishima",
+          "station_id": "00003806",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.360911,
+            "lat": 35.713549
+          }
+        },
+        {
+          "name": "Haijima",
+          "station_id": "00007388",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.343703,
+            "lat": 35.721108
+          }
+        },
+        {
+          "name": "Ushihama",
+          "station_id": "00001692",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.333522,
+            "lat": 35.734672
+          }
+        },
+        {
+          "name": "Fussa",
+          "station_id": "00008024",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.327878,
+            "lat": 35.742313
+          }
+        },
+        {
+          "name": "Hamura",
+          "station_id": "00000589",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.315924,
+            "lat": 35.758449
+          }
+        },
+        {
+          "name": "Ozaku",
+          "station_id": "00003686",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.301947,
+            "lat": 35.776289
+          }
+        },
+        {
+          "name": "Kabe",
+          "station_id": "00001085",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.284743,
+            "lat": 35.784428
+          }
+        },
+        {
+          "name": "Higashi-Ōme",
+          "station_id": "00006757",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.272365,
+            "lat": 35.789965
+          }
+        },
+        {
+          "name": "Ome",
+          "station_id": "00004982",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.258384,
+            "lat": 35.790274
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Tachikawa",
+          "from_id": "00008990",
+          "to": "Nishi-Tachikawa",
+          "to_id": "00004957",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Nishi-Tachikawa",
+          "from_id": "00004957",
+          "to": "Higashi-Nakagami",
+          "to_id": "00006788",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Higashi-Nakagami",
+          "from_id": "00006788",
+          "to": "Nakagami",
+          "to_id": "00006080",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nakagami",
+          "from_id": "00006080",
+          "to": "Akishima",
+          "to_id": "00003806",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Akishima",
+          "from_id": "00003806",
+          "to": "Haijima",
+          "to_id": "00007388",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Haijima",
+          "from_id": "00007388",
+          "to": "Ushihama",
+          "to_id": "00001692",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ushihama",
+          "from_id": "00001692",
+          "to": "Fussa",
+          "to_id": "00008024",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Fussa",
+          "from_id": "00008024",
+          "to": "Hamura",
+          "to_id": "00000589",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hamura",
+          "from_id": "00000589",
+          "to": "Ozaku",
+          "to_id": "00003686",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Ozaku",
+          "from_id": "00003686",
+          "to": "Kabe",
+          "to_id": "00001085",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kabe",
+          "from_id": "00001085",
+          "to": "Higashi-Ōme",
+          "to_id": "00006757",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Higashi-Ōme",
+          "from_id": "00006757",
+          "to": "Ome",
+          "to_id": "00004982",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Rapid": {
+      "line": "Ome Line",
+      "train_type": "Rapid",
+      "total_stops": 13,
+      "stops": [
+        {
+          "name": "Tachikawa",
+          "station_id": "00008990",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.413775,
+            "lat": 35.697806
+          }
+        },
+        {
+          "name": "Nishi-Tachikawa",
+          "station_id": "00004957",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.393628,
+            "lat": 35.703507
+          }
+        },
+        {
+          "name": "Higashi-Nakagami",
+          "station_id": "00006788",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.384454,
+            "lat": 35.70635
+          }
+        },
+        {
+          "name": "Nakagami",
+          "station_id": "00006080",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.375832,
+            "lat": 35.708998
+          }
+        },
+        {
+          "name": "Akishima",
+          "station_id": "00003806",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.360911,
+            "lat": 35.713549
+          }
+        },
+        {
+          "name": "Haijima",
+          "station_id": "00007388",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.343703,
+            "lat": 35.721108
+          }
+        },
+        {
+          "name": "Ushihama",
+          "station_id": "00001692",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.333522,
+            "lat": 35.734672
+          }
+        },
+        {
+          "name": "Fussa",
+          "station_id": "00008024",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.327878,
+            "lat": 35.742313
+          }
+        },
+        {
+          "name": "Hamura",
+          "station_id": "00000589",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.315924,
+            "lat": 35.758449
+          }
+        },
+        {
+          "name": "Ozaku",
+          "station_id": "00003686",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.301947,
+            "lat": 35.776289
+          }
+        },
+        {
+          "name": "Kabe",
+          "station_id": "00001085",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.284743,
+            "lat": 35.784428
+          }
+        },
+        {
+          "name": "Higashi-Ōme",
+          "station_id": "00006757",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.272365,
+            "lat": 35.789965
+          }
+        },
+        {
+          "name": "Ome",
+          "station_id": "00004982",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.258384,
+            "lat": 35.790274
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Tachikawa",
+          "from_id": "00008990",
+          "to": "Nishi-Tachikawa",
+          "to_id": "00004957",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Nishi-Tachikawa",
+          "from_id": "00004957",
+          "to": "Higashi-Nakagami",
+          "to_id": "00006788",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Higashi-Nakagami",
+          "from_id": "00006788",
+          "to": "Nakagami",
+          "to_id": "00006080",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nakagami",
+          "from_id": "00006080",
+          "to": "Akishima",
+          "to_id": "00003806",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Akishima",
+          "from_id": "00003806",
+          "to": "Haijima",
+          "to_id": "00007388",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Haijima",
+          "from_id": "00007388",
+          "to": "Ushihama",
+          "to_id": "00001692",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ushihama",
+          "from_id": "00001692",
+          "to": "Fussa",
+          "to_id": "00008024",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Fussa",
+          "from_id": "00008024",
+          "to": "Hamura",
+          "to_id": "00000589",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hamura",
+          "from_id": "00000589",
+          "to": "Ozaku",
+          "to_id": "00003686",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Ozaku",
+          "from_id": "00003686",
+          "to": "Kabe",
+          "to_id": "00001085",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kabe",
+          "from_id": "00001085",
+          "to": "Higashi-Ōme",
+          "to_id": "00006757",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Higashi-Ōme",
+          "from_id": "00006757",
+          "to": "Ome",
+          "to_id": "00004982",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Ome S-Rapid": {
+      "line": "Ome Line",
+      "train_type": "Ome S-Rapid",
+      "total_stops": 13,
+      "stops": [
+        {
+          "name": "Tachikawa",
+          "station_id": "00008990",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.413775,
+            "lat": 35.697806
+          }
+        },
+        {
+          "name": "Nishi-Tachikawa",
+          "station_id": "00004957",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.393628,
+            "lat": 35.703507
+          }
+        },
+        {
+          "name": "Higashi-Nakagami",
+          "station_id": "00006788",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.384454,
+            "lat": 35.70635
+          }
+        },
+        {
+          "name": "Nakagami",
+          "station_id": "00006080",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.375832,
+            "lat": 35.708998
+          }
+        },
+        {
+          "name": "Akishima",
+          "station_id": "00003806",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.360911,
+            "lat": 35.713549
+          }
+        },
+        {
+          "name": "Haijima",
+          "station_id": "00007388",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.343703,
+            "lat": 35.721108
+          }
+        },
+        {
+          "name": "Ushihama",
+          "station_id": "00001692",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.333522,
+            "lat": 35.734672
+          }
+        },
+        {
+          "name": "Fussa",
+          "station_id": "00008024",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.327878,
+            "lat": 35.742313
+          }
+        },
+        {
+          "name": "Hamura",
+          "station_id": "00000589",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.315924,
+            "lat": 35.758449
+          }
+        },
+        {
+          "name": "Ozaku",
+          "station_id": "00003686",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.301947,
+            "lat": 35.776289
+          }
+        },
+        {
+          "name": "Kabe",
+          "station_id": "00001085",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.284743,
+            "lat": 35.784428
+          }
+        },
+        {
+          "name": "Higashi-Ōme",
+          "station_id": "00006757",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.272365,
+            "lat": 35.789965
+          }
+        },
+        {
+          "name": "Ome",
+          "station_id": "00004982",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.258384,
+            "lat": 35.790274
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Tachikawa",
+          "from_id": "00008990",
+          "to": "Nishi-Tachikawa",
+          "to_id": "00004957",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Nishi-Tachikawa",
+          "from_id": "00004957",
+          "to": "Higashi-Nakagami",
+          "to_id": "00006788",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Higashi-Nakagami",
+          "from_id": "00006788",
+          "to": "Nakagami",
+          "to_id": "00006080",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nakagami",
+          "from_id": "00006080",
+          "to": "Akishima",
+          "to_id": "00003806",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Akishima",
+          "from_id": "00003806",
+          "to": "Haijima",
+          "to_id": "00007388",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Haijima",
+          "from_id": "00007388",
+          "to": "Ushihama",
+          "to_id": "00001692",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ushihama",
+          "from_id": "00001692",
+          "to": "Fussa",
+          "to_id": "00008024",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Fussa",
+          "from_id": "00008024",
+          "to": "Hamura",
+          "to_id": "00000589",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hamura",
+          "from_id": "00000589",
+          "to": "Ozaku",
+          "to_id": "00003686",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ozaku",
+          "from_id": "00003686",
+          "to": "Kabe",
+          "to_id": "00001085",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kabe",
+          "from_id": "00001085",
+          "to": "Higashi-Ōme",
+          "to_id": "00006757",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Higashi-Ōme",
+          "from_id": "00006757",
+          "to": "Ome",
+          "to_id": "00004982",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Commuter Rapid": {
+      "line": "Ome Line",
+      "train_type": "Commuter Rapid",
+      "total_stops": 13,
+      "stops": [
+        {
+          "name": "Tachikawa",
+          "station_id": "00008990",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.413775,
+            "lat": 35.697806
+          }
+        },
+        {
+          "name": "Nishi-Tachikawa",
+          "station_id": "00004957",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.393628,
+            "lat": 35.703507
+          }
+        },
+        {
+          "name": "Higashi-Nakagami",
+          "station_id": "00006788",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.384454,
+            "lat": 35.70635
+          }
+        },
+        {
+          "name": "Nakagami",
+          "station_id": "00006080",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.375832,
+            "lat": 35.708998
+          }
+        },
+        {
+          "name": "Akishima",
+          "station_id": "00003806",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.360911,
+            "lat": 35.713549
+          }
+        },
+        {
+          "name": "Haijima",
+          "station_id": "00007388",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.343703,
+            "lat": 35.721108
+          }
+        },
+        {
+          "name": "Ushihama",
+          "station_id": "00001692",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.333522,
+            "lat": 35.734672
+          }
+        },
+        {
+          "name": "Fussa",
+          "station_id": "00008024",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.327878,
+            "lat": 35.742313
+          }
+        },
+        {
+          "name": "Hamura",
+          "station_id": "00000589",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.315924,
+            "lat": 35.758449
+          }
+        },
+        {
+          "name": "Ozaku",
+          "station_id": "00003686",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.301947,
+            "lat": 35.776289
+          }
+        },
+        {
+          "name": "Kabe",
+          "station_id": "00001085",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.284743,
+            "lat": 35.784428
+          }
+        },
+        {
+          "name": "Higashi-Ōme",
+          "station_id": "00006757",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.272365,
+            "lat": 35.789965
+          }
+        },
+        {
+          "name": "Ome",
+          "station_id": "00004982",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.258384,
+            "lat": 35.790274
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Tachikawa",
+          "from_id": "00008990",
+          "to": "Nishi-Tachikawa",
+          "to_id": "00004957",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Nishi-Tachikawa",
+          "from_id": "00004957",
+          "to": "Higashi-Nakagami",
+          "to_id": "00006788",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Higashi-Nakagami",
+          "from_id": "00006788",
+          "to": "Nakagami",
+          "to_id": "00006080",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nakagami",
+          "from_id": "00006080",
+          "to": "Akishima",
+          "to_id": "00003806",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Akishima",
+          "from_id": "00003806",
+          "to": "Haijima",
+          "to_id": "00007388",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Haijima",
+          "from_id": "00007388",
+          "to": "Ushihama",
+          "to_id": "00001692",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ushihama",
+          "from_id": "00001692",
+          "to": "Fussa",
+          "to_id": "00008024",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Fussa",
+          "from_id": "00008024",
+          "to": "Hamura",
+          "to_id": "00000589",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hamura",
+          "from_id": "00000589",
+          "to": "Ozaku",
+          "to_id": "00003686",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ozaku",
+          "from_id": "00003686",
+          "to": "Kabe",
+          "to_id": "00001085",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kabe",
+          "from_id": "00001085",
+          "to": "Higashi-Ōme",
+          "to_id": "00006757",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Higashi-Ōme",
+          "from_id": "00006757",
+          "to": "Ome",
+          "to_id": "00004982",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:52:08.628Z"
+}

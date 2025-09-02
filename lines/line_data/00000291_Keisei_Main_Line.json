@@ -1,0 +1,1728 @@
+{
+  "line": "Keisei Main Line",
+  "operator": "Keisei Electric Railway",
+  "navitime_id": "00000291",
+  "first_station_id": "00001740",
+  "stations": [
+    {
+      "name": "Keisei-Ueno",
+      "japanese_name": "京成上野",
+      "station_id": "00001740",
+      "order": 1,
+      "transfers": []
+    },
+    {
+      "name": "Nippori",
+      "japanese_name": "日暮里",
+      "station_id": "00007293",
+      "order": 2,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Yamanote Line",
+        "JR Joban Line",
+        "Toei Nippori Toneri Liner"
+      ]
+    },
+    {
+      "name": "Shim-Mikawashima",
+      "japanese_name": "新三河島",
+      "station_id": "00004238",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Machiya(Keisei Line)",
+      "japanese_name": "町屋〔京成線〕",
+      "station_id": "00006191",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Senjuōhashi",
+      "japanese_name": "千住大橋",
+      "station_id": "00005142",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Keisei-Sekiya",
+      "japanese_name": "京成関屋",
+      "station_id": "00001734",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Horikirishobuen",
+      "japanese_name": "堀切菖蒲園",
+      "station_id": "00008432",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Ohanajaya",
+      "japanese_name": "お花茶屋",
+      "station_id": "00000042",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Aoto",
+      "japanese_name": "青砥",
+      "station_id": "00004980",
+      "order": 9,
+      "transfers": [
+        "Keisei Oshiage Line"
+      ]
+    },
+    {
+      "name": "Keisei-Takasago",
+      "japanese_name": "京成高砂",
+      "station_id": "00001736",
+      "order": 10,
+      "transfers": [
+        "Keisei Kanamachi Line",
+        "Keisei-Narita Sky Access Line Hokuso Line"
+      ]
+    },
+    {
+      "name": "Keisei-Koiwa",
+      "japanese_name": "京成小岩",
+      "station_id": "00001739",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Edogawa",
+      "japanese_name": "江戸川",
+      "station_id": "00002423",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Konodai",
+      "japanese_name": "国府台",
+      "station_id": "00002674",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Ichikawamama",
+      "japanese_name": "市川真間",
+      "station_id": "00003215",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Sugano",
+      "japanese_name": "菅野",
+      "station_id": "00004599",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Keisei-Yawata",
+      "japanese_name": "京成八幡",
+      "station_id": "00001749",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Onigoe",
+      "japanese_name": "鬼越",
+      "station_id": "00001512",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Keisei-Nakayama",
+      "japanese_name": "京成中山",
+      "station_id": "00001747",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-Nakayama",
+      "japanese_name": "東中山",
+      "station_id": "00006787",
+      "order": 19,
+      "transfers": []
+    },
+    {
+      "name": "Keisei-Nishifuna",
+      "japanese_name": "京成西船",
+      "station_id": "00001742",
+      "order": 20,
+      "transfers": []
+    },
+    {
+      "name": "Kaijin",
+      "japanese_name": "海神",
+      "station_id": "00001164",
+      "order": 21,
+      "transfers": []
+    },
+    {
+      "name": "Keisei-Funabashi",
+      "japanese_name": "京成船橋",
+      "station_id": "00001744",
+      "order": 22,
+      "transfers": []
+    },
+    {
+      "name": "Daijingushita",
+      "japanese_name": "大神宮下",
+      "station_id": "00005648",
+      "order": 23,
+      "transfers": []
+    },
+    {
+      "name": "Funabashikeibajo",
+      "japanese_name": "船橋競馬場",
+      "station_id": "00005287",
+      "order": 24,
+      "transfers": []
+    },
+    {
+      "name": "Yatsu",
+      "japanese_name": "谷津",
+      "station_id": "00005875",
+      "order": 25,
+      "transfers": []
+    },
+    {
+      "name": "Keisei-Tsudanuma",
+      "japanese_name": "京成津田沼",
+      "station_id": "00001748",
+      "order": 26,
+      "transfers": [
+        "Keisei Chiba Line",
+        "Keisei Matsudo Line"
+      ]
+    },
+    {
+      "name": "Keisei-Okubo",
+      "japanese_name": "京成大久保",
+      "station_id": "00001745",
+      "order": 27,
+      "transfers": []
+    },
+    {
+      "name": "Mimomi",
+      "japanese_name": "実籾",
+      "station_id": "00003393",
+      "order": 28,
+      "transfers": []
+    },
+    {
+      "name": "Yachiyodai",
+      "japanese_name": "八千代台",
+      "station_id": "00007534",
+      "order": 29,
+      "transfers": []
+    },
+    {
+      "name": "Keisei-Owada",
+      "japanese_name": "京成大和田",
+      "station_id": "00001746",
+      "order": 30,
+      "transfers": []
+    },
+    {
+      "name": "Katsutadai",
+      "japanese_name": "勝田台",
+      "station_id": "00003638",
+      "order": 31,
+      "transfers": []
+    },
+    {
+      "name": "Shizu",
+      "japanese_name": "志津",
+      "station_id": "00003263",
+      "order": 32,
+      "transfers": []
+    },
+    {
+      "name": "Yukarigaoka",
+      "japanese_name": "ユーカリが丘",
+      "station_id": "00000138",
+      "order": 33,
+      "transfers": [
+        "Yamaman'yukarigaoka Line"
+      ]
+    },
+    {
+      "name": "Keisei-Usui",
+      "japanese_name": "京成臼井",
+      "station_id": "00001732",
+      "order": 34,
+      "transfers": []
+    },
+    {
+      "name": "Keisei-Sakura",
+      "japanese_name": "京成佐倉",
+      "station_id": "00001737",
+      "order": 35,
+      "transfers": []
+    },
+    {
+      "name": "Osakura",
+      "japanese_name": "大佐倉",
+      "station_id": "00005599",
+      "order": 36,
+      "transfers": []
+    },
+    {
+      "name": "Keisei-Shisui",
+      "japanese_name": "京成酒々井",
+      "station_id": "00001738",
+      "order": 37,
+      "transfers": []
+    },
+    {
+      "name": "Sogosando",
+      "japanese_name": "宗吾参道",
+      "station_id": "00003480",
+      "order": 38,
+      "transfers": []
+    },
+    {
+      "name": "Kozunomori",
+      "japanese_name": "公津の杜",
+      "station_id": "00002336",
+      "order": 39,
+      "transfers": []
+    },
+    {
+      "name": "Keisei-Narita",
+      "japanese_name": "京成成田",
+      "station_id": "00001741",
+      "order": 40,
+      "transfers": [
+        "Keisei Higashinarita Line",
+        "Keisei Main Line(Keiseinarita-Narita Airport)"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Paid Special Express",
+    "Rapid",
+    "Limited Express",
+    "Rapid Express",
+    "AC Special Express"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "80fe006c",
+      "trainName": "Keisei Main Line",
+      "destination": "Keisei-Tsudanuma",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "07",
+      "type": "Local"
+    },
+    "Paid Special Express": {
+      "trainId": "80fe0068",
+      "trainName": "Keisei Skyliner 127 Go",
+      "destination": "Narita Airport Terminal 1",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Paid Special Express"
+    },
+    "Rapid": {
+      "trainId": "80fe0073",
+      "trainName": "Keisei Main Line Rapid",
+      "destination": "Keisei-Sakura",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "34",
+      "type": "Rapid"
+    },
+    "Limited Express": {
+      "trainId": "80fe0021",
+      "trainName": "Keisei Main Line Express",
+      "destination": "Narita Airport Terminal 1",
+      "hour": 6,
+      "date": "2025-07-11",
+      "time": "47",
+      "type": "Limited Express"
+    },
+    "Rapid Express": {
+      "trainId": "80fe006d",
+      "trainName": "Keisei Main Line Rapid Express",
+      "destination": "Keisei-Narita",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "13",
+      "type": "Rapid Express"
+    },
+    "AC Special Express": {
+      "trainId": "80fe012c",
+      "trainName": "Keisei Main Line ACCESS Limited Express",
+      "destination": "Narita Airport Terminal 1",
+      "hour": 18,
+      "date": "2025-07-11",
+      "time": "51",
+      "type": "AC Special Express"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Keisei Main Line",
+      "train_type": "Local",
+      "total_stops": 26,
+      "stops": [
+        {
+          "name": "Keisei-Ueno",
+          "station_id": "00001740",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.773654,
+            "lat": 35.711081
+          }
+        },
+        {
+          "name": "Nippori",
+          "station_id": "00007293",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770639,
+            "lat": 35.72817
+          }
+        },
+        {
+          "name": "Shim-Mikawashima",
+          "station_id": "00004238",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.773949,
+            "lat": 35.737179
+          }
+        },
+        {
+          "name": "Machiya(Keisei Line)",
+          "station_id": "00006191",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.781454,
+            "lat": 35.742269
+          }
+        },
+        {
+          "name": "Senjuōhashi",
+          "station_id": "00005142",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.79677,
+            "lat": 35.742427
+          }
+        },
+        {
+          "name": "Keisei-Sekiya",
+          "station_id": "00001734",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.811506,
+            "lat": 35.743944
+          }
+        },
+        {
+          "name": "Horikirishobuen",
+          "station_id": "00008432",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.827696,
+            "lat": 35.747687
+          }
+        },
+        {
+          "name": "Ohanajaya",
+          "station_id": "00000042",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.840148,
+            "lat": 35.747583
+          }
+        },
+        {
+          "name": "Aoto",
+          "station_id": "00004980",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.856081,
+            "lat": 35.745571
+          }
+        },
+        {
+          "name": "Keisei-Takasago",
+          "station_id": "00001736",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.867356,
+            "lat": 35.75096
+          }
+        },
+        {
+          "name": "Keisei-Koiwa",
+          "station_id": "00001739",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.883874,
+            "lat": 35.742032
+          }
+        },
+        {
+          "name": "Edogawa",
+          "station_id": "00002423",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.896148,
+            "lat": 35.737671
+          }
+        },
+        {
+          "name": "Konodai",
+          "station_id": "00002674",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.902704,
+            "lat": 35.736374
+          }
+        },
+        {
+          "name": "Ichikawamama",
+          "station_id": "00003215",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.911435,
+            "lat": 35.731451
+          }
+        },
+        {
+          "name": "Sugano",
+          "station_id": "00004599",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.91952,
+            "lat": 35.728216
+          }
+        },
+        {
+          "name": "Keisei-Yawata",
+          "station_id": "00001749",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.928056,
+            "lat": 35.723868
+          }
+        },
+        {
+          "name": "Onigoe",
+          "station_id": "00001512",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.937336,
+            "lat": 35.720034
+          }
+        },
+        {
+          "name": "Keisei-Nakayama",
+          "station_id": "00001747",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.944881,
+            "lat": 35.716795
+          }
+        },
+        {
+          "name": "Higashi-Nakayama",
+          "station_id": "00006787",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.95286,
+            "lat": 35.714422
+          }
+        },
+        {
+          "name": "Keisei-Nishifuna",
+          "station_id": "00001742",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.958998,
+            "lat": 35.711631
+          }
+        },
+        {
+          "name": "Kaijin",
+          "station_id": "00001164",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.972048,
+            "lat": 35.70579
+          }
+        },
+        {
+          "name": "Keisei-Funabashi",
+          "station_id": "00001744",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.985518,
+            "lat": 35.700161
+          }
+        },
+        {
+          "name": "Daijingushita",
+          "station_id": "00005648",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.991234,
+            "lat": 35.694283
+          }
+        },
+        {
+          "name": "Funabashikeibajo",
+          "station_id": "00005287",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.997917,
+            "lat": 35.689764
+          }
+        },
+        {
+          "name": "Yatsu",
+          "station_id": "00005875",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.007534,
+            "lat": 35.685297
+          }
+        },
+        {
+          "name": "Keisei-Tsudanuma",
+          "station_id": "00001748",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.024495,
+            "lat": 35.683638
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Keisei-Ueno",
+          "from_id": "00001740",
+          "to": "Nippori",
+          "to_id": "00007293",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Nippori",
+          "from_id": "00007293",
+          "to": "Shim-Mikawashima",
+          "to_id": "00004238",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shim-Mikawashima",
+          "from_id": "00004238",
+          "to": "Machiya(Keisei Line)",
+          "to_id": "00006191",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Machiya(Keisei Line)",
+          "from_id": "00006191",
+          "to": "Senjuōhashi",
+          "to_id": "00005142",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Senjuōhashi",
+          "from_id": "00005142",
+          "to": "Keisei-Sekiya",
+          "to_id": "00001734",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Keisei-Sekiya",
+          "from_id": "00001734",
+          "to": "Horikirishobuen",
+          "to_id": "00008432",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Horikirishobuen",
+          "from_id": "00008432",
+          "to": "Ohanajaya",
+          "to_id": "00000042",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ohanajaya",
+          "from_id": "00000042",
+          "to": "Aoto",
+          "to_id": "00004980",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Aoto",
+          "from_id": "00004980",
+          "to": "Keisei-Takasago",
+          "to_id": "00001736",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Keisei-Takasago",
+          "from_id": "00001736",
+          "to": "Keisei-Koiwa",
+          "to_id": "00001739",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Keisei-Koiwa",
+          "from_id": "00001739",
+          "to": "Edogawa",
+          "to_id": "00002423",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Edogawa",
+          "from_id": "00002423",
+          "to": "Konodai",
+          "to_id": "00002674",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Konodai",
+          "from_id": "00002674",
+          "to": "Ichikawamama",
+          "to_id": "00003215",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ichikawamama",
+          "from_id": "00003215",
+          "to": "Sugano",
+          "to_id": "00004599",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Sugano",
+          "from_id": "00004599",
+          "to": "Keisei-Yawata",
+          "to_id": "00001749",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Keisei-Yawata",
+          "from_id": "00001749",
+          "to": "Onigoe",
+          "to_id": "00001512",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Onigoe",
+          "from_id": "00001512",
+          "to": "Keisei-Nakayama",
+          "to_id": "00001747",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Keisei-Nakayama",
+          "from_id": "00001747",
+          "to": "Higashi-Nakayama",
+          "to_id": "00006787",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Higashi-Nakayama",
+          "from_id": "00006787",
+          "to": "Keisei-Nishifuna",
+          "to_id": "00001742",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Keisei-Nishifuna",
+          "from_id": "00001742",
+          "to": "Kaijin",
+          "to_id": "00001164",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kaijin",
+          "from_id": "00001164",
+          "to": "Keisei-Funabashi",
+          "to_id": "00001744",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Keisei-Funabashi",
+          "from_id": "00001744",
+          "to": "Daijingushita",
+          "to_id": "00005648",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Daijingushita",
+          "from_id": "00005648",
+          "to": "Funabashikeibajo",
+          "to_id": "00005287",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Funabashikeibajo",
+          "from_id": "00005287",
+          "to": "Yatsu",
+          "to_id": "00005875",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Yatsu",
+          "from_id": "00005875",
+          "to": "Keisei-Tsudanuma",
+          "to_id": "00001748",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Paid Special Express": {
+      "line": "Keisei Main Line",
+      "train_type": "Paid Special Express",
+      "total_stops": 3,
+      "stops": [
+        {
+          "name": "Keisei-Ueno",
+          "station_id": "00001740",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.773654,
+            "lat": 35.711081
+          }
+        },
+        {
+          "name": "Nippori",
+          "station_id": "00007293",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770639,
+            "lat": 35.72817
+          }
+        },
+        {
+          "name": "Aoto",
+          "station_id": "00004980",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.856081,
+            "lat": 35.745571
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Keisei-Ueno",
+          "from_id": "00001740",
+          "to": "Nippori",
+          "to_id": "00007293",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Nippori",
+          "from_id": "00007293",
+          "to": "Aoto",
+          "to_id": "00004980",
+          "travel_time_minutes": 9
+        }
+      ]
+    },
+    "Rapid": {
+      "line": "Keisei Main Line",
+      "train_type": "Rapid",
+      "total_stops": 20,
+      "stops": [
+        {
+          "name": "Keisei-Ueno",
+          "station_id": "00001740",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.773654,
+            "lat": 35.711081
+          }
+        },
+        {
+          "name": "Nippori",
+          "station_id": "00007293",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770639,
+            "lat": 35.72817
+          }
+        },
+        {
+          "name": "Senjuōhashi",
+          "station_id": "00005142",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.79677,
+            "lat": 35.742427
+          }
+        },
+        {
+          "name": "Aoto",
+          "station_id": "00004980",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.856081,
+            "lat": 35.745571
+          }
+        },
+        {
+          "name": "Keisei-Takasago",
+          "station_id": "00001736",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.867356,
+            "lat": 35.75096
+          }
+        },
+        {
+          "name": "Keisei-Koiwa",
+          "station_id": "00001739",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.883874,
+            "lat": 35.742032
+          }
+        },
+        {
+          "name": "Keisei-Yawata",
+          "station_id": "00001749",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.928056,
+            "lat": 35.723868
+          }
+        },
+        {
+          "name": "Higashi-Nakayama",
+          "station_id": "00006787",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.95286,
+            "lat": 35.714422
+          }
+        },
+        {
+          "name": "Keisei-Funabashi",
+          "station_id": "00001744",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.985518,
+            "lat": 35.700161
+          }
+        },
+        {
+          "name": "Funabashikeibajo",
+          "station_id": "00005287",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.997917,
+            "lat": 35.689764
+          }
+        },
+        {
+          "name": "Keisei-Tsudanuma",
+          "station_id": "00001748",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.024495,
+            "lat": 35.683638
+          }
+        },
+        {
+          "name": "Keisei-Okubo",
+          "station_id": "00001745",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.048409,
+            "lat": 35.685939
+          }
+        },
+        {
+          "name": "Mimomi",
+          "station_id": "00003393",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.068428,
+            "lat": 35.68689
+          }
+        },
+        {
+          "name": "Yachiyodai",
+          "station_id": "00007534",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.090678,
+            "lat": 35.701274
+          }
+        },
+        {
+          "name": "Keisei-Owada",
+          "station_id": "00001746",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.108332,
+            "lat": 35.712211
+          }
+        },
+        {
+          "name": "Katsutadai",
+          "station_id": "00003638",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.126057,
+            "lat": 35.715447
+          }
+        },
+        {
+          "name": "Shizu",
+          "station_id": "00003263",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.144993,
+            "lat": 35.717456
+          }
+        },
+        {
+          "name": "Yukarigaoka",
+          "station_id": "00000138",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.156309,
+            "lat": 35.721719
+          }
+        },
+        {
+          "name": "Keisei-Usui",
+          "station_id": "00001732",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.180753,
+            "lat": 35.729918
+          }
+        },
+        {
+          "name": "Keisei-Sakura",
+          "station_id": "00001737",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.229703,
+            "lat": 35.725172
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Keisei-Ueno",
+          "from_id": "00001740",
+          "to": "Nippori",
+          "to_id": "00007293",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Nippori",
+          "from_id": "00007293",
+          "to": "Senjuōhashi",
+          "to_id": "00005142",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Senjuōhashi",
+          "from_id": "00005142",
+          "to": "Aoto",
+          "to_id": "00004980",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Aoto",
+          "from_id": "00004980",
+          "to": "Keisei-Takasago",
+          "to_id": "00001736",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Keisei-Takasago",
+          "from_id": "00001736",
+          "to": "Keisei-Koiwa",
+          "to_id": "00001739",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Keisei-Koiwa",
+          "from_id": "00001739",
+          "to": "Keisei-Yawata",
+          "to_id": "00001749",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Keisei-Yawata",
+          "from_id": "00001749",
+          "to": "Higashi-Nakayama",
+          "to_id": "00006787",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Higashi-Nakayama",
+          "from_id": "00006787",
+          "to": "Keisei-Funabashi",
+          "to_id": "00001744",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Keisei-Funabashi",
+          "from_id": "00001744",
+          "to": "Funabashikeibajo",
+          "to_id": "00005287",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Funabashikeibajo",
+          "from_id": "00005287",
+          "to": "Keisei-Tsudanuma",
+          "to_id": "00001748",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Keisei-Tsudanuma",
+          "from_id": "00001748",
+          "to": "Keisei-Okubo",
+          "to_id": "00001745",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Keisei-Okubo",
+          "from_id": "00001745",
+          "to": "Mimomi",
+          "to_id": "00003393",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Mimomi",
+          "from_id": "00003393",
+          "to": "Yachiyodai",
+          "to_id": "00007534",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Yachiyodai",
+          "from_id": "00007534",
+          "to": "Keisei-Owada",
+          "to_id": "00001746",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Keisei-Owada",
+          "from_id": "00001746",
+          "to": "Katsutadai",
+          "to_id": "00003638",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Katsutadai",
+          "from_id": "00003638",
+          "to": "Shizu",
+          "to_id": "00003263",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shizu",
+          "from_id": "00003263",
+          "to": "Yukarigaoka",
+          "to_id": "00000138",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Yukarigaoka",
+          "from_id": "00000138",
+          "to": "Keisei-Usui",
+          "to_id": "00001732",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Keisei-Usui",
+          "from_id": "00001732",
+          "to": "Keisei-Sakura",
+          "to_id": "00001737",
+          "travel_time_minutes": 5
+        }
+      ]
+    },
+    "Limited Express": {
+      "line": "Keisei Main Line",
+      "train_type": "Limited Express",
+      "total_stops": 15,
+      "stops": [
+        {
+          "name": "Keisei-Ueno",
+          "station_id": "00001740",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.773654,
+            "lat": 35.711081
+          }
+        },
+        {
+          "name": "Nippori",
+          "station_id": "00007293",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770639,
+            "lat": 35.72817
+          }
+        },
+        {
+          "name": "Aoto",
+          "station_id": "00004980",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.856081,
+            "lat": 35.745571
+          }
+        },
+        {
+          "name": "Keisei-Takasago",
+          "station_id": "00001736",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.867356,
+            "lat": 35.75096
+          }
+        },
+        {
+          "name": "Keisei-Yawata",
+          "station_id": "00001749",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.928056,
+            "lat": 35.723868
+          }
+        },
+        {
+          "name": "Keisei-Funabashi",
+          "station_id": "00001744",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.985518,
+            "lat": 35.700161
+          }
+        },
+        {
+          "name": "Keisei-Tsudanuma",
+          "station_id": "00001748",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.024495,
+            "lat": 35.683638
+          }
+        },
+        {
+          "name": "Yachiyodai",
+          "station_id": "00007534",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.090678,
+            "lat": 35.701274
+          }
+        },
+        {
+          "name": "Katsutadai",
+          "station_id": "00003638",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.126057,
+            "lat": 35.715447
+          }
+        },
+        {
+          "name": "Keisei-Sakura",
+          "station_id": "00001737",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.229703,
+            "lat": 35.725172
+          }
+        },
+        {
+          "name": "Osakura",
+          "station_id": "00005599",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.251067,
+            "lat": 35.73012
+          }
+        },
+        {
+          "name": "Keisei-Shisui",
+          "station_id": "00001738",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.270157,
+            "lat": 35.736877
+          }
+        },
+        {
+          "name": "Sogosando",
+          "station_id": "00003480",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.280993,
+            "lat": 35.752656
+          }
+        },
+        {
+          "name": "Kozunomori",
+          "station_id": "00002336",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.295128,
+            "lat": 35.760472
+          }
+        },
+        {
+          "name": "Keisei-Narita",
+          "station_id": "00001741",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.315579,
+            "lat": 35.776484
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Keisei-Ueno",
+          "from_id": "00001740",
+          "to": "Nippori",
+          "to_id": "00007293",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Nippori",
+          "from_id": "00007293",
+          "to": "Aoto",
+          "to_id": "00004980",
+          "travel_time_minutes": 9
+        },
+        {
+          "from": "Aoto",
+          "from_id": "00004980",
+          "to": "Keisei-Takasago",
+          "to_id": "00001736",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Keisei-Takasago",
+          "from_id": "00001736",
+          "to": "Keisei-Yawata",
+          "to_id": "00001749",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Keisei-Yawata",
+          "from_id": "00001749",
+          "to": "Keisei-Funabashi",
+          "to_id": "00001744",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Keisei-Funabashi",
+          "from_id": "00001744",
+          "to": "Keisei-Tsudanuma",
+          "to_id": "00001748",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Keisei-Tsudanuma",
+          "from_id": "00001748",
+          "to": "Yachiyodai",
+          "to_id": "00007534",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Yachiyodai",
+          "from_id": "00007534",
+          "to": "Katsutadai",
+          "to_id": "00003638",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Katsutadai",
+          "from_id": "00003638",
+          "to": "Keisei-Sakura",
+          "to_id": "00001737",
+          "travel_time_minutes": 9
+        },
+        {
+          "from": "Keisei-Sakura",
+          "from_id": "00001737",
+          "to": "Osakura",
+          "to_id": "00005599",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Osakura",
+          "from_id": "00005599",
+          "to": "Keisei-Shisui",
+          "to_id": "00001738",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Keisei-Shisui",
+          "from_id": "00001738",
+          "to": "Sogosando",
+          "to_id": "00003480",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Sogosando",
+          "from_id": "00003480",
+          "to": "Kozunomori",
+          "to_id": "00002336",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kozunomori",
+          "from_id": "00002336",
+          "to": "Keisei-Narita",
+          "to_id": "00001741",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Rapid Express": {
+      "line": "Keisei Main Line",
+      "train_type": "Rapid Express",
+      "total_stops": 11,
+      "stops": [
+        {
+          "name": "Keisei-Ueno",
+          "station_id": "00001740",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.773654,
+            "lat": 35.711081
+          }
+        },
+        {
+          "name": "Nippori",
+          "station_id": "00007293",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770639,
+            "lat": 35.72817
+          }
+        },
+        {
+          "name": "Aoto",
+          "station_id": "00004980",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.856081,
+            "lat": 35.745571
+          }
+        },
+        {
+          "name": "Keisei-Takasago",
+          "station_id": "00001736",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.867356,
+            "lat": 35.75096
+          }
+        },
+        {
+          "name": "Keisei-Yawata",
+          "station_id": "00001749",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.928056,
+            "lat": 35.723868
+          }
+        },
+        {
+          "name": "Keisei-Funabashi",
+          "station_id": "00001744",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.985518,
+            "lat": 35.700161
+          }
+        },
+        {
+          "name": "Keisei-Tsudanuma",
+          "station_id": "00001748",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.024495,
+            "lat": 35.683638
+          }
+        },
+        {
+          "name": "Yachiyodai",
+          "station_id": "00007534",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.090678,
+            "lat": 35.701274
+          }
+        },
+        {
+          "name": "Katsutadai",
+          "station_id": "00003638",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.126057,
+            "lat": 35.715447
+          }
+        },
+        {
+          "name": "Keisei-Sakura",
+          "station_id": "00001737",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.229703,
+            "lat": 35.725172
+          }
+        },
+        {
+          "name": "Keisei-Narita",
+          "station_id": "00001741",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.315579,
+            "lat": 35.776484
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Keisei-Ueno",
+          "from_id": "00001740",
+          "to": "Nippori",
+          "to_id": "00007293",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Nippori",
+          "from_id": "00007293",
+          "to": "Aoto",
+          "to_id": "00004980",
+          "travel_time_minutes": 10
+        },
+        {
+          "from": "Aoto",
+          "from_id": "00004980",
+          "to": "Keisei-Takasago",
+          "to_id": "00001736",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Keisei-Takasago",
+          "from_id": "00001736",
+          "to": "Keisei-Yawata",
+          "to_id": "00001749",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Keisei-Yawata",
+          "from_id": "00001749",
+          "to": "Keisei-Funabashi",
+          "to_id": "00001744",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Keisei-Funabashi",
+          "from_id": "00001744",
+          "to": "Keisei-Tsudanuma",
+          "to_id": "00001748",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Keisei-Tsudanuma",
+          "from_id": "00001748",
+          "to": "Yachiyodai",
+          "to_id": "00007534",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Yachiyodai",
+          "from_id": "00007534",
+          "to": "Katsutadai",
+          "to_id": "00003638",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Katsutadai",
+          "from_id": "00003638",
+          "to": "Keisei-Sakura",
+          "to_id": "00001737",
+          "travel_time_minutes": 9
+        },
+        {
+          "from": "Keisei-Sakura",
+          "from_id": "00001737",
+          "to": "Keisei-Narita",
+          "to_id": "00001741",
+          "travel_time_minutes": 9
+        }
+      ]
+    },
+    "AC Special Express": {
+      "line": "Keisei Main Line",
+      "train_type": "AC Special Express",
+      "total_stops": 4,
+      "stops": [
+        {
+          "name": "Keisei-Ueno",
+          "station_id": "00001740",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.773654,
+            "lat": 35.711081
+          }
+        },
+        {
+          "name": "Nippori",
+          "station_id": "00007293",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770639,
+            "lat": 35.72817
+          }
+        },
+        {
+          "name": "Aoto",
+          "station_id": "00004980",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.856081,
+            "lat": 35.745571
+          }
+        },
+        {
+          "name": "Keisei-Takasago",
+          "station_id": "00001736",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.867356,
+            "lat": 35.75096
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Keisei-Ueno",
+          "from_id": "00001740",
+          "to": "Nippori",
+          "to_id": "00007293",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Nippori",
+          "from_id": "00007293",
+          "to": "Aoto",
+          "to_id": "00004980",
+          "travel_time_minutes": 9
+        },
+        {
+          "from": "Aoto",
+          "from_id": "00004980",
+          "to": "Keisei-Takasago",
+          "to_id": "00001736",
+          "travel_time_minutes": 2
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:53:44.884Z"
+}

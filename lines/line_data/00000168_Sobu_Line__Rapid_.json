@@ -1,0 +1,577 @@
+{
+  "line": "Sobu Line (Rapid)",
+  "operator": "JR East",
+  "navitime_id": "00000168",
+  "first_station_id": "00006668",
+  "stations": [
+    {
+      "name": "Tokyo",
+      "japanese_name": "東京",
+      "station_id": "00006668",
+      "order": 1,
+      "transfers": [
+        "JR Tokaido Shinkansen",
+        "JR Yokosuka Line",
+        "JR Keihintohoku Line",
+        "JR Keiyo Line",
+        "JR Yamanote Line",
+        "JR Joetsu Shinkansen",
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "JR Hokuriku Shinkansen(via Nagano)",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "JR Tohoku Shinkansen",
+        "JR Utsunomiya Line[Tohoku Main Line]‧JR Ueno Tokyo Line",
+        "Tokyo Metro Marunouchi Line"
+      ]
+    },
+    {
+      "name": "Shin-Nihombashi",
+      "japanese_name": "新日本橋",
+      "station_id": "00004341",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Bakurocho",
+      "japanese_name": "馬喰町",
+      "station_id": "00007373",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Kinshicho",
+      "japanese_name": "錦糸町",
+      "station_id": "00001824",
+      "order": 4,
+      "transfers": [
+        "JR Sobu Line Local (Ochanomizu-Kinshicho)",
+        "Tokyo Metro Hanzomon Line"
+      ]
+    },
+    {
+      "name": "Kameido",
+      "japanese_name": "亀戸",
+      "station_id": "00001522",
+      "order": 5,
+      "transfers": [
+        "Tobu Kameido Line"
+      ]
+    },
+    {
+      "name": "Hirai(Tokyo)",
+      "japanese_name": "平井(東京都)",
+      "station_id": "00008061",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Shin-Koiwa",
+      "japanese_name": "新小岩",
+      "station_id": "00004260",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Koiwa",
+      "japanese_name": "小岩",
+      "station_id": "00003658",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Ichikawa",
+      "japanese_name": "市川",
+      "station_id": "00003213",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Moto-Yawata(JR)",
+      "japanese_name": "本八幡〔ＪＲ〕",
+      "station_id": "00008496",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Shimosa-Nakayama",
+      "japanese_name": "下総中山",
+      "station_id": "00000965",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Nishi-Funabashi",
+      "japanese_name": "西船橋",
+      "station_id": "00004837",
+      "order": 12,
+      "transfers": [
+        "JR Musashino Line(Nishifunabashi-Ichikawashiohama)",
+        "JR Musashino Line(Fuchuhommachi-Minamifunabashi)",
+        "Tokyo Metro Tozai Line",
+        "Toyokosoku Line"
+      ]
+    },
+    {
+      "name": "Funabashi",
+      "japanese_name": "船橋",
+      "station_id": "00005286",
+      "order": 13,
+      "transfers": [
+        "Tobu Noda Line (Urban Park Line)"
+      ]
+    },
+    {
+      "name": "Higashi-Funabashi",
+      "japanese_name": "東船橋",
+      "station_id": "00006766",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Tsudanuma",
+      "japanese_name": "津田沼",
+      "station_id": "00006333",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Makuharihongo",
+      "japanese_name": "幕張本郷",
+      "station_id": "00008519",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Makuhari",
+      "japanese_name": "幕張",
+      "station_id": "00008518",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Shin-Kemigawa",
+      "japanese_name": "新検見川",
+      "station_id": "00004221",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Inage",
+      "japanese_name": "稲毛",
+      "station_id": "00000491",
+      "order": 19,
+      "transfers": []
+    },
+    {
+      "name": "Nishi-Chiba",
+      "japanese_name": "西千葉",
+      "station_id": "00004826",
+      "order": 20,
+      "transfers": []
+    },
+    {
+      "name": "Chiba",
+      "japanese_name": "千葉",
+      "station_id": "00005172",
+      "order": 21,
+      "transfers": [
+        "JR Sotobo Line",
+        "Chibatoshi Monorail Line 1",
+        "Chibatoshi Monorail Line 2"
+      ]
+    },
+    {
+      "name": "Higashi-Chiba",
+      "japanese_name": "東千葉",
+      "station_id": "00006763",
+      "order": 22,
+      "transfers": []
+    },
+    {
+      "name": "Tsuga",
+      "japanese_name": "都賀",
+      "station_id": "00006543",
+      "order": 23,
+      "transfers": [
+        "Chibatoshi Monorail Line 2"
+      ]
+    },
+    {
+      "name": "Yotsukaido",
+      "japanese_name": "四街道",
+      "station_id": "00003179",
+      "order": 24,
+      "transfers": []
+    },
+    {
+      "name": "Monoi",
+      "japanese_name": "物井",
+      "station_id": "00008048",
+      "order": 25,
+      "transfers": []
+    },
+    {
+      "name": "Sakura",
+      "japanese_name": "佐倉",
+      "station_id": "00002786",
+      "order": 26,
+      "transfers": [
+        "JR Narita Line(Sakura-Choshi)"
+      ]
+    },
+    {
+      "name": "Minami-Shisui",
+      "japanese_name": "南酒々井",
+      "station_id": "00007100",
+      "order": 27,
+      "transfers": []
+    },
+    {
+      "name": "Enokido(Chiba)",
+      "japanese_name": "榎戸(千葉県)",
+      "station_id": "00000739",
+      "order": 28,
+      "transfers": []
+    },
+    {
+      "name": "Yachimata",
+      "japanese_name": "八街",
+      "station_id": "00007512",
+      "order": 29,
+      "transfers": []
+    },
+    {
+      "name": "Hyuga",
+      "japanese_name": "日向",
+      "station_id": "00007251",
+      "order": 30,
+      "transfers": []
+    },
+    {
+      "name": "Naruto",
+      "japanese_name": "成東",
+      "station_id": "00004640",
+      "order": 31,
+      "transfers": [
+        "JR Togane Line"
+      ]
+    },
+    {
+      "name": "Matsuo(Chiba)",
+      "japanese_name": "松尾(千葉県)",
+      "station_id": "00003871",
+      "order": 32,
+      "transfers": []
+    },
+    {
+      "name": "Yokoshiba",
+      "japanese_name": "横芝",
+      "station_id": "00000824",
+      "order": 33,
+      "transfers": []
+    },
+    {
+      "name": "Iigura",
+      "japanese_name": "飯倉",
+      "station_id": "00007621",
+      "order": 34,
+      "transfers": []
+    },
+    {
+      "name": "Yokaichiba",
+      "japanese_name": "八日市場",
+      "station_id": "00007556",
+      "order": 35,
+      "transfers": []
+    },
+    {
+      "name": "Higata",
+      "japanese_name": "干潟",
+      "station_id": "00001323",
+      "order": 36,
+      "transfers": []
+    },
+    {
+      "name": "Asahi(Chiba)",
+      "japanese_name": "旭(千葉県)",
+      "station_id": "00000205",
+      "order": 37,
+      "transfers": []
+    },
+    {
+      "name": "Iioka",
+      "japanese_name": "飯岡",
+      "station_id": "00007613",
+      "order": 38,
+      "transfers": []
+    },
+    {
+      "name": "Kurahashi",
+      "japanese_name": "倉橋",
+      "station_id": "00005351",
+      "order": 39,
+      "transfers": []
+    },
+    {
+      "name": "Saruda",
+      "japanese_name": "猿田",
+      "station_id": "00000756",
+      "order": 40,
+      "transfers": []
+    },
+    {
+      "name": "Matsugishi",
+      "japanese_name": "松岸",
+      "station_id": "00003829",
+      "order": 41,
+      "transfers": [
+        "JR Narita Line(Sakura-Choshi)"
+      ]
+    },
+    {
+      "name": "Choshi",
+      "japanese_name": "銚子",
+      "station_id": "00006199",
+      "order": 42,
+      "transfers": [
+        "JR Narita Line(Sakura-Choshi)",
+        "Choshi Electric Railway"
+      ]
+    }
+  ],
+  "train_types": [
+    "Rapid",
+    "Limited Express"
+  ],
+  "example_trains": {
+    "Rapid": {
+      "trainId": "808e014d",
+      "trainName": "JR Sobu Main Line Rapid(Tokyo-Choshi)",
+      "destination": "Chiba",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "05",
+      "type": "Rapid"
+    },
+    "Limited Express": {
+      "trainId": "808e0032",
+      "trainName": "Narita Express 15 Go",
+      "destination": "Narita Airport Terminal 1",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "03",
+      "type": "Limited Express"
+    }
+  },
+  "train_stop_details": {
+    "Rapid": {
+      "line": "Sobu Line (Rapid)",
+      "train_type": "Rapid",
+      "total_stops": 10,
+      "stops": [
+        {
+          "name": "Tokyo",
+          "station_id": "00006668",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.767106,
+            "lat": 35.681041
+          }
+        },
+        {
+          "name": "Shin-Nihombashi",
+          "station_id": "00004341",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.773941,
+            "lat": 35.688882
+          }
+        },
+        {
+          "name": "Bakurocho",
+          "station_id": "00007373",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.782931,
+            "lat": 35.693721
+          }
+        },
+        {
+          "name": "Kinshicho",
+          "station_id": "00001824",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.814008,
+            "lat": 35.696755
+          }
+        },
+        {
+          "name": "Shin-Koiwa",
+          "station_id": "00004260",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.858121,
+            "lat": 35.717008
+          }
+        },
+        {
+          "name": "Ichikawa",
+          "station_id": "00003213",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.907797,
+            "lat": 35.729032
+          }
+        },
+        {
+          "name": "Funabashi",
+          "station_id": "00005286",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.985358,
+            "lat": 35.701632
+          }
+        },
+        {
+          "name": "Tsudanuma",
+          "station_id": "00006333",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.020374,
+            "lat": 35.691266
+          }
+        },
+        {
+          "name": "Inage",
+          "station_id": "00000491",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.0925,
+            "lat": 35.637112
+          }
+        },
+        {
+          "name": "Chiba",
+          "station_id": "00005172",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.113361,
+            "lat": 35.61325
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Tokyo",
+          "from_id": "00006668",
+          "to": "Shin-Nihombashi",
+          "to_id": "00004341",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-Nihombashi",
+          "from_id": "00004341",
+          "to": "Bakurocho",
+          "to_id": "00007373",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Bakurocho",
+          "from_id": "00007373",
+          "to": "Kinshicho",
+          "to_id": "00001824",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Kinshicho",
+          "from_id": "00001824",
+          "to": "Shin-Koiwa",
+          "to_id": "00004260",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Shin-Koiwa",
+          "from_id": "00004260",
+          "to": "Ichikawa",
+          "to_id": "00003213",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Ichikawa",
+          "from_id": "00003213",
+          "to": "Funabashi",
+          "to_id": "00005286",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Funabashi",
+          "from_id": "00005286",
+          "to": "Tsudanuma",
+          "to_id": "00006333",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Tsudanuma",
+          "from_id": "00006333",
+          "to": "Inage",
+          "to_id": "00000491",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Inage",
+          "from_id": "00000491",
+          "to": "Chiba",
+          "to_id": "00005172",
+          "travel_time_minutes": 4
+        }
+      ]
+    },
+    "Limited Express": {
+      "line": "Sobu Line (Rapid)",
+      "train_type": "Limited Express",
+      "total_stops": 2,
+      "stops": [
+        {
+          "name": "Tokyo",
+          "station_id": "00006668",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.767106,
+            "lat": 35.681041
+          }
+        },
+        {
+          "name": "Chiba",
+          "station_id": "00005172",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.113361,
+            "lat": 35.61325
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Tokyo",
+          "from_id": "00006668",
+          "to": "Chiba",
+          "to_id": "00005172",
+          "travel_time_minutes": 24
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:52:18.458Z"
+}

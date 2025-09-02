@@ -1,0 +1,17 @@
+curl 'https://realestate.co.jp/api' \
+  --compressed \
+  -X POST \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.5' \
+  -H 'Accept-Encoding: gzip, deflate, br, zstd' \
+  -H 'Referer: https://realestate.co.jp/en/rent?prefecture=JP-13^&trainline=11302^&station=^&min_price=^&max_price=140000^&min_meter=^&rooms=^&distance_station=^&agent_id=^&building_type=^&building_age=^&updated_within=^&transaction_type=^&order=^&search=Search' \
+  -H 'content-type: application/json' \
+  -H 'Origin: https://realestate.co.jp' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: _ga_1MWNTB390X=GS2.1.s1752572386$o21$g1$t1752573723$j60$l0$h0; _ga=GA1.1.740315615.1750305080; _gcl_au=1.1.477618897.1750305080; _ga_250561157=GS2.1.s1752572388$o23$g1$t1752573723$j60$l0$h0; _hjSessionUser_1675588=eyJpZCI6ImEzZjJhMjQwLWY2MDItNWRmNC04ZWYzLTU4NDYwNDc0ZDA2MCIsImNyZWF0ZWQiOjE3NTAzMDUwODEzODcsImV4aXN0aW5nIjp0cnVlfQ==; _ga_250561157=deleted; PHPSESSID=1726659bc49f0e99257ab59a206b7ba2; _hjSession_1675588=eyJpZCI6IjQyYjkwYTlhLTU2NzktNDUzNC1iZGRmLWVkZDQxOWI4YzkwNyIsImMiOjE3NTI1NzI1MDcyMjIsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'Priority: u=4' \
+  --data-raw '{"operationName":"Stations","variables":{"lang":"EN","groupByGroupId":true,"trainLineId":"11302","prefectureId":"JP-13"},"query":"query Stations($prefectureId: ID, $trainLineId: ID, $cityId: ID, $lang: Lang = EN, $groupByGroupId: Boolean = false) {\n  stations(\n    prefectureId: $prefectureId\n    trainLineId: $trainLineId\n    cityId: $cityId\n    lang: $lang\n    groupByGroupId: $groupByGroupId\n  ) {\n    stations {\n      id\n      groupId\n      name\n      slug\n      mapLat\n      mapLng\n      __typename\n    }\n    __typename\n  }\n}"}'

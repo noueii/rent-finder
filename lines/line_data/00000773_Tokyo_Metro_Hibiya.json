@@ -1,0 +1,600 @@
+{
+  "line": "Tokyo Metro Hibiya",
+  "operator": "Tokyo Metro",
+  "navitime_id": "00000773",
+  "first_station_id": "00008355",
+  "stations": [
+    {
+      "name": "Kita-senju",
+      "japanese_name": "北千住",
+      "station_id": "00008355",
+      "order": 1,
+      "transfers": [
+        "JR Joban Line",
+        "Tokyo Metro Chiyoda Line",
+        "Tobu Isesaki Line (SKYTREE Line)",
+        "Tsukuba Express"
+      ]
+    },
+    {
+      "name": "Minami-senju(Hibiya Line)",
+      "japanese_name": "南千住〔日比谷線〕",
+      "station_id": "00009268",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Minowa",
+      "japanese_name": "三ノ輪",
+      "station_id": "00002956",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Iriya(Tokyo)",
+      "japanese_name": "入谷(東京都)",
+      "station_id": "00007315",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Ueno",
+      "japanese_name": "上野",
+      "station_id": "00004067",
+      "order": 5,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Yamanote Line",
+        "JR Joetsu Shinkansen",
+        "JR Joban Line",
+        "JR Hokuriku Shinkansen(via Nagano)",
+        "JR Tohoku Shinkansen",
+        "JR Utsunomiya Line[Tohoku Main Line]‧JR Ueno Tokyo Line",
+        "Tokyo Metro Ginza Line"
+      ]
+    },
+    {
+      "name": "Naka-okachimachi",
+      "japanese_name": "仲御徒町",
+      "station_id": "00006149",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Akihabara",
+      "japanese_name": "秋葉原",
+      "station_id": "00003494",
+      "order": 7,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Yamanote Line",
+        "JR Sobu Line Local (Ochanomizu-Kinshicho)",
+        "Tsukuba Express"
+      ]
+    },
+    {
+      "name": "Kodemmachō",
+      "japanese_name": "小伝馬町",
+      "station_id": "00003735",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Ningyocho",
+      "japanese_name": "人形町",
+      "station_id": "00004492",
+      "order": 9,
+      "transfers": [
+        "Toei Asakusa Line"
+      ]
+    },
+    {
+      "name": "Kayabachō",
+      "japanese_name": "茅場町",
+      "station_id": "00001303",
+      "order": 10,
+      "transfers": [
+        "Tokyo Metro Tozai Line"
+      ]
+    },
+    {
+      "name": "Hatchobori(Tokyo)",
+      "japanese_name": "八丁堀(東京都)",
+      "station_id": "00007548",
+      "order": 11,
+      "transfers": [
+        "JR Keiyo Line"
+      ]
+    },
+    {
+      "name": "Tsukiji",
+      "japanese_name": "築地",
+      "station_id": "00005963",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-ginza",
+      "japanese_name": "東銀座",
+      "station_id": "00006676",
+      "order": 13,
+      "transfers": [
+        "Toei Asakusa Line"
+      ]
+    },
+    {
+      "name": "Ginza",
+      "japanese_name": "銀座",
+      "station_id": "00001908",
+      "order": 14,
+      "transfers": [
+        "Tokyo Metro Marunouchi Line",
+        "Tokyo Metro Ginza Line"
+      ]
+    },
+    {
+      "name": "Hibiya",
+      "japanese_name": "日比谷",
+      "station_id": "00007290",
+      "order": 15,
+      "transfers": [
+        "Tokyo Metro Chiyoda Line",
+        "Toei Mita Line"
+      ]
+    },
+    {
+      "name": "Kasumigaseki(Tokyo)",
+      "japanese_name": "霞ヶ関(東京都)",
+      "station_id": "00001116",
+      "order": 16,
+      "transfers": [
+        "Tokyo Metro Marunouchi Line",
+        "Tokyo Metro Chiyoda Line",
+        "Chiyoda Yurakucho Renraku Line"
+      ]
+    },
+    {
+      "name": "Toranomon Hills",
+      "japanese_name": "虎ノ門ヒルズ",
+      "station_id": "00009783",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Kamiyacho",
+      "japanese_name": "神谷町",
+      "station_id": "00004457",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Roppongi",
+      "japanese_name": "六本木",
+      "station_id": "00009098",
+      "order": 19,
+      "transfers": [
+        "Toeioedo Line(Loop)"
+      ]
+    },
+    {
+      "name": "Hiro-o",
+      "japanese_name": "広尾",
+      "station_id": "00002403",
+      "order": 20,
+      "transfers": []
+    },
+    {
+      "name": "Ebisu(Tokyo)",
+      "japanese_name": "恵比寿(東京都)",
+      "station_id": "00002025",
+      "order": 21,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "JR Shonan-Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Naka-meguro",
+      "japanese_name": "中目黒",
+      "station_id": "00006133",
+      "order": 22,
+      "transfers": [
+        "Tokyu Toyoko Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local Train"
+  ],
+  "example_trains": {
+    "Local Train": {
+      "trainId": "824d0070",
+      "trainName": "Tokyo Metro Hibiya Line",
+      "destination": "Naka-meguro",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "03",
+      "type": "Local Train"
+    }
+  },
+  "train_stop_details": {
+    "Local Train": {
+      "line": "Tokyo Metro Hibiya",
+      "train_type": "Local Train",
+      "total_stops": 22,
+      "stops": [
+        {
+          "name": "Kita-senju",
+          "station_id": "00008355",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.805177,
+            "lat": 35.749639
+          }
+        },
+        {
+          "name": "Minami-senju(Hibiya Line)",
+          "station_id": "00009268",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.79881,
+            "lat": 35.732422
+          }
+        },
+        {
+          "name": "Minowa",
+          "station_id": "00002956",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.791467,
+            "lat": 35.729688
+          }
+        },
+        {
+          "name": "Iriya(Tokyo)",
+          "station_id": "00007315",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.784691,
+            "lat": 35.720829
+          }
+        },
+        {
+          "name": "Ueno",
+          "station_id": "00004067",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.777308,
+            "lat": 35.71157
+          }
+        },
+        {
+          "name": "Naka-okachimachi",
+          "station_id": "00006149",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.776202,
+            "lat": 35.706588
+          }
+        },
+        {
+          "name": "Akihabara",
+          "station_id": "00003494",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.775521,
+            "lat": 35.698234
+          }
+        },
+        {
+          "name": "Kodemmachō",
+          "station_id": "00003735",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.778498,
+            "lat": 35.690759
+          }
+        },
+        {
+          "name": "Ningyocho",
+          "station_id": "00004492",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.782587,
+            "lat": 35.686021
+          }
+        },
+        {
+          "name": "Kayabachō",
+          "station_id": "00001303",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.779682,
+            "lat": 35.679212
+          }
+        },
+        {
+          "name": "Hatchobori(Tokyo)",
+          "station_id": "00007548",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.777349,
+            "lat": 35.675463
+          }
+        },
+        {
+          "name": "Tsukiji",
+          "station_id": "00005963",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.772586,
+            "lat": 35.66806
+          }
+        },
+        {
+          "name": "Higashi-ginza",
+          "station_id": "00006676",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.767314,
+            "lat": 35.669434
+          }
+        },
+        {
+          "name": "Ginza",
+          "station_id": "00001908",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.763939,
+            "lat": 35.672052
+          }
+        },
+        {
+          "name": "Hibiya",
+          "station_id": "00007290",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.760653,
+            "lat": 35.674196
+          }
+        },
+        {
+          "name": "Kasumigaseki(Tokyo)",
+          "station_id": "00001116",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.75105,
+            "lat": 35.673932
+          }
+        },
+        {
+          "name": "Toranomon Hills",
+          "station_id": "00009783",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.74778,
+            "lat": 35.667486
+          }
+        },
+        {
+          "name": "Kamiyacho",
+          "station_id": "00004457",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.745094,
+            "lat": 35.663007
+          }
+        },
+        {
+          "name": "Roppongi",
+          "station_id": "00009098",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.731131,
+            "lat": 35.662685
+          }
+        },
+        {
+          "name": "Hiro-o",
+          "station_id": "00002403",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.722208,
+            "lat": 35.651921
+          }
+        },
+        {
+          "name": "Ebisu(Tokyo)",
+          "station_id": "00002025",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.708468,
+            "lat": 35.646822
+          }
+        },
+        {
+          "name": "Naka-meguro",
+          "station_id": "00006133",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.698927,
+            "lat": 35.644211
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Kita-senju",
+          "from_id": "00008355",
+          "to": "Minami-senju(Hibiya Line)",
+          "to_id": "00009268",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Minami-senju(Hibiya Line)",
+          "from_id": "00009268",
+          "to": "Minowa",
+          "to_id": "00002956",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Minowa",
+          "from_id": "00002956",
+          "to": "Iriya(Tokyo)",
+          "to_id": "00007315",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Iriya(Tokyo)",
+          "from_id": "00007315",
+          "to": "Ueno",
+          "to_id": "00004067",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ueno",
+          "from_id": "00004067",
+          "to": "Naka-okachimachi",
+          "to_id": "00006149",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Naka-okachimachi",
+          "from_id": "00006149",
+          "to": "Akihabara",
+          "to_id": "00003494",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Akihabara",
+          "from_id": "00003494",
+          "to": "Kodemmachō",
+          "to_id": "00003735",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kodemmachō",
+          "from_id": "00003735",
+          "to": "Ningyocho",
+          "to_id": "00004492",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ningyocho",
+          "from_id": "00004492",
+          "to": "Kayabachō",
+          "to_id": "00001303",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kayabachō",
+          "from_id": "00001303",
+          "to": "Hatchobori(Tokyo)",
+          "to_id": "00007548",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hatchobori(Tokyo)",
+          "from_id": "00007548",
+          "to": "Tsukiji",
+          "to_id": "00005963",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tsukiji",
+          "from_id": "00005963",
+          "to": "Higashi-ginza",
+          "to_id": "00006676",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Higashi-ginza",
+          "from_id": "00006676",
+          "to": "Ginza",
+          "to_id": "00001908",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ginza",
+          "from_id": "00001908",
+          "to": "Hibiya",
+          "to_id": "00007290",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hibiya",
+          "from_id": "00007290",
+          "to": "Kasumigaseki(Tokyo)",
+          "to_id": "00001116",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kasumigaseki(Tokyo)",
+          "from_id": "00001116",
+          "to": "Toranomon Hills",
+          "to_id": "00009783",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Toranomon Hills",
+          "from_id": "00009783",
+          "to": "Kamiyacho",
+          "to_id": "00004457",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kamiyacho",
+          "from_id": "00004457",
+          "to": "Roppongi",
+          "to_id": "00009098",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Roppongi",
+          "from_id": "00009098",
+          "to": "Hiro-o",
+          "to_id": "00002403",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Hiro-o",
+          "from_id": "00002403",
+          "to": "Ebisu(Tokyo)",
+          "to_id": "00002025",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ebisu(Tokyo)",
+          "from_id": "00002025",
+          "to": "Naka-meguro",
+          "to_id": "00006133",
+          "travel_time_minutes": 2
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:55:05.783Z"
+}

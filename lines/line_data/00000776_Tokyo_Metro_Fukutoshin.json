@@ -1,0 +1,613 @@
+{
+  "line": "Tokyo Metro Fukutoshin",
+  "operator": "Tokyo Metro",
+  "navitime_id": "00000776",
+  "first_station_id": "00003729",
+  "stations": [
+    {
+      "name": "Kotake-mukaihara",
+      "japanese_name": "小竹向原",
+      "station_id": "00003729",
+      "order": 1,
+      "transfers": [
+        "Seibu Yurakucho Line",
+        "Tokyo Metro Yurakucho Line"
+      ]
+    },
+    {
+      "name": "Senkawa",
+      "japanese_name": "千川",
+      "station_id": "00005148",
+      "order": 2,
+      "transfers": [
+        "Tokyo Metro Yurakucho Line"
+      ]
+    },
+    {
+      "name": "Kanamecho",
+      "japanese_name": "要町",
+      "station_id": "00008895",
+      "order": 3,
+      "transfers": [
+        "Tokyo Metro Yurakucho Line"
+      ]
+    },
+    {
+      "name": "Ikebukuro",
+      "japanese_name": "池袋",
+      "station_id": "00005947",
+      "order": 4,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "Seibu Ikebukuro Line",
+        "Tokyo Metro Marunouchi Line",
+        "Tokyo Metro Yurakucho Line",
+        "Tobu Tojo Line",
+        "JR Shonan-Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Zoshigaya",
+      "japanese_name": "雑司が谷",
+      "station_id": "00009538",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Nishi-Waseda",
+      "japanese_name": "西早稲田",
+      "station_id": "00009539",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-shinjuku",
+      "japanese_name": "東新宿",
+      "station_id": "00009222",
+      "order": 7,
+      "transfers": [
+        "Toeioedo Line(Loop)"
+      ]
+    },
+    {
+      "name": "Shinjuku Sanchome",
+      "japanese_name": "新宿三丁目",
+      "station_id": "00004256",
+      "order": 8,
+      "transfers": [
+        "Tokyo Metro Marunouchi Line",
+        "Toei Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Kita-Sandō",
+      "japanese_name": "北参道",
+      "station_id": "00009540",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Meiji-jingumae",
+      "japanese_name": "明治神宮前",
+      "station_id": "00008598",
+      "order": 10,
+      "transfers": [
+        "Tokyo Metro Chiyoda Line"
+      ]
+    },
+    {
+      "name": "Shibuya",
+      "japanese_name": "渋谷",
+      "station_id": "00003544",
+      "order": 11,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "Keio Inokashira Line",
+        "Tokyo Metro Ginza Line",
+        "Tokyo Metro Hanzomon Line",
+        "Tokyu Den-en-toshi Line",
+        "Tokyu Toyoko Line",
+        "JR Shonan-Shinjuku Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local Train",
+    "Express",
+    "Commuter Express",
+    "F Express"
+  ],
+  "example_trains": {
+    "Local Train": {
+      "trainId": "824f0415",
+      "trainName": "Tokyo Metro Fukutoshin Line",
+      "destination": "Motomachi-Chukagai",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "05",
+      "type": "Local Train"
+    },
+    "Express": {
+      "trainId": "824f009f",
+      "trainName": "Tokyo Metro Fukutoshin Line Express",
+      "destination": "Motomachi-Chukagai",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "03",
+      "type": "Express"
+    },
+    "Commuter Express": {
+      "trainId": "824f002a",
+      "trainName": "Tokyo Metro Fukutoshin Line Commuter Express",
+      "destination": "Motomachi-Chukagai",
+      "hour": 6,
+      "date": "2025-07-11",
+      "time": "35",
+      "type": "Commuter Express"
+    },
+    "F Express": {
+      "trainId": "824f041b",
+      "trainName": "Tokyo Metro Fukutoshin Line Express (F-Liner)",
+      "destination": "Motomachi-Chukagai",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "52",
+      "type": "F Express"
+    }
+  },
+  "train_stop_details": {
+    "Local Train": {
+      "line": "Tokyo Metro Fukutoshin",
+      "train_type": "Local Train",
+      "total_stops": 11,
+      "stops": [
+        {
+          "name": "Kotake-mukaihara",
+          "station_id": "00003729",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.679494,
+            "lat": 35.743376
+          }
+        },
+        {
+          "name": "Senkawa",
+          "station_id": "00005148",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.689212,
+            "lat": 35.738402
+          }
+        },
+        {
+          "name": "Kanamecho",
+          "station_id": "00008895",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.698463,
+            "lat": 35.733288
+          }
+        },
+        {
+          "name": "Ikebukuro",
+          "station_id": "00005947",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.708405,
+            "lat": 35.731418
+          }
+        },
+        {
+          "name": "Zoshigaya",
+          "station_id": "00009538",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.714867,
+            "lat": 35.720212
+          }
+        },
+        {
+          "name": "Nishi-Waseda",
+          "station_id": "00009539",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.709086,
+            "lat": 35.708049
+          }
+        },
+        {
+          "name": "Higashi-shinjuku",
+          "station_id": "00009222",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.707786,
+            "lat": 35.699863
+          }
+        },
+        {
+          "name": "Shinjuku Sanchome",
+          "station_id": "00004256",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.704851,
+            "lat": 35.690868
+          }
+        },
+        {
+          "name": "Kita-Sandō",
+          "station_id": "00009540",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.705574,
+            "lat": 35.678296
+          }
+        },
+        {
+          "name": "Meiji-jingumae",
+          "station_id": "00008598",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.705415,
+            "lat": 35.668488
+          }
+        },
+        {
+          "name": "Shibuya",
+          "station_id": "00003544",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.702546,
+            "lat": 35.659035
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Kotake-mukaihara",
+          "from_id": "00003729",
+          "to": "Senkawa",
+          "to_id": "00005148",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Senkawa",
+          "from_id": "00005148",
+          "to": "Kanamecho",
+          "to_id": "00008895",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kanamecho",
+          "from_id": "00008895",
+          "to": "Ikebukuro",
+          "to_id": "00005947",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ikebukuro",
+          "from_id": "00005947",
+          "to": "Zoshigaya",
+          "to_id": "00009538",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Zoshigaya",
+          "from_id": "00009538",
+          "to": "Nishi-Waseda",
+          "to_id": "00009539",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nishi-Waseda",
+          "from_id": "00009539",
+          "to": "Higashi-shinjuku",
+          "to_id": "00009222",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Higashi-shinjuku",
+          "from_id": "00009222",
+          "to": "Shinjuku Sanchome",
+          "to_id": "00004256",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shinjuku Sanchome",
+          "from_id": "00004256",
+          "to": "Kita-Sandō",
+          "to_id": "00009540",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kita-Sandō",
+          "from_id": "00009540",
+          "to": "Meiji-jingumae",
+          "to_id": "00008598",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Meiji-jingumae",
+          "from_id": "00008598",
+          "to": "Shibuya",
+          "to_id": "00003544",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Express": {
+      "line": "Tokyo Metro Fukutoshin",
+      "train_type": "Express",
+      "total_stops": 5,
+      "stops": [
+        {
+          "name": "Kotake-mukaihara",
+          "station_id": "00003729",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.679494,
+            "lat": 35.743376
+          }
+        },
+        {
+          "name": "Ikebukuro",
+          "station_id": "00005947",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.708405,
+            "lat": 35.731418
+          }
+        },
+        {
+          "name": "Shinjuku Sanchome",
+          "station_id": "00004256",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.704851,
+            "lat": 35.690868
+          }
+        },
+        {
+          "name": "Meiji-jingumae",
+          "station_id": "00008598",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.705415,
+            "lat": 35.668488
+          }
+        },
+        {
+          "name": "Shibuya",
+          "station_id": "00003544",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.702546,
+            "lat": 35.659035
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Kotake-mukaihara",
+          "from_id": "00003729",
+          "to": "Ikebukuro",
+          "to_id": "00005947",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Ikebukuro",
+          "from_id": "00005947",
+          "to": "Shinjuku Sanchome",
+          "to_id": "00004256",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Shinjuku Sanchome",
+          "from_id": "00004256",
+          "to": "Meiji-jingumae",
+          "to_id": "00008598",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Meiji-jingumae",
+          "from_id": "00008598",
+          "to": "Shibuya",
+          "to_id": "00003544",
+          "travel_time_minutes": 1
+        }
+      ]
+    },
+    "Commuter Express": {
+      "line": "Tokyo Metro Fukutoshin",
+      "train_type": "Commuter Express",
+      "total_stops": 5,
+      "stops": [
+        {
+          "name": "Kotake-mukaihara",
+          "station_id": "00003729",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.679494,
+            "lat": 35.743376
+          }
+        },
+        {
+          "name": "Ikebukuro",
+          "station_id": "00005947",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.708405,
+            "lat": 35.731418
+          }
+        },
+        {
+          "name": "Shinjuku Sanchome",
+          "station_id": "00004256",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.704851,
+            "lat": 35.690868
+          }
+        },
+        {
+          "name": "Meiji-jingumae",
+          "station_id": "00008598",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.705415,
+            "lat": 35.668488
+          }
+        },
+        {
+          "name": "Shibuya",
+          "station_id": "00003544",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.702546,
+            "lat": 35.659035
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Kotake-mukaihara",
+          "from_id": "00003729",
+          "to": "Ikebukuro",
+          "to_id": "00005947",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Ikebukuro",
+          "from_id": "00005947",
+          "to": "Shinjuku Sanchome",
+          "to_id": "00004256",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Shinjuku Sanchome",
+          "from_id": "00004256",
+          "to": "Meiji-jingumae",
+          "to_id": "00008598",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Meiji-jingumae",
+          "from_id": "00008598",
+          "to": "Shibuya",
+          "to_id": "00003544",
+          "travel_time_minutes": 1
+        }
+      ]
+    },
+    "F Express": {
+      "line": "Tokyo Metro Fukutoshin",
+      "train_type": "F Express",
+      "total_stops": 5,
+      "stops": [
+        {
+          "name": "Kotake-mukaihara",
+          "station_id": "00003729",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.679494,
+            "lat": 35.743376
+          }
+        },
+        {
+          "name": "Ikebukuro",
+          "station_id": "00005947",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.708405,
+            "lat": 35.731418
+          }
+        },
+        {
+          "name": "Shinjuku Sanchome",
+          "station_id": "00004256",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.704851,
+            "lat": 35.690868
+          }
+        },
+        {
+          "name": "Meiji-jingumae",
+          "station_id": "00008598",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.705415,
+            "lat": 35.668488
+          }
+        },
+        {
+          "name": "Shibuya",
+          "station_id": "00003544",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.702546,
+            "lat": 35.659035
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Kotake-mukaihara",
+          "from_id": "00003729",
+          "to": "Ikebukuro",
+          "to_id": "00005947",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Ikebukuro",
+          "from_id": "00005947",
+          "to": "Shinjuku Sanchome",
+          "to_id": "00004256",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Shinjuku Sanchome",
+          "from_id": "00004256",
+          "to": "Meiji-jingumae",
+          "to_id": "00008598",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Meiji-jingumae",
+          "from_id": "00008598",
+          "to": "Shibuya",
+          "to_id": "00003544",
+          "travel_time_minutes": 2
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:55:26.004Z"
+}

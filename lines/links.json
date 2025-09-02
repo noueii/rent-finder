@@ -1,0 +1,25 @@
+[
+  {
+	"name": "ODPT_railway_stations",
+	"link": "https://api.odpt.org/api/v4/odpt:Railway?acl:consumerKey=4g7yluvckeik2ihguvhl4140ec2g7l1vgms32sobbzxzt3jlbh1sycr7tmjfxxn0",
+	"template": "odpt_railway_template.json"
+  },
+  {
+	"name": "NAVITIME_line_search",
+	"link": "https://japantravel.navitime.com/en/async/transport/suggest/lines?word=yama&name=yama",
+	"template": "navitime_line_search.json"
+  },
+
+  {
+	"name": "NAVITIME_station_search",
+	"link": "https://japantravel.navitime.com/en/area/jp/railroad/00000141",
+	"template": "navitime_line_html.html"
+  },
+
+  {
+      "name": "NAVITIME_train_search",
+      "link": "https://japantravel.navitime.com/en/area/jp/timetable/{station_id}/{railway_id}/",
+    "template": "navitime_train_html.html"
+  }
+]
+

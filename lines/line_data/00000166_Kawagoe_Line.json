@@ -1,0 +1,450 @@
+{
+  "line": "Kawagoe Line",
+  "operator": "JR East",
+  "navitime_id": "00000166",
+  "first_station_id": "00005564",
+  "stations": [
+    {
+      "name": "Omiya (Saitama)",
+      "japanese_name": "大宮(埼玉県)",
+      "station_id": "00005564",
+      "order": 1,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Takasaki Line",
+        "JR Saikyo Line",
+        "JR Joetsu Shinkansen",
+        "JR Hokuriku Shinkansen(via Nagano)",
+        "JR Tohoku Shinkansen",
+        "JR Utsunomiya Line[Tohoku Main Line]‧JR Ueno Tokyo Line",
+        "Saitama New Urban Transit New Shuttle",
+        "Tobu Noda Line (Urban Park Line)",
+        "JR Musashino Line(Omiya)"
+      ]
+    },
+    {
+      "name": "Nisshin(Saitama)",
+      "japanese_name": "日進(埼玉県)",
+      "station_id": "00007275",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Nishi-Omiya",
+      "japanese_name": "西大宮",
+      "station_id": "00009552",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Sashiogi",
+      "japanese_name": "指扇",
+      "station_id": "00003281",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Minami-Furuya",
+      "japanese_name": "南古谷",
+      "station_id": "00007074",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Kawagoe",
+      "japanese_name": "川越",
+      "station_id": "00005189",
+      "order": 6,
+      "transfers": [
+        "Tobu Tojo Line"
+      ]
+    },
+    {
+      "name": "Nishi-Kawagoe",
+      "japanese_name": "西川越",
+      "station_id": "00004828",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Matoba",
+      "japanese_name": "的場",
+      "station_id": "00006411",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Kasahata",
+      "japanese_name": "笠幡",
+      "station_id": "00001243",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Musashi-Takahagi",
+      "japanese_name": "武蔵高萩",
+      "station_id": "00007961",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Komagawa",
+      "japanese_name": "高麗川",
+      "station_id": "00002645",
+      "order": 11,
+      "transfers": [
+        "JR Hachiko Line(Komagawa-Kuragano)",
+        "JR Hachiko Line(Hachioji-Komagawa)"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Rapid",
+    "Commuter Rapid"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "8093003a",
+      "trainName": "JR Kawagoe Line",
+      "destination": "Kawagoe",
+      "hour": 5,
+      "date": "2025-07-11",
+      "time": "36",
+      "type": "Local"
+    },
+    "Rapid": {
+      "trainId": "80930044",
+      "trainName": "JR Kawagoe Line Rapid",
+      "destination": "Kawagoe",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "14",
+      "type": "Rapid"
+    },
+    "Commuter Rapid": {
+      "trainId": "8093003e",
+      "trainName": "JR Kawagoe Line Commuter Rapid",
+      "destination": "Kawagoe",
+      "hour": 7,
+      "date": "2025-07-11",
+      "time": "04",
+      "type": "Commuter Rapid"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Kawagoe Line",
+      "train_type": "Local",
+      "total_stops": 6,
+      "stops": [
+        {
+          "name": "Omiya (Saitama)",
+          "station_id": "00005564",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.623602,
+            "lat": 35.906266
+          }
+        },
+        {
+          "name": "Nisshin(Saitama)",
+          "station_id": "00007275",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.606203,
+            "lat": 35.931583
+          }
+        },
+        {
+          "name": "Nishi-Omiya",
+          "station_id": "00009552",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.579883,
+            "lat": 35.922304
+          }
+        },
+        {
+          "name": "Sashiogi",
+          "station_id": "00003281",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.565119,
+            "lat": 35.917123
+          }
+        },
+        {
+          "name": "Minami-Furuya",
+          "station_id": "00007074",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.519417,
+            "lat": 35.903215
+          }
+        },
+        {
+          "name": "Kawagoe",
+          "station_id": "00005189",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.482913,
+            "lat": 35.907122
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Omiya (Saitama)",
+          "from_id": "00005564",
+          "to": "Nisshin(Saitama)",
+          "to_id": "00007275",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Nisshin(Saitama)",
+          "from_id": "00007275",
+          "to": "Nishi-Omiya",
+          "to_id": "00009552",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nishi-Omiya",
+          "from_id": "00009552",
+          "to": "Sashiogi",
+          "to_id": "00003281",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Sashiogi",
+          "from_id": "00003281",
+          "to": "Minami-Furuya",
+          "to_id": "00007074",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Minami-Furuya",
+          "from_id": "00007074",
+          "to": "Kawagoe",
+          "to_id": "00005189",
+          "travel_time_minutes": 4
+        }
+      ]
+    },
+    "Rapid": {
+      "line": "Kawagoe Line",
+      "train_type": "Rapid",
+      "total_stops": 6,
+      "stops": [
+        {
+          "name": "Omiya (Saitama)",
+          "station_id": "00005564",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.623602,
+            "lat": 35.906266
+          }
+        },
+        {
+          "name": "Nisshin(Saitama)",
+          "station_id": "00007275",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.606203,
+            "lat": 35.931583
+          }
+        },
+        {
+          "name": "Nishi-Omiya",
+          "station_id": "00009552",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.579883,
+            "lat": 35.922304
+          }
+        },
+        {
+          "name": "Sashiogi",
+          "station_id": "00003281",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.565119,
+            "lat": 35.917123
+          }
+        },
+        {
+          "name": "Minami-Furuya",
+          "station_id": "00007074",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.519417,
+            "lat": 35.903215
+          }
+        },
+        {
+          "name": "Kawagoe",
+          "station_id": "00005189",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.482913,
+            "lat": 35.907122
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Omiya (Saitama)",
+          "from_id": "00005564",
+          "to": "Nisshin(Saitama)",
+          "to_id": "00007275",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Nisshin(Saitama)",
+          "from_id": "00007275",
+          "to": "Nishi-Omiya",
+          "to_id": "00009552",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Nishi-Omiya",
+          "from_id": "00009552",
+          "to": "Sashiogi",
+          "to_id": "00003281",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Sashiogi",
+          "from_id": "00003281",
+          "to": "Minami-Furuya",
+          "to_id": "00007074",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Minami-Furuya",
+          "from_id": "00007074",
+          "to": "Kawagoe",
+          "to_id": "00005189",
+          "travel_time_minutes": 4
+        }
+      ]
+    },
+    "Commuter Rapid": {
+      "line": "Kawagoe Line",
+      "train_type": "Commuter Rapid",
+      "total_stops": 6,
+      "stops": [
+        {
+          "name": "Omiya (Saitama)",
+          "station_id": "00005564",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.623602,
+            "lat": 35.906266
+          }
+        },
+        {
+          "name": "Nisshin(Saitama)",
+          "station_id": "00007275",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.606203,
+            "lat": 35.931583
+          }
+        },
+        {
+          "name": "Nishi-Omiya",
+          "station_id": "00009552",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.579883,
+            "lat": 35.922304
+          }
+        },
+        {
+          "name": "Sashiogi",
+          "station_id": "00003281",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.565119,
+            "lat": 35.917123
+          }
+        },
+        {
+          "name": "Minami-Furuya",
+          "station_id": "00007074",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.519417,
+            "lat": 35.903215
+          }
+        },
+        {
+          "name": "Kawagoe",
+          "station_id": "00005189",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.482913,
+            "lat": 35.907122
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Omiya (Saitama)",
+          "from_id": "00005564",
+          "to": "Nisshin(Saitama)",
+          "to_id": "00007275",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Nisshin(Saitama)",
+          "from_id": "00007275",
+          "to": "Nishi-Omiya",
+          "to_id": "00009552",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Nishi-Omiya",
+          "from_id": "00009552",
+          "to": "Sashiogi",
+          "to_id": "00003281",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Sashiogi",
+          "from_id": "00003281",
+          "to": "Minami-Furuya",
+          "to_id": "00007074",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Minami-Furuya",
+          "from_id": "00007074",
+          "to": "Kawagoe",
+          "to_id": "00005189",
+          "travel_time_minutes": 5
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:52:13.751Z"
+}

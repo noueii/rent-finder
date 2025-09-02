@@ -1,0 +1,153 @@
+{
+  "line": "Nambu Line",
+  "operator": "JR East",
+  "navitime_id": "00000191",
+  "first_station_id": "00004130",
+  "stations": [
+    {
+      "name": "Shitte",
+      "japanese_name": "尻手",
+      "station_id": "00004130",
+      "order": 1,
+      "transfers": [
+        "JR Nambu Line(Kawasaki-Tachikawa)"
+      ]
+    },
+    {
+      "name": "Hatchonawate",
+      "japanese_name": "八丁畷",
+      "station_id": "00007545",
+      "order": 2,
+      "transfers": [
+        "Keikyu Main Line"
+      ]
+    },
+    {
+      "name": "Kawasakishimmachi",
+      "japanese_name": "川崎新町",
+      "station_id": "00005204",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Odasakae",
+      "japanese_name": "小田栄",
+      "station_id": "00009687",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Hama-Kawasaki",
+      "japanese_name": "浜川崎",
+      "station_id": "00007844",
+      "order": 5,
+      "transfers": [
+        "JR Tsurumi Line(Tsurumi-Ogimachi)"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "80a80010",
+      "trainName": "JR Nambu Line(Shitte-Hamakawasaki)",
+      "destination": "Hama-Kawasaki",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "33",
+      "type": "Local"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Nambu Line",
+      "train_type": "Local",
+      "total_stops": 5,
+      "stops": [
+        {
+          "name": "Shitte",
+          "station_id": "00004130",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.684496,
+            "lat": 35.531153
+          }
+        },
+        {
+          "name": "Hatchonawate",
+          "station_id": "00007545",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.691486,
+            "lat": 35.523042
+          }
+        },
+        {
+          "name": "Kawasakishimmachi",
+          "station_id": "00005204",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.699173,
+            "lat": 35.518235
+          }
+        },
+        {
+          "name": "Odasakae",
+          "station_id": "00009687",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.705095,
+            "lat": 35.514407
+          }
+        },
+        {
+          "name": "Hama-Kawasaki",
+          "station_id": "00007844",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.713508,
+            "lat": 35.510394
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shitte",
+          "from_id": "00004130",
+          "to": "Hatchonawate",
+          "to_id": "00007545",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hatchonawate",
+          "from_id": "00007545",
+          "to": "Kawasakishimmachi",
+          "to_id": "00005204",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kawasakishimmachi",
+          "from_id": "00005204",
+          "to": "Odasakae",
+          "to_id": "00009687",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Odasakae",
+          "from_id": "00009687",
+          "to": "Hama-Kawasaki",
+          "to_id": "00007844",
+          "travel_time_minutes": 2
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:52:45.025Z"
+}

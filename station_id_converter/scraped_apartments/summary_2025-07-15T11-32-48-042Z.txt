@@ -1,0 +1,54 @@
+Realestate.co.jp Scraping Summary
+=================================
+
+Total Apartments: 15
+
+Price Range:
+  Min: ¥∞
+  Max: ¥-∞
+  Avg: ¥0
+
+Size Range:
+  Min: Infinitym²
+  Max: -Infinitym²
+  Avg: NaNm²
+
+Layouts:
+  1K: 4
+  1DK: 4
+  3DK: 2
+  1LDK: 1
+  2LDK: 1
+  2K: 1
+  3LDK: 1
+  2DK: 1
+
+Top Districts:
+  Tokyo: 15
+
+Sample Listings:
+
+1. 1K Apartment in in HirooShibuya-ku
+   Price: ¥0 | Size: 0m²
+   Station:  (0 min)
+   URL: https://realestate.co.jp/en/rent/view/1249374
+
+2. 1DK Apartment in in KyodoSetagaya-ku
+   Price: ¥0 | Size: 0m²
+   Station:  (0 min)
+   URL: https://realestate.co.jp/en/rent/view/1249999
+
+3. 1LDK Apartment in in ZoshigayaToshima-ku
+   Price: ¥0 | Size: 0m²
+   Station:  (0 min)
+   URL: https://realestate.co.jp/en/rent/view/1251410
+
+4. 1DK Apartment in in KomagomeToshima-ku
+   Price: ¥0 | Size: 0m²
+   Station:  (0 min)
+   URL: https://realestate.co.jp/en/rent/view/1249627
+
+5. 2LDK Apartment in in ShimoyugiHachioji-shi
+   Price: ¥0 | Size: 0m²
+   Station:  (0 min)
+   URL: https://realestate.co.jp/en/rent/view/1247656

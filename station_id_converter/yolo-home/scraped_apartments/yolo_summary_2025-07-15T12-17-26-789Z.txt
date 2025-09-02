@@ -1,0 +1,160 @@
+YOLO HOME Scraping Summary
+===========================
+
+Source: YOLO HOME (home.yolo-japan.com)
+Search URL: https://home.yolo-japan.com/en/tokyo/list?municipality_code=13101,13102,13103,13104,13105,13106,13107,13108,13109,13110,13111,13112,13113,13114,13115,13116,13117,13118,13119,13120,13121,13122,13123&priceTo=150&areaFrom=25&perPage=50&page=1
+Generated: 7/15/2025, 3:17:26 PM
+Execution Time: 3.14s
+
+Overview
+--------
+Total Apartments: 106
+Pages Scraped: 1
+
+Price Analysis
+--------------
+Monthly Rent Range: ¥69,000 - ¥145,000
+Average Monthly Rent: ¥103,675
+
+Size Analysis
+-------------
+Size Range: 25.1m² - 43.0m²
+Average Size: 27.4m²
+
+Layout Distribution
+-------------------
+1K: 79 apartments (74.5%)
+1R: 12 apartments (11.3%)
+1DK: 9 apartments (8.5%)
+1LDK: 6 apartments (5.7%)
+
+Buildings (Top 10)
+------------------
+クレヴィスタ蒲田: 13 apartments
+クレヴィスタ板橋西台: 10 apartments
+クレヴィスタ亀戸: 8 apartments
+KDXレジデンス池袋ウエスト: 7 apartments
+ハーモニーレジデンスグローバルキャピタル: 5 apartments
+ハーモニーレジデンス蒲田アートヴィラ: 4 apartments
+クレヴィスタ浮間舟渡: 4 apartments
+クレヴィスタ練馬桜台: 3 apartments
+クレヴィスタ氷川台: 2 apartments
+クレヴィスタ練馬平和台: 2 apartments
+
+Ward Distribution
+-----------------
+
+
+Popular Stations (Top 10)
+-------------------------
+Kamata: 24 apartments
+Hasunuma: 13 apartments
+Koiwa: 12 apartments
+Nishidai: 10 apartments
+Takashimadaira: 10 apartments
+Suijin: 8 apartments
+Kameido: 8 apartments
+Kanamecho: 7 apartments
+Ikebukuro: 7 apartments
+Sakuradai: 6 apartments
+
+Sample Listings
+---------------
+
+1. 1DK Apartment
+   Building: ハーモニーレジデンスグローバルキャピタル
+   Room: N/A
+   
+   Price: ¥115,000/month
+   Management Fee: ¥15,000/month
+   Size: 25.35m² | Floor: 7
+   Layout: 1DK
+   
+   Location:  
+   Address: Tokyo Metro-Hibiya line Iriya 5 minutes on foot
+Tsukuba Express Asakusa 14 minutes on foot
+   Stations: Iriya (5min), Asakusa (14min)
+   
+   Features: Autolock, Free internet, Pets allowed/negotiable, Flooring
+   
+   URL: https://home.yolo-japan.com/en/property/1462368
+
+---
+
+2. 1DK Apartment
+   Building: ハーモニーレジデンスグローバルキャピタル
+   Room: N/A
+   
+   Price: ¥109,000/month
+   Management Fee: ¥15,000/month
+   Size: 25.35m² | Floor: 4
+   Layout: 1DK
+   
+   Location:  
+   Address: Tokyo Metro-Hibiya line Iriya 5 minutes on foot
+Tsukuba Express Asakusa 14 minutes on foot
+   Stations: Iriya (5min), Asakusa (14min)
+   
+   Features: Autolock, Free internet, Pets allowed/negotiable, Flooring
+   
+   URL: https://home.yolo-japan.com/en/property/1426524
+
+---
+
+3. 1DK Apartment
+   Building: ハーモニーレジデンスグローバルキャピタル
+   Room: N/A
+   
+   Price: ¥115,000/month
+   Management Fee: ¥15,000/month
+   Size: 25.74m² | Floor: 9
+   Layout: 1DK
+   
+   Location:  
+   Address: Tokyo Metro-Hibiya line Iriya 5 minutes on foot
+Tsukuba Express Asakusa 14 minutes on foot
+   Stations: Iriya (5min), Asakusa (14min)
+   
+   Features: Autolock, Free internet, Pets allowed/negotiable, Flooring
+   
+   URL: https://home.yolo-japan.com/en/property/1387219
+
+---
+
+4. 1DK Apartment
+   Building: ハーモニーレジデンスグローバルキャピタル
+   Room: N/A
+   
+   Price: ¥114,000/month
+   Management Fee: ¥15,000/month
+   Size: 25.74m² | Floor: 7
+   Layout: 1DK
+   
+   Location:  
+   Address: Tokyo Metro-Hibiya line Iriya 5 minutes on foot
+Tsukuba Express Asakusa 14 minutes on foot
+   Stations: Iriya (5min), Asakusa (14min)
+   
+   Features: Autolock, Free internet, Pets allowed/negotiable, Flooring
+   
+   URL: https://home.yolo-japan.com/en/property/1374969
+
+---
+
+5. 1DK Apartment
+   Building: ハーモニーレジデンスグローバルキャピタル
+   Room: N/A
+   
+   Price: ¥108,000/month
+   Management Fee: ¥15,000/month
+   Size: 25.35m² | Floor: 2
+   Layout: 1DK
+   
+   Location:  
+   Address: Tokyo Metro-Hibiya line Iriya 5 minutes on foot
+Tsukuba Express Asakusa 14 minutes on foot
+   Stations: Iriya (5min), Asakusa (14min)
+   
+   Features: Autolock, Free internet, Pets allowed/negotiable, Flooring
+   
+   URL: https://home.yolo-japan.com/en/property/1441600

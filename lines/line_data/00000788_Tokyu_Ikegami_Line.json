@@ -1,0 +1,395 @@
+{
+  "line": "Tokyu Ikegami Line",
+  "operator": "Tokyu Corporation",
+  "navitime_id": "00000788",
+  "first_station_id": "00002244",
+  "stations": [
+    {
+      "name": "Gotanda",
+      "japanese_name": "五反田",
+      "station_id": "00002244",
+      "order": 1,
+      "transfers": [
+        "JR Yamanote Line",
+        "Toei Asakusa Line"
+      ]
+    },
+    {
+      "name": "Osakihirokoji",
+      "japanese_name": "大崎広小路",
+      "station_id": "00005614",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Togoshi-ginza",
+      "japanese_name": "戸越銀座",
+      "station_id": "00002186",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Ebara-nakanobu",
+      "japanese_name": "荏原中延",
+      "station_id": "00000643",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Hatanodai",
+      "japanese_name": "旗の台",
+      "station_id": "00001472",
+      "order": 5,
+      "transfers": [
+        "Tokyu Oimachi Line"
+      ]
+    },
+    {
+      "name": "Nagahara(Tokyo)",
+      "japanese_name": "長原(東京都)",
+      "station_id": "00006215",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Senzoku-ike",
+      "japanese_name": "洗足池",
+      "station_id": "00005277",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Ishikawa-dai",
+      "japanese_name": "石川台",
+      "station_id": "00005046",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Yukigaya-otsuka",
+      "japanese_name": "雪が谷大塚",
+      "station_id": "00005121",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Ontakesan",
+      "japanese_name": "御嶽山",
+      "station_id": "00002313",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Kugahara",
+      "japanese_name": "久が原",
+      "station_id": "00001591",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Chidoricho",
+      "japanese_name": "千鳥町",
+      "station_id": "00005165",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Ikegami",
+      "japanese_name": "池上",
+      "station_id": "00005943",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Hasunuma",
+      "japanese_name": "蓮沼",
+      "station_id": "00009067",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Kamata",
+      "japanese_name": "蒲田",
+      "station_id": "00001277",
+      "order": 15,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "Tokyu Tamagawa Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "825a004f",
+      "trainName": "Tokyu Ikegami Line Local",
+      "destination": "Kamata",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "02",
+      "type": "Local"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Tokyu Ikegami Line",
+      "train_type": "Local",
+      "total_stops": 15,
+      "stops": [
+        {
+          "name": "Gotanda",
+          "station_id": "00002244",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.724206,
+            "lat": 35.625263
+          }
+        },
+        {
+          "name": "Osakihirokoji",
+          "station_id": "00005614",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.722738,
+            "lat": 35.622711
+          }
+        },
+        {
+          "name": "Togoshi-ginza",
+          "station_id": "00002186",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.714872,
+            "lat": 35.615773
+          }
+        },
+        {
+          "name": "Ebara-nakanobu",
+          "station_id": "00000643",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.711986,
+            "lat": 35.609943
+          }
+        },
+        {
+          "name": "Hatanodai",
+          "station_id": "00001472",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.702751,
+            "lat": 35.604844
+          }
+        },
+        {
+          "name": "Nagahara(Tokyo)",
+          "station_id": "00006215",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.697669,
+            "lat": 35.602113
+          }
+        },
+        {
+          "name": "Senzoku-ike",
+          "station_id": "00005277",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.691436,
+            "lat": 35.59983
+          }
+        },
+        {
+          "name": "Ishikawa-dai",
+          "station_id": "00005046",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.685464,
+            "lat": 35.597098
+          }
+        },
+        {
+          "name": "Yukigaya-otsuka",
+          "station_id": "00005121",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.681002,
+            "lat": 35.592025
+          }
+        },
+        {
+          "name": "Ontakesan",
+          "station_id": "00002313",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.682394,
+            "lat": 35.585415
+          }
+        },
+        {
+          "name": "Kugahara",
+          "station_id": "00001591",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.685429,
+            "lat": 35.579857
+          }
+        },
+        {
+          "name": "Chidoricho",
+          "station_id": "00005165",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.691684,
+            "lat": 35.572806
+          }
+        },
+        {
+          "name": "Ikegami",
+          "station_id": "00005943",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.702943,
+            "lat": 35.572051
+          }
+        },
+        {
+          "name": "Hasunuma",
+          "station_id": "00009067",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.708464,
+            "lat": 35.564353
+          }
+        },
+        {
+          "name": "Kamata",
+          "station_id": "00001277",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.714608,
+            "lat": 35.56175
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Gotanda",
+          "from_id": "00002244",
+          "to": "Osakihirokoji",
+          "to_id": "00005614",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Osakihirokoji",
+          "from_id": "00005614",
+          "to": "Togoshi-ginza",
+          "to_id": "00002186",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Togoshi-ginza",
+          "from_id": "00002186",
+          "to": "Ebara-nakanobu",
+          "to_id": "00000643",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ebara-nakanobu",
+          "from_id": "00000643",
+          "to": "Hatanodai",
+          "to_id": "00001472",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hatanodai",
+          "from_id": "00001472",
+          "to": "Nagahara(Tokyo)",
+          "to_id": "00006215",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nagahara(Tokyo)",
+          "from_id": "00006215",
+          "to": "Senzoku-ike",
+          "to_id": "00005277",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Senzoku-ike",
+          "from_id": "00005277",
+          "to": "Ishikawa-dai",
+          "to_id": "00005046",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ishikawa-dai",
+          "from_id": "00005046",
+          "to": "Yukigaya-otsuka",
+          "to_id": "00005121",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Yukigaya-otsuka",
+          "from_id": "00005121",
+          "to": "Ontakesan",
+          "to_id": "00002313",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ontakesan",
+          "from_id": "00002313",
+          "to": "Kugahara",
+          "to_id": "00001591",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kugahara",
+          "from_id": "00001591",
+          "to": "Chidoricho",
+          "to_id": "00005165",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Chidoricho",
+          "from_id": "00005165",
+          "to": "Ikegami",
+          "to_id": "00005943",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ikegami",
+          "from_id": "00005943",
+          "to": "Hasunuma",
+          "to_id": "00009067",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hasunuma",
+          "from_id": "00009067",
+          "to": "Kamata",
+          "to_id": "00001277",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:55:41.725Z"
+}

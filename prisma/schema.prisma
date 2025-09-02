@@ -1,0 +1,295 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// ==================== Core Models ====================
+
+// Station model - mirrors the existing transit system data
+model Station {
+  id            String    @id // e.g., "00006668" - matches station_data.json
+  name          String    // English name, e.g., "Tokyo"
+  nameJa        String    // Japanese name, e.g., "東京"
+  
+  // Denormalized for performance - stored as JSON
+  lines         String    // JSON array of line names this station belongs to
+  transfers     String?   // JSON array of transfer line names available
+  
+  // Geographic data for future map features
+  latitude      Float?
+  longitude     Float?
+  
+  // Relations
+  apartments    Apartment[]
+  searches      SearchStation[]
+  
+  // Metadata
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  
+  @@index([name])
+  @@index([nameJa])
+}
+
+// Apartment listing model
+model Apartment {
+  id                String    @id @default(cuid())
+  
+  // Source information
+  sourceUrl         String    @unique // Prevents duplicate listings
+  sourceSite        String    // "apts.jp", "suumo", "homes", etc.
+  sourceListingId   String?   // Site-specific ID if available
+  
+  // Basic listing information
+  title             String    // Building name + unit
+  buildingName      String    // Just the building name
+  unitNumber        String?   // e.g., "101", "203A"
+  
+  // Pricing
+  rentMonthly       Int       // Monthly rent in JPY
+  managementFee     Int?      // Monthly management fee in JPY
+  keyMoney          Float?    // Key money (in months of rent)
+  deposit           Float?    // Deposit (in months of rent)
+  
+  // Property details
+  size              Float     // Size in m²
+  sizeJo            Float?    // Size in Jo (畳)
+  layout            String    // "1K", "1LDK", "2DK", etc.
+  layoutDetails     String?   // JSON detailed room breakdown if available
+  
+  // Location
+  prefecture        String    // e.g., "Tokyo"
+  city              String    // e.g., "Shibuya-ku"
+  ward              String?   // More specific ward if applicable
+  address           String    // Full address
+  addressDetails    String?   // JSON structured address components
+  
+  // Building information
+  buildingType      String?   // "Apartment", "Mansion", etc.
+  buildingAge       Int?      // Age in years
+  buildYear         Int?      // Year built
+  totalFloors       Int?      // Total floors in building
+  floor             String?   // Floor of this unit (can be "1-2" for maisonette)
+  
+  // Features and amenities (stored as array for flexible filtering)
+  features          String[]  // ["Air Conditioning", "Pet Friendly", "Balcony", etc.]
+  nearbyFacilities  String[]  // ["Convenience Store", "Supermarket", etc.]
+  
+  // Images
+  imageUrls         String[]  // Array of image URLs
+  floorPlanUrl      String?   // Floor plan image if available
+  
+  // Station access - primary station relation
+  stationId         String
+  station           Station   @relation(fields: [stationId], references: [id])
+  walkingMinutes    Int       // Walking time to primary station
+  
+  // Additional station access (for properties near multiple stations)
+  additionalStations String?  // JSON array of {stationId, walkingMinutes} objects
+  
+  // Availability
+  availableFrom     DateTime? // When the unit becomes available
+  isAvailable       Boolean   @default(true)
+  lastVerified      DateTime  @default(now())
+  
+  // Metadata
+  scrapedAt         DateTime  @default(now())
+  updatedAt         DateTime  @updatedAt
+  
+  // Relations
+  searchResults     SearchResult[]
+  priceHistory      PriceHistory[]
+  
+  @@index([stationId, rentMonthly])
+  @@index([rentMonthly, size])
+  @@index([layout])
+  @@index([isAvailable, rentMonthly])
+  @@index([sourceSite, sourceListingId])
+}
+
+// Price history tracking for market analysis
+model PriceHistory {
+  id            String    @id @default(cuid())
+  apartmentId   String
+  apartment     Apartment @relation(fields: [apartmentId], references: [id], onDelete: Cascade)
+  
+  rentMonthly   Int
+  managementFee Int?
+  recordedAt    DateTime  @default(now())
+  
+  @@index([apartmentId, recordedAt])
+}
+
+// ==================== Search & Analytics Models ====================
+
+// Search request tracking
+model Search {
+  id                String   @id @default(cuid())
+  
+  // Search parameters
+  targetStationId   String   // Primary work/school station
+  targetStationName String   // Denormalized for display
+  maxCommuteMinutes Int      // Maximum acceptable commute time
+  
+  // Filters applied (stored as JSON for flexibility)
+  filters           String?  // JSON {maxPrice, minSize, layouts[], features[], etc.}
+  
+  // Results summary
+  stationsSearched  Int      // Number of stations within commute range
+  totalResults      Int      // Total apartments found
+  resultsReturned   Int      // Actual results shown (after pagination)
+  
+  // Performance metrics
+  searchDurationMs  Int?     // Time taken for search
+  
+  // User context (for future user features)
+  sessionId         String?  // Anonymous session tracking
+  userId            String?  // Future: authenticated user
+  userAgent         String?  // Browser/device info
+  
+  // Metadata
+  createdAt         DateTime @default(now())
+  
+  // Relations
+  stations          SearchStation[]
+  results           SearchResult[]
+  
+  @@index([targetStationId])
+  @@index([createdAt])
+}
+
+// Many-to-many: Stations included in a search
+model SearchStation {
+  id              String   @id @default(cuid())
+  searchId        String
+  search          Search   @relation(fields: [searchId], references: [id], onDelete: Cascade)
+  
+  stationId       String
+  station         Station  @relation(fields: [stationId], references: [id])
+  
+  commuteMinutes  Int      // Actual commute time from this station
+  transferCount   Int      // Number of transfers required
+  
+  @@unique([searchId, stationId])
+  @@index([stationId])
+}
+
+// Many-to-many: Apartments returned in search results
+model SearchResult {
+  id              String    @id @default(cuid())
+  searchId        String
+  search          Search    @relation(fields: [searchId], references: [id], onDelete: Cascade)
+  
+  apartmentId     String
+  apartment       Apartment @relation(fields: [apartmentId], references: [id])
+  
+  // Commute details for this result
+  commuteMinutes  Int       // Total commute time
+  transferCount   Int       // Number of transfers
+  routeDetails    String?   // JSON detailed route information
+  
+  // Ranking
+  relevanceScore  Float?    // For future ML-based ranking
+  displayOrder    Int       // Order shown in results
+  
+  @@unique([searchId, apartmentId])
+  @@index([apartmentId])
+}
+
+// ==================== Scraping & Data Management Models ====================
+
+// Scraping job tracking
+model ScrapeJob {
+  id              String    @id @default(cuid())
+  
+  sourceSite      String    // Which site to scrape
+  targetUrl       String?   // Specific URL if applicable
+  targetStation   String?   // Station-based scraping
+  
+  status          ScrapeStatus @default(PENDING)
+  priority        Int       @default(0)
+  
+  // Execution details
+  startedAt       DateTime?
+  completedAt     DateTime?
+  
+  // Results
+  itemsScraped    Int?
+  itemsNew        Int?
+  itemsUpdated    Int?
+  errors          String?   // JSON array of error messages
+  
+  // Metadata
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  
+  @@index([status, priority])
+  @@index([sourceSite, targetStation])
+}
+
+enum ScrapeStatus {
+  PENDING
+  RUNNING
+  COMPLETED
+  FAILED
+  CANCELLED
+}
+
+// ==================== Future Features Models ====================
+
+// User accounts (future feature)
+model User {
+  id              String    @id @default(cuid())
+  email           String    @unique
+  name            String?
+  
+  // Preferences
+  defaultStation  String?   // Default work/school station
+  savedFilters    String?   // JSON default search filters
+  
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  
+  savedSearches   SavedSearch[]
+  favorites       Favorite[]
+}
+
+// Saved searches for registered users
+model SavedSearch {
+  id              String    @id @default(cuid())
+  userId          String
+  user            User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  
+  name            String    // User-given name
+  searchParams    String    // JSON complete search parameters
+  
+  // Notification settings
+  emailAlerts     Boolean   @default(false)
+  alertFrequency  String?   // "daily", "weekly", etc.
+  
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  
+  @@index([userId])
+}
+
+// Favorite apartments
+model Favorite {
+  id              String    @id @default(cuid())
+  userId          String
+  user            User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  
+  apartmentId     String
+  notes           String?   // User notes about the apartment
+  
+  createdAt       DateTime  @default(now())
+  
+  @@unique([userId, apartmentId])
+}

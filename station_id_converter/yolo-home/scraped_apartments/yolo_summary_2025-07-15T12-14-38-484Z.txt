@@ -1,0 +1,146 @@
+YOLO HOME Scraping Summary
+===========================
+
+Source: YOLO HOME (home.yolo-japan.com)
+Search URL: https://home.yolo-japan.com/en/tokyo/list?municipality_code=13101,13102,13103,13104,13105,13106,13107,13108,13109,13110,13111,13112,13113,13114,13115,13116,13117,13118,13119,13120,13121,13122,13123&priceTo=150&areaFrom=25&perPage=50&page=1
+Generated: 7/15/2025, 3:14:38 PM
+Execution Time: 3.22s
+
+Overview
+--------
+Total Apartments: 106
+Pages Scraped: 1
+
+Price Analysis
+--------------
+Monthly Rent Range: ¥0 - ¥0
+Average Monthly Rent: ¥0
+
+Size Analysis
+-------------
+Size Range: 25.1m² - 43.0m²
+Average Size: 27.4m²
+
+Layout Distribution
+-------------------
+1K: 79 apartments (74.5%)
+1R: 12 apartments (11.3%)
+1DK: 9 apartments (8.5%)
+1LDK: 6 apartments (5.7%)
+
+Buildings (Top 10)
+------------------
+￥132,000: 5 apartments
+￥130,000: 4 apartments
+￥115,000: 3 apartments
+￥108,000: 3 apartments
+￥105,000: 3 apartments
+￥125,000: 3 apartments
+￥95,000: 3 apartments
+￥94,000: 3 apartments
+￥87,000: 3 apartments
+￥86,000: 3 apartments
+
+Ward Distribution
+-----------------
+
+
+Popular Stations (Top 10)
+-------------------------
+
+
+Sample Listings
+---------------
+
+1. ￥115,000
+   Building: ￥115,000
+   Room: N/A
+   
+   Price: ¥0/month
+   Management Fee: ¥15,000/month
+   Size: 25.35m² | Floor: 7
+   Layout: 1DK
+   
+   Location:  
+   Address: Management fee：¥15,000
+   
+   
+   Features: Autolock, Free internet, Pets allowed/negotiable, Flooring
+   
+   URL: https://home.yolo-japan.com/en/property/1462368
+
+---
+
+2. ￥109,000
+   Building: ￥109,000
+   Room: N/A
+   
+   Price: ¥0/month
+   Management Fee: ¥15,000/month
+   Size: 25.35m² | Floor: 4
+   Layout: 1DK
+   
+   Location:  
+   Address: Management fee：¥15,000
+   
+   
+   Features: Autolock, Free internet, Pets allowed/negotiable, Flooring
+   
+   URL: https://home.yolo-japan.com/en/property/1426524
+
+---
+
+3. ￥115,000
+   Building: ￥115,000
+   Room: N/A
+   
+   Price: ¥0/month
+   Management Fee: ¥15,000/month
+   Size: 25.74m² | Floor: 9
+   Layout: 1DK
+   
+   Location:  
+   Address: Management fee：¥15,000
+   
+   
+   Features: Autolock, Free internet, Pets allowed/negotiable, Flooring
+   
+   URL: https://home.yolo-japan.com/en/property/1387219
+
+---
+
+4. ￥114,000
+   Building: ￥114,000
+   Room: N/A
+   
+   Price: ¥0/month
+   Management Fee: ¥15,000/month
+   Size: 25.74m² | Floor: 7
+   Layout: 1DK
+   
+   Location:  
+   Address: Management fee：¥15,000
+   
+   
+   Features: Autolock, Free internet, Pets allowed/negotiable, Flooring
+   
+   URL: https://home.yolo-japan.com/en/property/1374969
+
+---
+
+5. ￥108,000
+   Building: ￥108,000
+   Room: N/A
+   
+   Price: ¥0/month
+   Management Fee: ¥15,000/month
+   Size: 25.35m² | Floor: 2
+   Layout: 1DK
+   
+   Location:  
+   Address: Management fee：¥15,000
+   
+   
+   Features: Autolock, Free internet, Pets allowed/negotiable, Flooring
+   
+   URL: https://home.yolo-japan.com/en/property/1441600

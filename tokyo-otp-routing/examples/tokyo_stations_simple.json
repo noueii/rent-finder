@@ -1,0 +1,2945 @@
+[
+  {
+    "id": "Abiko",
+    "name": "Abiko",
+    "name_ja": "我孫子",
+    "lat": 35.87267,
+    "lon": 140.01063,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Agano",
+    "name": "Agano",
+    "name_ja": "吾野",
+    "lat": 35.90841,
+    "lon": 139.22671,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Akabane",
+    "name": "Akabane",
+    "name_ja": "赤羽",
+    "lat": 35.77767,
+    "lon": 139.72093,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "AkabaneIwabuchi",
+    "name": "Akabane-iwabuchi",
+    "name_ja": "赤羽岩淵",
+    "lat": 35.783355,
+    "lon": 139.72211,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "AkasakaMitsuke",
+    "name": "Akasaka-mitsuke",
+    "name_ja": "赤坂見附",
+    "lat": 35.676845,
+    "lon": 139.737347,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Akihabara",
+    "name": "Akihabara",
+    "name_ja": "秋葉原",
+    "lat": 35.69829052,
+    "lon": 139.77368479999998,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Anzen",
+    "name": "Anzen",
+    "name_ja": "安善",
+    "lat": 35.49965,
+    "lon": 139.70122,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Aoto",
+    "name": "Aoto",
+    "name_ja": "青砥",
+    "lat": 35.74565,
+    "lon": 139.85597,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "AoyamaItchome",
+    "name": "Aoyama-itchome",
+    "name_ja": "青山一丁目",
+    "lat": 35.672882333333334,
+    "lon": 139.72407166666667,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Asagaya",
+    "name": "Asagaya",
+    "name_ja": "阿佐ケ谷",
+    "lat": 35.70462,
+    "lon": 139.63566,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Asakusa",
+    "name": "Asakusa",
+    "name_ja": "浅草",
+    "lat": 35.71052866666667,
+    "lon": 139.79755533333332,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Asakusabashi",
+    "name": "Asakusabashi",
+    "name_ja": "浅草橋",
+    "lat": 35.697447,
+    "lon": 139.7851625,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Asano",
+    "name": "Asano",
+    "name_ja": "浅野",
+    "lat": 35.49742,
+    "lon": 139.69539,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Atami",
+    "name": "Atami",
+    "name_ja": "熱海",
+    "lat": 35.10356,
+    "lon": 139.07768,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Atsugi",
+    "name": "Atsugi",
+    "name_ja": "厚木",
+    "lat": 35.4433,
+    "lon": 139.37815,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "AwaKamogawa",
+    "name": "Awa-Kamogawa",
+    "name_ja": "安房鴨川",
+    "lat": 35.10748,
+    "lon": 140.10343,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ayase",
+    "name": "Ayase",
+    "name_ja": "綾瀬",
+    "lat": 35.76212,
+    "lon": 139.82481,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "AzabuJuban",
+    "name": "Azabu-juban",
+    "name_ja": "麻布十番",
+    "lat": 35.655629,
+    "lon": 139.73668750000002,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Azamino",
+    "name": "Azamino",
+    "name_ja": "あざみ野",
+    "lat": 35.5682915,
+    "lon": 139.5537315,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Bubaigawara",
+    "name": "Bubaigawara",
+    "name_ja": "分倍河原",
+    "lat": 35.668165,
+    "lon": 139.46855499999998,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "CenterKita",
+    "name": "Center Kita",
+    "name_ja": "センター北",
+    "lat": 35.553383,
+    "lon": 139.579045,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "CenterMinami",
+    "name": "Center Minami",
+    "name_ja": "センター南",
+    "lat": 35.545633,
+    "lon": 139.574713,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Chiba",
+    "name": "Chiba",
+    "name_ja": "千葉",
+    "lat": 35.613117228571426,
+    "lon": 140.1130162,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ChibaNewTownChuo",
+    "name": "Chiba New Town Chuo",
+    "name_ja": "千葉ニュータウン中央",
+    "lat": 35.80016,
+    "lon": 140.11609,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ChibaChuo",
+    "name": "Chibachūō",
+    "name_ja": "千葉中央",
+    "lat": 35.60722,
+    "lon": 140.11746,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Chigasaki",
+    "name": "Chigasaki",
+    "name_ja": "茅ケ崎",
+    "lat": 35.33051,
+    "lon": 139.40714,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ChikatetsuAkatsuka",
+    "name": "Chikatetsu-akatsuka",
+    "name_ja": "地下鉄赤塚",
+    "lat": 35.7699805,
+    "lon": 139.6440005,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ChikatetsuNarimasu",
+    "name": "Chikatetsu-narimasu",
+    "name_ja": "地下鉄成増",
+    "lat": 35.77674,
+    "lon": 139.63117,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ChikuCenter",
+    "name": "Chiku Center",
+    "name_ja": "地区センター",
+    "lat": 35.7259465,
+    "lon": 140.15527585,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Choshi",
+    "name": "Choshi",
+    "name_ja": "銚子",
+    "lat": 35.72946,
+    "lon": 140.82731,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ChuoRinkan",
+    "name": "Chuo-Rinkan",
+    "name_ja": "中央林間",
+    "lat": 35.507459499999996,
+    "lon": 139.444454,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Chofu",
+    "name": "Chōfu",
+    "name_ja": "調布",
+    "lat": 35.65177,
+    "lon": 139.54474,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Daimon",
+    "name": "Daimon",
+    "name_ja": "大門",
+    "lat": 35.6567705,
+    "lon": 139.7551875,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "DenEnChofu",
+    "name": "Den-en-chofu",
+    "name_ja": "田園調布",
+    "lat": 35.596893,
+    "lon": 139.6672895,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ebina",
+    "name": "Ebina",
+    "name_ja": "海老名",
+    "lat": 35.453073333333336,
+    "lon": 139.39070666666666,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ebisu",
+    "name": "Ebisu",
+    "name_ja": "恵比寿",
+    "lat": 35.646695,
+    "lon": 139.70954775,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Etchujima",
+    "name": "Etchujima",
+    "name_ja": "越中島",
+    "lat": 35.66713,
+    "lon": 139.79315,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Fuchuhommachi",
+    "name": "Fuchuhommachi",
+    "name_ja": "府中本町",
+    "lat": 35.66573,
+    "lon": 139.47707,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Fujisawa",
+    "name": "Fujisawa",
+    "name_ja": "藤沢",
+    "lat": 35.3379505,
+    "lon": 139.48720236,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Funabashi",
+    "name": "Funabashi",
+    "name_ja": "船橋",
+    "lat": 35.701753333333336,
+    "lon": 139.98465333333334,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "FutakoShinchi",
+    "name": "Futako-shinchi",
+    "name_ja": "二子新地",
+    "lat": 35.607133,
+    "lon": 139.622419,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "FutakoTamagawa",
+    "name": "Futako-tamagawa",
+    "name_ja": "二子玉川",
+    "lat": 35.612226,
+    "lon": 139.62721249999998,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Futamatagawa",
+    "name": "Futamatagawa",
+    "name_ja": "二俣川",
+    "lat": 35.46338,
+    "lon": 139.53232,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ginza",
+    "name": "Ginza",
+    "name_ja": "銀座",
+    "lat": 35.672125799999996,
+    "lon": 139.76418473333334,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Goi",
+    "name": "Goi",
+    "name_ja": "五井",
+    "lat": 35.5130155,
+    "lon": 140.0896009,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Gotanda",
+    "name": "Gotanda",
+    "name_ja": "五反田",
+    "lat": 35.626097,
+    "lon": 139.723952,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Hachioji",
+    "name": "Hachioji",
+    "name_ja": "八王子",
+    "lat": 35.65545,
+    "lon": 139.33903,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Hadano",
+    "name": "Hadano",
+    "name_ja": "秦野",
+    "lat": 35.37025,
+    "lon": 139.22577,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Hagiyama",
+    "name": "Hagiyama",
+    "name_ja": "萩山",
+    "lat": 35.7404,
+    "lon": 139.47745,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Haijima",
+    "name": "Haijima",
+    "name_ja": "拝島",
+    "lat": 35.7212625,
+    "lon": 139.3436925,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "HamaKawasaki",
+    "name": "Hama-Kawasaki",
+    "name_ja": "浜川崎",
+    "lat": 35.5102,
+    "lon": 139.71344,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Hamamatsucho",
+    "name": "Hamamatsucho",
+    "name_ja": "浜松町",
+    "lat": 35.65557166666667,
+    "lon": 139.75638633333332,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "HanedaAirportTerminal3",
+    "name": "Haneda Airport Terminal 3",
+    "name_ja": "羽田空港第３ターミナル",
+    "lat": 35.5447475,
+    "lon": 139.768161,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Hanno",
+    "name": "Hanno",
+    "name_ja": "飯能",
+    "lat": 35.85102,
+    "lon": 139.31904,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Hanyu",
+    "name": "Hanyu",
+    "name_ja": "羽生",
+    "lat": 36.170258200000006,
+    "lon": 139.53397385,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Hashimoto",
+    "name": "Hashimoto",
+    "name_ja": "橋本",
+    "lat": 35.59482333333334,
+    "lon": 139.34460666666666,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Hatanodai",
+    "name": "Hatanodai",
+    "name_ja": "旗の台",
+    "lat": 35.604784,
+    "lon": 139.7028965,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Hatchobori",
+    "name": "Hatchobori",
+    "name_ja": "八丁堀",
+    "lat": 35.67486933333333,
+    "lon": 139.77777133333333,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "HazawaYokohamaKokudai",
+    "name": "Hazawa-Yokohama-Kokudai",
+    "name_ja": "羽沢横浜国大",
+    "lat": 35.48102,
+    "lon": 139.58614,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Heiwadai",
+    "name": "Heiwadai",
+    "name_ja": "平和台",
+    "lat": 35.757555,
+    "lon": 139.6543,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Hibiya",
+    "name": "Hibiya",
+    "name_ja": "日比谷",
+    "lat": 35.674937,
+    "lon": 139.75987966666668,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "HigashiHanno",
+    "name": "Higashi-Hanno",
+    "name_ja": "東飯能",
+    "lat": 35.852775,
+    "lon": 139.325945,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "HigashiKanagawa",
+    "name": "Higashi-Kanagawa",
+    "name_ja": "東神奈川",
+    "lat": 35.4777,
+    "lon": 139.63317,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "HigashiKawaguchi",
+    "name": "Higashi-Kawaguchi",
+    "name_ja": "東川口",
+    "lat": 35.875572500000004,
+    "lon": 139.744111,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "HigashiMatsudo",
+    "name": "Higashi-Matsudo",
+    "name_ja": "東松戸",
+    "lat": 35.76989333333333,
+    "lon": 139.94278666666668,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "HigashiMurayama",
+    "name": "Higashi-Murayama",
+    "name_ja": "東村山",
+    "lat": 35.76048,
+    "lon": 139.46585,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "HigashiNakano",
+    "name": "Higashi-Nakano",
+    "name_ja": "東中野",
+    "lat": 35.706585000000004,
+    "lon": 139.68397099999999,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "HigashiNarita",
+    "name": "Higashi-Narita",
+    "name_ja": "東成田",
+    "lat": 35.76952,
+    "lon": 140.38689,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "HigashiTotsuka",
+    "name": "Higashi-Totsuka",
+    "name_ja": "東戸塚",
+    "lat": 35.42965,
+    "lon": 139.55652,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "HigashiFuchu",
+    "name": "Higashi-fuchū",
+    "name_ja": "東府中",
+    "lat": 35.66877,
+    "lon": 139.4954,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "HigashiGinza",
+    "name": "Higashi-ginza",
+    "name_ja": "東銀座",
+    "lat": 35.669522,
+    "lon": 139.7674915,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "HigashiKoizumi",
+    "name": "Higashi-koizumi",
+    "name_ja": "東小泉",
+    "lat": 36.25972,
+    "lon": 139.42856,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "HigashiShinjuku",
+    "name": "Higashi-shinjuku",
+    "name_ja": "東新宿",
+    "lat": 35.698893,
+    "lon": 139.70764,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Hikawadai",
+    "name": "Hikawadai",
+    "name_ja": "氷川台",
+    "lat": 35.74962,
+    "lon": 139.66547,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Hikifune",
+    "name": "Hikifune",
+    "name_ja": "曳舟",
+    "lat": 35.71851,
+    "lon": 139.81667,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Hino",
+    "name": "Hino",
+    "name_ja": "日野",
+    "lat": 35.67851,
+    "lon": 139.39346,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Hiyoshi",
+    "name": "Hiyoshi",
+    "name_ja": "日吉",
+    "lat": 35.5539375,
+    "lon": 139.64722025,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Hodogaya",
+    "name": "Hodogaya",
+    "name_ja": "保土ケ谷",
+    "lat": 35.44715,
+    "lon": 139.60012,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "HonChiba",
+    "name": "Hon-Chiba",
+    "name_ja": "本千葉",
+    "lat": 35.60104,
+    "lon": 140.12091,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "HongoSanchome",
+    "name": "Hongo-sanchome",
+    "name_ja": "本郷三丁目",
+    "lat": 35.707118,
+    "lon": 139.760339,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Horinouchi",
+    "name": "Horinouchi",
+    "name_ja": "堀ノ内",
+    "lat": 35.263653,
+    "lon": 139.686663,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ichigaya",
+    "name": "Ichigaya",
+    "name_ja": "市ケ谷",
+    "lat": 35.692005,
+    "lon": 139.73647575,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ichikawa",
+    "name": "Ichikawa",
+    "name_ja": "市川",
+    "lat": 35.72879,
+    "lon": 139.90786,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ichikawashiohama",
+    "name": "Ichikawashiohama",
+    "name_ja": "市川塩浜",
+    "lat": 35.6663,
+    "lon": 139.92314,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Iidabashi",
+    "name": "Iidabashi",
+    "name_ja": "飯田橋",
+    "lat": 35.701690166666666,
+    "lon": 139.74445466666668,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ikebukuro",
+    "name": "Ikebukuro",
+    "name_ja": "池袋",
+    "lat": 35.730175,
+    "lon": 139.71062475555556,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ImbaNihonIdai",
+    "name": "Imba-Nihon-Idai",
+    "name_ja": "印旛日本医大",
+    "lat": 35.78758,
+    "lon": 140.20334,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Inage",
+    "name": "Inage",
+    "name_ja": "稲毛",
+    "lat": 35.63714,
+    "lon": 140.09257,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ino",
+    "name": "Ino",
+    "name_ja": "井野",
+    "lat": 36.35731,
+    "lon": 139.02291,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Isesaki",
+    "name": "Isesaki",
+    "name_ja": "伊勢崎",
+    "lat": 36.326589999999996,
+    "lon": 139.19406500000002,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ito",
+    "name": "Ito",
+    "name_ja": "伊東",
+    "lat": 34.97469,
+    "lon": 139.09185,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Jimbocho",
+    "name": "Jimbocho",
+    "name_ja": "神保町",
+    "lat": 35.695774666666665,
+    "lon": 139.75791800000002,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Jiyugaoka",
+    "name": "Jiyugaoka",
+    "name_ja": "自由が丘",
+    "lat": 35.6073495,
+    "lon": 139.668532,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kagemori",
+    "name": "Kagemori",
+    "name_ja": "影森",
+    "lat": 35.9721258,
+    "lon": 139.0683811,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kaihimmakuhari",
+    "name": "Kaihimmakuhari",
+    "name_ja": "海浜幕張",
+    "lat": 35.64853,
+    "lon": 140.04174,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kamakura",
+    "name": "Kamakura",
+    "name_ja": "鎌倉",
+    "lat": 35.318699699999996,
+    "lon": 139.55011165,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kamata",
+    "name": "Kamata",
+    "name_ja": "蒲田",
+    "lat": 35.561838,
+    "lon": 139.71498,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kameido",
+    "name": "Kameido",
+    "name_ja": "亀戸",
+    "lat": 35.69743,
+    "lon": 139.82684,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kamiooka",
+    "name": "Kamiooka",
+    "name_ja": "上大岡",
+    "lat": 35.408479,
+    "lon": 139.596134,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kanamecho",
+    "name": "Kanamecho",
+    "name_ja": "要町",
+    "lat": 35.733215,
+    "lon": 139.69848,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "KanazawaHakkei",
+    "name": "KanazawaHakkei",
+    "name_ja": "金沢八景",
+    "lat": 35.331329466666666,
+    "lon": 139.62053653333334,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kanda",
+    "name": "Kanda",
+    "name_ja": "神田",
+    "lat": 35.692106249999995,
+    "lon": 139.77071,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kannai",
+    "name": "Kannai",
+    "name_ja": "関内",
+    "lat": 35.444907,
+    "lon": 139.635964,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kasairinkaikoen",
+    "name": "Kasairinkaikoen",
+    "name_ja": "葛西臨海公園",
+    "lat": 35.64436,
+    "lon": 139.86148,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kashimajingu",
+    "name": "Kashimajingu",
+    "name_ja": "鹿島神宮",
+    "lat": 35.9707,
+    "lon": 140.62599,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kashiwa",
+    "name": "Kashiwa",
+    "name_ja": "柏",
+    "lat": 35.8618775,
+    "lon": 139.9707975,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kasuga",
+    "name": "Kasuga",
+    "name_ja": "春日",
+    "lat": 35.7090125,
+    "lon": 139.752887,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kasukabe",
+    "name": "Kasukabe",
+    "name_ja": "春日部",
+    "lat": 35.98007,
+    "lon": 139.75279,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kasumigaseki",
+    "name": "Kasumigaseki",
+    "name_ja": "霞ケ関",
+    "lat": 35.67355666666667,
+    "lon": 139.75183666666666,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Katori",
+    "name": "Katori",
+    "name_ja": "香取",
+    "lat": 35.89768,
+    "lon": 140.53225,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kawagoe",
+    "name": "Kawagoe",
+    "name_ja": "川越",
+    "lat": 35.90681,
+    "lon": 139.48311,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kawasaki",
+    "name": "Kawasaki",
+    "name_ja": "川崎",
+    "lat": 35.53131,
+    "lon": 139.69678,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kayabacho",
+    "name": "Kayabacho",
+    "name_ja": "茅場町",
+    "lat": 35.679711999999995,
+    "lon": 139.7794445,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "KazusaNakano",
+    "name": "Kazusa-Nakano",
+    "name_ja": "上総中野",
+    "lat": 35.2500673,
+    "lon": 140.1999058,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "KeikyuKamata",
+    "name": "Keikyū Kamata",
+    "name_ja": "京急蒲田",
+    "lat": 35.560659,
+    "lon": 139.723725,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "KeikyuKawasaki",
+    "name": "Keikyū Kawasaki",
+    "name_ja": "京急川崎",
+    "lat": 35.532467,
+    "lon": 139.700709,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "KeiseiNarita",
+    "name": "Keisei-Narita",
+    "name_ja": "京成成田",
+    "lat": 35.77654,
+    "lon": 140.3159,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "KeiseiTakasago",
+    "name": "Keisei-Takasago",
+    "name_ja": "京成高砂",
+    "lat": 35.75076,
+    "lon": 139.86726,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "KeiseiTsudanuma",
+    "name": "Keisei-Tsudanuma",
+    "name_ja": "京成津田沼",
+    "lat": 35.683586,
+    "lon": 140.024802,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "KeiseiUeno",
+    "name": "Keisei-Ueno",
+    "name_ja": "京成上野",
+    "lat": 35.7109406,
+    "lon": 139.7735044,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kichijoji",
+    "name": "Kichijoji",
+    "name_ja": "吉祥寺",
+    "lat": 35.70273,
+    "lon": 139.57999666666666,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kikuna",
+    "name": "Kikuna",
+    "name_ja": "菊名",
+    "lat": 35.509772999999996,
+    "lon": 139.6306265,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kinshicho",
+    "name": "Kinshicho",
+    "name_ja": "錦糸町",
+    "lat": 35.69686033333333,
+    "lon": 139.81430566666666,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kisarazu",
+    "name": "Kisarazu",
+    "name_ja": "木更津",
+    "lat": 35.38161,
+    "lon": 139.92593,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "KitaAsaka",
+    "name": "Kita-Asaka",
+    "name_ja": "北朝霞",
+    "lat": 35.81544,
+    "lon": 139.58733,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "KitaNarashino",
+    "name": "Kita-Narashino",
+    "name_ja": "北習志野",
+    "lat": 35.721408499999995,
+    "lon": 140.0420411,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "KitaSenju",
+    "name": "Kita-Senju",
+    "name_ja": "北千住",
+    "lat": 35.74964952,
+    "lon": 139.80509012000002,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kitano",
+    "name": "Kitano",
+    "name_ja": "北野",
+    "lat": 35.64448,
+    "lon": 139.35418,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "KiyosumiShirakawa",
+    "name": "Kiyosumi-shirakawa",
+    "name_ja": "清澄白河",
+    "lat": 35.682237,
+    "lon": 139.7992995,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kodaira",
+    "name": "Kodaira",
+    "name_ja": "小平",
+    "lat": 35.73701,
+    "lon": 139.48829,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Koen",
+    "name": "Koen",
+    "name_ja": "公園",
+    "lat": 35.7307387,
+    "lon": 140.15374509999998,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Koenji",
+    "name": "Koenji",
+    "name_ja": "高円寺",
+    "lat": 35.70518,
+    "lon": 139.64955,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "KokkaiGijidomae",
+    "name": "Kokkai-gijidomae",
+    "name_ja": "国会議事堂前",
+    "lat": 35.6740506,
+    "lon": 139.74437799999998,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kokubunji",
+    "name": "Kokubunji",
+    "name_ja": "国分寺",
+    "lat": 35.700179999999996,
+    "lon": 139.48039333333332,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Komagawa",
+    "name": "Komagawa",
+    "name_ja": "高麗川",
+    "lat": 35.89626,
+    "lon": 139.3379,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Komagome",
+    "name": "Komagome",
+    "name_ja": "駒込",
+    "lat": 35.7363765,
+    "lon": 139.74739449999998,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Korakuen",
+    "name": "Korakuen",
+    "name_ja": "後楽園",
+    "lat": 35.7078647,
+    "lon": 139.75151820000002,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "KotakeMukaihara",
+    "name": "Kotake-Mukaihara",
+    "name_ja": "小竹向原",
+    "lat": 35.743395,
+    "lon": 139.67952,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kozu",
+    "name": "Kozu",
+    "name_ja": "国府津",
+    "lat": 35.28133,
+    "lon": 139.21488,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kudanshita",
+    "name": "Kudanshita",
+    "name_ja": "九段下",
+    "lat": 35.695712666666665,
+    "lon": 139.75137333333333,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kuki",
+    "name": "Kuki",
+    "name_ja": "久喜",
+    "lat": 36.065619999999996,
+    "lon": 139.67746,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kumagaya",
+    "name": "Kumagaya",
+    "name_ja": "熊谷",
+    "lat": 36.13931615,
+    "lon": 139.390163,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kumanomae",
+    "name": "Kumanomae",
+    "name_ja": "熊野前",
+    "lat": 35.7485,
+    "lon": 139.76984349999998,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kunitachi",
+    "name": "Kunitachi",
+    "name_ja": "国立",
+    "lat": 35.69906,
+    "lon": 139.44651,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kuragano",
+    "name": "Kuragano",
+    "name_ja": "倉賀野",
+    "lat": 36.30009,
+    "lon": 139.04958,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kuramae",
+    "name": "Kuramae",
+    "name_ja": "蔵前",
+    "lat": 35.7043575,
+    "lon": 139.791551,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Kurihashi",
+    "name": "Kurihashi",
+    "name_ja": "栗橋",
+    "lat": 36.136902,
+    "lon": 139.694045,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Mabashi",
+    "name": "Mabashi",
+    "name_ja": "馬橋",
+    "lat": 35.811698899999996,
+    "lon": 139.9170754,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Machida",
+    "name": "Machida",
+    "name_ja": "町田",
+    "lat": 35.543153333333336,
+    "lon": 139.44552666666667,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Machiya",
+    "name": "Machiya",
+    "name_ja": "町屋",
+    "lat": 35.742204,
+    "lon": 139.7807885,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Maihama",
+    "name": "Maihama",
+    "name_ja": "舞浜",
+    "lat": 35.63603,
+    "lon": 139.8837,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Makuharitoyosuna",
+    "name": "Makuharitoyosuna",
+    "name_ja": "幕張豊砂",
+    "lat": 35.6579,
+    "lon": 140.0272,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Matsuda",
+    "name": "Matsuda",
+    "name_ja": "松田",
+    "lat": 35.3462321,
+    "lon": 139.1385751,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Matsudo",
+    "name": "Matsudo",
+    "name_ja": "松戸",
+    "lat": 35.784303433333335,
+    "lon": 139.90073063333335,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Matsugishi",
+    "name": "Matsugishi",
+    "name_ja": "松岸",
+    "lat": 35.73937,
+    "lon": 140.79501,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Meguro",
+    "name": "Meguro",
+    "name_ja": "目黒",
+    "lat": 35.6331075,
+    "lon": 139.715507,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Meidaimae",
+    "name": "Meidaimae",
+    "name_ja": "明大前",
+    "lat": 35.66854,
+    "lon": 139.650515,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "MeijiJingumae",
+    "name": "Meiji-jingumae<Harajuku>",
+    "name_ja": "明治神宮前〈原宿〉",
+    "lat": 35.668664,
+    "lon": 139.704592,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "MinamiFunabashi",
+    "name": "Minami-Funabashi",
+    "name_ja": "南船橋",
+    "lat": 35.68158,
+    "lon": 139.99564,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "MinamiNagareyama",
+    "name": "Minami-Nagareyama",
+    "name_ja": "南流山",
+    "lat": 35.838096300000004,
+    "lon": 139.90353405,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "MinamiSenju",
+    "name": "Minami-Senju",
+    "name_ja": "南千住",
+    "lat": 35.73318486666667,
+    "lon": 139.7990365,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "MinamiUrawa",
+    "name": "Minami-Urawa",
+    "name_ja": "南浦和",
+    "lat": 35.84766,
+    "lon": 139.66899,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Mishima",
+    "name": "Mishima",
+    "name_ja": "三島",
+    "lat": 35.12605805,
+    "lon": 138.9111393,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Mita",
+    "name": "Mita",
+    "name_ja": "三田",
+    "lat": 35.6476995,
+    "lon": 139.7479375,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Mitaka",
+    "name": "Mitaka",
+    "name_ja": "三鷹",
+    "lat": 35.70268,
+    "lon": 139.56067,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Mito",
+    "name": "Mito",
+    "name_ja": "水戸",
+    "lat": 36.37063775,
+    "lon": 140.4763245,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Mitsukoshimae",
+    "name": "Mitsukoshimae",
+    "name_ja": "三越前",
+    "lat": 35.6860505,
+    "lon": 139.77333099999998,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Mizonokuchi",
+    "name": "Mizonokuchi",
+    "name_ja": "溝の口",
+    "lat": 35.599964,
+    "lon": 139.610623,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Monoi",
+    "name": "Monoi",
+    "name_ja": "物井",
+    "lat": 35.68575,
+    "lon": 140.20034,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "MonzenNakacho",
+    "name": "Monzen-nakacho",
+    "name_ja": "門前仲町",
+    "lat": 35.672332,
+    "lon": 139.7956115,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Morishita",
+    "name": "Morishita",
+    "name_ja": "森下",
+    "lat": 35.687954,
+    "lon": 139.797437,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Moriya",
+    "name": "Moriya",
+    "name_ja": "守谷",
+    "lat": 35.9505866,
+    "lon": 139.99197965000002,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Motosumiyoshi",
+    "name": "Motosumiyoshi",
+    "name_ja": "元住吉",
+    "lat": 35.5646095,
+    "lon": 139.653993,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "MusashiKosugi",
+    "name": "Musashi-Kosugi",
+    "name_ja": "武蔵小杉",
+    "lat": 35.576139,
+    "lon": 139.661441,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "MusashiSakai",
+    "name": "Musashi-Sakai",
+    "name_ja": "武蔵境",
+    "lat": 35.701899999999995,
+    "lon": 139.543725,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "MusashiUrawa",
+    "name": "Musashi-Urawa",
+    "name_ja": "武蔵浦和",
+    "lat": 35.845985,
+    "lon": 139.64712,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "NagareyamaOtakanomori",
+    "name": "Nagareyama-otakanomori",
+    "name_ja": "流山おおたかの森",
+    "lat": 35.87196295,
+    "lon": 139.92541590000002,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Nagatacho",
+    "name": "Nagatacho",
+    "name_ja": "永田町",
+    "lat": 35.67821333333333,
+    "lon": 139.73997533333332,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Nagatsuta",
+    "name": "Nagatsuta",
+    "name_ja": "長津田",
+    "lat": 35.53192333333333,
+    "lon": 139.49470033333333,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "NakaMeguro",
+    "name": "Naka-meguro",
+    "name_ja": "中目黒",
+    "lat": 35.64431,
+    "lon": 139.699116,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Nakai",
+    "name": "Nakai",
+    "name_ja": "中井",
+    "lat": 35.7144925,
+    "lon": 139.68677300000002,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Nakano",
+    "name": "Nakano",
+    "name_ja": "中野",
+    "lat": 35.70573,
+    "lon": 139.66594,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "NakanoSakaue",
+    "name": "Nakano-sakaue",
+    "name_ja": "中野坂上",
+    "lat": 35.697352333333335,
+    "lon": 139.68243633333333,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Nakanobu",
+    "name": "Nakanobu",
+    "name_ja": "中延",
+    "lat": 35.6054735,
+    "lon": 139.71314,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Nakayama",
+    "name": "Nakayama",
+    "name_ja": "中山",
+    "lat": 35.514891500000004,
+    "lon": 139.53972449999998,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Narita",
+    "name": "Narita",
+    "name_ja": "成田",
+    "lat": 35.77741,
+    "lon": 140.31338,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "NaritaAirportTerminal1",
+    "name": "Narita Airport Terminal 1",
+    "name_ja": "成田空港",
+    "lat": 35.765304,
+    "lon": 140.386141,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "NaritaAirportTerminal2and3",
+    "name": "Narita Airport Terminal 2 and 3",
+    "name_ja": "空港第２ビル",
+    "lat": 35.77338,
+    "lon": 140.387262,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Naruto",
+    "name": "Naruto",
+    "name_ja": "成東",
+    "lat": 35.60854,
+    "lon": 140.41005,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Nerima",
+    "name": "Nerima",
+    "name_ja": "練馬",
+    "lat": 35.737746200000004,
+    "lon": 139.6538004,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Nihombashi",
+    "name": "Nihombashi",
+    "name_ja": "日本橋",
+    "lat": 35.682017,
+    "lon": 139.77441666666667,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ningyocho",
+    "name": "Ningyocho",
+    "name_ja": "人形町",
+    "lat": 35.686302,
+    "lon": 139.7823075,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Nippori",
+    "name": "Nippori",
+    "name_ja": "日暮里",
+    "lat": 35.72827502857143,
+    "lon": 139.77182851428572,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "NishiFunabashi",
+    "name": "Nishi-Funabashi",
+    "name_ja": "西船橋",
+    "lat": 35.70713,
+    "lon": 139.95925,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "NishiKokubunji",
+    "name": "Nishi-Kokubunji",
+    "name_ja": "西国分寺",
+    "lat": 35.69962,
+    "lon": 139.46596,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "NishiOgikubo",
+    "name": "Nishi-Ogikubo",
+    "name_ja": "西荻窪",
+    "lat": 35.70351,
+    "lon": 139.59928,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "NishiOi",
+    "name": "Nishi-Oi",
+    "name_ja": "西大井",
+    "lat": 35.60075,
+    "lon": 139.72122,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "NishiTokorozawa",
+    "name": "Nishi-Tokorozawa",
+    "name_ja": "西所沢",
+    "lat": 35.78925,
+    "lon": 139.456,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "NishiNippori",
+    "name": "Nishi-nippori",
+    "name_ja": "西日暮里",
+    "lat": 35.7324435,
+    "lon": 139.76714475,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Nishiarai",
+    "name": "Nishiarai",
+    "name_ja": "西新井",
+    "lat": 35.77728,
+    "lon": 139.79037,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Nishiya",
+    "name": "Nishiya",
+    "name_ja": "西谷",
+    "lat": 35.47789,
+    "lon": 139.56562,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Noborito",
+    "name": "Noborito",
+    "name_ja": "登戸",
+    "lat": 35.62075,
+    "lon": 139.569925,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Numazu",
+    "name": "Numazu",
+    "name_ja": "沼津",
+    "lat": 35.1031271,
+    "lon": 138.8593352,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Oami",
+    "name": "Oami",
+    "name_ja": "大網",
+    "lat": 35.52216,
+    "lon": 140.31145,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ochanomizu",
+    "name": "Ochanomizu",
+    "name_ja": "御茶ノ水",
+    "lat": 35.69975543333334,
+    "lon": 139.7647419,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Odawara",
+    "name": "Odawara",
+    "name_ja": "小田原",
+    "lat": 35.256341975,
+    "lon": 139.155483825,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ofuna",
+    "name": "Ofuna",
+    "name_ja": "大船",
+    "lat": 35.35357366,
+    "lon": 139.53127229999998,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ogawa",
+    "name": "Ogawa",
+    "name_ja": "小川",
+    "lat": 35.73748,
+    "lon": 139.46353,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ogawamachi",
+    "name": "Ogawamachi",
+    "name_ja": "小川町",
+    "lat": 36.058735,
+    "lon": 139.26066500000002,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ogikubo",
+    "name": "Ogikubo",
+    "name_ja": "荻窪",
+    "lat": 35.704285,
+    "lon": 139.61999333333335,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ogose",
+    "name": "Ogose",
+    "name_ja": "越生",
+    "lat": 35.962720000000004,
+    "lon": 139.299315,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ohanabatake",
+    "name": "Ohanabatake",
+    "name_ja": "御花畑",
+    "lat": 35.9923718,
+    "lon": 139.0837383,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ohara",
+    "name": "Ohara",
+    "name_ja": "大原",
+    "lat": 35.25120805,
+    "lon": 140.39072420000002,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Oimachi",
+    "name": "Oimachi",
+    "name_ja": "大井町",
+    "lat": 35.607193333333335,
+    "lon": 139.73487866666665,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Oji",
+    "name": "Oji",
+    "name_ja": "王子",
+    "lat": 35.753294999999994,
+    "lon": 139.737756,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Okachimachi",
+    "name": "Okachimachi",
+    "name_ja": "御徒町",
+    "lat": 35.70713,
+    "lon": 139.77454,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Oku",
+    "name": "Oku",
+    "name_ja": "尾久",
+    "lat": 35.74657,
+    "lon": 139.75371,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Omiya",
+    "name": "Omiya",
+    "name_ja": "大宮",
+    "lat": 35.90657724,
+    "lon": 139.62407450999999,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "OmoteSando",
+    "name": "Omote-sando",
+    "name_ja": "表参道",
+    "lat": 35.66524533333333,
+    "lon": 139.71209733333333,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ookayama",
+    "name": "Ookayama",
+    "name_ja": "大岡山",
+    "lat": 35.6074865,
+    "lon": 139.6856425,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Osaki",
+    "name": "Osaki",
+    "name_ja": "大崎",
+    "lat": 35.61963921489,
+    "lon": 139.72834020585,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Oshiage",
+    "name": "Oshiage",
+    "name_ja": "押上",
+    "lat": 35.7096455,
+    "lon": 139.813364,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ota",
+    "name": "Ota",
+    "name_ja": "太田",
+    "lat": 36.29421,
+    "lon": 139.37877,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Otemachi",
+    "name": "Otemachi",
+    "name_ja": "大手町",
+    "lat": 35.685532,
+    "lon": 139.7646442,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Otsuki",
+    "name": "Otsuki",
+    "name_ja": "大月",
+    "lat": 35.6130821,
+    "lon": 138.9424265,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Oyama",
+    "name": "Oyama",
+    "name_ja": "小山",
+    "lat": 36.31261,
+    "lon": 139.80618,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Roppongi",
+    "name": "Roppongi",
+    "name_ja": "六本木",
+    "lat": 35.663453,
+    "lon": 139.7312545,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ryogoku",
+    "name": "Ryogoku",
+    "name_ja": "両国",
+    "lat": 35.696273500000004,
+    "lon": 139.7953095,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "SagamiOno",
+    "name": "Sagami-Ono",
+    "name_ja": "相模大野",
+    "lat": 35.53199,
+    "lon": 139.43762,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "SaitamaShintoshin",
+    "name": "Saitama-Shintoshin",
+    "name_ja": "さいたま新都心",
+    "lat": 35.89377,
+    "lon": 139.63344,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Sakado",
+    "name": "Sakado",
+    "name_ja": "坂戸",
+    "lat": 35.95724,
+    "lon": 139.39391,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Sakura",
+    "name": "Sakura",
+    "name_ja": "佐倉",
+    "lat": 35.70964,
+    "lon": 140.22645,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Sakuragicho",
+    "name": "Sakuragicho",
+    "name_ja": "桜木町",
+    "lat": 35.4502605,
+    "lon": 139.630788,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "SangenJaya",
+    "name": "Sangen-jaya",
+    "name_ja": "三軒茶屋",
+    "lat": 35.643732,
+    "lon": 139.670095,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Sano",
+    "name": "Sano",
+    "name_ja": "佐野",
+    "lat": 36.31667,
+    "lon": 139.57905499999998,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Sasazuka",
+    "name": "Sasazuka",
+    "name_ja": "笹塚",
+    "lat": 35.67366,
+    "lon": 139.66718,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Sawara",
+    "name": "Sawara",
+    "name_ja": "佐原",
+    "lat": 35.8949,
+    "lon": 140.49364,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "SeibukyujoMae",
+    "name": "Seibukyujo-Mae",
+    "name_ja": "西武球場前",
+    "lat": 35.7711314,
+    "lon": 139.4198044,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "SeijogakuenMae",
+    "name": "Seijogakuen-Mae",
+    "name_ja": "成城学園前",
+    "lat": 35.64015,
+    "lon": 139.59916,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Sengakuji",
+    "name": "Sengakuji",
+    "name_ja": "泉岳寺",
+    "lat": 35.638715,
+    "lon": 139.739993,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Senkawa",
+    "name": "Senkawa",
+    "name_ja": "千川",
+    "lat": 35.738175,
+    "lon": 139.6894,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShakujiiKoen",
+    "name": "Shakujii-Koen",
+    "name_ja": "石神井公園",
+    "lat": 35.74353,
+    "lon": 139.60702,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Shibuya",
+    "name": "Shibuya",
+    "name_ja": "渋谷",
+    "lat": 35.6586453,
+    "lon": 139.70153647,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShimMaebashi",
+    "name": "Shim-Maebashi",
+    "name_ja": "新前橋",
+    "lat": 36.37897,
+    "lon": 139.0468,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShimMatsudo",
+    "name": "Shim-Matsudo",
+    "name_ja": "新松戸",
+    "lat": 35.82545,
+    "lon": 139.92091,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Shimbashi",
+    "name": "Shimbashi",
+    "name_ja": "新橋",
+    "lat": 35.666226,
+    "lon": 139.75836125,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShimoImaichi",
+    "name": "Shimo-imaichi",
+    "name_ja": "下今市",
+    "lat": 36.7256,
+    "lon": 139.69277,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShimoKitazawa",
+    "name": "Shimo-kitazawa",
+    "name_ja": "下北沢",
+    "lat": 35.661625,
+    "lon": 139.66707000000002,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShimoTakaido",
+    "name": "Shimo-takaido",
+    "name_ja": "下高井戸",
+    "lat": 35.666146499999996,
+    "lon": 139.6417055,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Shimodate",
+    "name": "Shimodate",
+    "name_ja": "下館",
+    "lat": 36.3041016,
+    "lon": 139.9780655,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShinKamagaya",
+    "name": "Shin-Kamagaya",
+    "name_ja": "新鎌ヶ谷",
+    "lat": 35.779966,
+    "lon": 139.999233,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShinKawasaki",
+    "name": "Shin-Kawasaki",
+    "name_ja": "新川崎",
+    "lat": 35.55158,
+    "lon": 139.6715,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShinKodaira",
+    "name": "Shin-Kodaira",
+    "name_ja": "新小平",
+    "lat": 35.731,
+    "lon": 139.47068,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShinKoiwa",
+    "name": "Shin-Koiwa",
+    "name_ja": "新小岩",
+    "lat": 35.71685,
+    "lon": 139.85787,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShinNarashino",
+    "name": "Shin-Narashino",
+    "name_ja": "新習志野",
+    "lat": 35.66714,
+    "lon": 140.01286,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShinSugita",
+    "name": "Shin-Sugita",
+    "name_ja": "新杉田",
+    "lat": 35.3865809,
+    "lon": 139.61985015,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShinUrayasu",
+    "name": "Shin-Urayasu",
+    "name_ja": "新浦安",
+    "lat": 35.64936,
+    "lon": 139.91231,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShinYokohama",
+    "name": "Shin-Yokohama",
+    "name_ja": "新横浜",
+    "lat": 35.50843065,
+    "lon": 139.61734765,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShinYurigaoka",
+    "name": "Shin-Yurigaoka",
+    "name_ja": "新百合ヶ丘",
+    "lat": 35.60384,
+    "lon": 139.50772,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShinKiba",
+    "name": "Shin-kiba",
+    "name_ja": "新木場",
+    "lat": 35.645965000000004,
+    "lon": 139.82658625,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShinKoshigaya",
+    "name": "Shin-koshigaya",
+    "name_ja": "新越谷",
+    "lat": 35.87556,
+    "lon": 139.78981,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShinMaruko",
+    "name": "Shin-maruko",
+    "name_ja": "新丸子",
+    "lat": 35.580296,
+    "lon": 139.661941,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShinOkachimachi",
+    "name": "Shin-okachimachi",
+    "name_ja": "新御徒町",
+    "lat": 35.7070345,
+    "lon": 139.7821061,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShinTochigi",
+    "name": "Shin-tochigi",
+    "name_ja": "新栃木",
+    "lat": 36.39006,
+    "lon": 139.74235,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Shinagawa",
+    "name": "Shinagawa",
+    "name_ja": "品川",
+    "lat": 35.62867555555555,
+    "lon": 139.73855622222223,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Shinjuku",
+    "name": "Shinjuku",
+    "name_ja": "新宿",
+    "lat": 35.689977272727276,
+    "lon": 139.69972845454546,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShinjukuSanchome",
+    "name": "Shinjuku-sanchome",
+    "name_ja": "新宿三丁目",
+    "lat": 35.690935,
+    "lon": 139.70524366666666,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Shiodome",
+    "name": "Shiodome",
+    "name_ja": "汐留",
+    "lat": 35.6630015,
+    "lon": 139.76002749999998,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Shiomi",
+    "name": "Shiomi",
+    "name_ja": "潮見",
+    "lat": 35.6588,
+    "lon": 139.81676,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "ShirokaneTakanawa",
+    "name": "Shirokane-takanawa",
+    "name_ja": "白金高輪",
+    "lat": 35.643283,
+    "lon": 139.734344,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Shirokanedai",
+    "name": "Shirokanedai",
+    "name_ja": "白金台",
+    "lat": 35.637851,
+    "lon": 139.726007,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Shisui",
+    "name": "Shisui",
+    "name_ja": "酒々井",
+    "lat": 35.73186,
+    "lon": 140.27533,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Shitte",
+    "name": "Shitte",
+    "name_ja": "尻手",
+    "lat": 35.53075,
+    "lon": 139.684,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Shonandai",
+    "name": "Shonandai",
+    "name_ja": "湘南台",
+    "lat": 35.396335,
+    "lon": 139.466554,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Soga",
+    "name": "Soga",
+    "name_ja": "蘇我",
+    "lat": 35.58215,
+    "lon": 140.13063,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Sugamo",
+    "name": "Sugamo",
+    "name_ja": "巣鴨",
+    "lat": 35.7338115,
+    "lon": 139.739237,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Suidobashi",
+    "name": "Suidobashi",
+    "name_ja": "水道橋",
+    "lat": 35.702765,
+    "lon": 139.7542785,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Sumiyoshi",
+    "name": "Sumiyoshi",
+    "name_ja": "住吉",
+    "lat": 35.688872,
+    "lon": 139.815695,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Tabata",
+    "name": "Tabata",
+    "name_ja": "田端",
+    "lat": 35.7374,
+    "lon": 139.76149,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Tachikawa",
+    "name": "Tachikawa",
+    "name_ja": "立川",
+    "lat": 35.69795,
+    "lon": 139.41374,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Takadanobaba",
+    "name": "Takadanobaba",
+    "name_ja": "高田馬場",
+    "lat": 35.713068,
+    "lon": 139.704482,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Takahatafudo",
+    "name": "Takahatafudō",
+    "name_ja": "高幡不動",
+    "lat": 35.661945833333334,
+    "lon": 139.41380316666667,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "TakanawaGateway",
+    "name": "Takanawa Gateway",
+    "name_ja": "高輪ゲートウェイ",
+    "lat": 35.6353954,
+    "lon": 139.7406575,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Takao",
+    "name": "Takao",
+    "name_ja": "高尾",
+    "lat": 35.642160000000004,
+    "lon": 139.28231333333332,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Takasaki",
+    "name": "Takasaki",
+    "name_ja": "高崎",
+    "lat": 36.32204,
+    "lon": 139.01264,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Takasakitonyamachi",
+    "name": "Takasakitonyamachi",
+    "name_ja": "高崎問屋町",
+    "lat": 36.34592,
+    "lon": 139.01708,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Takatsu",
+    "name": "Takatsu",
+    "name_ja": "高津",
+    "lat": 35.603062,
+    "lon": 139.61669,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "TamaDobutsukoen",
+    "name": "Tama-dōbutsukōen",
+    "name_ja": "多摩動物公園",
+    "lat": 35.6491028,
+    "lon": 139.4046218,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Tamachi",
+    "name": "Tamachi",
+    "name_ja": "田町",
+    "lat": 35.64574,
+    "lon": 139.7476,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Tamagawa",
+    "name": "Tamagawa",
+    "name_ja": "多摩川",
+    "lat": 35.589219,
+    "lon": 139.66887333333332,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "TamagawaJosui",
+    "name": "Tamagawa-Josui",
+    "name_ja": "玉川上水",
+    "lat": 35.73197305,
+    "lon": 139.41808815000002,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Tamako",
+    "name": "Tamako",
+    "name_ja": "多摩湖",
+    "lat": 35.76597,
+    "lon": 139.44263,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "TameikeSanno",
+    "name": "Tameike-sanno",
+    "name_ja": "溜池山王",
+    "lat": 35.672301000000004,
+    "lon": 139.74161850000002,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Tatebayashi",
+    "name": "Tatebayashi",
+    "name_ja": "館林",
+    "lat": 36.24662,
+    "lon": 139.52781,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Tenkubashi",
+    "name": "Tenkūbashi",
+    "name_ja": "天空橋",
+    "lat": 35.548662,
+    "lon": 139.75415850000002,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Tennodai",
+    "name": "Tennodai",
+    "name_ja": "天王台",
+    "lat": 35.87239,
+    "lon": 140.0409,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "TennozuIsle",
+    "name": "Tennozu Isle",
+    "name_ja": "天王洲アイル",
+    "lat": 35.621557949999996,
+    "lon": 139.75081735,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "TobuDobutsuKoen",
+    "name": "Tobu-dobutsu-koen",
+    "name_ja": "東武動物公園",
+    "lat": 36.0247,
+    "lon": 139.72689,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Tochigi",
+    "name": "Tochigi",
+    "name_ja": "栃木",
+    "lat": 36.371703333333336,
+    "lon": 139.73139,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Tochomae",
+    "name": "Tochomae",
+    "name_ja": "都庁前",
+    "lat": 35.69057375539,
+    "lon": 139.69268551722,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Tokorozawa",
+    "name": "Tokorozawa",
+    "name_ja": "所沢",
+    "lat": 35.78619,
+    "lon": 139.47328,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Tokyo",
+    "name": "Tokyo",
+    "name_ja": "東京",
+    "lat": 35.681348846153845,
+    "lon": 139.7668676923077,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Tomobe",
+    "name": "Tomobe",
+    "name_ja": "友部",
+    "lat": 36.3504,
+    "lon": 140.30558,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Toride",
+    "name": "Toride",
+    "name_ja": "取手",
+    "lat": 35.895964174999996,
+    "lon": 140.0631007,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Totsuka",
+    "name": "Totsuka",
+    "name_ja": "戸塚",
+    "lat": 35.400653,
+    "lon": 139.53450625,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Toyoda",
+    "name": "Toyoda",
+    "name_ja": "豊田",
+    "lat": 35.65934,
+    "lon": 139.38124,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Toyosu",
+    "name": "Toyosu",
+    "name_ja": "豊洲",
+    "lat": 35.6544465,
+    "lon": 139.795727,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Tsudanuma",
+    "name": "Tsudanuma",
+    "name_ja": "津田沼",
+    "lat": 35.6913,
+    "lon": 140.02008,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Tsuga",
+    "name": "Tsuga",
+    "name_ja": "都賀",
+    "lat": 35.63584986666667,
+    "lon": 140.14888613333332,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Tsukishima",
+    "name": "Tsukishima",
+    "name_ja": "月島",
+    "lat": 35.66423399999999,
+    "lon": 139.7841585,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Tsurumi",
+    "name": "Tsurumi",
+    "name_ja": "鶴見",
+    "lat": 35.50826,
+    "lon": 139.67595,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Ueno",
+    "name": "Ueno",
+    "name_ja": "上野",
+    "lat": 35.713051625,
+    "lon": 139.7767120625,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Uguisudani",
+    "name": "Uguisudani",
+    "name_ja": "鶯谷",
+    "lat": 35.72129,
+    "lon": 139.77787,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Urawa",
+    "name": "Urawa",
+    "name_ja": "浦和",
+    "lat": 35.85849,
+    "lon": 139.65732,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Utsunomiya",
+    "name": "Utsunomiya",
+    "name_ja": "宇都宮",
+    "lat": 36.5581,
+    "lon": 139.89798,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Wakoshi",
+    "name": "Wakoshi",
+    "name_ja": "和光市",
+    "lat": 35.78835,
+    "lon": 139.61286,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Yamato",
+    "name": "Yamato",
+    "name_ja": "大和",
+    "lat": 35.469665,
+    "lon": 139.46148,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Yokohama",
+    "name": "Yokohama",
+    "name_ja": "横浜",
+    "lat": 35.465817333333334,
+    "lon": 139.622098,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "YokosukaChuo",
+    "name": "Yokosuka-chūō",
+    "name_ja": "横須賀中央",
+    "lat": 35.278592,
+    "lon": 139.67052,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Yokoze",
+    "name": "Yokoze",
+    "name_ja": "横瀬",
+    "lat": 35.98547,
+    "lon": 139.09782,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Yorii",
+    "name": "Yorii",
+    "name_ja": "寄居",
+    "lat": 36.117556633333336,
+    "lon": 139.19360319999998,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Yotsukaido",
+    "name": "Yotsukaido",
+    "name_ja": "四街道",
+    "lat": 35.6627,
+    "lon": 140.16479,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Yotsuya",
+    "name": "Yotsuya",
+    "name_ja": "四ツ谷",
+    "lat": 35.685107599999995,
+    "lon": 139.73010242499998,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Yoyogi",
+    "name": "Yoyogi",
+    "name_ja": "代々木",
+    "lat": 35.683515,
+    "lon": 139.70190100000002,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "YoyogiUehara",
+    "name": "Yoyogi-Uehara",
+    "name_ja": "代々木上原",
+    "lat": 35.66906,
+    "lon": 139.67968,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Yurakucho",
+    "name": "Yurakucho",
+    "name_ja": "有楽町",
+    "lat": 35.67526433333333,
+    "lon": 139.76268199999998,
+    "operators": [],
+    "line_count": 0
+  },
+  {
+    "id": "Yukarigaoka",
+    "name": "Yūkarigaoka",
+    "name_ja": "ユーカリが丘",
+    "lat": 35.7219828,
+    "lon": 140.1567747,
+    "operators": [],
+    "line_count": 0
+  }
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "line": "Yamanote Line",
+    "operator": "JR East",
+    "start_station_en": "Shinagawa",
+    "start_station_ja": "品川"
+  },
+  {
+    "line": "Keihin–Tohoku Line",
+    "operator": "JR East",
+    "start_station_en": "Omiya",
+    "start_station_ja": "大宮"
+  },
+  {
+    "line": "Chuo Line (Rapid)",
+    "operator": "JR East",
+    "start_station_en": "Tokyo",
+    "start_station_ja": "東京"
+  },
+  {
+    "line": "Chuo-Sobu Line (Local)",
+    "operator": "JR East",
+    "start_station_en": "Chiba",
+    "start_station_ja": "千葉"
+  },
+  {
+    "line": "Sobu Line (Rapid)",
+    "operator": "JR East",
+    "start_station_en": "Tokyo",
+    "start_station_ja": "東京"
+  },
+  {
+    "line": "Yokosuka Line",
+    "operator": "JR East",
+    "start_station_en": "Tokyo",
+    "start_station_ja": "東京"
+  },
+  {
+    "line": "Tokaido Line",
+    "operator": "JR East",
+    "start_station_en": "Tokyo",
+    "start_station_ja": "東京"
+  },
+  {
+    "line": "Keiyo Line",
+    "operator": "JR East",
+    "start_station_en": "Tokyo",
+    "start_station_ja": "東京"
+  },
+  {
+    "line": "Utsunomiya Line",
+    "operator": "JR East",
+    "start_station_en": "Ueno",
+    "start_station_ja": "上野"
+  },
+  {
+    "line": "Takasaki Line",
+    "operator": "JR East",
+    "start_station_en": "Ueno",
+    "start_station_ja": "上野"
+  },
+  {
+    "line": "Joban Line (Rapid/Local)",
+    "operator": "JR East",
+    "start_station_en": "Ueno",
+    "start_station_ja": "上野"
+  },
+  {
+    "line": "Saikyo Line",
+    "operator": "JR East",
+    "start_station_en": "Osaki",
+    "start_station_ja": "大崎"
+  },
+  {
+    "line": "Shonan-Shinjuku Line",
+    "operator": "JR East",
+    "start_station_en": "Omiya",
+    "start_station_ja": "大宮"
+  },
+  {
+    "line": "Nambu Line",
+    "operator": "JR East",
+    "start_station_en": "Tachikawa",
+    "start_station_ja": "立川"
+  },
+  {
+    "line": "Musashino Line",
+    "operator": "JR East",
+    "start_station_en": "Fuchu-Hommachi",
+    "start_station_ja": "府中本町"
+  },
+  {
+    "line": "Ome Line",
+    "operator": "JR East",
+    "start_station_en": "Tachikawa",
+    "start_station_ja": "立川"
+  },
+  {
+    "line": "Itsukaichi Line",
+    "operator": "JR East",
+    "start_station_en": "Haijima",
+    "start_station_ja": "拝島"
+  },
+  {
+    "line": "Hachiko Line",
+    "operator": "JR East",
+    "start_station_en": "Hachioji",
+    "start_station_ja": "八王子"
+  },
+  {
+    "line": "Tsurumi Line",
+    "operator": "JR East",
+    "start_station_en": "Tsurumi",
+    "start_station_ja": "鶴見"
+  },
+  {
+    "line": "Rinkai Line",
+    "operator": "Tokyo Waterfront Area Rapid Transit",
+    "start_station_en": "Osaki",
+    "start_station_ja": "大崎"
+  },
+  {
+    "line": "Tokyo Monorail",
+    "operator": "Tokyo Monorail",
+    "start_station_en": "Hamamatsucho",
+    "start_station_ja": "浜松町"
+  },
+  {
+    "line": "Yurikamome",
+    "operator": "Yurikamome, Inc.",
+    "start_station_en": "Shimbashi",
+    "start_station_ja": "新橋"
+  },
+  {
+    "line": "Keio Line",
+    "operator": "Keio Corporation",
+    "start_station_en": "Shinjuku",
+    "start_station_ja": "新宿"
+  },
+  {
+    "line": "Keio Inokashira Line",
+    "operator": "Keio Corporation",
+    "start_station_en": "Shibuya",
+    "start_station_ja": "渋谷"
+  },
+  {
+    "line": "Odakyu Odawara Line",
+    "operator": "Odakyu Electric Railway",
+    "start_station_en": "Shinjuku",
+    "start_station_ja": "新宿"
+  },
+  {
+    "line": "Odakyu Tama Line",
+    "operator": "Odakyu Electric Railway",
+    "start_station_en": "Shin-Yurigaoka",
+    "start_station_ja": "新百合ヶ丘"
+  },
+  {
+    "line": "Tokyu Toyoko Line",
+    "operator": "Tokyu Corporation",
+    "start_station_en": "Shibuya",
+    "start_station_ja": "渋谷"
+  },
+  {
+    "line": "Tokyu Meguro Line",
+    "operator": "Tokyu Corporation",
+    "start_station_en": "Meguro",
+    "start_station_ja": "目黒"
+  },
+  {
+    "line": "Tokyu Den-en-toshi Line",
+    "operator": "Tokyu Corporation",
+    "start_station_en": "Shibuya",
+    "start_station_ja": "渋谷"
+  },
+  {
+    "line": "Tokyu Oimachi Line",
+    "operator": "Tokyu Corporation",
+    "start_station_en": "Oimachi",
+    "start_station_ja": "大井町"
+  },
+  {
+    "line": "Tokyu Ikegami Line",
+    "operator": "Tokyu Corporation",
+    "start_station_en": "Gotanda",
+    "start_station_ja": "五反田"
+  },
+  {
+    "line": "Tokyu Tamagawa Line",
+    "operator": "Tokyu Corporation",
+    "start_station_en": "Kamata",
+    "start_station_ja": "蒲田"
+  },
+  {
+    "line": "Tokyu Setagaya Line",
+    "operator": "Tokyu Corporation",
+    "start_station_en": "Sangenjaya",
+    "start_station_ja": "三軒茶屋"
+  },
+  {
+    "line": "Seibu Ikebukuro Line",
+    "operator": "Seibu Railway",
+    "start_station_en": "Ikebukuro",
+    "start_station_ja": "池袋"
+  },
+  {
+    "line": "Seibu Shinjuku Line",
+    "operator": "Seibu Railway",
+    "start_station_en": "Seibu Shinjuku",
+    "start_station_ja": "西武新宿"
+  },
+  {
+    "line": "Tobu Tojo Line",
+    "operator": "Tobu Railway",
+    "start_station_en": "Ikebukuro",
+    "start_station_ja": "池袋"
+  },
+  {
+    "line": "Tobu Isesaki Line (Skytree Line)",
+    "operator": "Tobu Railway",
+    "start_station_en": "Asakusa",
+    "start_station_ja": "浅草"
+  },
+  {
+    "line": "Keisei Main Line",
+    "operator": "Keisei Electric Railway",
+    "start_station_en": "Ueno",
+    "start_station_ja": "上野"
+  },
+  {
+    "line": "Keisei Oshiage Line",
+    "operator": "Keisei Electric Railway",
+    "start_station_en": "Oshiage",
+    "start_station_ja": "押上"
+  },
+  {
+    "line": "Keikyu Main Line",
+    "operator": "Keikyu Corporation",
+    "start_station_en": "Shinagawa",
+    "start_station_ja": "品川"
+  },
+  {
+    "line": "Tsukuba Express",
+    "operator": "Metropolitan Intercity Railway Company",
+    "start_station_en": "Akihabara",
+    "start_station_ja": "秋葉原"
+  },
+  {
+    "line": "Nippori-Toneri Liner",
+    "operator": "Toei",
+    "start_station_en": "Nippori",
+    "start_station_ja": "日暮里"
+  },
+  {
+    "line": "Tama Monorail",
+    "operator": "Tama Monorail",
+    "start_station_en": "Kamikitadai",
+    "start_station_ja": "上北台"
+  }
+]
+

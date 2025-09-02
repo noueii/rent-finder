@@ -1,0 +1,670 @@
+{
+  "line": "Sotetsu Main",
+  "operator": "Sotetsu",
+  "navitime_id": "00000736",
+  "first_station_id": "00000838",
+  "stations": [
+    {
+      "name": "Yokohama",
+      "japanese_name": "横浜",
+      "station_id": "00000838",
+      "order": 1,
+      "transfers": [
+        "JR Yokosuka Line",
+        "JR Keihintohoku Line",
+        "JR Negishi Line",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "Yokohama City Subway Blue Line",
+        "Keikyu Main Line",
+        "Tokyu Toyoko Line",
+        "Yokohamakosoku Railway Minatomirai Line"
+      ]
+    },
+    {
+      "name": "Hiranuma-bashi",
+      "japanese_name": "平沼橋",
+      "station_id": "00008077",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Nishi-yokohama",
+      "japanese_name": "西横浜",
+      "station_id": "00004723",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Tennocho",
+      "japanese_name": "天王町",
+      "station_id": "00006425",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Hoshikawa(Kanagawa)",
+      "japanese_name": "星川(神奈川県)",
+      "station_id": "00004645",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Wadamachi",
+      "japanese_name": "和田町",
+      "station_id": "00009126",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Kami-hoshikawa",
+      "japanese_name": "上星川",
+      "station_id": "00003984",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Nishiya",
+      "japanese_name": "西谷",
+      "station_id": "00004868",
+      "order": 8,
+      "transfers": [
+        "Sotetsu Shin-Yokohama Line"
+      ]
+    },
+    {
+      "name": "Tsurugamine",
+      "japanese_name": "鶴ヶ峰",
+      "station_id": "00006377",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Futamata-gawa",
+      "japanese_name": "二俣川",
+      "station_id": "00007219",
+      "order": 10,
+      "transfers": [
+        "Sotetsu Izumino Line"
+      ]
+    },
+    {
+      "name": "Kibogaoka",
+      "japanese_name": "希望ヶ丘",
+      "station_id": "00001470",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Mitsukyo",
+      "japanese_name": "三ツ境",
+      "station_id": "00002950",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Seya",
+      "japanese_name": "瀬谷",
+      "station_id": "00004620",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Yamato(Kanagawa)",
+      "japanese_name": "大和(神奈川県)",
+      "station_id": "00005784",
+      "order": 14,
+      "transfers": [
+        "Odakyu Enoshima Line"
+      ]
+    },
+    {
+      "name": "Sagami-otsuka",
+      "japanese_name": "相模大塚",
+      "station_id": "00005393",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Sagamino",
+      "japanese_name": "さがみ野",
+      "station_id": "00000059",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Kashiwadai",
+      "japanese_name": "かしわ台",
+      "station_id": "00000045",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Ebina(Odakyu-Sotetsu)",
+      "japanese_name": "海老名(小田急・相鉄)",
+      "station_id": "00001174",
+      "order": 18,
+      "transfers": [
+        "Odakyu Odawara Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Rapid",
+    "Limited Express"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "822f00bf",
+      "trainName": "Sotetsu Main Line Local",
+      "destination": "Shonandai",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "02",
+      "type": "Local"
+    },
+    "Rapid": {
+      "trainId": "822f00c3",
+      "trainName": "Sotetsu Main Line Rapid",
+      "destination": "Ebina(Odakyu-Sotetsu)",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "17",
+      "type": "Rapid"
+    },
+    "Limited Express": {
+      "trainId": "822f00c0",
+      "trainName": "Sotetsu Main Line Limited Express",
+      "destination": "Ebina(Odakyu-Sotetsu)",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "07",
+      "type": "Limited Express"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Sotetsu Main",
+      "train_type": "Local",
+      "total_stops": 10,
+      "stops": [
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.620283,
+            "lat": 35.464132
+          }
+        },
+        {
+          "name": "Hiranuma-bashi",
+          "station_id": "00008077",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.616526,
+            "lat": 35.459835
+          }
+        },
+        {
+          "name": "Nishi-yokohama",
+          "station_id": "00004723",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.608609,
+            "lat": 35.453424
+          }
+        },
+        {
+          "name": "Tennocho",
+          "station_id": "00006425",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.602954,
+            "lat": 35.453906
+          }
+        },
+        {
+          "name": "Hoshikawa(Kanagawa)",
+          "station_id": "00004645",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.594963,
+            "lat": 35.458546
+          }
+        },
+        {
+          "name": "Wadamachi",
+          "station_id": "00009126",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.5868,
+            "lat": 35.463581
+          }
+        },
+        {
+          "name": "Kami-hoshikawa",
+          "station_id": "00003984",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.580079,
+            "lat": 35.467667
+          }
+        },
+        {
+          "name": "Nishiya",
+          "station_id": "00004868",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.56561,
+            "lat": 35.478072
+          }
+        },
+        {
+          "name": "Tsurugamine",
+          "station_id": "00006377",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.549229,
+            "lat": 35.474889
+          }
+        },
+        {
+          "name": "Futamata-gawa",
+          "station_id": "00007219",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.532301,
+            "lat": 35.463419
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Yokohama",
+          "from_id": "00000838",
+          "to": "Hiranuma-bashi",
+          "to_id": "00008077",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hiranuma-bashi",
+          "from_id": "00008077",
+          "to": "Nishi-yokohama",
+          "to_id": "00004723",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nishi-yokohama",
+          "from_id": "00004723",
+          "to": "Tennocho",
+          "to_id": "00006425",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tennocho",
+          "from_id": "00006425",
+          "to": "Hoshikawa(Kanagawa)",
+          "to_id": "00004645",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hoshikawa(Kanagawa)",
+          "from_id": "00004645",
+          "to": "Wadamachi",
+          "to_id": "00009126",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Wadamachi",
+          "from_id": "00009126",
+          "to": "Kami-hoshikawa",
+          "to_id": "00003984",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kami-hoshikawa",
+          "from_id": "00003984",
+          "to": "Nishiya",
+          "to_id": "00004868",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nishiya",
+          "from_id": "00004868",
+          "to": "Tsurugamine",
+          "to_id": "00006377",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tsurugamine",
+          "from_id": "00006377",
+          "to": "Futamata-gawa",
+          "to_id": "00007219",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Rapid": {
+      "line": "Sotetsu Main",
+      "train_type": "Rapid",
+      "total_stops": 13,
+      "stops": [
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.620283,
+            "lat": 35.464132
+          }
+        },
+        {
+          "name": "Hoshikawa(Kanagawa)",
+          "station_id": "00004645",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.594963,
+            "lat": 35.458546
+          }
+        },
+        {
+          "name": "Nishiya",
+          "station_id": "00004868",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.56561,
+            "lat": 35.478072
+          }
+        },
+        {
+          "name": "Tsurugamine",
+          "station_id": "00006377",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.549229,
+            "lat": 35.474889
+          }
+        },
+        {
+          "name": "Futamata-gawa",
+          "station_id": "00007219",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.532301,
+            "lat": 35.463419
+          }
+        },
+        {
+          "name": "Kibogaoka",
+          "station_id": "00001470",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.514266,
+            "lat": 35.460412
+          }
+        },
+        {
+          "name": "Mitsukyo",
+          "station_id": "00002950",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.502895,
+            "lat": 35.46773
+          }
+        },
+        {
+          "name": "Seya",
+          "station_id": "00004620",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.4825,
+            "lat": 35.470319
+          }
+        },
+        {
+          "name": "Yamato(Kanagawa)",
+          "station_id": "00005784",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.461396,
+            "lat": 35.469935
+          }
+        },
+        {
+          "name": "Sagami-otsuka",
+          "station_id": "00005393",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.440862,
+            "lat": 35.47056
+          }
+        },
+        {
+          "name": "Sagamino",
+          "station_id": "00000059",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.428532,
+            "lat": 35.471536
+          }
+        },
+        {
+          "name": "Kashiwadai",
+          "station_id": "00000045",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.414994,
+            "lat": 35.466607
+          }
+        },
+        {
+          "name": "Ebina(Odakyu-Sotetsu)",
+          "station_id": "00001174",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.391338,
+            "lat": 35.452673
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Yokohama",
+          "from_id": "00000838",
+          "to": "Hoshikawa(Kanagawa)",
+          "to_id": "00004645",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Hoshikawa(Kanagawa)",
+          "from_id": "00004645",
+          "to": "Nishiya",
+          "to_id": "00004868",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Nishiya",
+          "from_id": "00004868",
+          "to": "Tsurugamine",
+          "to_id": "00006377",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tsurugamine",
+          "from_id": "00006377",
+          "to": "Futamata-gawa",
+          "to_id": "00007219",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Futamata-gawa",
+          "from_id": "00007219",
+          "to": "Kibogaoka",
+          "to_id": "00001470",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kibogaoka",
+          "from_id": "00001470",
+          "to": "Mitsukyo",
+          "to_id": "00002950",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Mitsukyo",
+          "from_id": "00002950",
+          "to": "Seya",
+          "to_id": "00004620",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Seya",
+          "from_id": "00004620",
+          "to": "Yamato(Kanagawa)",
+          "to_id": "00005784",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yamato(Kanagawa)",
+          "from_id": "00005784",
+          "to": "Sagami-otsuka",
+          "to_id": "00005393",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Sagami-otsuka",
+          "from_id": "00005393",
+          "to": "Sagamino",
+          "to_id": "00000059",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Sagamino",
+          "from_id": "00000059",
+          "to": "Kashiwadai",
+          "to_id": "00000045",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kashiwadai",
+          "from_id": "00000045",
+          "to": "Ebina(Odakyu-Sotetsu)",
+          "to_id": "00001174",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Limited Express": {
+      "line": "Sotetsu Main",
+      "train_type": "Limited Express",
+      "total_stops": 5,
+      "stops": [
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.620283,
+            "lat": 35.464132
+          }
+        },
+        {
+          "name": "Nishiya",
+          "station_id": "00004868",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.56561,
+            "lat": 35.478072
+          }
+        },
+        {
+          "name": "Futamata-gawa",
+          "station_id": "00007219",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.532301,
+            "lat": 35.463419
+          }
+        },
+        {
+          "name": "Yamato(Kanagawa)",
+          "station_id": "00005784",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.461396,
+            "lat": 35.469935
+          }
+        },
+        {
+          "name": "Ebina(Odakyu-Sotetsu)",
+          "station_id": "00001174",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.391338,
+            "lat": 35.452673
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Yokohama",
+          "from_id": "00000838",
+          "to": "Nishiya",
+          "to_id": "00004868",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Nishiya",
+          "from_id": "00004868",
+          "to": "Futamata-gawa",
+          "to_id": "00007219",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Futamata-gawa",
+          "from_id": "00007219",
+          "to": "Yamato(Kanagawa)",
+          "to_id": "00005784",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Yamato(Kanagawa)",
+          "from_id": "00005784",
+          "to": "Ebina(Odakyu-Sotetsu)",
+          "to_id": "00001174",
+          "travel_time_minutes": 7
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:54:41.387Z"
+}

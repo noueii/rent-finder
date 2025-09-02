@@ -1,0 +1,466 @@
+{
+  "line": "Odakyu Tama Line",
+  "operator": "Odakyu Electric Railway",
+  "navitime_id": "00000688",
+  "first_station_id": "00004355",
+  "stations": [
+    {
+      "name": "Shin-Yurigaoka",
+      "japanese_name": "新百合ヶ丘",
+      "station_id": "00004355",
+      "order": 1,
+      "transfers": [
+        "Odakyu Odawara Line"
+      ]
+    },
+    {
+      "name": "Satsukidai",
+      "japanese_name": "五月台",
+      "station_id": "00002222",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Kurihira",
+      "japanese_name": "栗平",
+      "station_id": "00001986",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Kurokawa(Kanagawa)",
+      "japanese_name": "黒川(神奈川県)",
+      "station_id": "00002706",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Haruhino",
+      "japanese_name": "はるひ野",
+      "station_id": "00009394",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Odakyu Nagayama",
+      "japanese_name": "小田急永山",
+      "station_id": "00003739",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Odakyu Tama Center",
+      "japanese_name": "小田急多摩センター",
+      "station_id": "00003741",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Karakida",
+      "japanese_name": "唐木田",
+      "station_id": "00006608",
+      "order": 8,
+      "transfers": []
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Rapid Express",
+    "Express"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "820300a2",
+      "trainName": "Odakyu Tama Line Local",
+      "destination": "Karakida",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "52",
+      "type": "Local"
+    },
+    "Rapid Express": {
+      "trainId": "82030000",
+      "trainName": "Odakyu Tama Line Rapid Express",
+      "destination": "Karakida",
+      "hour": 7,
+      "date": "2025-07-11",
+      "time": "51",
+      "type": "Rapid Express"
+    },
+    "Express": {
+      "trainId": "82030008",
+      "trainName": "Odakyu Tama Line Express",
+      "destination": "Karakida",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "02",
+      "type": "Express"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Odakyu Tama Line",
+      "train_type": "Local",
+      "total_stops": 8,
+      "stops": [
+        {
+          "name": "Shin-Yurigaoka",
+          "station_id": "00004355",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.507708,
+            "lat": 35.603822
+          }
+        },
+        {
+          "name": "Satsukidai",
+          "station_id": "00002222",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.493674,
+            "lat": 35.600124
+          }
+        },
+        {
+          "name": "Kurihira",
+          "station_id": "00001986",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.480918,
+            "lat": 35.605995
+          }
+        },
+        {
+          "name": "Kurokawa(Kanagawa)",
+          "station_id": "00002706",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.470799,
+            "lat": 35.61317
+          }
+        },
+        {
+          "name": "Haruhino",
+          "station_id": "00009394",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.4646,
+            "lat": 35.618815
+          }
+        },
+        {
+          "name": "Odakyu Nagayama",
+          "station_id": "00003739",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.448184,
+            "lat": 35.629913
+          }
+        },
+        {
+          "name": "Odakyu Tama Center",
+          "station_id": "00003741",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.424437,
+            "lat": 35.62494
+          }
+        },
+        {
+          "name": "Karakida",
+          "station_id": "00006608",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.41116,
+            "lat": 35.615864
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shin-Yurigaoka",
+          "from_id": "00004355",
+          "to": "Satsukidai",
+          "to_id": "00002222",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Satsukidai",
+          "from_id": "00002222",
+          "to": "Kurihira",
+          "to_id": "00001986",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kurihira",
+          "from_id": "00001986",
+          "to": "Kurokawa(Kanagawa)",
+          "to_id": "00002706",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kurokawa(Kanagawa)",
+          "from_id": "00002706",
+          "to": "Haruhino",
+          "to_id": "00009394",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Haruhino",
+          "from_id": "00009394",
+          "to": "Odakyu Nagayama",
+          "to_id": "00003739",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Odakyu Nagayama",
+          "from_id": "00003739",
+          "to": "Odakyu Tama Center",
+          "to_id": "00003741",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Odakyu Tama Center",
+          "from_id": "00003741",
+          "to": "Karakida",
+          "to_id": "00006608",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Rapid Express": {
+      "line": "Odakyu Tama Line",
+      "train_type": "Rapid Express",
+      "total_stops": 5,
+      "stops": [
+        {
+          "name": "Shin-Yurigaoka",
+          "station_id": "00004355",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.507708,
+            "lat": 35.603822
+          }
+        },
+        {
+          "name": "Kurihira",
+          "station_id": "00001986",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.480918,
+            "lat": 35.605995
+          }
+        },
+        {
+          "name": "Odakyu Nagayama",
+          "station_id": "00003739",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.448184,
+            "lat": 35.629913
+          }
+        },
+        {
+          "name": "Odakyu Tama Center",
+          "station_id": "00003741",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.424437,
+            "lat": 35.62494
+          }
+        },
+        {
+          "name": "Karakida",
+          "station_id": "00006608",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.41116,
+            "lat": 35.615864
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shin-Yurigaoka",
+          "from_id": "00004355",
+          "to": "Kurihira",
+          "to_id": "00001986",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kurihira",
+          "from_id": "00001986",
+          "to": "Odakyu Nagayama",
+          "to_id": "00003739",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Odakyu Nagayama",
+          "from_id": "00003739",
+          "to": "Odakyu Tama Center",
+          "to_id": "00003741",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Odakyu Tama Center",
+          "from_id": "00003741",
+          "to": "Karakida",
+          "to_id": "00006608",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Express": {
+      "line": "Odakyu Tama Line",
+      "train_type": "Express",
+      "total_stops": 8,
+      "stops": [
+        {
+          "name": "Shin-Yurigaoka",
+          "station_id": "00004355",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.507708,
+            "lat": 35.603822
+          }
+        },
+        {
+          "name": "Satsukidai",
+          "station_id": "00002222",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.493674,
+            "lat": 35.600124
+          }
+        },
+        {
+          "name": "Kurihira",
+          "station_id": "00001986",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.480918,
+            "lat": 35.605995
+          }
+        },
+        {
+          "name": "Kurokawa(Kanagawa)",
+          "station_id": "00002706",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.470799,
+            "lat": 35.61317
+          }
+        },
+        {
+          "name": "Haruhino",
+          "station_id": "00009394",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.4646,
+            "lat": 35.618815
+          }
+        },
+        {
+          "name": "Odakyu Nagayama",
+          "station_id": "00003739",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.448184,
+            "lat": 35.629913
+          }
+        },
+        {
+          "name": "Odakyu Tama Center",
+          "station_id": "00003741",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.424437,
+            "lat": 35.62494
+          }
+        },
+        {
+          "name": "Karakida",
+          "station_id": "00006608",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.41116,
+            "lat": 35.615864
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shin-Yurigaoka",
+          "from_id": "00004355",
+          "to": "Satsukidai",
+          "to_id": "00002222",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Satsukidai",
+          "from_id": "00002222",
+          "to": "Kurihira",
+          "to_id": "00001986",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kurihira",
+          "from_id": "00001986",
+          "to": "Kurokawa(Kanagawa)",
+          "to_id": "00002706",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kurokawa(Kanagawa)",
+          "from_id": "00002706",
+          "to": "Haruhino",
+          "to_id": "00009394",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Haruhino",
+          "from_id": "00009394",
+          "to": "Odakyu Nagayama",
+          "to_id": "00003739",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Odakyu Nagayama",
+          "from_id": "00003739",
+          "to": "Odakyu Tama Center",
+          "to_id": "00003741",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Odakyu Tama Center",
+          "from_id": "00003741",
+          "to": "Karakida",
+          "to_id": "00006608",
+          "travel_time_minutes": 2
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:54:10.896Z"
+}

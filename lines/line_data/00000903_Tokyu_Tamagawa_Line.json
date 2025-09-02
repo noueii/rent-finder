@@ -1,0 +1,201 @@
+{
+  "line": "Tokyu Tamagawa Line",
+  "operator": "Tokyu Corporation",
+  "navitime_id": "00000903",
+  "first_station_id": "00005463",
+  "stations": [
+    {
+      "name": "Tamagawa",
+      "japanese_name": "多摩川",
+      "station_id": "00005463",
+      "order": 1,
+      "transfers": [
+        "Tokyu Toyoko Line",
+        "Tokyu Meguro Line"
+      ]
+    },
+    {
+      "name": "Numabe",
+      "japanese_name": "沼部",
+      "station_id": "00003890",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Unoki",
+      "japanese_name": "鵜の木",
+      "station_id": "00000598",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Shimomaruko",
+      "japanese_name": "下丸子",
+      "station_id": "00000914",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Musashi-nitta",
+      "japanese_name": "武蔵新田",
+      "station_id": "00007967",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Yaguchi-no-watashi",
+      "japanese_name": "矢口渡",
+      "station_id": "00008767",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Kamata",
+      "japanese_name": "蒲田",
+      "station_id": "00001277",
+      "order": 7,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "Tokyu Ikegami Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "82b30038",
+      "trainName": "Tokyu Tamagawa Line Local",
+      "destination": "Kamata",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "02",
+      "type": "Local"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Tokyu Tamagawa Line",
+      "train_type": "Local",
+      "total_stops": 7,
+      "stops": [
+        {
+          "name": "Tamagawa",
+          "station_id": "00005463",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.668782,
+            "lat": 35.589667
+          }
+        },
+        {
+          "name": "Numabe",
+          "station_id": "00003890",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.673057,
+            "lat": 35.582766
+          }
+        },
+        {
+          "name": "Unoki",
+          "station_id": "00000598",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.680746,
+            "lat": 35.575302
+          }
+        },
+        {
+          "name": "Shimomaruko",
+          "station_id": "00000914",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.685825,
+            "lat": 35.571248
+          }
+        },
+        {
+          "name": "Musashi-nitta",
+          "station_id": "00007967",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.692213,
+            "lat": 35.568034
+          }
+        },
+        {
+          "name": "Yaguchi-no-watashi",
+          "station_id": "00008767",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.699994,
+            "lat": 35.56265
+          }
+        },
+        {
+          "name": "Kamata",
+          "station_id": "00001277",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.714608,
+            "lat": 35.56175
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Tamagawa",
+          "from_id": "00005463",
+          "to": "Numabe",
+          "to_id": "00003890",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Numabe",
+          "from_id": "00003890",
+          "to": "Unoki",
+          "to_id": "00000598",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Unoki",
+          "from_id": "00000598",
+          "to": "Shimomaruko",
+          "to_id": "00000914",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shimomaruko",
+          "from_id": "00000914",
+          "to": "Musashi-nitta",
+          "to_id": "00007967",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Musashi-nitta",
+          "from_id": "00007967",
+          "to": "Yaguchi-no-watashi",
+          "to_id": "00008767",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yaguchi-no-watashi",
+          "from_id": "00008767",
+          "to": "Kamata",
+          "to_id": "00001277",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:56:48.700Z"
+}

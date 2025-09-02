@@ -1,0 +1,507 @@
+{
+  "line": "Tokyo Monorail",
+  "operator": "Tokyo Monorail",
+  "navitime_id": "00000783",
+  "first_station_id": "00007843",
+  "stations": [
+    {
+      "name": "Hamamatsucho",
+      "japanese_name": "浜松町",
+      "station_id": "00007843",
+      "order": 1,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Yamanote Line"
+      ]
+    },
+    {
+      "name": "Tennozu Isle(Tokyo Monorail)",
+      "japanese_name": "天王洲アイル(モノレール)",
+      "station_id": "00006422",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Ōi-Keibajō",
+      "japanese_name": "大井競馬場前",
+      "station_id": "00005516",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Ryutsu Center",
+      "japanese_name": "流通センター",
+      "station_id": "00009001",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Showajima",
+      "japanese_name": "昭和島",
+      "station_id": "00003812",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Seibijo",
+      "japanese_name": "整備場",
+      "station_id": "00004642",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Tenkubashi",
+      "japanese_name": "天空橋",
+      "station_id": "00006429",
+      "order": 7,
+      "transfers": [
+        "Keikyu Airport Line"
+      ]
+    },
+    {
+      "name": "Haneda Airport Terminal 3 (Monorail)",
+      "japanese_name": "羽田空港第３ターミナル(モノレール)",
+      "station_id": "00009590",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Shin-Seibijo",
+      "japanese_name": "新整備場",
+      "station_id": "00004276",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Haneda Airport Terminal 1 (Monorail)",
+      "japanese_name": "羽田空港第１ターミナル(モノレール)",
+      "station_id": "00009396",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Haneda Airport Terminal 2 (Monorail)",
+      "japanese_name": "羽田空港第２ターミナル(モノレール)",
+      "station_id": "00009397",
+      "order": 11,
+      "transfers": []
+    }
+  ],
+  "train_types": [
+    "Airport Rapid",
+    "Local",
+    "Section Rapid"
+  ],
+  "example_trains": {
+    "Airport Rapid": {
+      "trainId": "8256003f",
+      "trainName": "Tokyo Monorail Airport Rapid",
+      "destination": "Haneda Airport Terminal 2 (Monorail)",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Airport Rapid"
+    },
+    "Local": {
+      "trainId": "82560040",
+      "trainName": "Tokyo Monorail",
+      "destination": "Haneda Airport Terminal 2 (Monorail)",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "05",
+      "type": "Local"
+    },
+    "Section Rapid": {
+      "trainId": "8256000b",
+      "trainName": "Tokyo Monorail Rapid",
+      "destination": "Haneda Airport Terminal 2 (Monorail)",
+      "hour": 6,
+      "date": "2025-07-11",
+      "time": "20",
+      "type": "Section Rapid"
+    }
+  },
+  "train_stop_details": {
+    "Airport Rapid": {
+      "line": "Tokyo Monorail",
+      "train_type": "Airport Rapid",
+      "total_stops": 4,
+      "stops": [
+        {
+          "name": "Hamamatsucho",
+          "station_id": "00007843",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.756706,
+            "lat": 35.655478
+          }
+        },
+        {
+          "name": "Haneda Airport Terminal 3 (Monorail)",
+          "station_id": "00009590",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.768313,
+            "lat": 35.544233
+          }
+        },
+        {
+          "name": "Haneda Airport Terminal 1 (Monorail)",
+          "station_id": "00009396",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.784707,
+            "lat": 35.549116
+          }
+        },
+        {
+          "name": "Haneda Airport Terminal 2 (Monorail)",
+          "station_id": "00009397",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.788038,
+            "lat": 35.550716
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Hamamatsucho",
+          "from_id": "00007843",
+          "to": "Haneda Airport Terminal 3 (Monorail)",
+          "to_id": "00009590",
+          "travel_time_minutes": 13
+        },
+        {
+          "from": "Haneda Airport Terminal 3 (Monorail)",
+          "from_id": "00009590",
+          "to": "Haneda Airport Terminal 1 (Monorail)",
+          "to_id": "00009396",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Haneda Airport Terminal 1 (Monorail)",
+          "from_id": "00009396",
+          "to": "Haneda Airport Terminal 2 (Monorail)",
+          "to_id": "00009397",
+          "travel_time_minutes": 1
+        }
+      ]
+    },
+    "Local": {
+      "line": "Tokyo Monorail",
+      "train_type": "Local",
+      "total_stops": 11,
+      "stops": [
+        {
+          "name": "Hamamatsucho",
+          "station_id": "00007843",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.756706,
+            "lat": 35.655478
+          }
+        },
+        {
+          "name": "Tennozu Isle(Tokyo Monorail)",
+          "station_id": "00006422",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.750627,
+            "lat": 35.622977
+          }
+        },
+        {
+          "name": "Ōi-Keibajō",
+          "station_id": "00005516",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.747051,
+            "lat": 35.595498
+          }
+        },
+        {
+          "name": "Ryutsu Center",
+          "station_id": "00009001",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.748762,
+            "lat": 35.581977
+          }
+        },
+        {
+          "name": "Showajima",
+          "station_id": "00003812",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.749964,
+            "lat": 35.570726
+          }
+        },
+        {
+          "name": "Seibijo",
+          "station_id": "00004642",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.753362,
+            "lat": 35.555147
+          }
+        },
+        {
+          "name": "Tenkubashi",
+          "station_id": "00006429",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.754379,
+            "lat": 35.548974
+          }
+        },
+        {
+          "name": "Haneda Airport Terminal 3 (Monorail)",
+          "station_id": "00009590",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.768313,
+            "lat": 35.544233
+          }
+        },
+        {
+          "name": "Shin-Seibijo",
+          "station_id": "00004276",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.787343,
+            "lat": 35.543023
+          }
+        },
+        {
+          "name": "Haneda Airport Terminal 1 (Monorail)",
+          "station_id": "00009396",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.784707,
+            "lat": 35.549116
+          }
+        },
+        {
+          "name": "Haneda Airport Terminal 2 (Monorail)",
+          "station_id": "00009397",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.788038,
+            "lat": 35.550716
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Hamamatsucho",
+          "from_id": "00007843",
+          "to": "Tennozu Isle(Tokyo Monorail)",
+          "to_id": "00006422",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Tennozu Isle(Tokyo Monorail)",
+          "from_id": "00006422",
+          "to": "Ōi-Keibajō",
+          "to_id": "00005516",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Ōi-Keibajō",
+          "from_id": "00005516",
+          "to": "Ryutsu Center",
+          "to_id": "00009001",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ryutsu Center",
+          "from_id": "00009001",
+          "to": "Showajima",
+          "to_id": "00003812",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Showajima",
+          "from_id": "00003812",
+          "to": "Seibijo",
+          "to_id": "00004642",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Seibijo",
+          "from_id": "00004642",
+          "to": "Tenkubashi",
+          "to_id": "00006429",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tenkubashi",
+          "from_id": "00006429",
+          "to": "Haneda Airport Terminal 3 (Monorail)",
+          "to_id": "00009590",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Haneda Airport Terminal 3 (Monorail)",
+          "from_id": "00009590",
+          "to": "Shin-Seibijo",
+          "to_id": "00004276",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Shin-Seibijo",
+          "from_id": "00004276",
+          "to": "Haneda Airport Terminal 1 (Monorail)",
+          "to_id": "00009396",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Haneda Airport Terminal 1 (Monorail)",
+          "from_id": "00009396",
+          "to": "Haneda Airport Terminal 2 (Monorail)",
+          "to_id": "00009397",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Section Rapid": {
+      "line": "Tokyo Monorail",
+      "train_type": "Section Rapid",
+      "total_stops": 7,
+      "stops": [
+        {
+          "name": "Hamamatsucho",
+          "station_id": "00007843",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.756706,
+            "lat": 35.655478
+          }
+        },
+        {
+          "name": "Tennozu Isle(Tokyo Monorail)",
+          "station_id": "00006422",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.750627,
+            "lat": 35.622977
+          }
+        },
+        {
+          "name": "Ōi-Keibajō",
+          "station_id": "00005516",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.747051,
+            "lat": 35.595498
+          }
+        },
+        {
+          "name": "Ryutsu Center",
+          "station_id": "00009001",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.748762,
+            "lat": 35.581977
+          }
+        },
+        {
+          "name": "Haneda Airport Terminal 3 (Monorail)",
+          "station_id": "00009590",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.768313,
+            "lat": 35.544233
+          }
+        },
+        {
+          "name": "Haneda Airport Terminal 1 (Monorail)",
+          "station_id": "00009396",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.784707,
+            "lat": 35.549116
+          }
+        },
+        {
+          "name": "Haneda Airport Terminal 2 (Monorail)",
+          "station_id": "00009397",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.788038,
+            "lat": 35.550716
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Hamamatsucho",
+          "from_id": "00007843",
+          "to": "Tennozu Isle(Tokyo Monorail)",
+          "to_id": "00006422",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Tennozu Isle(Tokyo Monorail)",
+          "from_id": "00006422",
+          "to": "Ōi-Keibajō",
+          "to_id": "00005516",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Ōi-Keibajō",
+          "from_id": "00005516",
+          "to": "Ryutsu Center",
+          "to_id": "00009001",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ryutsu Center",
+          "from_id": "00009001",
+          "to": "Haneda Airport Terminal 3 (Monorail)",
+          "to_id": "00009590",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Haneda Airport Terminal 3 (Monorail)",
+          "from_id": "00009590",
+          "to": "Haneda Airport Terminal 1 (Monorail)",
+          "to_id": "00009396",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Haneda Airport Terminal 1 (Monorail)",
+          "from_id": "00009396",
+          "to": "Haneda Airport Terminal 2 (Monorail)",
+          "to_id": "00009397",
+          "travel_time_minutes": 1
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:55:30.939Z"
+}

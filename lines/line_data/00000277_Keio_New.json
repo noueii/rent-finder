@@ -1,0 +1,375 @@
+{
+  "line": "Keio New",
+  "operator": "Keio Corporation",
+  "navitime_id": "00000277",
+  "first_station_id": "00002919",
+  "stations": [
+    {
+      "name": "Sasazuka",
+      "japanese_name": "笹塚",
+      "station_id": "00002919",
+      "order": 1,
+      "transfers": [
+        "Keio Line"
+      ]
+    },
+    {
+      "name": "Hatagaya",
+      "japanese_name": "幡ヶ谷",
+      "station_id": "00007501",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Hatsudai",
+      "japanese_name": "初台",
+      "station_id": "00003605",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Shinjuku",
+      "japanese_name": "新宿",
+      "station_id": "00004254",
+      "order": 4,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "Keio Line",
+        "Odakyu Odawara Line",
+        "Tokyo Metro Marunouchi Line",
+        "Toeioedo Line(Loop)",
+        "Toei Shinjuku Line",
+        "JR Shonan-Shinjuku Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Rapid",
+    "Section Express",
+    "Express"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "80f00448",
+      "trainName": "Keio New Line Local",
+      "destination": "Motoyawata(Toei Shinjuku Line)",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "04",
+      "type": "Local"
+    },
+    "Rapid": {
+      "trainId": "80f0037e",
+      "trainName": "Keio New Line Rapid",
+      "destination": "Motoyawata(Toei Shinjuku Line)",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "19",
+      "type": "Rapid"
+    },
+    "Section Express": {
+      "trainId": "80f0037d",
+      "trainName": "Keio New Line Semi Express",
+      "destination": "Motoyawata(Toei Shinjuku Line)",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "09",
+      "type": "Section Express"
+    },
+    "Express": {
+      "trainId": "80f00371",
+      "trainName": "Keio New Line Express",
+      "destination": "Moto-Yawata (Local Train from New Line Shinjuku)",
+      "hour": 8,
+      "date": "2025-07-11",
+      "time": "09",
+      "type": "Express"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Keio New",
+      "train_type": "Local",
+      "total_stops": 4,
+      "stops": [
+        {
+          "name": "Sasazuka",
+          "station_id": "00002919",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.667302,
+            "lat": 35.673681
+          }
+        },
+        {
+          "name": "Hatagaya",
+          "station_id": "00007501",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.676622,
+            "lat": 35.677164
+          }
+        },
+        {
+          "name": "Hatsudai",
+          "station_id": "00003605",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.686706,
+            "lat": 35.681419
+          }
+        },
+        {
+          "name": "Shinjuku",
+          "station_id": "00004254",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.698504,
+            "lat": 35.688466
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Sasazuka",
+          "from_id": "00002919",
+          "to": "Hatagaya",
+          "to_id": "00007501",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hatagaya",
+          "from_id": "00007501",
+          "to": "Hatsudai",
+          "to_id": "00003605",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hatsudai",
+          "from_id": "00003605",
+          "to": "Shinjuku",
+          "to_id": "00004254",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Rapid": {
+      "line": "Keio New",
+      "train_type": "Rapid",
+      "total_stops": 4,
+      "stops": [
+        {
+          "name": "Sasazuka",
+          "station_id": "00002919",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.667302,
+            "lat": 35.673681
+          }
+        },
+        {
+          "name": "Hatagaya",
+          "station_id": "00007501",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.676622,
+            "lat": 35.677164
+          }
+        },
+        {
+          "name": "Hatsudai",
+          "station_id": "00003605",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.686706,
+            "lat": 35.681419
+          }
+        },
+        {
+          "name": "Shinjuku",
+          "station_id": "00004254",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.698504,
+            "lat": 35.688466
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Sasazuka",
+          "from_id": "00002919",
+          "to": "Hatagaya",
+          "to_id": "00007501",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hatagaya",
+          "from_id": "00007501",
+          "to": "Hatsudai",
+          "to_id": "00003605",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hatsudai",
+          "from_id": "00003605",
+          "to": "Shinjuku",
+          "to_id": "00004254",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Section Express": {
+      "line": "Keio New",
+      "train_type": "Section Express",
+      "total_stops": 4,
+      "stops": [
+        {
+          "name": "Sasazuka",
+          "station_id": "00002919",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.667302,
+            "lat": 35.673681
+          }
+        },
+        {
+          "name": "Hatagaya",
+          "station_id": "00007501",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.676622,
+            "lat": 35.677164
+          }
+        },
+        {
+          "name": "Hatsudai",
+          "station_id": "00003605",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.686706,
+            "lat": 35.681419
+          }
+        },
+        {
+          "name": "Shinjuku",
+          "station_id": "00004254",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.698504,
+            "lat": 35.688466
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Sasazuka",
+          "from_id": "00002919",
+          "to": "Hatagaya",
+          "to_id": "00007501",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hatagaya",
+          "from_id": "00007501",
+          "to": "Hatsudai",
+          "to_id": "00003605",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hatsudai",
+          "from_id": "00003605",
+          "to": "Shinjuku",
+          "to_id": "00004254",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Express": {
+      "line": "Keio New",
+      "train_type": "Express",
+      "total_stops": 4,
+      "stops": [
+        {
+          "name": "Sasazuka",
+          "station_id": "00002919",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.667302,
+            "lat": 35.673681
+          }
+        },
+        {
+          "name": "Hatagaya",
+          "station_id": "00007501",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.676622,
+            "lat": 35.677164
+          }
+        },
+        {
+          "name": "Hatsudai",
+          "station_id": "00003605",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.686706,
+            "lat": 35.681419
+          }
+        },
+        {
+          "name": "Shinjuku",
+          "station_id": "00004254",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.698504,
+            "lat": 35.688466
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Sasazuka",
+          "from_id": "00002919",
+          "to": "Hatagaya",
+          "to_id": "00007501",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hatagaya",
+          "from_id": "00007501",
+          "to": "Hatsudai",
+          "to_id": "00003605",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hatsudai",
+          "from_id": "00003605",
+          "to": "Shinjuku",
+          "to_id": "00004254",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:53:23.998Z"
+}

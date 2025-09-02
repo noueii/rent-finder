@@ -1,0 +1,1140 @@
+{
+  "line": "Tsukuba Express",
+  "operator": "Metropolitan Intercity Railway Company",
+  "navitime_id": "00001066",
+  "first_station_id": "00003494",
+  "stations": [
+    {
+      "name": "Akihabara",
+      "japanese_name": "秋葉原",
+      "station_id": "00003494",
+      "order": 1,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Yamanote Line",
+        "JR Sobu Line Local (Ochanomizu-Kinshicho)",
+        "Tokyo Metro Hibiya Line"
+      ]
+    },
+    {
+      "name": "Shin-okachimachi",
+      "japanese_name": "新御徒町",
+      "station_id": "00009216",
+      "order": 2,
+      "transfers": [
+        "Toeioedo Line(Loop)"
+      ]
+    },
+    {
+      "name": "Asakusa(Tsukuba)",
+      "japanese_name": "浅草(つくばエクスプレス)",
+      "station_id": "00009444",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Minami-senju(Tsukuba Express)",
+      "japanese_name": "南千住〔つくばエクスプレス〕",
+      "station_id": "00009445",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Kita-senju",
+      "japanese_name": "北千住",
+      "station_id": "00008355",
+      "order": 5,
+      "transfers": [
+        "JR Joban Line",
+        "Tokyo Metro Chiyoda Line",
+        "Tokyo Metro Hibiya Line",
+        "Tobu Isesaki Line (SKYTREE Line)"
+      ]
+    },
+    {
+      "name": "Aoi",
+      "japanese_name": "青井",
+      "station_id": "00009443",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Rokucho",
+      "japanese_name": "六町",
+      "station_id": "00009452",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Yashio",
+      "japanese_name": "八潮",
+      "station_id": "00009448",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Misato-chuo",
+      "japanese_name": "三郷中央",
+      "station_id": "00009442",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Minami-Nagareyama",
+      "japanese_name": "南流山",
+      "station_id": "00007177",
+      "order": 10,
+      "transfers": [
+        "JR Musashino Line(Fuchuhommachi-Minamifunabashi)",
+        "JR Musashinojobanrenraku Line(Minaminagareyama-Kitakogane)"
+      ]
+    },
+    {
+      "name": "Nagareyama-centralpark",
+      "japanese_name": "流山セントラルパーク",
+      "station_id": "00009451",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Nagareyama-otakanomori",
+      "japanese_name": "流山おおたかの森",
+      "station_id": "00009450",
+      "order": 12,
+      "transfers": [
+        "Tobu Noda Line (Urban Park Line)"
+      ]
+    },
+    {
+      "name": "Kashiwanoha-campus",
+      "japanese_name": "柏の葉キャンパス",
+      "station_id": "00009447",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Kashiwa-Tanaka",
+      "japanese_name": "柏たなか",
+      "station_id": "00009446",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Moriya",
+      "japanese_name": "守谷",
+      "station_id": "00003450",
+      "order": 15,
+      "transfers": [
+        "Kanto Railway Joso Line"
+      ]
+    },
+    {
+      "name": "Miraidaira",
+      "japanese_name": "みらい平",
+      "station_id": "00009440",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Midorino",
+      "japanese_name": "みどりの",
+      "station_id": "00009439",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Bampaku-kinenkoen(Ibaraki)",
+      "japanese_name": "万博記念公園(茨城県)",
+      "station_id": "00009449",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Kenkyu-gakuen",
+      "japanese_name": "研究学園",
+      "station_id": "00009441",
+      "order": 19,
+      "transfers": []
+    },
+    {
+      "name": "Tsukuba",
+      "japanese_name": "つくば",
+      "station_id": "00009438",
+      "order": 20,
+      "transfers": []
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Rapid",
+    "Section Rapid",
+    "Commuter Rapid"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "8313004e",
+      "trainName": "Tsukuba Express",
+      "destination": "Moriya",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "05",
+      "type": "Local"
+    },
+    "Rapid": {
+      "trainId": "8313004d",
+      "trainName": "Tsukuba Express Rapid",
+      "destination": "Tsukuba",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Rapid"
+    },
+    "Section Rapid": {
+      "trainId": "83130050",
+      "trainName": "Tsukuba Express Semi-Rapid",
+      "destination": "Tsukuba",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "14",
+      "type": "Section Rapid"
+    },
+    "Commuter Rapid": {
+      "trainId": "8313009a",
+      "trainName": "Tsukuba Express Commuter Rapid",
+      "destination": "Tsukuba",
+      "hour": 17,
+      "date": "2025-07-11",
+      "time": "30",
+      "type": "Commuter Rapid"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Tsukuba Express",
+      "train_type": "Local",
+      "total_stops": 15,
+      "stops": [
+        {
+          "name": "Akihabara",
+          "station_id": "00003494",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.774206,
+            "lat": 35.698538
+          }
+        },
+        {
+          "name": "Shin-okachimachi",
+          "station_id": "00009216",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.782775,
+            "lat": 35.706925
+          }
+        },
+        {
+          "name": "Asakusa(Tsukuba)",
+          "station_id": "00009444",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.792491,
+            "lat": 35.714035
+          }
+        },
+        {
+          "name": "Minami-senju(Tsukuba Express)",
+          "station_id": "00009445",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.799049,
+            "lat": 35.733176
+          }
+        },
+        {
+          "name": "Kita-senju",
+          "station_id": "00008355",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.805177,
+            "lat": 35.749639
+          }
+        },
+        {
+          "name": "Aoi",
+          "station_id": "00009443",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.820364,
+            "lat": 35.771937
+          }
+        },
+        {
+          "name": "Rokucho",
+          "station_id": "00009452",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.821886,
+            "lat": 35.785138
+          }
+        },
+        {
+          "name": "Yashio",
+          "station_id": "00009448",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.844806,
+            "lat": 35.807738
+          }
+        },
+        {
+          "name": "Misato-chuo",
+          "station_id": "00009442",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.878322,
+            "lat": 35.824485
+          }
+        },
+        {
+          "name": "Minami-Nagareyama",
+          "station_id": "00007177",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.903184,
+            "lat": 35.838514
+          }
+        },
+        {
+          "name": "Nagareyama-centralpark",
+          "station_id": "00009451",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.915198,
+            "lat": 35.854336
+          }
+        },
+        {
+          "name": "Nagareyama-otakanomori",
+          "station_id": "00009450",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.924993,
+            "lat": 35.871738
+          }
+        },
+        {
+          "name": "Kashiwanoha-campus",
+          "station_id": "00009447",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.952507,
+            "lat": 35.893352
+          }
+        },
+        {
+          "name": "Kashiwa-Tanaka",
+          "station_id": "00009446",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.957555,
+            "lat": 35.910823
+          }
+        },
+        {
+          "name": "Moriya",
+          "station_id": "00003450",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.991943,
+            "lat": 35.950113
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Akihabara",
+          "from_id": "00003494",
+          "to": "Shin-okachimachi",
+          "to_id": "00009216",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-okachimachi",
+          "from_id": "00009216",
+          "to": "Asakusa(Tsukuba)",
+          "to_id": "00009444",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Asakusa(Tsukuba)",
+          "from_id": "00009444",
+          "to": "Minami-senju(Tsukuba Express)",
+          "to_id": "00009445",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Minami-senju(Tsukuba Express)",
+          "from_id": "00009445",
+          "to": "Kita-senju",
+          "to_id": "00008355",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kita-senju",
+          "from_id": "00008355",
+          "to": "Aoi",
+          "to_id": "00009443",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Aoi",
+          "from_id": "00009443",
+          "to": "Rokucho",
+          "to_id": "00009452",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Rokucho",
+          "from_id": "00009452",
+          "to": "Yashio",
+          "to_id": "00009448",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Yashio",
+          "from_id": "00009448",
+          "to": "Misato-chuo",
+          "to_id": "00009442",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Misato-chuo",
+          "from_id": "00009442",
+          "to": "Minami-Nagareyama",
+          "to_id": "00007177",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Minami-Nagareyama",
+          "from_id": "00007177",
+          "to": "Nagareyama-centralpark",
+          "to_id": "00009451",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nagareyama-centralpark",
+          "from_id": "00009451",
+          "to": "Nagareyama-otakanomori",
+          "to_id": "00009450",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nagareyama-otakanomori",
+          "from_id": "00009450",
+          "to": "Kashiwanoha-campus",
+          "to_id": "00009447",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kashiwanoha-campus",
+          "from_id": "00009447",
+          "to": "Kashiwa-Tanaka",
+          "to_id": "00009446",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kashiwa-Tanaka",
+          "from_id": "00009446",
+          "to": "Moriya",
+          "to_id": "00003450",
+          "travel_time_minutes": 4
+        }
+      ]
+    },
+    "Rapid": {
+      "line": "Tsukuba Express",
+      "train_type": "Rapid",
+      "total_stops": 10,
+      "stops": [
+        {
+          "name": "Akihabara",
+          "station_id": "00003494",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.774206,
+            "lat": 35.698538
+          }
+        },
+        {
+          "name": "Shin-okachimachi",
+          "station_id": "00009216",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.782775,
+            "lat": 35.706925
+          }
+        },
+        {
+          "name": "Asakusa(Tsukuba)",
+          "station_id": "00009444",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.792491,
+            "lat": 35.714035
+          }
+        },
+        {
+          "name": "Minami-senju(Tsukuba Express)",
+          "station_id": "00009445",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.799049,
+            "lat": 35.733176
+          }
+        },
+        {
+          "name": "Kita-senju",
+          "station_id": "00008355",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.805177,
+            "lat": 35.749639
+          }
+        },
+        {
+          "name": "Yashio",
+          "station_id": "00009448",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.844806,
+            "lat": 35.807738
+          }
+        },
+        {
+          "name": "Minami-Nagareyama",
+          "station_id": "00007177",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.903184,
+            "lat": 35.838514
+          }
+        },
+        {
+          "name": "Nagareyama-otakanomori",
+          "station_id": "00009450",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.924993,
+            "lat": 35.871738
+          }
+        },
+        {
+          "name": "Moriya",
+          "station_id": "00003450",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.991943,
+            "lat": 35.950113
+          }
+        },
+        {
+          "name": "Tsukuba",
+          "station_id": "00009438",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.111287,
+            "lat": 36.082709
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Akihabara",
+          "from_id": "00003494",
+          "to": "Shin-okachimachi",
+          "to_id": "00009216",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-okachimachi",
+          "from_id": "00009216",
+          "to": "Asakusa(Tsukuba)",
+          "to_id": "00009444",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Asakusa(Tsukuba)",
+          "from_id": "00009444",
+          "to": "Minami-senju(Tsukuba Express)",
+          "to_id": "00009445",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Minami-senju(Tsukuba Express)",
+          "from_id": "00009445",
+          "to": "Kita-senju",
+          "to_id": "00008355",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kita-senju",
+          "from_id": "00008355",
+          "to": "Yashio",
+          "to_id": "00009448",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Yashio",
+          "from_id": "00009448",
+          "to": "Minami-Nagareyama",
+          "to_id": "00007177",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Minami-Nagareyama",
+          "from_id": "00007177",
+          "to": "Nagareyama-otakanomori",
+          "to_id": "00009450",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Nagareyama-otakanomori",
+          "from_id": "00009450",
+          "to": "Moriya",
+          "to_id": "00003450",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Moriya",
+          "from_id": "00003450",
+          "to": "Tsukuba",
+          "to_id": "00009438",
+          "travel_time_minutes": 11
+        }
+      ]
+    },
+    "Section Rapid": {
+      "line": "Tsukuba Express",
+      "train_type": "Section Rapid",
+      "total_stops": 16,
+      "stops": [
+        {
+          "name": "Akihabara",
+          "station_id": "00003494",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.774206,
+            "lat": 35.698538
+          }
+        },
+        {
+          "name": "Shin-okachimachi",
+          "station_id": "00009216",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.782775,
+            "lat": 35.706925
+          }
+        },
+        {
+          "name": "Asakusa(Tsukuba)",
+          "station_id": "00009444",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.792491,
+            "lat": 35.714035
+          }
+        },
+        {
+          "name": "Minami-senju(Tsukuba Express)",
+          "station_id": "00009445",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.799049,
+            "lat": 35.733176
+          }
+        },
+        {
+          "name": "Kita-senju",
+          "station_id": "00008355",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.805177,
+            "lat": 35.749639
+          }
+        },
+        {
+          "name": "Yashio",
+          "station_id": "00009448",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.844806,
+            "lat": 35.807738
+          }
+        },
+        {
+          "name": "Misato-chuo",
+          "station_id": "00009442",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.878322,
+            "lat": 35.824485
+          }
+        },
+        {
+          "name": "Minami-Nagareyama",
+          "station_id": "00007177",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.903184,
+            "lat": 35.838514
+          }
+        },
+        {
+          "name": "Nagareyama-otakanomori",
+          "station_id": "00009450",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.924993,
+            "lat": 35.871738
+          }
+        },
+        {
+          "name": "Kashiwanoha-campus",
+          "station_id": "00009447",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.952507,
+            "lat": 35.893352
+          }
+        },
+        {
+          "name": "Moriya",
+          "station_id": "00003450",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.991943,
+            "lat": 35.950113
+          }
+        },
+        {
+          "name": "Miraidaira",
+          "station_id": "00009440",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.038282,
+            "lat": 35.994533
+          }
+        },
+        {
+          "name": "Midorino",
+          "station_id": "00009439",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.056165,
+            "lat": 36.029874
+          }
+        },
+        {
+          "name": "Bampaku-kinenkoen(Ibaraki)",
+          "station_id": "00009449",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.059414,
+            "lat": 36.05837
+          }
+        },
+        {
+          "name": "Kenkyu-gakuen",
+          "station_id": "00009441",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.082381,
+            "lat": 36.082101
+          }
+        },
+        {
+          "name": "Tsukuba",
+          "station_id": "00009438",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.111287,
+            "lat": 36.082709
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Akihabara",
+          "from_id": "00003494",
+          "to": "Shin-okachimachi",
+          "to_id": "00009216",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-okachimachi",
+          "from_id": "00009216",
+          "to": "Asakusa(Tsukuba)",
+          "to_id": "00009444",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Asakusa(Tsukuba)",
+          "from_id": "00009444",
+          "to": "Minami-senju(Tsukuba Express)",
+          "to_id": "00009445",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Minami-senju(Tsukuba Express)",
+          "from_id": "00009445",
+          "to": "Kita-senju",
+          "to_id": "00008355",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kita-senju",
+          "from_id": "00008355",
+          "to": "Yashio",
+          "to_id": "00009448",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Yashio",
+          "from_id": "00009448",
+          "to": "Misato-chuo",
+          "to_id": "00009442",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Misato-chuo",
+          "from_id": "00009442",
+          "to": "Minami-Nagareyama",
+          "to_id": "00007177",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Minami-Nagareyama",
+          "from_id": "00007177",
+          "to": "Nagareyama-otakanomori",
+          "to_id": "00009450",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Nagareyama-otakanomori",
+          "from_id": "00009450",
+          "to": "Kashiwanoha-campus",
+          "to_id": "00009447",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kashiwanoha-campus",
+          "from_id": "00009447",
+          "to": "Moriya",
+          "to_id": "00003450",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Moriya",
+          "from_id": "00003450",
+          "to": "Miraidaira",
+          "to_id": "00009440",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Miraidaira",
+          "from_id": "00009440",
+          "to": "Midorino",
+          "to_id": "00009439",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Midorino",
+          "from_id": "00009439",
+          "to": "Bampaku-kinenkoen(Ibaraki)",
+          "to_id": "00009449",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Bampaku-kinenkoen(Ibaraki)",
+          "from_id": "00009449",
+          "to": "Kenkyu-gakuen",
+          "to_id": "00009441",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kenkyu-gakuen",
+          "from_id": "00009441",
+          "to": "Tsukuba",
+          "to_id": "00009438",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Commuter Rapid": {
+      "line": "Tsukuba Express",
+      "train_type": "Commuter Rapid",
+      "total_stops": 13,
+      "stops": [
+        {
+          "name": "Akihabara",
+          "station_id": "00003494",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.774206,
+            "lat": 35.698538
+          }
+        },
+        {
+          "name": "Shin-okachimachi",
+          "station_id": "00009216",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.782775,
+            "lat": 35.706925
+          }
+        },
+        {
+          "name": "Asakusa(Tsukuba)",
+          "station_id": "00009444",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.792491,
+            "lat": 35.714035
+          }
+        },
+        {
+          "name": "Minami-senju(Tsukuba Express)",
+          "station_id": "00009445",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.799049,
+            "lat": 35.733176
+          }
+        },
+        {
+          "name": "Kita-senju",
+          "station_id": "00008355",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.805177,
+            "lat": 35.749639
+          }
+        },
+        {
+          "name": "Rokucho",
+          "station_id": "00009452",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.821886,
+            "lat": 35.785138
+          }
+        },
+        {
+          "name": "Yashio",
+          "station_id": "00009448",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.844806,
+            "lat": 35.807738
+          }
+        },
+        {
+          "name": "Minami-Nagareyama",
+          "station_id": "00007177",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.903184,
+            "lat": 35.838514
+          }
+        },
+        {
+          "name": "Nagareyama-otakanomori",
+          "station_id": "00009450",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.924993,
+            "lat": 35.871738
+          }
+        },
+        {
+          "name": "Kashiwanoha-campus",
+          "station_id": "00009447",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.952507,
+            "lat": 35.893352
+          }
+        },
+        {
+          "name": "Moriya",
+          "station_id": "00003450",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.991943,
+            "lat": 35.950113
+          }
+        },
+        {
+          "name": "Kenkyu-gakuen",
+          "station_id": "00009441",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.082381,
+            "lat": 36.082101
+          }
+        },
+        {
+          "name": "Tsukuba",
+          "station_id": "00009438",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.111287,
+            "lat": 36.082709
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Akihabara",
+          "from_id": "00003494",
+          "to": "Shin-okachimachi",
+          "to_id": "00009216",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-okachimachi",
+          "from_id": "00009216",
+          "to": "Asakusa(Tsukuba)",
+          "to_id": "00009444",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Asakusa(Tsukuba)",
+          "from_id": "00009444",
+          "to": "Minami-senju(Tsukuba Express)",
+          "to_id": "00009445",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Minami-senju(Tsukuba Express)",
+          "from_id": "00009445",
+          "to": "Kita-senju",
+          "to_id": "00008355",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kita-senju",
+          "from_id": "00008355",
+          "to": "Rokucho",
+          "to_id": "00009452",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Rokucho",
+          "from_id": "00009452",
+          "to": "Yashio",
+          "to_id": "00009448",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Yashio",
+          "from_id": "00009448",
+          "to": "Minami-Nagareyama",
+          "to_id": "00007177",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Minami-Nagareyama",
+          "from_id": "00007177",
+          "to": "Nagareyama-otakanomori",
+          "to_id": "00009450",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Nagareyama-otakanomori",
+          "from_id": "00009450",
+          "to": "Kashiwanoha-campus",
+          "to_id": "00009447",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kashiwanoha-campus",
+          "from_id": "00009447",
+          "to": "Moriya",
+          "to_id": "00003450",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Moriya",
+          "from_id": "00003450",
+          "to": "Kenkyu-gakuen",
+          "to_id": "00009441",
+          "travel_time_minutes": 10
+        },
+        {
+          "from": "Kenkyu-gakuen",
+          "from_id": "00009441",
+          "to": "Tsukuba",
+          "to_id": "00009438",
+          "travel_time_minutes": 2
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:57:13.682Z"
+}

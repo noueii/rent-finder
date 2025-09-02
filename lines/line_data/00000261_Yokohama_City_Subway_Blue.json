@@ -1,0 +1,1145 @@
+{
+  "line": "Yokohama City Subway Blue",
+  "operator": "Yokohama City",
+  "navitime_id": "00000261",
+  "first_station_id": "00000012",
+  "stations": [
+    {
+      "name": "Azamino",
+      "japanese_name": "あざみ野",
+      "station_id": "00000012",
+      "order": 1,
+      "transfers": [
+        "Tokyu Den-en-toshi Line"
+      ]
+    },
+    {
+      "name": "Nakagawa (Kanagawa)",
+      "japanese_name": "中川(神奈川県)",
+      "station_id": "00006086",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Center Kita",
+      "japanese_name": "センター北",
+      "station_id": "00000074",
+      "order": 3,
+      "transfers": [
+        "Yokohama City Subway Green Line"
+      ]
+    },
+    {
+      "name": "Center Minami",
+      "japanese_name": "センター南",
+      "station_id": "00000073",
+      "order": 4,
+      "transfers": [
+        "Yokohama City Subway Green Line"
+      ]
+    },
+    {
+      "name": "Nakamachidai",
+      "japanese_name": "仲町台",
+      "station_id": "00006150",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Nippa",
+      "japanese_name": "新羽",
+      "station_id": "00004171",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Kita-shin-yokohama",
+      "japanese_name": "北新横浜",
+      "station_id": "00008343",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Shin-Yokohama",
+      "japanese_name": "新横浜",
+      "station_id": "00004179",
+      "order": 8,
+      "transfers": [
+        "JR Tokaido Shinkansen",
+        "JR Yokohama Line",
+        "Sotetsu Shin-Yokohama Line",
+        "Tokyu Shin-Yokohama Line"
+      ]
+    },
+    {
+      "name": "Kishine-koen",
+      "japanese_name": "岸根公園",
+      "station_id": "00001382",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Katakuracho",
+      "japanese_name": "片倉町",
+      "station_id": "00008150",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Mitsuzawa Kamicho",
+      "japanese_name": "三ッ沢上町",
+      "station_id": "00002953",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Mitsuzawa Shimocho",
+      "japanese_name": "三ッ沢下町",
+      "station_id": "00002952",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Yokohama",
+      "japanese_name": "横浜",
+      "station_id": "00000838",
+      "order": 13,
+      "transfers": [
+        "JR Yokosuka Line",
+        "JR Keihintohoku Line",
+        "JR Negishi Line",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "Keikyu Main Line",
+        "Sotetsu Main Line",
+        "Tokyu Toyoko Line",
+        "Yokohamakosoku Railway Minatomirai Line"
+      ]
+    },
+    {
+      "name": "Takashimacho",
+      "japanese_name": "高島町",
+      "station_id": "00002620",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Sakuragicho",
+      "japanese_name": "桜木町",
+      "station_id": "00002909",
+      "order": 15,
+      "transfers": [
+        "JR Negishi Line"
+      ]
+    },
+    {
+      "name": "Kannai",
+      "japanese_name": "関内",
+      "station_id": "00001358",
+      "order": 16,
+      "transfers": [
+        "JR Negishi Line"
+      ]
+    },
+    {
+      "name": "Isezaki-chojamachi",
+      "japanese_name": "伊勢佐木長者町",
+      "station_id": "00000322",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Bandobashi",
+      "japanese_name": "阪東橋",
+      "station_id": "00002862",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Yoshinocho",
+      "japanese_name": "吉野町",
+      "station_id": "00001581",
+      "order": 19,
+      "transfers": []
+    },
+    {
+      "name": "Maita",
+      "japanese_name": "蒔田",
+      "station_id": "00003331",
+      "order": 20,
+      "transfers": []
+    },
+    {
+      "name": "Gumyoji(Yokohama Subway)",
+      "japanese_name": "弘明寺(横浜市営)",
+      "station_id": "00002410",
+      "order": 21,
+      "transfers": []
+    },
+    {
+      "name": "Kamiooka",
+      "japanese_name": "上大岡",
+      "station_id": "00004013",
+      "order": 22,
+      "transfers": [
+        "Keikyu Main Line"
+      ]
+    },
+    {
+      "name": "Konanchuo",
+      "japanese_name": "港南中央",
+      "station_id": "00002453",
+      "order": 23,
+      "transfers": []
+    },
+    {
+      "name": "Kaminagaya",
+      "japanese_name": "上永谷",
+      "station_id": "00003920",
+      "order": 24,
+      "transfers": []
+    },
+    {
+      "name": "Shimonagaya",
+      "japanese_name": "下永谷",
+      "station_id": "00000907",
+      "order": 25,
+      "transfers": []
+    },
+    {
+      "name": "Maioka",
+      "japanese_name": "舞岡",
+      "station_id": "00007982",
+      "order": 26,
+      "transfers": []
+    },
+    {
+      "name": "Totsuka",
+      "japanese_name": "戸塚",
+      "station_id": "00002195",
+      "order": 27,
+      "transfers": [
+        "JR Yokosuka Line",
+        "JR Tokaido Main Line(Tokyo-Atami)"
+      ]
+    },
+    {
+      "name": "Odoriba",
+      "japanese_name": "踊場",
+      "station_id": "00008897",
+      "order": 28,
+      "transfers": []
+    },
+    {
+      "name": "Nakada",
+      "japanese_name": "中田(神奈川県)",
+      "station_id": "00006102",
+      "order": 29,
+      "transfers": []
+    },
+    {
+      "name": "Tateba",
+      "japanese_name": "立場",
+      "station_id": "00008988",
+      "order": 30,
+      "transfers": []
+    },
+    {
+      "name": "Shimoiida",
+      "japanese_name": "下飯田",
+      "station_id": "00000987",
+      "order": 31,
+      "transfers": []
+    },
+    {
+      "name": "Shonandai",
+      "japanese_name": "湘南台",
+      "station_id": "00003894",
+      "order": 32,
+      "transfers": [
+        "Odakyu Enoshima Line",
+        "Sotetsu Izumino Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Rapid"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "80e4003e",
+      "trainName": "Yokohama City Subway Blue Line",
+      "destination": "Shonandai",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "11",
+      "type": "Local"
+    },
+    "Rapid": {
+      "trainId": "80e4003c",
+      "trainName": "Yokohama City Subway Blue Line Rapid",
+      "destination": "Shonandai",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Rapid"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Yokohama City Subway Blue",
+      "train_type": "Local",
+      "total_stops": 32,
+      "stops": [
+        {
+          "name": "Azamino",
+          "station_id": "00000012",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.553339,
+            "lat": 35.568081
+          }
+        },
+        {
+          "name": "Nakagawa (Kanagawa)",
+          "station_id": "00006086",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.569976,
+            "lat": 35.562799
+          }
+        },
+        {
+          "name": "Center Kita",
+          "station_id": "00000074",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.578367,
+            "lat": 35.553432
+          }
+        },
+        {
+          "name": "Center Minami",
+          "station_id": "00000073",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.574607,
+            "lat": 35.545644
+          }
+        },
+        {
+          "name": "Nakamachidai",
+          "station_id": "00006150",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.589512,
+            "lat": 35.53531
+          }
+        },
+        {
+          "name": "Nippa",
+          "station_id": "00004171",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.612,
+            "lat": 35.527546
+          }
+        },
+        {
+          "name": "Kita-shin-yokohama",
+          "station_id": "00008343",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.612819,
+            "lat": 35.519153
+          }
+        },
+        {
+          "name": "Shin-Yokohama",
+          "station_id": "00004179",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.617309,
+            "lat": 35.508881
+          }
+        },
+        {
+          "name": "Kishine-koen",
+          "station_id": "00001382",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.617115,
+            "lat": 35.496337
+          }
+        },
+        {
+          "name": "Katakuracho",
+          "station_id": "00008150",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.606541,
+            "lat": 35.490147
+          }
+        },
+        {
+          "name": "Mitsuzawa Kamicho",
+          "station_id": "00002953",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.605268,
+            "lat": 35.476496
+          }
+        },
+        {
+          "name": "Mitsuzawa Shimocho",
+          "station_id": "00002952",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.614929,
+            "lat": 35.476489
+          }
+        },
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.619984,
+            "lat": 35.46557
+          }
+        },
+        {
+          "name": "Takashimacho",
+          "station_id": "00002620",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.62377,
+            "lat": 35.458547
+          }
+        },
+        {
+          "name": "Sakuragicho",
+          "station_id": "00002909",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.630961,
+            "lat": 35.449415
+          }
+        },
+        {
+          "name": "Kannai",
+          "station_id": "00001358",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.635458,
+            "lat": 35.446023
+          }
+        },
+        {
+          "name": "Isezaki-chojamachi",
+          "station_id": "00000322",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.633053,
+            "lat": 35.441001
+          }
+        },
+        {
+          "name": "Bandobashi",
+          "station_id": "00002862",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.625179,
+            "lat": 35.437449
+          }
+        },
+        {
+          "name": "Yoshinocho",
+          "station_id": "00001581",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.618525,
+            "lat": 35.435408
+          }
+        },
+        {
+          "name": "Maita",
+          "station_id": "00003331",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.609972,
+            "lat": 35.429907
+          }
+        },
+        {
+          "name": "Gumyoji(Yokohama Subway)",
+          "station_id": "00002410",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.602067,
+            "lat": 35.423084
+          }
+        },
+        {
+          "name": "Kamiooka",
+          "station_id": "00004013",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.595926,
+            "lat": 35.408659
+          }
+        },
+        {
+          "name": "Konanchuo",
+          "station_id": "00002453",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.590821,
+            "lat": 35.401011
+          }
+        },
+        {
+          "name": "Kaminagaya",
+          "station_id": "00003920",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.572602,
+            "lat": 35.401439
+          }
+        },
+        {
+          "name": "Shimonagaya",
+          "station_id": "00000907",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.559389,
+            "lat": 35.40279
+          }
+        },
+        {
+          "name": "Maioka",
+          "station_id": "00007982",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.551225,
+            "lat": 35.402552
+          }
+        },
+        {
+          "name": "Totsuka",
+          "station_id": "00002195",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.53456,
+            "lat": 35.400971
+          }
+        },
+        {
+          "name": "Odoriba",
+          "station_id": "00008897",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.518626,
+            "lat": 35.405605
+          }
+        },
+        {
+          "name": "Nakada",
+          "station_id": "00006102",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.511241,
+            "lat": 35.411197
+          }
+        },
+        {
+          "name": "Tateba",
+          "station_id": "00008988",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.500173,
+            "lat": 35.41428
+          }
+        },
+        {
+          "name": "Shimoiida",
+          "station_id": "00000987",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.482893,
+            "lat": 35.40332
+          }
+        },
+        {
+          "name": "Shonandai",
+          "station_id": "00003894",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.466591,
+            "lat": 35.396282
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Azamino",
+          "from_id": "00000012",
+          "to": "Nakagawa (Kanagawa)",
+          "to_id": "00006086",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nakagawa (Kanagawa)",
+          "from_id": "00006086",
+          "to": "Center Kita",
+          "to_id": "00000074",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Center Kita",
+          "from_id": "00000074",
+          "to": "Center Minami",
+          "to_id": "00000073",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Center Minami",
+          "from_id": "00000073",
+          "to": "Nakamachidai",
+          "to_id": "00006150",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Nakamachidai",
+          "from_id": "00006150",
+          "to": "Nippa",
+          "to_id": "00004171",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Nippa",
+          "from_id": "00004171",
+          "to": "Kita-shin-yokohama",
+          "to_id": "00008343",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kita-shin-yokohama",
+          "from_id": "00008343",
+          "to": "Shin-Yokohama",
+          "to_id": "00004179",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-Yokohama",
+          "from_id": "00004179",
+          "to": "Kishine-koen",
+          "to_id": "00001382",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kishine-koen",
+          "from_id": "00001382",
+          "to": "Katakuracho",
+          "to_id": "00008150",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Katakuracho",
+          "from_id": "00008150",
+          "to": "Mitsuzawa Kamicho",
+          "to_id": "00002953",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Mitsuzawa Kamicho",
+          "from_id": "00002953",
+          "to": "Mitsuzawa Shimocho",
+          "to_id": "00002952",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Mitsuzawa Shimocho",
+          "from_id": "00002952",
+          "to": "Yokohama",
+          "to_id": "00000838",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Yokohama",
+          "from_id": "00000838",
+          "to": "Takashimacho",
+          "to_id": "00002620",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Takashimacho",
+          "from_id": "00002620",
+          "to": "Sakuragicho",
+          "to_id": "00002909",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Sakuragicho",
+          "from_id": "00002909",
+          "to": "Kannai",
+          "to_id": "00001358",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kannai",
+          "from_id": "00001358",
+          "to": "Isezaki-chojamachi",
+          "to_id": "00000322",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Isezaki-chojamachi",
+          "from_id": "00000322",
+          "to": "Bandobashi",
+          "to_id": "00002862",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Bandobashi",
+          "from_id": "00002862",
+          "to": "Yoshinocho",
+          "to_id": "00001581",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yoshinocho",
+          "from_id": "00001581",
+          "to": "Maita",
+          "to_id": "00003331",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Maita",
+          "from_id": "00003331",
+          "to": "Gumyoji(Yokohama Subway)",
+          "to_id": "00002410",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Gumyoji(Yokohama Subway)",
+          "from_id": "00002410",
+          "to": "Kamiooka",
+          "to_id": "00004013",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kamiooka",
+          "from_id": "00004013",
+          "to": "Konanchuo",
+          "to_id": "00002453",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Konanchuo",
+          "from_id": "00002453",
+          "to": "Kaminagaya",
+          "to_id": "00003920",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kaminagaya",
+          "from_id": "00003920",
+          "to": "Shimonagaya",
+          "to_id": "00000907",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shimonagaya",
+          "from_id": "00000907",
+          "to": "Maioka",
+          "to_id": "00007982",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Maioka",
+          "from_id": "00007982",
+          "to": "Totsuka",
+          "to_id": "00002195",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Totsuka",
+          "from_id": "00002195",
+          "to": "Odoriba",
+          "to_id": "00008897",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Odoriba",
+          "from_id": "00008897",
+          "to": "Nakada",
+          "to_id": "00006102",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nakada",
+          "from_id": "00006102",
+          "to": "Tateba",
+          "to_id": "00008988",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tateba",
+          "from_id": "00008988",
+          "to": "Shimoiida",
+          "to_id": "00000987",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shimoiida",
+          "from_id": "00000987",
+          "to": "Shonandai",
+          "to_id": "00003894",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Rapid": {
+      "line": "Yokohama City Subway Blue",
+      "train_type": "Rapid",
+      "total_stops": 18,
+      "stops": [
+        {
+          "name": "Azamino",
+          "station_id": "00000012",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.553339,
+            "lat": 35.568081
+          }
+        },
+        {
+          "name": "Nakagawa (Kanagawa)",
+          "station_id": "00006086",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.569976,
+            "lat": 35.562799
+          }
+        },
+        {
+          "name": "Center Kita",
+          "station_id": "00000074",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.578367,
+            "lat": 35.553432
+          }
+        },
+        {
+          "name": "Center Minami",
+          "station_id": "00000073",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.574607,
+            "lat": 35.545644
+          }
+        },
+        {
+          "name": "Nakamachidai",
+          "station_id": "00006150",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.589512,
+            "lat": 35.53531
+          }
+        },
+        {
+          "name": "Nippa",
+          "station_id": "00004171",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.612,
+            "lat": 35.527546
+          }
+        },
+        {
+          "name": "Shin-Yokohama",
+          "station_id": "00004179",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.617309,
+            "lat": 35.508881
+          }
+        },
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.619984,
+            "lat": 35.46557
+          }
+        },
+        {
+          "name": "Sakuragicho",
+          "station_id": "00002909",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.630961,
+            "lat": 35.449415
+          }
+        },
+        {
+          "name": "Kannai",
+          "station_id": "00001358",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.635458,
+            "lat": 35.446023
+          }
+        },
+        {
+          "name": "Kamiooka",
+          "station_id": "00004013",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.595926,
+            "lat": 35.408659
+          }
+        },
+        {
+          "name": "Kaminagaya",
+          "station_id": "00003920",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.572602,
+            "lat": 35.401439
+          }
+        },
+        {
+          "name": "Totsuka",
+          "station_id": "00002195",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.53456,
+            "lat": 35.400971
+          }
+        },
+        {
+          "name": "Odoriba",
+          "station_id": "00008897",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.518626,
+            "lat": 35.405605
+          }
+        },
+        {
+          "name": "Nakada",
+          "station_id": "00006102",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.511241,
+            "lat": 35.411197
+          }
+        },
+        {
+          "name": "Tateba",
+          "station_id": "00008988",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.500173,
+            "lat": 35.41428
+          }
+        },
+        {
+          "name": "Shimoiida",
+          "station_id": "00000987",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.482893,
+            "lat": 35.40332
+          }
+        },
+        {
+          "name": "Shonandai",
+          "station_id": "00003894",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.466591,
+            "lat": 35.396282
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Azamino",
+          "from_id": "00000012",
+          "to": "Nakagawa (Kanagawa)",
+          "to_id": "00006086",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nakagawa (Kanagawa)",
+          "from_id": "00006086",
+          "to": "Center Kita",
+          "to_id": "00000074",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Center Kita",
+          "from_id": "00000074",
+          "to": "Center Minami",
+          "to_id": "00000073",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Center Minami",
+          "from_id": "00000073",
+          "to": "Nakamachidai",
+          "to_id": "00006150",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Nakamachidai",
+          "from_id": "00006150",
+          "to": "Nippa",
+          "to_id": "00004171",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nippa",
+          "from_id": "00004171",
+          "to": "Shin-Yokohama",
+          "to_id": "00004179",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-Yokohama",
+          "from_id": "00004179",
+          "to": "Yokohama",
+          "to_id": "00000838",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Yokohama",
+          "from_id": "00000838",
+          "to": "Sakuragicho",
+          "to_id": "00002909",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Sakuragicho",
+          "from_id": "00002909",
+          "to": "Kannai",
+          "to_id": "00001358",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kannai",
+          "from_id": "00001358",
+          "to": "Kamiooka",
+          "to_id": "00004013",
+          "travel_time_minutes": 9
+        },
+        {
+          "from": "Kamiooka",
+          "from_id": "00004013",
+          "to": "Kaminagaya",
+          "to_id": "00003920",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kaminagaya",
+          "from_id": "00003920",
+          "to": "Totsuka",
+          "to_id": "00002195",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Totsuka",
+          "from_id": "00002195",
+          "to": "Odoriba",
+          "to_id": "00008897",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Odoriba",
+          "from_id": "00008897",
+          "to": "Nakada",
+          "to_id": "00006102",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nakada",
+          "from_id": "00006102",
+          "to": "Tateba",
+          "to_id": "00008988",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tateba",
+          "from_id": "00008988",
+          "to": "Shimoiida",
+          "to_id": "00000987",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Shimoiida",
+          "from_id": "00000987",
+          "to": "Shonandai",
+          "to_id": "00003894",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:52:57.269Z"
+}

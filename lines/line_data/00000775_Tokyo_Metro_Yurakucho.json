@@ -1,0 +1,901 @@
+{
+  "line": "Tokyo Metro Yurakucho",
+  "operator": "Tokyo Metro",
+  "navitime_id": "00000775",
+  "first_station_id": "00009109",
+  "stations": [
+    {
+      "name": "Wakoshi",
+      "japanese_name": "和光市",
+      "station_id": "00009109",
+      "order": 1,
+      "transfers": [
+        "Tobu Tojo Line"
+      ]
+    },
+    {
+      "name": "Chikatetsu-narimasu",
+      "japanese_name": "地下鉄成増",
+      "station_id": "00000645",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Chikatetsu-akatsuka",
+      "japanese_name": "地下鉄赤塚",
+      "station_id": "00000646",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Heiwadai(Tokyo)",
+      "japanese_name": "平和台(東京都)",
+      "station_id": "00008109",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Hikawadai",
+      "japanese_name": "氷川台",
+      "station_id": "00007817",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Kotake-mukaihara",
+      "japanese_name": "小竹向原",
+      "station_id": "00003729",
+      "order": 6,
+      "transfers": [
+        "Seibu Yurakucho Line",
+        "Tokyo Metro Fukutoshin Line"
+      ]
+    },
+    {
+      "name": "Senkawa",
+      "japanese_name": "千川",
+      "station_id": "00005148",
+      "order": 7,
+      "transfers": [
+        "Tokyo Metro Fukutoshin Line"
+      ]
+    },
+    {
+      "name": "Kanamecho",
+      "japanese_name": "要町",
+      "station_id": "00008895",
+      "order": 8,
+      "transfers": [
+        "Tokyo Metro Fukutoshin Line"
+      ]
+    },
+    {
+      "name": "Ikebukuro",
+      "japanese_name": "池袋",
+      "station_id": "00005947",
+      "order": 9,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "Seibu Ikebukuro Line",
+        "Tokyo Metro Marunouchi Line",
+        "Tokyo Metro Fukutoshin Line",
+        "Tobu Tojo Line",
+        "JR Shonan-Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Higashi-ikebukuro",
+      "japanese_name": "東池袋",
+      "station_id": "00006784",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Gokokuji",
+      "japanese_name": "護国寺",
+      "station_id": "00002314",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Edogawabashi",
+      "japanese_name": "江戸川橋",
+      "station_id": "00002424",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Iidabashi",
+      "japanese_name": "飯田橋",
+      "station_id": "00007626",
+      "order": 13,
+      "transfers": [
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "Tokyo Metro Tozai Line",
+        "Tokyo Metro Namboku Line",
+        "Toeioedo Line(Loop)"
+      ]
+    },
+    {
+      "name": "Ichigaya",
+      "japanese_name": "市ヶ谷",
+      "station_id": "00003202",
+      "order": 14,
+      "transfers": [
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "Tokyo Metro Namboku Line",
+        "Toei Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Kojimachi",
+      "japanese_name": "麹町",
+      "station_id": "00002657",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Nagatacho",
+      "japanese_name": "永田町",
+      "station_id": "00000665",
+      "order": 16,
+      "transfers": [
+        "Tokyo Metro Namboku Line",
+        "Tokyo Metro Hanzomon Line"
+      ]
+    },
+    {
+      "name": "Sakuradamon",
+      "japanese_name": "桜田門",
+      "station_id": "00002903",
+      "order": 17,
+      "transfers": [
+        "Chiyoda Yurakucho Renraku Line"
+      ]
+    },
+    {
+      "name": "Yurakucho",
+      "japanese_name": "有楽町",
+      "station_id": "00008837",
+      "order": 18,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Yamanote Line"
+      ]
+    },
+    {
+      "name": "Ginza-itchome",
+      "japanese_name": "銀座一丁目",
+      "station_id": "00001909",
+      "order": 19,
+      "transfers": []
+    },
+    {
+      "name": "Shintomichō",
+      "japanese_name": "新富町(東京都)",
+      "station_id": "00004360",
+      "order": 20,
+      "transfers": []
+    },
+    {
+      "name": "Tsukishima",
+      "japanese_name": "月島",
+      "station_id": "00002071",
+      "order": 21,
+      "transfers": [
+        "Toeioedo Line(Loop)"
+      ]
+    },
+    {
+      "name": "Toyosu",
+      "japanese_name": "豊洲",
+      "station_id": "00008223",
+      "order": 22,
+      "transfers": [
+        "Yurikamome"
+      ]
+    },
+    {
+      "name": "Tatsumi",
+      "japanese_name": "辰巳",
+      "station_id": "00005854",
+      "order": 23,
+      "transfers": []
+    },
+    {
+      "name": "Shin-kiba",
+      "japanese_name": "新木場",
+      "station_id": "00004376",
+      "order": 24,
+      "transfers": [
+        "JR Keiyo Line",
+        "Rinkai Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local Train",
+    "Commuter Express",
+    "Express",
+    "F Express"
+  ],
+  "example_trains": {
+    "Local Train": {
+      "trainId": "824f00a4",
+      "trainName": "Tokyo Metro Yurakucho Line",
+      "destination": "Shin-kiba",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "03",
+      "type": "Local Train"
+    },
+    "Commuter Express": {
+      "trainId": "824f0029",
+      "trainName": "Tokyo Metro Fukutoshin Line Commuter Express",
+      "destination": "Motomachi-Chukagai",
+      "hour": 6,
+      "date": "2025-07-11",
+      "time": "21",
+      "type": "Commuter Express"
+    },
+    "Express": {
+      "trainId": "824f00aa",
+      "trainName": "Tokyo Metro Fukutoshin Line Express",
+      "destination": "Motomachi-Chukagai",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "24",
+      "type": "Express"
+    },
+    "F Express": {
+      "trainId": "824f00c4",
+      "trainName": "Tokyo Metro Fukutoshin Line Express (F-Liner)",
+      "destination": "Motomachi-Chukagai",
+      "hour": 11,
+      "date": "2025-07-11",
+      "time": "26",
+      "type": "F Express"
+    }
+  },
+  "train_stop_details": {
+    "Local Train": {
+      "line": "Tokyo Metro Yurakucho",
+      "train_type": "Local Train",
+      "total_stops": 24,
+      "stops": [
+        {
+          "name": "Wakoshi",
+          "station_id": "00009109",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.612381,
+            "lat": 35.788499
+          }
+        },
+        {
+          "name": "Chikatetsu-narimasu",
+          "station_id": "00000645",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.631523,
+            "lat": 35.776558
+          }
+        },
+        {
+          "name": "Chikatetsu-akatsuka",
+          "station_id": "00000646",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.644352,
+            "lat": 35.769786
+          }
+        },
+        {
+          "name": "Heiwadai(Tokyo)",
+          "station_id": "00008109",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.654386,
+            "lat": 35.757535
+          }
+        },
+        {
+          "name": "Hikawadai",
+          "station_id": "00007817",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.665438,
+            "lat": 35.749645
+          }
+        },
+        {
+          "name": "Kotake-mukaihara",
+          "station_id": "00003729",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.679494,
+            "lat": 35.743376
+          }
+        },
+        {
+          "name": "Senkawa",
+          "station_id": "00005148",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.689212,
+            "lat": 35.738402
+          }
+        },
+        {
+          "name": "Kanamecho",
+          "station_id": "00008895",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.698463,
+            "lat": 35.733288
+          }
+        },
+        {
+          "name": "Ikebukuro",
+          "station_id": "00005947",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.709995,
+            "lat": 35.729544
+          }
+        },
+        {
+          "name": "Higashi-ikebukuro",
+          "station_id": "00006784",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.718727,
+            "lat": 35.726159
+          }
+        },
+        {
+          "name": "Gokokuji",
+          "station_id": "00002314",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.727535,
+            "lat": 35.718967
+          }
+        },
+        {
+          "name": "Edogawabashi",
+          "station_id": "00002424",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.733281,
+            "lat": 35.7096
+          }
+        },
+        {
+          "name": "Iidabashi",
+          "station_id": "00007626",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.743719,
+            "lat": 35.701604
+          }
+        },
+        {
+          "name": "Ichigaya",
+          "station_id": "00003202",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.736957,
+            "lat": 35.692692
+          }
+        },
+        {
+          "name": "Kojimachi",
+          "station_id": "00002657",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.737132,
+            "lat": 35.685246
+          }
+        },
+        {
+          "name": "Nagatacho",
+          "station_id": "00000665",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.741264,
+            "lat": 35.678077
+          }
+        },
+        {
+          "name": "Sakuradamon",
+          "station_id": "00002903",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.751358,
+            "lat": 35.677352
+          }
+        },
+        {
+          "name": "Yurakucho",
+          "station_id": "00008837",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.762709,
+            "lat": 35.67582
+          }
+        },
+        {
+          "name": "Ginza-itchome",
+          "station_id": "00001909",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.766972,
+            "lat": 35.674405
+          }
+        },
+        {
+          "name": "Shintomichō",
+          "station_id": "00004360",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.773448,
+            "lat": 35.670624
+          }
+        },
+        {
+          "name": "Tsukishima",
+          "station_id": "00002071",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.784289,
+            "lat": 35.66489
+          }
+        },
+        {
+          "name": "Toyosu",
+          "station_id": "00008223",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.795828,
+            "lat": 35.655342
+          }
+        },
+        {
+          "name": "Tatsumi",
+          "station_id": "00005854",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.810514,
+            "lat": 35.645606
+          }
+        },
+        {
+          "name": "Shin-kiba",
+          "station_id": "00004376",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.826584,
+            "lat": 35.645871
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Wakoshi",
+          "from_id": "00009109",
+          "to": "Chikatetsu-narimasu",
+          "to_id": "00000645",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Chikatetsu-narimasu",
+          "from_id": "00000645",
+          "to": "Chikatetsu-akatsuka",
+          "to_id": "00000646",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Chikatetsu-akatsuka",
+          "from_id": "00000646",
+          "to": "Heiwadai(Tokyo)",
+          "to_id": "00008109",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Heiwadai(Tokyo)",
+          "from_id": "00008109",
+          "to": "Hikawadai",
+          "to_id": "00007817",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hikawadai",
+          "from_id": "00007817",
+          "to": "Kotake-mukaihara",
+          "to_id": "00003729",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kotake-mukaihara",
+          "from_id": "00003729",
+          "to": "Senkawa",
+          "to_id": "00005148",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Senkawa",
+          "from_id": "00005148",
+          "to": "Kanamecho",
+          "to_id": "00008895",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kanamecho",
+          "from_id": "00008895",
+          "to": "Ikebukuro",
+          "to_id": "00005947",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ikebukuro",
+          "from_id": "00005947",
+          "to": "Higashi-ikebukuro",
+          "to_id": "00006784",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Higashi-ikebukuro",
+          "from_id": "00006784",
+          "to": "Gokokuji",
+          "to_id": "00002314",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Gokokuji",
+          "from_id": "00002314",
+          "to": "Edogawabashi",
+          "to_id": "00002424",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Edogawabashi",
+          "from_id": "00002424",
+          "to": "Iidabashi",
+          "to_id": "00007626",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Iidabashi",
+          "from_id": "00007626",
+          "to": "Ichigaya",
+          "to_id": "00003202",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ichigaya",
+          "from_id": "00003202",
+          "to": "Kojimachi",
+          "to_id": "00002657",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kojimachi",
+          "from_id": "00002657",
+          "to": "Nagatacho",
+          "to_id": "00000665",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nagatacho",
+          "from_id": "00000665",
+          "to": "Sakuradamon",
+          "to_id": "00002903",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Sakuradamon",
+          "from_id": "00002903",
+          "to": "Yurakucho",
+          "to_id": "00008837",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yurakucho",
+          "from_id": "00008837",
+          "to": "Ginza-itchome",
+          "to_id": "00001909",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ginza-itchome",
+          "from_id": "00001909",
+          "to": "Shintomichō",
+          "to_id": "00004360",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shintomichō",
+          "from_id": "00004360",
+          "to": "Tsukishima",
+          "to_id": "00002071",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tsukishima",
+          "from_id": "00002071",
+          "to": "Toyosu",
+          "to_id": "00008223",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Toyosu",
+          "from_id": "00008223",
+          "to": "Tatsumi",
+          "to_id": "00005854",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tatsumi",
+          "from_id": "00005854",
+          "to": "Shin-kiba",
+          "to_id": "00004376",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Commuter Express": {
+      "line": "Tokyo Metro Yurakucho",
+      "train_type": "Commuter Express",
+      "total_stops": 7,
+      "stops": [
+        {
+          "name": "Wakoshi",
+          "station_id": "00009109",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.612381,
+            "lat": 35.788499
+          }
+        },
+        {
+          "name": "Chikatetsu-narimasu",
+          "station_id": "00000645",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.631523,
+            "lat": 35.776558
+          }
+        },
+        {
+          "name": "Chikatetsu-akatsuka",
+          "station_id": "00000646",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.644352,
+            "lat": 35.769786
+          }
+        },
+        {
+          "name": "Heiwadai(Tokyo)",
+          "station_id": "00008109",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.654386,
+            "lat": 35.757535
+          }
+        },
+        {
+          "name": "Hikawadai",
+          "station_id": "00007817",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.665438,
+            "lat": 35.749645
+          }
+        },
+        {
+          "name": "Kotake-mukaihara",
+          "station_id": "00003729",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.679494,
+            "lat": 35.743376
+          }
+        },
+        {
+          "name": "Ikebukuro",
+          "station_id": "00005947",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.708405,
+            "lat": 35.731418
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Wakoshi",
+          "from_id": "00009109",
+          "to": "Chikatetsu-narimasu",
+          "to_id": "00000645",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Chikatetsu-narimasu",
+          "from_id": "00000645",
+          "to": "Chikatetsu-akatsuka",
+          "to_id": "00000646",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Chikatetsu-akatsuka",
+          "from_id": "00000646",
+          "to": "Heiwadai(Tokyo)",
+          "to_id": "00008109",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Heiwadai(Tokyo)",
+          "from_id": "00008109",
+          "to": "Hikawadai",
+          "to_id": "00007817",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hikawadai",
+          "from_id": "00007817",
+          "to": "Kotake-mukaihara",
+          "to_id": "00003729",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kotake-mukaihara",
+          "from_id": "00003729",
+          "to": "Ikebukuro",
+          "to_id": "00005947",
+          "travel_time_minutes": 5
+        }
+      ]
+    },
+    "Express": {
+      "line": "Tokyo Metro Yurakucho",
+      "train_type": "Express",
+      "total_stops": 3,
+      "stops": [
+        {
+          "name": "Wakoshi",
+          "station_id": "00009109",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.612381,
+            "lat": 35.788499
+          }
+        },
+        {
+          "name": "Kotake-mukaihara",
+          "station_id": "00003729",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.679494,
+            "lat": 35.743376
+          }
+        },
+        {
+          "name": "Ikebukuro",
+          "station_id": "00005947",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.708405,
+            "lat": 35.731418
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Wakoshi",
+          "from_id": "00009109",
+          "to": "Kotake-mukaihara",
+          "to_id": "00003729",
+          "travel_time_minutes": 9
+        },
+        {
+          "from": "Kotake-mukaihara",
+          "from_id": "00003729",
+          "to": "Ikebukuro",
+          "to_id": "00005947",
+          "travel_time_minutes": 4
+        }
+      ]
+    },
+    "F Express": {
+      "line": "Tokyo Metro Yurakucho",
+      "train_type": "F Express",
+      "total_stops": 3,
+      "stops": [
+        {
+          "name": "Wakoshi",
+          "station_id": "00009109",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.612381,
+            "lat": 35.788499
+          }
+        },
+        {
+          "name": "Kotake-mukaihara",
+          "station_id": "00003729",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.679494,
+            "lat": 35.743376
+          }
+        },
+        {
+          "name": "Ikebukuro",
+          "station_id": "00005947",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.708405,
+            "lat": 35.731418
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Wakoshi",
+          "from_id": "00009109",
+          "to": "Kotake-mukaihara",
+          "to_id": "00003729",
+          "travel_time_minutes": 9
+        },
+        {
+          "from": "Kotake-mukaihara",
+          "from_id": "00003729",
+          "to": "Ikebukuro",
+          "to_id": "00005947",
+          "travel_time_minutes": 4
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:55:18.890Z"
+}

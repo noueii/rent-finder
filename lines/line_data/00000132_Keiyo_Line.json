@@ -1,0 +1,646 @@
+{
+  "line": "Keiyo Line",
+  "operator": "JR East",
+  "navitime_id": "00000132",
+  "first_station_id": "00006668",
+  "stations": [
+    {
+      "name": "Tokyo",
+      "japanese_name": "東京",
+      "station_id": "00006668",
+      "order": 1,
+      "transfers": [
+        "JR Tokaido Shinkansen",
+        "JR Yokosuka Line",
+        "JR Keihintohoku Line",
+        "JR Yamanote Line",
+        "JR Joetsu Shinkansen",
+        "JR Sobu Main Line(Tokyo-Choshi)",
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "JR Hokuriku Shinkansen(via Nagano)",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "JR Tohoku Shinkansen",
+        "JR Utsunomiya Line[Tohoku Main Line]‧JR Ueno Tokyo Line",
+        "Tokyo Metro Marunouchi Line"
+      ]
+    },
+    {
+      "name": "Hatchobori(Tokyo)",
+      "japanese_name": "八丁堀(東京都)",
+      "station_id": "00007548",
+      "order": 2,
+      "transfers": [
+        "Tokyo Metro Hibiya Line"
+      ]
+    },
+    {
+      "name": "Etchūjima",
+      "japanese_name": "越中島",
+      "station_id": "00000733",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Shiomi",
+      "japanese_name": "潮見",
+      "station_id": "00006188",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Shin-kiba",
+      "japanese_name": "新木場",
+      "station_id": "00004376",
+      "order": 5,
+      "transfers": [
+        "Tokyo Metro Yurakucho Line",
+        "Rinkai Line"
+      ]
+    },
+    {
+      "name": "Kasairinkaikoen",
+      "japanese_name": "葛西臨海公園",
+      "station_id": "00001263",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Maihama",
+      "japanese_name": "舞浜",
+      "station_id": "00007988",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Shin-Urayasu",
+      "japanese_name": "新浦安",
+      "station_id": "00004174",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Ichikawashiohama",
+      "japanese_name": "市川塩浜",
+      "station_id": "00003214",
+      "order": 9,
+      "transfers": [
+        "JR Musashino Line(Nishifunabashi-Ichikawashiohama)"
+      ]
+    },
+    {
+      "name": "Futamatashimmachi",
+      "japanese_name": "二俣新町",
+      "station_id": "00007218",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Minami-Funabashi",
+      "japanese_name": "南船橋",
+      "station_id": "00007126",
+      "order": 11,
+      "transfers": [
+        "JR Musashino Line(Fuchuhommachi-Minamifunabashi)"
+      ]
+    },
+    {
+      "name": "Shin-Narashino",
+      "japanese_name": "新習志野",
+      "station_id": "00004252",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Makuhari-Toyosuna",
+      "japanese_name": "幕張豊砂",
+      "station_id": "00009810",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Kaihimmakuhari",
+      "japanese_name": "海浜幕張",
+      "station_id": "00001168",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Kemigawahama",
+      "japanese_name": "検見川浜",
+      "station_id": "00002083",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Inagekaigan",
+      "japanese_name": "稲毛海岸",
+      "station_id": "00000492",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Chibaminato",
+      "japanese_name": "千葉みなと",
+      "station_id": "00005174",
+      "order": 17,
+      "transfers": [
+        "Chibatoshi Monorail Line 1"
+      ]
+    },
+    {
+      "name": "Soga",
+      "japanese_name": "蘇我",
+      "station_id": "00005342",
+      "order": 18,
+      "transfers": [
+        "JR Sotobo Line",
+        "JR Uchibo Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Limited Express",
+    "Rapid"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "807501f6",
+      "trainName": "JR Keiyo Line",
+      "destination": "Shin-Narashino",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "05",
+      "type": "Local"
+    },
+    "Limited Express": {
+      "trainId": "8075001e",
+      "trainName": "Wakashio 5 Go",
+      "destination": "Awa-Kamogawa",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Limited Express"
+    },
+    "Rapid": {
+      "trainId": "807501f4",
+      "trainName": "JR Keiyo Line Rapid",
+      "destination": "Kazusa-Ichinomiya",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "02",
+      "type": "Rapid"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Keiyo Line",
+      "train_type": "Local",
+      "total_stops": 12,
+      "stops": [
+        {
+          "name": "Tokyo",
+          "station_id": "00006668",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.764838,
+            "lat": 35.677656
+          }
+        },
+        {
+          "name": "Hatchobori(Tokyo)",
+          "station_id": "00007548",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.777629,
+            "lat": 35.6746
+          }
+        },
+        {
+          "name": "Etchūjima",
+          "station_id": "00000733",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.792719,
+            "lat": 35.6679
+          }
+        },
+        {
+          "name": "Shiomi",
+          "station_id": "00006188",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.817349,
+            "lat": 35.658764
+          }
+        },
+        {
+          "name": "Shin-kiba",
+          "station_id": "00004376",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.826584,
+            "lat": 35.645871
+          }
+        },
+        {
+          "name": "Kasairinkaikoen",
+          "station_id": "00001263",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.861623,
+            "lat": 35.644394
+          }
+        },
+        {
+          "name": "Maihama",
+          "station_id": "00007988",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.883482,
+            "lat": 35.636286
+          }
+        },
+        {
+          "name": "Shin-Urayasu",
+          "station_id": "00004174",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.912918,
+            "lat": 35.649881
+          }
+        },
+        {
+          "name": "Ichikawashiohama",
+          "station_id": "00003214",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.923537,
+            "lat": 35.666478
+          }
+        },
+        {
+          "name": "Futamatashimmachi",
+          "station_id": "00007218",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.95969,
+            "lat": 35.691401
+          }
+        },
+        {
+          "name": "Minami-Funabashi",
+          "station_id": "00007126",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.995067,
+            "lat": 35.682193
+          }
+        },
+        {
+          "name": "Shin-Narashino",
+          "station_id": "00004252",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.013106,
+            "lat": 35.667171
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Tokyo",
+          "from_id": "00006668",
+          "to": "Hatchobori(Tokyo)",
+          "to_id": "00007548",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hatchobori(Tokyo)",
+          "from_id": "00007548",
+          "to": "Etchūjima",
+          "to_id": "00000733",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Etchūjima",
+          "from_id": "00000733",
+          "to": "Shiomi",
+          "to_id": "00006188",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Shiomi",
+          "from_id": "00006188",
+          "to": "Shin-kiba",
+          "to_id": "00004376",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Shin-kiba",
+          "from_id": "00004376",
+          "to": "Kasairinkaikoen",
+          "to_id": "00001263",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kasairinkaikoen",
+          "from_id": "00001263",
+          "to": "Maihama",
+          "to_id": "00007988",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Maihama",
+          "from_id": "00007988",
+          "to": "Shin-Urayasu",
+          "to_id": "00004174",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Shin-Urayasu",
+          "from_id": "00004174",
+          "to": "Ichikawashiohama",
+          "to_id": "00003214",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Ichikawashiohama",
+          "from_id": "00003214",
+          "to": "Futamatashimmachi",
+          "to_id": "00007218",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Futamatashimmachi",
+          "from_id": "00007218",
+          "to": "Minami-Funabashi",
+          "to_id": "00007126",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Minami-Funabashi",
+          "from_id": "00007126",
+          "to": "Shin-Narashino",
+          "to_id": "00004252",
+          "travel_time_minutes": 4
+        }
+      ]
+    },
+    "Limited Express": {
+      "line": "Keiyo Line",
+      "train_type": "Limited Express",
+      "total_stops": 3,
+      "stops": [
+        {
+          "name": "Tokyo",
+          "station_id": "00006668",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.764838,
+            "lat": 35.677656
+          }
+        },
+        {
+          "name": "Kaihimmakuhari",
+          "station_id": "00001168",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.041662,
+            "lat": 35.648556
+          }
+        },
+        {
+          "name": "Soga",
+          "station_id": "00005342",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.131144,
+            "lat": 35.581512
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Tokyo",
+          "from_id": "00006668",
+          "to": "Kaihimmakuhari",
+          "to_id": "00001168",
+          "travel_time_minutes": 24
+        },
+        {
+          "from": "Kaihimmakuhari",
+          "from_id": "00001168",
+          "to": "Soga",
+          "to_id": "00005342",
+          "travel_time_minutes": 9
+        }
+      ]
+    },
+    "Rapid": {
+      "line": "Keiyo Line",
+      "train_type": "Rapid",
+      "total_stops": 11,
+      "stops": [
+        {
+          "name": "Tokyo",
+          "station_id": "00006668",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.764838,
+            "lat": 35.677656
+          }
+        },
+        {
+          "name": "Hatchobori(Tokyo)",
+          "station_id": "00007548",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.777629,
+            "lat": 35.6746
+          }
+        },
+        {
+          "name": "Shin-kiba",
+          "station_id": "00004376",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.826584,
+            "lat": 35.645871
+          }
+        },
+        {
+          "name": "Maihama",
+          "station_id": "00007988",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.883482,
+            "lat": 35.636286
+          }
+        },
+        {
+          "name": "Shin-Urayasu",
+          "station_id": "00004174",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.912918,
+            "lat": 35.649881
+          }
+        },
+        {
+          "name": "Minami-Funabashi",
+          "station_id": "00007126",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.995067,
+            "lat": 35.682193
+          }
+        },
+        {
+          "name": "Kaihimmakuhari",
+          "station_id": "00001168",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.041662,
+            "lat": 35.648556
+          }
+        },
+        {
+          "name": "Kemigawahama",
+          "station_id": "00002083",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.059106,
+            "lat": 35.637184
+          }
+        },
+        {
+          "name": "Inagekaigan",
+          "station_id": "00000492",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.073648,
+            "lat": 35.629479
+          }
+        },
+        {
+          "name": "Chibaminato",
+          "station_id": "00005174",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.102419,
+            "lat": 35.607078
+          }
+        },
+        {
+          "name": "Soga",
+          "station_id": "00005342",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.131144,
+            "lat": 35.581512
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Tokyo",
+          "from_id": "00006668",
+          "to": "Hatchobori(Tokyo)",
+          "to_id": "00007548",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hatchobori(Tokyo)",
+          "from_id": "00007548",
+          "to": "Shin-kiba",
+          "to_id": "00004376",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Shin-kiba",
+          "from_id": "00004376",
+          "to": "Maihama",
+          "to_id": "00007988",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Maihama",
+          "from_id": "00007988",
+          "to": "Shin-Urayasu",
+          "to_id": "00004174",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Shin-Urayasu",
+          "from_id": "00004174",
+          "to": "Minami-Funabashi",
+          "to_id": "00007126",
+          "travel_time_minutes": 9
+        },
+        {
+          "from": "Minami-Funabashi",
+          "from_id": "00007126",
+          "to": "Kaihimmakuhari",
+          "to_id": "00001168",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Kaihimmakuhari",
+          "from_id": "00001168",
+          "to": "Kemigawahama",
+          "to_id": "00002083",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kemigawahama",
+          "from_id": "00002083",
+          "to": "Inagekaigan",
+          "to_id": "00000492",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Inagekaigan",
+          "from_id": "00000492",
+          "to": "Chibaminato",
+          "to_id": "00005174",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Chibaminato",
+          "from_id": "00005174",
+          "to": "Soga",
+          "to_id": "00005342",
+          "travel_time_minutes": 4
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:51:34.223Z"
+}

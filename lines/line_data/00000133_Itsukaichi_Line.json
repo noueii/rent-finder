@@ -1,0 +1,199 @@
+{
+  "line": "Itsukaichi Line",
+  "operator": "JR East",
+  "navitime_id": "00000133",
+  "first_station_id": "00007388",
+  "stations": [
+    {
+      "name": "Haijima",
+      "japanese_name": "拝島",
+      "station_id": "00007388",
+      "order": 1,
+      "transfers": [
+        "JR Ome Line",
+        "JR Hachiko Line(Hachioji-Komagawa)",
+        "Seibu Haijima Line"
+      ]
+    },
+    {
+      "name": "Kumagawa",
+      "japanese_name": "熊川",
+      "station_id": "00001967",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-Akiru",
+      "japanese_name": "東秋留",
+      "station_id": "00006717",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Akigawa",
+      "japanese_name": "秋川",
+      "station_id": "00003490",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Musashi-Hikida",
+      "japanese_name": "武蔵引田",
+      "station_id": "00007954",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Musashi-Masuko",
+      "japanese_name": "武蔵増戸",
+      "station_id": "00007968",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Musashi-Itsukaichi",
+      "japanese_name": "武蔵五日市",
+      "station_id": "00007959",
+      "order": 7,
+      "transfers": []
+    }
+  ],
+  "train_types": [
+    "Local"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "8076002f",
+      "trainName": "JR Itsukaichi Line",
+      "destination": "Musashi-Itsukaichi",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "13",
+      "type": "Local"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Itsukaichi Line",
+      "train_type": "Local",
+      "total_stops": 7,
+      "stops": [
+        {
+          "name": "Haijima",
+          "station_id": "00007388",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.343703,
+            "lat": 35.721108
+          }
+        },
+        {
+          "name": "Kumagawa",
+          "station_id": "00001967",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.335427,
+            "lat": 35.728421
+          }
+        },
+        {
+          "name": "Higashi-Akiru",
+          "station_id": "00006717",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.310875,
+            "lat": 35.7259
+          }
+        },
+        {
+          "name": "Akigawa",
+          "station_id": "00003490",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.286673,
+            "lat": 35.728053
+          }
+        },
+        {
+          "name": "Musashi-Hikida",
+          "station_id": "00007954",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.27013,
+            "lat": 35.729752
+          }
+        },
+        {
+          "name": "Musashi-Masuko",
+          "station_id": "00007968",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.255895,
+            "lat": 35.730826
+          }
+        },
+        {
+          "name": "Musashi-Itsukaichi",
+          "station_id": "00007959",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.227967,
+            "lat": 35.732165
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Haijima",
+          "from_id": "00007388",
+          "to": "Kumagawa",
+          "to_id": "00001967",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kumagawa",
+          "from_id": "00001967",
+          "to": "Higashi-Akiru",
+          "to_id": "00006717",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Higashi-Akiru",
+          "from_id": "00006717",
+          "to": "Akigawa",
+          "to_id": "00003490",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Akigawa",
+          "from_id": "00003490",
+          "to": "Musashi-Hikida",
+          "to_id": "00007954",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Musashi-Hikida",
+          "from_id": "00007954",
+          "to": "Musashi-Masuko",
+          "to_id": "00007968",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Musashi-Masuko",
+          "from_id": "00007968",
+          "to": "Musashi-Itsukaichi",
+          "to_id": "00007959",
+          "travel_time_minutes": 4
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:51:36.761Z"
+}

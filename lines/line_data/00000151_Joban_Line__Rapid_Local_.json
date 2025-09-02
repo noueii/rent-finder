@@ -1,0 +1,1459 @@
+{
+  "line": "Joban Line (Rapid/Local)",
+  "operator": "JR East",
+  "navitime_id": "00000151",
+  "first_station_id": "00004067",
+  "stations": [
+    {
+      "name": "Ueno",
+      "japanese_name": "上野",
+      "station_id": "00004067",
+      "order": 1,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Yamanote Line",
+        "JR Joetsu Shinkansen",
+        "JR Hokuriku Shinkansen(via Nagano)",
+        "JR Tohoku Shinkansen",
+        "JR Utsunomiya Line[Tohoku Main Line]‧JR Ueno Tokyo Line",
+        "Tokyo Metro Ginza Line",
+        "Tokyo Metro Hibiya Line"
+      ]
+    },
+    {
+      "name": "Nippori",
+      "japanese_name": "日暮里",
+      "station_id": "00007293",
+      "order": 2,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Yamanote Line",
+        "Keisei Main Line",
+        "Toei Nippori Toneri Liner"
+      ]
+    },
+    {
+      "name": "Mikawashima",
+      "japanese_name": "三河島",
+      "station_id": "00002985",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Minami-senju(Joban Line)",
+      "japanese_name": "南千住(常磐線)",
+      "station_id": "00007124",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Kita-senju",
+      "japanese_name": "北千住",
+      "station_id": "00008355",
+      "order": 5,
+      "transfers": [
+        "Tokyo Metro Chiyoda Line",
+        "Tokyo Metro Hibiya Line",
+        "Tobu Isesaki Line (SKYTREE Line)",
+        "Tsukuba Express"
+      ]
+    },
+    {
+      "name": "Ayase",
+      "japanese_name": "綾瀬",
+      "station_id": "00000237",
+      "order": 6,
+      "transfers": [
+        "Tokyo Metro Chiyoda Line",
+        "Tokyo Metro Chiyoda Line(Ayase-Kita Ayase)"
+      ]
+    },
+    {
+      "name": "Kameari",
+      "japanese_name": "亀有",
+      "station_id": "00001532",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Kanamachi",
+      "japanese_name": "金町(東京都)",
+      "station_id": "00001896",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Matsudo",
+      "japanese_name": "松戸",
+      "station_id": "00003837",
+      "order": 9,
+      "transfers": [
+        "Keisei Matsudo Line"
+      ]
+    },
+    {
+      "name": "Kita-Matsudo",
+      "japanese_name": "北松戸",
+      "station_id": "00008333",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Mabashi",
+      "japanese_name": "馬橋",
+      "station_id": "00007371",
+      "order": 11,
+      "transfers": [
+        "Ryutetsu Nagareyama Line"
+      ]
+    },
+    {
+      "name": "Shim-Matsudo",
+      "japanese_name": "新松戸",
+      "station_id": "00004264",
+      "order": 12,
+      "transfers": [
+        "JR Musashino Line(Fuchuhommachi-Minamifunabashi)"
+      ]
+    },
+    {
+      "name": "Kita-Kogane",
+      "japanese_name": "北小金",
+      "station_id": "00008330",
+      "order": 13,
+      "transfers": [
+        "JR Musashinojobanrenraku Line(Minaminagareyama-Kitakogane)"
+      ]
+    },
+    {
+      "name": "Minami-Kashiwa",
+      "japanese_name": "南柏",
+      "station_id": "00007150",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Kashiwa",
+      "japanese_name": "柏",
+      "station_id": "00007423",
+      "order": 15,
+      "transfers": [
+        "Tobu Noda Line (Urban Park Line)"
+      ]
+    },
+    {
+      "name": "Kita-Kashiwa",
+      "japanese_name": "北柏",
+      "station_id": "00008386",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Abiko(Chiba)",
+      "japanese_name": "我孫子(千葉県)",
+      "station_id": "00001119",
+      "order": 17,
+      "transfers": [
+        "JR Narita Line(Abiko-Narita)"
+      ]
+    },
+    {
+      "name": "Tennodai",
+      "japanese_name": "天王台",
+      "station_id": "00006424",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Toride",
+      "japanese_name": "取手",
+      "station_id": "00003444",
+      "order": 19,
+      "transfers": [
+        "Kanto Railway Joso Line"
+      ]
+    },
+    {
+      "name": "Fujishiro",
+      "japanese_name": "藤代",
+      "station_id": "00006941",
+      "order": 20,
+      "transfers": []
+    },
+    {
+      "name": "Ryugasakishi",
+      "japanese_name": "龍ケ崎市",
+      "station_id": "00002770",
+      "order": 21,
+      "transfers": []
+    },
+    {
+      "name": "Ushiku",
+      "japanese_name": "牛久",
+      "station_id": "00001684",
+      "order": 22,
+      "transfers": []
+    },
+    {
+      "name": "Hitachinoushiku",
+      "japanese_name": "ひたち野うしく",
+      "station_id": "00000106",
+      "order": 23,
+      "transfers": []
+    },
+    {
+      "name": "Arakawaoki",
+      "japanese_name": "荒川沖",
+      "station_id": "00002489",
+      "order": 24,
+      "transfers": []
+    },
+    {
+      "name": "Tsuchiura",
+      "japanese_name": "土浦",
+      "station_id": "00006561",
+      "order": 25,
+      "transfers": []
+    },
+    {
+      "name": "Kandatsu",
+      "japanese_name": "神立",
+      "station_id": "00004480",
+      "order": 26,
+      "transfers": []
+    },
+    {
+      "name": "Takahama(Ibaraki)",
+      "japanese_name": "高浜(茨城県)",
+      "station_id": "00002632",
+      "order": 27,
+      "transfers": []
+    },
+    {
+      "name": "Ishioka",
+      "japanese_name": "石岡",
+      "station_id": "00005004",
+      "order": 28,
+      "transfers": []
+    },
+    {
+      "name": "Hatori",
+      "japanese_name": "羽鳥",
+      "station_id": "00000591",
+      "order": 29,
+      "transfers": []
+    },
+    {
+      "name": "Iwama",
+      "japanese_name": "岩間",
+      "station_id": "00001395",
+      "order": 30,
+      "transfers": []
+    },
+    {
+      "name": "Tomobe",
+      "japanese_name": "友部",
+      "station_id": "00008829",
+      "order": 31,
+      "transfers": [
+        "JR Mito Line"
+      ]
+    },
+    {
+      "name": "Uchihara",
+      "japanese_name": "内原",
+      "station_id": "00007017",
+      "order": 32,
+      "transfers": []
+    },
+    {
+      "name": "Akatsuka",
+      "japanese_name": "赤塚",
+      "station_id": "00005094",
+      "order": 33,
+      "transfers": []
+    },
+    {
+      "name": "Kairakuen",
+      "japanese_name": "偕楽園",
+      "station_id": "00009146",
+      "order": 34,
+      "transfers": []
+    },
+    {
+      "name": "Mito",
+      "japanese_name": "水戸",
+      "station_id": "00004552",
+      "order": 35,
+      "transfers": [
+        "JR Suigun Line(Mito-Asakanagamori)",
+        "Kashimarinkai Railway Oaraikashima Line"
+      ]
+    },
+    {
+      "name": "Katsuta",
+      "japanese_name": "勝田",
+      "station_id": "00003637",
+      "order": 36,
+      "transfers": [
+        "Hitachinaka Seaside Railway"
+      ]
+    },
+    {
+      "name": "Sawa",
+      "japanese_name": "佐和",
+      "station_id": "00002801",
+      "order": 37,
+      "transfers": []
+    },
+    {
+      "name": "Tokai",
+      "japanese_name": "東海",
+      "station_id": "00006650",
+      "order": 38,
+      "transfers": []
+    },
+    {
+      "name": "Omika",
+      "japanese_name": "大甕",
+      "station_id": "00005801",
+      "order": 39,
+      "transfers": []
+    },
+    {
+      "name": "Hitachitaga",
+      "japanese_name": "常陸多賀",
+      "station_id": "00004113",
+      "order": 40,
+      "transfers": []
+    },
+    {
+      "name": "Hitachi",
+      "japanese_name": "日立",
+      "station_id": "00007303",
+      "order": 41,
+      "transfers": []
+    },
+    {
+      "name": "Ogitsu",
+      "japanese_name": "小木津",
+      "station_id": "00003770",
+      "order": 42,
+      "transfers": []
+    },
+    {
+      "name": "Juo",
+      "japanese_name": "十王",
+      "station_id": "00005209",
+      "order": 43,
+      "transfers": []
+    },
+    {
+      "name": "Takahagi",
+      "japanese_name": "高萩",
+      "station_id": "00002623",
+      "order": 44,
+      "transfers": []
+    },
+    {
+      "name": "Minaminakago",
+      "japanese_name": "南中郷",
+      "station_id": "00007139",
+      "order": 45,
+      "transfers": []
+    },
+    {
+      "name": "Isohara",
+      "japanese_name": "磯原",
+      "station_id": "00000436",
+      "order": 46,
+      "transfers": []
+    },
+    {
+      "name": "Otsuko",
+      "japanese_name": "大津港",
+      "station_id": "00005713",
+      "order": 47,
+      "transfers": []
+    },
+    {
+      "name": "Nakoso",
+      "japanese_name": "勿来",
+      "station_id": "00008690",
+      "order": 48,
+      "transfers": []
+    },
+    {
+      "name": "Ueda(Fukushima)",
+      "japanese_name": "植田(福島県)",
+      "station_id": "00004126",
+      "order": 49,
+      "transfers": []
+    },
+    {
+      "name": "Izumi(Joban Line)",
+      "japanese_name": "泉(常磐線)",
+      "station_id": "00005249",
+      "order": 50,
+      "transfers": []
+    },
+    {
+      "name": "Yumoto",
+      "japanese_name": "湯本",
+      "station_id": "00006911",
+      "order": 51,
+      "transfers": []
+    },
+    {
+      "name": "Uchigo",
+      "japanese_name": "内郷",
+      "station_id": "00007016",
+      "order": 52,
+      "transfers": []
+    },
+    {
+      "name": "Iwaki",
+      "japanese_name": "いわき",
+      "station_id": "00000029",
+      "order": 53,
+      "transfers": [
+        "JR Ban'etsuto Line"
+      ]
+    },
+    {
+      "name": "Kusano(Fukushima)",
+      "japanese_name": "草野(福島県)",
+      "station_id": "00005411",
+      "order": 54,
+      "transfers": []
+    },
+    {
+      "name": "Yotsukura",
+      "japanese_name": "四ツ倉",
+      "station_id": "00003175",
+      "order": 55,
+      "transfers": []
+    },
+    {
+      "name": "Hisanohama",
+      "japanese_name": "久ノ浜",
+      "station_id": "00001592",
+      "order": 56,
+      "transfers": []
+    },
+    {
+      "name": "Suetsugi",
+      "japanese_name": "末続",
+      "station_id": "00008530",
+      "order": 57,
+      "transfers": []
+    },
+    {
+      "name": "Hirono(Fukushima)",
+      "japanese_name": "広野(福島県)",
+      "station_id": "00002404",
+      "order": 58,
+      "transfers": []
+    },
+    {
+      "name": "J-Village",
+      "japanese_name": "Ｊヴィレッジ",
+      "station_id": "00009743",
+      "order": 59,
+      "transfers": []
+    },
+    {
+      "name": "Kido",
+      "japanese_name": "木戸",
+      "station_id": "00008651",
+      "order": 60,
+      "transfers": []
+    },
+    {
+      "name": "Tatsuta",
+      "japanese_name": "竜田",
+      "station_id": "00009010",
+      "order": 61,
+      "transfers": []
+    },
+    {
+      "name": "Tomioka",
+      "japanese_name": "富岡",
+      "station_id": "00007863",
+      "order": 62,
+      "transfers": []
+    },
+    {
+      "name": "Yonomori",
+      "japanese_name": "夜ノ森",
+      "station_id": "00008707",
+      "order": 63,
+      "transfers": []
+    },
+    {
+      "name": "Ono",
+      "japanese_name": "大野",
+      "station_id": "00005768",
+      "order": 64,
+      "transfers": []
+    },
+    {
+      "name": "Futaba",
+      "japanese_name": "双葉",
+      "station_id": "00005347",
+      "order": 65,
+      "transfers": []
+    },
+    {
+      "name": "Namie",
+      "japanese_name": "浪江",
+      "station_id": "00009074",
+      "order": 66,
+      "transfers": []
+    },
+    {
+      "name": "Momochi",
+      "japanese_name": "桃内",
+      "station_id": "00006885",
+      "order": 67,
+      "transfers": []
+    },
+    {
+      "name": "Odaka",
+      "japanese_name": "小高",
+      "station_id": "00003680",
+      "order": 68,
+      "transfers": []
+    },
+    {
+      "name": "Iwakiota",
+      "japanese_name": "磐城太田",
+      "station_id": "00007638",
+      "order": 69,
+      "transfers": []
+    },
+    {
+      "name": "Haranomachi",
+      "japanese_name": "原ノ町",
+      "station_id": "00002125",
+      "order": 70,
+      "transfers": []
+    },
+    {
+      "name": "Kashima",
+      "japanese_name": "鹿島",
+      "station_id": "00003350",
+      "order": 71,
+      "transfers": []
+    },
+    {
+      "name": "Nittaki",
+      "japanese_name": "日立木",
+      "station_id": "00007304",
+      "order": 72,
+      "transfers": []
+    },
+    {
+      "name": "Soma",
+      "japanese_name": "相馬",
+      "station_id": "00005386",
+      "order": 73,
+      "transfers": []
+    },
+    {
+      "name": "Komagamine",
+      "japanese_name": "駒ヶ嶺",
+      "station_id": "00001938",
+      "order": 74,
+      "transfers": []
+    },
+    {
+      "name": "Shinchi",
+      "japanese_name": "新地",
+      "station_id": "00004310",
+      "order": 75,
+      "transfers": []
+    },
+    {
+      "name": "Sakamoto",
+      "japanese_name": "坂元",
+      "station_id": "00002845",
+      "order": 76,
+      "transfers": []
+    },
+    {
+      "name": "Yamashita(Miyagi)",
+      "japanese_name": "山下(宮城県)",
+      "station_id": "00003098",
+      "order": 77,
+      "transfers": []
+    },
+    {
+      "name": "Hamayoshida",
+      "japanese_name": "浜吉田",
+      "station_id": "00007830",
+      "order": 78,
+      "transfers": []
+    },
+    {
+      "name": "Watari",
+      "japanese_name": "亘理",
+      "station_id": "00009142",
+      "order": 79,
+      "transfers": []
+    },
+    {
+      "name": "Okuma",
+      "japanese_name": "逢隈",
+      "station_id": "00000202",
+      "order": 80,
+      "transfers": []
+    },
+    {
+      "name": "Iwanuma",
+      "japanese_name": "岩沼",
+      "station_id": "00001417",
+      "order": 81,
+      "transfers": [
+        "JR Tohoku Main Line(Kuroiso-Morioka)"
+      ]
+    }
+  ],
+  "train_types": [
+    "Rapid",
+    "Local",
+    "Limited Express",
+    "Special Rapid"
+  ],
+  "example_trains": {
+    "Rapid": {
+      "trainId": "80850000",
+      "trainName": "JR Joban Line Rapid",
+      "destination": "Toride",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "16",
+      "type": "Rapid"
+    },
+    "Local": {
+      "trainId": "8085009e",
+      "trainName": "JR Joban Line Ueno Tokyo Line",
+      "destination": "Tsuchiura",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "07",
+      "type": "Local"
+    },
+    "Limited Express": {
+      "trainId": "80850036",
+      "trainName": "Hitachi 7 Go",
+      "destination": "Iwaki",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Limited Express"
+    },
+    "Special Rapid": {
+      "trainId": "808500af",
+      "trainName": "JR Joban Line Ueno Tokyo Line Special Rapid",
+      "destination": "Tsuchiura",
+      "hour": 15,
+      "date": "2025-07-11",
+      "time": "11",
+      "type": "Special Rapid"
+    }
+  },
+  "train_stop_details": {
+    "Rapid": {
+      "line": "Joban Line (Rapid/Local)",
+      "train_type": "Rapid",
+      "total_stops": 10,
+      "stops": [
+        {
+          "name": "Ueno",
+          "station_id": "00004067",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.777336,
+            "lat": 35.713654
+          }
+        },
+        {
+          "name": "Nippori",
+          "station_id": "00007293",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770639,
+            "lat": 35.72817
+          }
+        },
+        {
+          "name": "Mikawashima",
+          "station_id": "00002985",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.777013,
+            "lat": 35.733373
+          }
+        },
+        {
+          "name": "Minami-senju(Joban Line)",
+          "station_id": "00007124",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.798897,
+            "lat": 35.733188
+          }
+        },
+        {
+          "name": "Kita-senju",
+          "station_id": "00008355",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.805177,
+            "lat": 35.749639
+          }
+        },
+        {
+          "name": "Matsudo",
+          "station_id": "00003837",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.900667,
+            "lat": 35.784321
+          }
+        },
+        {
+          "name": "Kashiwa",
+          "station_id": "00007423",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.971013,
+            "lat": 35.862481
+          }
+        },
+        {
+          "name": "Abiko(Chiba)",
+          "station_id": "00001119",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.010766,
+            "lat": 35.872683
+          }
+        },
+        {
+          "name": "Tennodai",
+          "station_id": "00006424",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.040899,
+            "lat": 35.872563
+          }
+        },
+        {
+          "name": "Toride",
+          "station_id": "00003444",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.06312,
+            "lat": 35.895791
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Ueno",
+          "from_id": "00004067",
+          "to": "Nippori",
+          "to_id": "00007293",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nippori",
+          "from_id": "00007293",
+          "to": "Mikawashima",
+          "to_id": "00002985",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Mikawashima",
+          "from_id": "00002985",
+          "to": "Minami-senju(Joban Line)",
+          "to_id": "00007124",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Minami-senju(Joban Line)",
+          "from_id": "00007124",
+          "to": "Kita-senju",
+          "to_id": "00008355",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kita-senju",
+          "from_id": "00008355",
+          "to": "Matsudo",
+          "to_id": "00003837",
+          "travel_time_minutes": 9
+        },
+        {
+          "from": "Matsudo",
+          "from_id": "00003837",
+          "to": "Kashiwa",
+          "to_id": "00007423",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Kashiwa",
+          "from_id": "00007423",
+          "to": "Abiko(Chiba)",
+          "to_id": "00001119",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Abiko(Chiba)",
+          "from_id": "00001119",
+          "to": "Tennodai",
+          "to_id": "00006424",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Tennodai",
+          "from_id": "00006424",
+          "to": "Toride",
+          "to_id": "00003444",
+          "travel_time_minutes": 4
+        }
+      ]
+    },
+    "Local": {
+      "line": "Joban Line (Rapid/Local)",
+      "train_type": "Local",
+      "total_stops": 16,
+      "stops": [
+        {
+          "name": "Ueno",
+          "station_id": "00004067",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.777336,
+            "lat": 35.713654
+          }
+        },
+        {
+          "name": "Nippori",
+          "station_id": "00007293",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770639,
+            "lat": 35.72817
+          }
+        },
+        {
+          "name": "Mikawashima",
+          "station_id": "00002985",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.777013,
+            "lat": 35.733373
+          }
+        },
+        {
+          "name": "Minami-senju(Joban Line)",
+          "station_id": "00007124",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.798897,
+            "lat": 35.733188
+          }
+        },
+        {
+          "name": "Kita-senju",
+          "station_id": "00008355",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.805177,
+            "lat": 35.749639
+          }
+        },
+        {
+          "name": "Matsudo",
+          "station_id": "00003837",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.900667,
+            "lat": 35.784321
+          }
+        },
+        {
+          "name": "Kashiwa",
+          "station_id": "00007423",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.971013,
+            "lat": 35.862481
+          }
+        },
+        {
+          "name": "Abiko(Chiba)",
+          "station_id": "00001119",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.010766,
+            "lat": 35.872683
+          }
+        },
+        {
+          "name": "Tennodai",
+          "station_id": "00006424",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.040899,
+            "lat": 35.872563
+          }
+        },
+        {
+          "name": "Toride",
+          "station_id": "00003444",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.06312,
+            "lat": 35.895791
+          }
+        },
+        {
+          "name": "Fujishiro",
+          "station_id": "00006941",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.118244,
+            "lat": 35.920565
+          }
+        },
+        {
+          "name": "Ryugasakishi",
+          "station_id": "00002770",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.138163,
+            "lat": 35.930068
+          }
+        },
+        {
+          "name": "Ushiku",
+          "station_id": "00001684",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.141049,
+            "lat": 35.975604
+          }
+        },
+        {
+          "name": "Hitachinoushiku",
+          "station_id": "00000106",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.158413,
+            "lat": 36.007387
+          }
+        },
+        {
+          "name": "Arakawaoki",
+          "station_id": "00002489",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.166152,
+            "lat": 36.030706
+          }
+        },
+        {
+          "name": "Tsuchiura",
+          "station_id": "00006561",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.205954,
+            "lat": 36.077775
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Ueno",
+          "from_id": "00004067",
+          "to": "Nippori",
+          "to_id": "00007293",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Nippori",
+          "from_id": "00007293",
+          "to": "Mikawashima",
+          "to_id": "00002985",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Mikawashima",
+          "from_id": "00002985",
+          "to": "Minami-senju(Joban Line)",
+          "to_id": "00007124",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Minami-senju(Joban Line)",
+          "from_id": "00007124",
+          "to": "Kita-senju",
+          "to_id": "00008355",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kita-senju",
+          "from_id": "00008355",
+          "to": "Matsudo",
+          "to_id": "00003837",
+          "travel_time_minutes": 8
+        },
+        {
+          "from": "Matsudo",
+          "from_id": "00003837",
+          "to": "Kashiwa",
+          "to_id": "00007423",
+          "travel_time_minutes": 9
+        },
+        {
+          "from": "Kashiwa",
+          "from_id": "00007423",
+          "to": "Abiko(Chiba)",
+          "to_id": "00001119",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Abiko(Chiba)",
+          "from_id": "00001119",
+          "to": "Tennodai",
+          "to_id": "00006424",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Tennodai",
+          "from_id": "00006424",
+          "to": "Toride",
+          "to_id": "00003444",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Toride",
+          "from_id": "00003444",
+          "to": "Fujishiro",
+          "to_id": "00006941",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Fujishiro",
+          "from_id": "00006941",
+          "to": "Ryugasakishi",
+          "to_id": "00002770",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ryugasakishi",
+          "from_id": "00002770",
+          "to": "Ushiku",
+          "to_id": "00001684",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Ushiku",
+          "from_id": "00001684",
+          "to": "Hitachinoushiku",
+          "to_id": "00000106",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Hitachinoushiku",
+          "from_id": "00000106",
+          "to": "Arakawaoki",
+          "to_id": "00002489",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Arakawaoki",
+          "from_id": "00002489",
+          "to": "Tsuchiura",
+          "to_id": "00006561",
+          "travel_time_minutes": 7
+        }
+      ]
+    },
+    "Limited Express": {
+      "line": "Joban Line (Rapid/Local)",
+      "train_type": "Limited Express",
+      "total_stops": 8,
+      "stops": [
+        {
+          "name": "Ueno",
+          "station_id": "00004067",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.777336,
+            "lat": 35.713654
+          }
+        },
+        {
+          "name": "Mito",
+          "station_id": "00004552",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.476199,
+            "lat": 36.370819
+          }
+        },
+        {
+          "name": "Katsuta",
+          "station_id": "00003637",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.524349,
+            "lat": 36.39454
+          }
+        },
+        {
+          "name": "Hitachi",
+          "station_id": "00007303",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.662122,
+            "lat": 36.590825
+          }
+        },
+        {
+          "name": "Isohara",
+          "station_id": "00000436",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.746115,
+            "lat": 36.790504
+          }
+        },
+        {
+          "name": "Izumi(Joban Line)",
+          "station_id": "00005249",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.854175,
+            "lat": 36.955438
+          }
+        },
+        {
+          "name": "Yumoto",
+          "station_id": "00006911",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.849971,
+            "lat": 37.006459
+          }
+        },
+        {
+          "name": "Iwaki",
+          "station_id": "00000029",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.892288,
+            "lat": 37.058201
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Ueno",
+          "from_id": "00004067",
+          "to": "Mito",
+          "to_id": "00004552",
+          "travel_time_minutes": 65
+        },
+        {
+          "from": "Mito",
+          "from_id": "00004552",
+          "to": "Katsuta",
+          "to_id": "00003637",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Katsuta",
+          "from_id": "00003637",
+          "to": "Hitachi",
+          "to_id": "00007303",
+          "travel_time_minutes": 15
+        },
+        {
+          "from": "Hitachi",
+          "from_id": "00007303",
+          "to": "Isohara",
+          "to_id": "00000436",
+          "travel_time_minutes": 15
+        },
+        {
+          "from": "Isohara",
+          "from_id": "00000436",
+          "to": "Izumi(Joban Line)",
+          "to_id": "00005249",
+          "travel_time_minutes": 14
+        },
+        {
+          "from": "Izumi(Joban Line)",
+          "from_id": "00005249",
+          "to": "Yumoto",
+          "to_id": "00006911",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Yumoto",
+          "from_id": "00006911",
+          "to": "Iwaki",
+          "to_id": "00000029",
+          "travel_time_minutes": 5
+        }
+      ]
+    },
+    "Special Rapid": {
+      "line": "Joban Line (Rapid/Local)",
+      "train_type": "Special Rapid",
+      "total_stops": 12,
+      "stops": [
+        {
+          "name": "Ueno",
+          "station_id": "00004067",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.777336,
+            "lat": 35.713654
+          }
+        },
+        {
+          "name": "Nippori",
+          "station_id": "00007293",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770639,
+            "lat": 35.72817
+          }
+        },
+        {
+          "name": "Kita-senju",
+          "station_id": "00008355",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.805177,
+            "lat": 35.749639
+          }
+        },
+        {
+          "name": "Matsudo",
+          "station_id": "00003837",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.900667,
+            "lat": 35.784321
+          }
+        },
+        {
+          "name": "Kashiwa",
+          "station_id": "00007423",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.971013,
+            "lat": 35.862481
+          }
+        },
+        {
+          "name": "Toride",
+          "station_id": "00003444",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.06312,
+            "lat": 35.895791
+          }
+        },
+        {
+          "name": "Fujishiro",
+          "station_id": "00006941",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.118244,
+            "lat": 35.920565
+          }
+        },
+        {
+          "name": "Ryugasakishi",
+          "station_id": "00002770",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.138163,
+            "lat": 35.930068
+          }
+        },
+        {
+          "name": "Ushiku",
+          "station_id": "00001684",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.141049,
+            "lat": 35.975604
+          }
+        },
+        {
+          "name": "Hitachinoushiku",
+          "station_id": "00000106",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.158413,
+            "lat": 36.007387
+          }
+        },
+        {
+          "name": "Arakawaoki",
+          "station_id": "00002489",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.166152,
+            "lat": 36.030706
+          }
+        },
+        {
+          "name": "Tsuchiura",
+          "station_id": "00006561",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 140.205954,
+            "lat": 36.077775
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Ueno",
+          "from_id": "00004067",
+          "to": "Nippori",
+          "to_id": "00007293",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Nippori",
+          "from_id": "00007293",
+          "to": "Kita-senju",
+          "to_id": "00008355",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Kita-senju",
+          "from_id": "00008355",
+          "to": "Matsudo",
+          "to_id": "00003837",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Matsudo",
+          "from_id": "00003837",
+          "to": "Kashiwa",
+          "to_id": "00007423",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Kashiwa",
+          "from_id": "00007423",
+          "to": "Toride",
+          "to_id": "00003444",
+          "travel_time_minutes": 8
+        },
+        {
+          "from": "Toride",
+          "from_id": "00003444",
+          "to": "Fujishiro",
+          "to_id": "00006941",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Fujishiro",
+          "from_id": "00006941",
+          "to": "Ryugasakishi",
+          "to_id": "00002770",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ryugasakishi",
+          "from_id": "00002770",
+          "to": "Ushiku",
+          "to_id": "00001684",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Ushiku",
+          "from_id": "00001684",
+          "to": "Hitachinoushiku",
+          "to_id": "00000106",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Hitachinoushiku",
+          "from_id": "00000106",
+          "to": "Arakawaoki",
+          "to_id": "00002489",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Arakawaoki",
+          "from_id": "00002489",
+          "to": "Tsuchiura",
+          "to_id": "00006561",
+          "travel_time_minutes": 5
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:52:02.322Z"
+}

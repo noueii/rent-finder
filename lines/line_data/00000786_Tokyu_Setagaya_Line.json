@@ -1,0 +1,271 @@
+{
+  "line": "Tokyu Setagaya Line",
+  "operator": "Tokyu Corporation",
+  "navitime_id": "00000786",
+  "first_station_id": "00003004",
+  "stations": [
+    {
+      "name": "Sangen-jaya",
+      "japanese_name": "三軒茶屋",
+      "station_id": "00003004",
+      "order": 1,
+      "transfers": [
+        "Tokyu Den-en-toshi Line"
+      ]
+    },
+    {
+      "name": "Nishi-taishido",
+      "japanese_name": "西太子堂",
+      "station_id": "00004842",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Wakabayashi (Tokyo)",
+      "japanese_name": "若林(東京都)",
+      "station_id": "00003443",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Shoin-jinja-mae",
+      "japanese_name": "松陰神社前",
+      "station_id": "00003821",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Setagaya",
+      "japanese_name": "世田谷",
+      "station_id": "00004606",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Kamimachi",
+      "japanese_name": "上町",
+      "station_id": "00004019",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Miyanosaka",
+      "japanese_name": "宮の坂",
+      "station_id": "00001636",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Yamashita(Tokyo)",
+      "japanese_name": "山下(東京都)",
+      "station_id": "00003099",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Matsubara(Tokyo)",
+      "japanese_name": "松原(東京都)",
+      "station_id": "00003834",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Shimo-takaido",
+      "japanese_name": "下高井戸",
+      "station_id": "00000922",
+      "order": 10,
+      "transfers": [
+        "Keio Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "82580034",
+      "trainName": "Tokyu Setagaya Line Local",
+      "destination": "Shimo-takaido",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "02",
+      "type": "Local"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Tokyu Setagaya Line",
+      "train_type": "Local",
+      "total_stops": 10,
+      "stops": [
+        {
+          "name": "Sangen-jaya",
+          "station_id": "00003004",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.669194,
+            "lat": 35.644124
+          }
+        },
+        {
+          "name": "Nishi-taishido",
+          "station_id": "00004842",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.666212,
+            "lat": 35.644627
+          }
+        },
+        {
+          "name": "Wakabayashi (Tokyo)",
+          "station_id": "00003443",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.65994,
+            "lat": 35.645964
+          }
+        },
+        {
+          "name": "Shoin-jinja-mae",
+          "station_id": "00003821",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.655318,
+            "lat": 35.643964
+          }
+        },
+        {
+          "name": "Setagaya",
+          "station_id": "00004606",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.650651,
+            "lat": 35.643482
+          }
+        },
+        {
+          "name": "Kamimachi",
+          "station_id": "00004019",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.646671,
+            "lat": 35.643314
+          }
+        },
+        {
+          "name": "Miyanosaka",
+          "station_id": "00001636",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.645019,
+            "lat": 35.647852
+          }
+        },
+        {
+          "name": "Yamashita(Tokyo)",
+          "station_id": "00003099",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.646501,
+            "lat": 35.653947
+          }
+        },
+        {
+          "name": "Matsubara(Tokyo)",
+          "station_id": "00003834",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.641975,
+            "lat": 35.660028
+          }
+        },
+        {
+          "name": "Shimo-takaido",
+          "station_id": "00000922",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.641355,
+            "lat": 35.666145
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Sangen-jaya",
+          "from_id": "00003004",
+          "to": "Nishi-taishido",
+          "to_id": "00004842",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nishi-taishido",
+          "from_id": "00004842",
+          "to": "Wakabayashi (Tokyo)",
+          "to_id": "00003443",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Wakabayashi (Tokyo)",
+          "from_id": "00003443",
+          "to": "Shoin-jinja-mae",
+          "to_id": "00003821",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shoin-jinja-mae",
+          "from_id": "00003821",
+          "to": "Setagaya",
+          "to_id": "00004606",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Setagaya",
+          "from_id": "00004606",
+          "to": "Kamimachi",
+          "to_id": "00004019",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kamimachi",
+          "from_id": "00004019",
+          "to": "Miyanosaka",
+          "to_id": "00001636",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Miyanosaka",
+          "from_id": "00001636",
+          "to": "Yamashita(Tokyo)",
+          "to_id": "00003099",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yamashita(Tokyo)",
+          "from_id": "00003099",
+          "to": "Matsubara(Tokyo)",
+          "to_id": "00003834",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Matsubara(Tokyo)",
+          "from_id": "00003834",
+          "to": "Shimo-takaido",
+          "to_id": "00000922",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:55:33.638Z"
+}

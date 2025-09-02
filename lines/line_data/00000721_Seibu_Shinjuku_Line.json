@@ -1,0 +1,1395 @@
+{
+  "line": "Seibu Shinjuku Line",
+  "operator": "Seibu Railway",
+  "navitime_id": "00000721",
+  "first_station_id": "00004927",
+  "stations": [
+    {
+      "name": "Seibu-Shinjuku",
+      "japanese_name": "西武新宿",
+      "station_id": "00004927",
+      "order": 1,
+      "transfers": []
+    },
+    {
+      "name": "Takadanobaba",
+      "japanese_name": "高田馬場",
+      "station_id": "00002616",
+      "order": 2,
+      "transfers": [
+        "JR Yamanote Line",
+        "Tokyo Metro Tozai Line"
+      ]
+    },
+    {
+      "name": "Shimo-Ochiai (Tokyo)",
+      "japanese_name": "下落合(東京都)",
+      "station_id": "00001006",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Nakai",
+      "japanese_name": "中井",
+      "station_id": "00006016",
+      "order": 4,
+      "transfers": [
+        "Toei Oedo Line"
+      ]
+    },
+    {
+      "name": "Araiyakushi-mae",
+      "japanese_name": "新井薬師前",
+      "station_id": "00004169",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Numabukuro",
+      "japanese_name": "沼袋",
+      "station_id": "00003886",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Nogata",
+      "japanese_name": "野方",
+      "station_id": "00008744",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Toritsu-Kasei",
+      "japanese_name": "都立家政",
+      "station_id": "00006555",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Saginomiya",
+      "japanese_name": "鷺ノ宮",
+      "station_id": "00002874",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Shimo-Igusa",
+      "japanese_name": "下井草",
+      "station_id": "00000904",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Iogi",
+      "japanese_name": "井荻",
+      "station_id": "00000414",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Kami-Igusa",
+      "japanese_name": "上井草",
+      "station_id": "00003913",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Kami-Shakujii",
+      "japanese_name": "上石神井",
+      "station_id": "00003987",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Musashi-Seki",
+      "japanese_name": "武蔵関",
+      "station_id": "00007957",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-Fushimi",
+      "japanese_name": "東伏見",
+      "station_id": "00006842",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Seibu-Yagisawa",
+      "japanese_name": "西武柳沢",
+      "station_id": "00004930",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Tanashi",
+      "japanese_name": "田無",
+      "station_id": "00006511",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Hana-Koganei",
+      "japanese_name": "花小金井",
+      "station_id": "00001105",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Kodaira",
+      "japanese_name": "小平",
+      "station_id": "00003758",
+      "order": 19,
+      "transfers": [
+        "Seibu Haijima Line"
+      ]
+    },
+    {
+      "name": "Kumegawa",
+      "japanese_name": "久米川",
+      "station_id": "00001619",
+      "order": 20,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-Murayama",
+      "japanese_name": "東村山",
+      "station_id": "00006770",
+      "order": 21,
+      "transfers": [
+        "Seibu En Line",
+        "Seibu Kokubunji Line"
+      ]
+    },
+    {
+      "name": "Tokorozawa",
+      "japanese_name": "所沢",
+      "station_id": "00003610",
+      "order": 22,
+      "transfers": [
+        "Seibu Ikebukuro Line"
+      ]
+    },
+    {
+      "name": "Koku-koen",
+      "japanese_name": "航空公園",
+      "station_id": "00002484",
+      "order": 23,
+      "transfers": []
+    },
+    {
+      "name": "Shin-Tokorozawa",
+      "japanese_name": "新所沢",
+      "station_id": "00004259",
+      "order": 24,
+      "transfers": []
+    },
+    {
+      "name": "Iriso",
+      "japanese_name": "入曽",
+      "station_id": "00007313",
+      "order": 25,
+      "transfers": []
+    },
+    {
+      "name": "Sayamashi(Saitama)",
+      "japanese_name": "狭山市(埼玉県)",
+      "station_id": "00001779",
+      "order": 26,
+      "transfers": []
+    },
+    {
+      "name": "Shin-Sayama",
+      "japanese_name": "新狭山",
+      "station_id": "00004213",
+      "order": 27,
+      "transfers": []
+    },
+    {
+      "name": "Minami-Otsuka",
+      "japanese_name": "南大塚",
+      "station_id": "00007132",
+      "order": 28,
+      "transfers": []
+    },
+    {
+      "name": "Hon-Kawagoe",
+      "japanese_name": "本川越",
+      "station_id": "00008477",
+      "order": 29,
+      "transfers": []
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Semi Express",
+    "Express",
+    "Limited Express",
+    "Paid"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "82210128",
+      "trainName": "Seibu Shinjuku Line Local",
+      "destination": "Hon-Kawagoe",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "03",
+      "type": "Local"
+    },
+    "Semi Express": {
+      "trainId": "822100b4",
+      "trainName": "Seibu Shinjuku Line Semi Express",
+      "destination": "Hon-Kawagoe",
+      "hour": 5,
+      "date": "2025-07-11",
+      "time": "46",
+      "type": "Semi Express"
+    },
+    "Express": {
+      "trainId": "82210047",
+      "trainName": "Seibu Shinjuku Line Express",
+      "destination": "Haijima",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "01",
+      "type": "Express"
+    },
+    "Limited Express": {
+      "trainId": "82210004",
+      "trainName": "Koedo 9 Go",
+      "destination": "Hon-Kawagoe",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "40",
+      "type": "Limited Express"
+    },
+    "Paid": {
+      "trainId": "82210033",
+      "trainName": "Haijima Liner 1 Go",
+      "destination": "Haijima",
+      "hour": 17,
+      "date": "2025-07-11",
+      "time": "15",
+      "type": "Paid"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Seibu Shinjuku Line",
+      "train_type": "Local",
+      "total_stops": 29,
+      "stops": [
+        {
+          "name": "Seibu-Shinjuku",
+          "station_id": "00004927",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.70002,
+            "lat": 35.695381
+          }
+        },
+        {
+          "name": "Takadanobaba",
+          "station_id": "00002616",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.703849,
+            "lat": 35.712633
+          }
+        },
+        {
+          "name": "Shimo-Ochiai (Tokyo)",
+          "station_id": "00001006",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.695401,
+            "lat": 35.715744
+          }
+        },
+        {
+          "name": "Nakai",
+          "station_id": "00006016",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.687144,
+            "lat": 35.715054
+          }
+        },
+        {
+          "name": "Araiyakushi-mae",
+          "station_id": "00004169",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.672047,
+            "lat": 35.715886
+          }
+        },
+        {
+          "name": "Numabukuro",
+          "station_id": "00003886",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.664804,
+            "lat": 35.719256
+          }
+        },
+        {
+          "name": "Nogata",
+          "station_id": "00008744",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.652921,
+            "lat": 35.719771
+          }
+        },
+        {
+          "name": "Toritsu-Kasei",
+          "station_id": "00006555",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.644554,
+            "lat": 35.722417
+          }
+        },
+        {
+          "name": "Saginomiya",
+          "station_id": "00002874",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.638908,
+            "lat": 35.72259
+          }
+        },
+        {
+          "name": "Shimo-Igusa",
+          "station_id": "00000904",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.624336,
+            "lat": 35.723913
+          }
+        },
+        {
+          "name": "Iogi",
+          "station_id": "00000414",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.614636,
+            "lat": 35.72468
+          }
+        },
+        {
+          "name": "Kami-Igusa",
+          "station_id": "00003913",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.603522,
+            "lat": 35.72523
+          }
+        },
+        {
+          "name": "Kami-Shakujii",
+          "station_id": "00003987",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.592053,
+            "lat": 35.726242
+          }
+        },
+        {
+          "name": "Musashi-Seki",
+          "station_id": "00007957",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.576788,
+            "lat": 35.727584
+          }
+        },
+        {
+          "name": "Higashi-Fushimi",
+          "station_id": "00006842",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.564233,
+            "lat": 35.728706
+          }
+        },
+        {
+          "name": "Seibu-Yagisawa",
+          "station_id": "00004930",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.552614,
+            "lat": 35.728617
+          }
+        },
+        {
+          "name": "Tanashi",
+          "station_id": "00006511",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.539262,
+            "lat": 35.727251
+          }
+        },
+        {
+          "name": "Hana-Koganei",
+          "station_id": "00001105",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.513234,
+            "lat": 35.726131
+          }
+        },
+        {
+          "name": "Kodaira",
+          "station_id": "00003758",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.488236,
+            "lat": 35.737042
+          }
+        },
+        {
+          "name": "Kumegawa",
+          "station_id": "00001619",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.472186,
+            "lat": 35.750044
+          }
+        },
+        {
+          "name": "Higashi-Murayama",
+          "station_id": "00006770",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.465834,
+            "lat": 35.760675
+          }
+        },
+        {
+          "name": "Tokorozawa",
+          "station_id": "00003610",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.473314,
+            "lat": 35.786669
+          }
+        },
+        {
+          "name": "Koku-koen",
+          "station_id": "00002484",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.465548,
+            "lat": 35.798338
+          }
+        },
+        {
+          "name": "Shin-Tokorozawa",
+          "station_id": "00004259",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.456097,
+            "lat": 35.806771
+          }
+        },
+        {
+          "name": "Iriso",
+          "station_id": "00007313",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.427041,
+            "lat": 35.83252
+          }
+        },
+        {
+          "name": "Sayamashi(Saitama)",
+          "station_id": "00001779",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.413222,
+            "lat": 35.85701
+          }
+        },
+        {
+          "name": "Shin-Sayama",
+          "station_id": "00004213",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.433491,
+            "lat": 35.873956
+          }
+        },
+        {
+          "name": "Minami-Otsuka",
+          "station_id": "00007132",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.454313,
+            "lat": 35.889796
+          }
+        },
+        {
+          "name": "Hon-Kawagoe",
+          "station_id": "00008477",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.48134,
+            "lat": 35.914113
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Seibu-Shinjuku",
+          "from_id": "00004927",
+          "to": "Takadanobaba",
+          "to_id": "00002616",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Takadanobaba",
+          "from_id": "00002616",
+          "to": "Shimo-Ochiai (Tokyo)",
+          "to_id": "00001006",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shimo-Ochiai (Tokyo)",
+          "from_id": "00001006",
+          "to": "Nakai",
+          "to_id": "00006016",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nakai",
+          "from_id": "00006016",
+          "to": "Araiyakushi-mae",
+          "to_id": "00004169",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Araiyakushi-mae",
+          "from_id": "00004169",
+          "to": "Numabukuro",
+          "to_id": "00003886",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Numabukuro",
+          "from_id": "00003886",
+          "to": "Nogata",
+          "to_id": "00008744",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nogata",
+          "from_id": "00008744",
+          "to": "Toritsu-Kasei",
+          "to_id": "00006555",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Toritsu-Kasei",
+          "from_id": "00006555",
+          "to": "Saginomiya",
+          "to_id": "00002874",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Saginomiya",
+          "from_id": "00002874",
+          "to": "Shimo-Igusa",
+          "to_id": "00000904",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shimo-Igusa",
+          "from_id": "00000904",
+          "to": "Iogi",
+          "to_id": "00000414",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Iogi",
+          "from_id": "00000414",
+          "to": "Kami-Igusa",
+          "to_id": "00003913",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kami-Igusa",
+          "from_id": "00003913",
+          "to": "Kami-Shakujii",
+          "to_id": "00003987",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kami-Shakujii",
+          "from_id": "00003987",
+          "to": "Musashi-Seki",
+          "to_id": "00007957",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Musashi-Seki",
+          "from_id": "00007957",
+          "to": "Higashi-Fushimi",
+          "to_id": "00006842",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Higashi-Fushimi",
+          "from_id": "00006842",
+          "to": "Seibu-Yagisawa",
+          "to_id": "00004930",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Seibu-Yagisawa",
+          "from_id": "00004930",
+          "to": "Tanashi",
+          "to_id": "00006511",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tanashi",
+          "from_id": "00006511",
+          "to": "Hana-Koganei",
+          "to_id": "00001105",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hana-Koganei",
+          "from_id": "00001105",
+          "to": "Kodaira",
+          "to_id": "00003758",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kodaira",
+          "from_id": "00003758",
+          "to": "Kumegawa",
+          "to_id": "00001619",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kumegawa",
+          "from_id": "00001619",
+          "to": "Higashi-Murayama",
+          "to_id": "00006770",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Higashi-Murayama",
+          "from_id": "00006770",
+          "to": "Tokorozawa",
+          "to_id": "00003610",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Tokorozawa",
+          "from_id": "00003610",
+          "to": "Koku-koen",
+          "to_id": "00002484",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Koku-koen",
+          "from_id": "00002484",
+          "to": "Shin-Tokorozawa",
+          "to_id": "00004259",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shin-Tokorozawa",
+          "from_id": "00004259",
+          "to": "Iriso",
+          "to_id": "00007313",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Iriso",
+          "from_id": "00007313",
+          "to": "Sayamashi(Saitama)",
+          "to_id": "00001779",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Sayamashi(Saitama)",
+          "from_id": "00001779",
+          "to": "Shin-Sayama",
+          "to_id": "00004213",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-Sayama",
+          "from_id": "00004213",
+          "to": "Minami-Otsuka",
+          "to_id": "00007132",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Minami-Otsuka",
+          "from_id": "00007132",
+          "to": "Hon-Kawagoe",
+          "to_id": "00008477",
+          "travel_time_minutes": 4
+        }
+      ]
+    },
+    "Semi Express": {
+      "line": "Seibu Shinjuku Line",
+      "train_type": "Semi Express",
+      "total_stops": 20,
+      "stops": [
+        {
+          "name": "Seibu-Shinjuku",
+          "station_id": "00004927",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.70002,
+            "lat": 35.695381
+          }
+        },
+        {
+          "name": "Takadanobaba",
+          "station_id": "00002616",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.703849,
+            "lat": 35.712633
+          }
+        },
+        {
+          "name": "Saginomiya",
+          "station_id": "00002874",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.638908,
+            "lat": 35.72259
+          }
+        },
+        {
+          "name": "Kami-Shakujii",
+          "station_id": "00003987",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.592053,
+            "lat": 35.726242
+          }
+        },
+        {
+          "name": "Musashi-Seki",
+          "station_id": "00007957",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.576788,
+            "lat": 35.727584
+          }
+        },
+        {
+          "name": "Higashi-Fushimi",
+          "station_id": "00006842",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.564233,
+            "lat": 35.728706
+          }
+        },
+        {
+          "name": "Seibu-Yagisawa",
+          "station_id": "00004930",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.552614,
+            "lat": 35.728617
+          }
+        },
+        {
+          "name": "Tanashi",
+          "station_id": "00006511",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.539262,
+            "lat": 35.727251
+          }
+        },
+        {
+          "name": "Hana-Koganei",
+          "station_id": "00001105",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.513234,
+            "lat": 35.726131
+          }
+        },
+        {
+          "name": "Kodaira",
+          "station_id": "00003758",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.488236,
+            "lat": 35.737042
+          }
+        },
+        {
+          "name": "Kumegawa",
+          "station_id": "00001619",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.472186,
+            "lat": 35.750044
+          }
+        },
+        {
+          "name": "Higashi-Murayama",
+          "station_id": "00006770",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.465834,
+            "lat": 35.760675
+          }
+        },
+        {
+          "name": "Tokorozawa",
+          "station_id": "00003610",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.473314,
+            "lat": 35.786669
+          }
+        },
+        {
+          "name": "Koku-koen",
+          "station_id": "00002484",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.465548,
+            "lat": 35.798338
+          }
+        },
+        {
+          "name": "Shin-Tokorozawa",
+          "station_id": "00004259",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.456097,
+            "lat": 35.806771
+          }
+        },
+        {
+          "name": "Iriso",
+          "station_id": "00007313",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.427041,
+            "lat": 35.83252
+          }
+        },
+        {
+          "name": "Sayamashi(Saitama)",
+          "station_id": "00001779",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.413222,
+            "lat": 35.85701
+          }
+        },
+        {
+          "name": "Shin-Sayama",
+          "station_id": "00004213",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.433491,
+            "lat": 35.873956
+          }
+        },
+        {
+          "name": "Minami-Otsuka",
+          "station_id": "00007132",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.454313,
+            "lat": 35.889796
+          }
+        },
+        {
+          "name": "Hon-Kawagoe",
+          "station_id": "00008477",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.48134,
+            "lat": 35.914113
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Seibu-Shinjuku",
+          "from_id": "00004927",
+          "to": "Takadanobaba",
+          "to_id": "00002616",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Takadanobaba",
+          "from_id": "00002616",
+          "to": "Saginomiya",
+          "to_id": "00002874",
+          "travel_time_minutes": 8
+        },
+        {
+          "from": "Saginomiya",
+          "from_id": "00002874",
+          "to": "Kami-Shakujii",
+          "to_id": "00003987",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Kami-Shakujii",
+          "from_id": "00003987",
+          "to": "Musashi-Seki",
+          "to_id": "00007957",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Musashi-Seki",
+          "from_id": "00007957",
+          "to": "Higashi-Fushimi",
+          "to_id": "00006842",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Higashi-Fushimi",
+          "from_id": "00006842",
+          "to": "Seibu-Yagisawa",
+          "to_id": "00004930",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Seibu-Yagisawa",
+          "from_id": "00004930",
+          "to": "Tanashi",
+          "to_id": "00006511",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tanashi",
+          "from_id": "00006511",
+          "to": "Hana-Koganei",
+          "to_id": "00001105",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hana-Koganei",
+          "from_id": "00001105",
+          "to": "Kodaira",
+          "to_id": "00003758",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kodaira",
+          "from_id": "00003758",
+          "to": "Kumegawa",
+          "to_id": "00001619",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kumegawa",
+          "from_id": "00001619",
+          "to": "Higashi-Murayama",
+          "to_id": "00006770",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Higashi-Murayama",
+          "from_id": "00006770",
+          "to": "Tokorozawa",
+          "to_id": "00003610",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Tokorozawa",
+          "from_id": "00003610",
+          "to": "Koku-koen",
+          "to_id": "00002484",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Koku-koen",
+          "from_id": "00002484",
+          "to": "Shin-Tokorozawa",
+          "to_id": "00004259",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-Tokorozawa",
+          "from_id": "00004259",
+          "to": "Iriso",
+          "to_id": "00007313",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Iriso",
+          "from_id": "00007313",
+          "to": "Sayamashi(Saitama)",
+          "to_id": "00001779",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Sayamashi(Saitama)",
+          "from_id": "00001779",
+          "to": "Shin-Sayama",
+          "to_id": "00004213",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-Sayama",
+          "from_id": "00004213",
+          "to": "Minami-Otsuka",
+          "to_id": "00007132",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Minami-Otsuka",
+          "from_id": "00007132",
+          "to": "Hon-Kawagoe",
+          "to_id": "00008477",
+          "travel_time_minutes": 4
+        }
+      ]
+    },
+    "Express": {
+      "line": "Seibu Shinjuku Line",
+      "train_type": "Express",
+      "total_stops": 7,
+      "stops": [
+        {
+          "name": "Seibu-Shinjuku",
+          "station_id": "00004927",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.70002,
+            "lat": 35.695381
+          }
+        },
+        {
+          "name": "Takadanobaba",
+          "station_id": "00002616",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.703849,
+            "lat": 35.712633
+          }
+        },
+        {
+          "name": "Saginomiya",
+          "station_id": "00002874",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.638908,
+            "lat": 35.72259
+          }
+        },
+        {
+          "name": "Kami-Shakujii",
+          "station_id": "00003987",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.592053,
+            "lat": 35.726242
+          }
+        },
+        {
+          "name": "Tanashi",
+          "station_id": "00006511",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.539262,
+            "lat": 35.727251
+          }
+        },
+        {
+          "name": "Hana-Koganei",
+          "station_id": "00001105",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.513234,
+            "lat": 35.726131
+          }
+        },
+        {
+          "name": "Kodaira",
+          "station_id": "00003758",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.488236,
+            "lat": 35.737042
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Seibu-Shinjuku",
+          "from_id": "00004927",
+          "to": "Takadanobaba",
+          "to_id": "00002616",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Takadanobaba",
+          "from_id": "00002616",
+          "to": "Saginomiya",
+          "to_id": "00002874",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Saginomiya",
+          "from_id": "00002874",
+          "to": "Kami-Shakujii",
+          "to_id": "00003987",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Kami-Shakujii",
+          "from_id": "00003987",
+          "to": "Tanashi",
+          "to_id": "00006511",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Tanashi",
+          "from_id": "00006511",
+          "to": "Hana-Koganei",
+          "to_id": "00001105",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hana-Koganei",
+          "from_id": "00001105",
+          "to": "Kodaira",
+          "to_id": "00003758",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Limited Express": {
+      "line": "Seibu Shinjuku Line",
+      "train_type": "Limited Express",
+      "total_stops": 6,
+      "stops": [
+        {
+          "name": "Seibu-Shinjuku",
+          "station_id": "00004927",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.70002,
+            "lat": 35.695381
+          }
+        },
+        {
+          "name": "Takadanobaba",
+          "station_id": "00002616",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.703849,
+            "lat": 35.712633
+          }
+        },
+        {
+          "name": "Higashi-Murayama",
+          "station_id": "00006770",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.465834,
+            "lat": 35.760675
+          }
+        },
+        {
+          "name": "Tokorozawa",
+          "station_id": "00003610",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.473314,
+            "lat": 35.786669
+          }
+        },
+        {
+          "name": "Sayamashi(Saitama)",
+          "station_id": "00001779",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.413222,
+            "lat": 35.85701
+          }
+        },
+        {
+          "name": "Hon-Kawagoe",
+          "station_id": "00008477",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.48134,
+            "lat": 35.914113
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Seibu-Shinjuku",
+          "from_id": "00004927",
+          "to": "Takadanobaba",
+          "to_id": "00002616",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Takadanobaba",
+          "from_id": "00002616",
+          "to": "Higashi-Murayama",
+          "to_id": "00006770",
+          "travel_time_minutes": 22
+        },
+        {
+          "from": "Higashi-Murayama",
+          "from_id": "00006770",
+          "to": "Tokorozawa",
+          "to_id": "00003610",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Tokorozawa",
+          "from_id": "00003610",
+          "to": "Sayamashi(Saitama)",
+          "to_id": "00001779",
+          "travel_time_minutes": 8
+        },
+        {
+          "from": "Sayamashi(Saitama)",
+          "from_id": "00001779",
+          "to": "Hon-Kawagoe",
+          "to_id": "00008477",
+          "travel_time_minutes": 7
+        }
+      ]
+    },
+    "Paid": {
+      "line": "Seibu Shinjuku Line",
+      "train_type": "Paid",
+      "total_stops": 3,
+      "stops": [
+        {
+          "name": "Seibu-Shinjuku",
+          "station_id": "00004927",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.70002,
+            "lat": 35.695381
+          }
+        },
+        {
+          "name": "Takadanobaba",
+          "station_id": "00002616",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.703849,
+            "lat": 35.712633
+          }
+        },
+        {
+          "name": "Kodaira",
+          "station_id": "00003758",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.488236,
+            "lat": 35.737042
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Seibu-Shinjuku",
+          "from_id": "00004927",
+          "to": "Takadanobaba",
+          "to_id": "00002616",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Takadanobaba",
+          "from_id": "00002616",
+          "to": "Kodaira",
+          "to_id": "00003758",
+          "travel_time_minutes": 23
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:54:21.741Z"
+}

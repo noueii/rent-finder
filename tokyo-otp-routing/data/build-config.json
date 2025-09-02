@@ -1,0 +1,14 @@
+{
+  "transitFeeds": [
+    {
+      "type": "gtfs",
+      "source": "tokyo_rail.zip",
+      "feedId": "tokyo-rail"
+    },
+    {
+      "type": "gtfs",
+      "source": "tokyo_bus.zip",
+      "feedId": "tokyo-bus"
+    }
+  ]
+}

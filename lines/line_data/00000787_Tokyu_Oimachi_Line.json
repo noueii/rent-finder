@@ -1,0 +1,876 @@
+{
+  "line": "Tokyu Oimachi Line",
+  "operator": "Tokyu Corporation",
+  "navitime_id": "00000787",
+  "first_station_id": "00005517",
+  "stations": [
+    {
+      "name": "Oimachi",
+      "japanese_name": "大井町",
+      "station_id": "00005517",
+      "order": 1,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "Rinkai Line"
+      ]
+    },
+    {
+      "name": "Shimo-shimmei",
+      "japanese_name": "下神明",
+      "station_id": "00000948",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Togoshi-koen",
+      "japanese_name": "戸越公園",
+      "station_id": "00002187",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Nakanobu",
+      "japanese_name": "中延",
+      "station_id": "00006021",
+      "order": 4,
+      "transfers": [
+        "Toei Asakusa Line"
+      ]
+    },
+    {
+      "name": "Ebara-machi",
+      "japanese_name": "荏原町",
+      "station_id": "00000644",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Hatanodai",
+      "japanese_name": "旗の台",
+      "station_id": "00001472",
+      "order": 6,
+      "transfers": [
+        "Tokyu Ikegami Line"
+      ]
+    },
+    {
+      "name": "Kita-senzoku",
+      "japanese_name": "北千束",
+      "station_id": "00008356",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Ookayama",
+      "japanese_name": "大岡山",
+      "station_id": "00005529",
+      "order": 8,
+      "transfers": [
+        "Tokyu Meguro Line"
+      ]
+    },
+    {
+      "name": "Midorigaoka(Tokyo)",
+      "japanese_name": "緑が丘(東京都)",
+      "station_id": "00009027",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Jiyugaoka(Tokyo)",
+      "japanese_name": "自由が丘(東京都)",
+      "station_id": "00003330",
+      "order": 10,
+      "transfers": [
+        "Tokyu Toyoko Line"
+      ]
+    },
+    {
+      "name": "Kuhombutsu",
+      "japanese_name": "九品仏",
+      "station_id": "00001924",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Oyamadai",
+      "japanese_name": "尾山台",
+      "station_id": "00007727",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Todoroki",
+      "japanese_name": "等々力",
+      "station_id": "00006919",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Kaminoge",
+      "japanese_name": "上野毛",
+      "station_id": "00004076",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Futako-tamagawa",
+      "japanese_name": "二子玉川",
+      "station_id": "00007197",
+      "order": 15,
+      "transfers": [
+        "Tokyu Den-en-toshi Line"
+      ]
+    },
+    {
+      "name": "Futako-shinchi",
+      "japanese_name": "二子新地",
+      "station_id": "00007198",
+      "order": 16,
+      "transfers": [
+        "Tokyu Den-en-toshi Line"
+      ]
+    },
+    {
+      "name": "Takatsu(Kanagawa)",
+      "japanese_name": "高津(神奈川県)",
+      "station_id": "00002605",
+      "order": 17,
+      "transfers": [
+        "Tokyu Den-en-toshi Line"
+      ]
+    },
+    {
+      "name": "Mizonokuchi",
+      "japanese_name": "溝の口〔東急線〕",
+      "station_id": "00002454",
+      "order": 18,
+      "transfers": [
+        "Tokyu Den-en-toshi Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Midori Local",
+    "Express",
+    "Ao Local"
+  ],
+  "example_trains": {
+    "Midori Local": {
+      "trainId": "82590071",
+      "trainName": "Tokyu Oimachi Line Local (Green)",
+      "destination": "Mizonokuchi",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "02",
+      "type": "Midori Local"
+    },
+    "Express": {
+      "trainId": "8259006f",
+      "trainName": "Tokyu Oimachi Line Express",
+      "destination": "Mizonokuchi",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "01",
+      "type": "Express"
+    },
+    "Ao Local": {
+      "trainId": "82590000",
+      "trainName": "Tokyu Oimachi Line Local (Blue)",
+      "destination": "Mizonokuchi",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "58",
+      "type": "Ao Local"
+    }
+  },
+  "train_stop_details": {
+    "Midori Local": {
+      "line": "Tokyu Oimachi Line",
+      "train_type": "Midori Local",
+      "total_stops": 16,
+      "stops": [
+        {
+          "name": "Oimachi",
+          "station_id": "00005517",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.734696,
+            "lat": 35.607601
+          }
+        },
+        {
+          "name": "Shimo-shimmei",
+          "station_id": "00000948",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.726217,
+            "lat": 35.608802
+          }
+        },
+        {
+          "name": "Togoshi-koen",
+          "station_id": "00002187",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.718114,
+            "lat": 35.608893
+          }
+        },
+        {
+          "name": "Nakanobu",
+          "station_id": "00006021",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.712657,
+            "lat": 35.605756
+          }
+        },
+        {
+          "name": "Ebara-machi",
+          "station_id": "00000644",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.70773,
+            "lat": 35.603835
+          }
+        },
+        {
+          "name": "Hatanodai",
+          "station_id": "00001472",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.702751,
+            "lat": 35.604844
+          }
+        },
+        {
+          "name": "Kita-senzoku",
+          "station_id": "00008356",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.693227,
+            "lat": 35.606312
+          }
+        },
+        {
+          "name": "Ookayama",
+          "station_id": "00005529",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.685666,
+            "lat": 35.607466
+          }
+        },
+        {
+          "name": "Midorigaoka(Tokyo)",
+          "station_id": "00009027",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.678958,
+            "lat": 35.606549
+          }
+        },
+        {
+          "name": "Jiyugaoka(Tokyo)",
+          "station_id": "00003330",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.668751,
+            "lat": 35.607366
+          }
+        },
+        {
+          "name": "Kuhombutsu",
+          "station_id": "00001924",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.661468,
+            "lat": 35.605324
+          }
+        },
+        {
+          "name": "Oyamadai",
+          "station_id": "00007727",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.653372,
+            "lat": 35.607096
+          }
+        },
+        {
+          "name": "Todoroki",
+          "station_id": "00006919",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.647841,
+            "lat": 35.608373
+          }
+        },
+        {
+          "name": "Kaminoge",
+          "station_id": "00004076",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.638791,
+            "lat": 35.61203
+          }
+        },
+        {
+          "name": "Futako-tamagawa",
+          "station_id": "00007197",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.627239,
+            "lat": 35.612205
+          }
+        },
+        {
+          "name": "Mizonokuchi",
+          "station_id": "00002454",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.610652,
+            "lat": 35.599937
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Oimachi",
+          "from_id": "00005517",
+          "to": "Shimo-shimmei",
+          "to_id": "00000948",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shimo-shimmei",
+          "from_id": "00000948",
+          "to": "Togoshi-koen",
+          "to_id": "00002187",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Togoshi-koen",
+          "from_id": "00002187",
+          "to": "Nakanobu",
+          "to_id": "00006021",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nakanobu",
+          "from_id": "00006021",
+          "to": "Ebara-machi",
+          "to_id": "00000644",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ebara-machi",
+          "from_id": "00000644",
+          "to": "Hatanodai",
+          "to_id": "00001472",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hatanodai",
+          "from_id": "00001472",
+          "to": "Kita-senzoku",
+          "to_id": "00008356",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kita-senzoku",
+          "from_id": "00008356",
+          "to": "Ookayama",
+          "to_id": "00005529",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ookayama",
+          "from_id": "00005529",
+          "to": "Midorigaoka(Tokyo)",
+          "to_id": "00009027",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Midorigaoka(Tokyo)",
+          "from_id": "00009027",
+          "to": "Jiyugaoka(Tokyo)",
+          "to_id": "00003330",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Jiyugaoka(Tokyo)",
+          "from_id": "00003330",
+          "to": "Kuhombutsu",
+          "to_id": "00001924",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kuhombutsu",
+          "from_id": "00001924",
+          "to": "Oyamadai",
+          "to_id": "00007727",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Oyamadai",
+          "from_id": "00007727",
+          "to": "Todoroki",
+          "to_id": "00006919",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Todoroki",
+          "from_id": "00006919",
+          "to": "Kaminoge",
+          "to_id": "00004076",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kaminoge",
+          "from_id": "00004076",
+          "to": "Futako-tamagawa",
+          "to_id": "00007197",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Futako-tamagawa",
+          "from_id": "00007197",
+          "to": "Mizonokuchi",
+          "to_id": "00002454",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Express": {
+      "line": "Tokyu Oimachi Line",
+      "train_type": "Express",
+      "total_stops": 6,
+      "stops": [
+        {
+          "name": "Oimachi",
+          "station_id": "00005517",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.734696,
+            "lat": 35.607601
+          }
+        },
+        {
+          "name": "Hatanodai",
+          "station_id": "00001472",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.702751,
+            "lat": 35.604844
+          }
+        },
+        {
+          "name": "Ookayama",
+          "station_id": "00005529",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.685666,
+            "lat": 35.607466
+          }
+        },
+        {
+          "name": "Jiyugaoka(Tokyo)",
+          "station_id": "00003330",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.668751,
+            "lat": 35.607366
+          }
+        },
+        {
+          "name": "Futako-tamagawa",
+          "station_id": "00007197",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.627239,
+            "lat": 35.612205
+          }
+        },
+        {
+          "name": "Mizonokuchi",
+          "station_id": "00002454",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.610652,
+            "lat": 35.599937
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Oimachi",
+          "from_id": "00005517",
+          "to": "Hatanodai",
+          "to_id": "00001472",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Hatanodai",
+          "from_id": "00001472",
+          "to": "Ookayama",
+          "to_id": "00005529",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ookayama",
+          "from_id": "00005529",
+          "to": "Jiyugaoka(Tokyo)",
+          "to_id": "00003330",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Jiyugaoka(Tokyo)",
+          "from_id": "00003330",
+          "to": "Futako-tamagawa",
+          "to_id": "00007197",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Futako-tamagawa",
+          "from_id": "00007197",
+          "to": "Mizonokuchi",
+          "to_id": "00002454",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Ao Local": {
+      "line": "Tokyu Oimachi Line",
+      "train_type": "Ao Local",
+      "total_stops": 18,
+      "stops": [
+        {
+          "name": "Oimachi",
+          "station_id": "00005517",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.734696,
+            "lat": 35.607601
+          }
+        },
+        {
+          "name": "Shimo-shimmei",
+          "station_id": "00000948",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.726217,
+            "lat": 35.608802
+          }
+        },
+        {
+          "name": "Togoshi-koen",
+          "station_id": "00002187",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.718114,
+            "lat": 35.608893
+          }
+        },
+        {
+          "name": "Nakanobu",
+          "station_id": "00006021",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.712657,
+            "lat": 35.605756
+          }
+        },
+        {
+          "name": "Ebara-machi",
+          "station_id": "00000644",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.70773,
+            "lat": 35.603835
+          }
+        },
+        {
+          "name": "Hatanodai",
+          "station_id": "00001472",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.702751,
+            "lat": 35.604844
+          }
+        },
+        {
+          "name": "Kita-senzoku",
+          "station_id": "00008356",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.693227,
+            "lat": 35.606312
+          }
+        },
+        {
+          "name": "Ookayama",
+          "station_id": "00005529",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.685666,
+            "lat": 35.607466
+          }
+        },
+        {
+          "name": "Midorigaoka(Tokyo)",
+          "station_id": "00009027",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.678958,
+            "lat": 35.606549
+          }
+        },
+        {
+          "name": "Jiyugaoka(Tokyo)",
+          "station_id": "00003330",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.668751,
+            "lat": 35.607366
+          }
+        },
+        {
+          "name": "Kuhombutsu",
+          "station_id": "00001924",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.661468,
+            "lat": 35.605324
+          }
+        },
+        {
+          "name": "Oyamadai",
+          "station_id": "00007727",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.653372,
+            "lat": 35.607096
+          }
+        },
+        {
+          "name": "Todoroki",
+          "station_id": "00006919",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.647841,
+            "lat": 35.608373
+          }
+        },
+        {
+          "name": "Kaminoge",
+          "station_id": "00004076",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.638791,
+            "lat": 35.61203
+          }
+        },
+        {
+          "name": "Futako-tamagawa",
+          "station_id": "00007197",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.627239,
+            "lat": 35.612205
+          }
+        },
+        {
+          "name": "Futako-shinchi",
+          "station_id": "00007198",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.622606,
+            "lat": 35.607208
+          }
+        },
+        {
+          "name": "Takatsu(Kanagawa)",
+          "station_id": "00002605",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.617572,
+            "lat": 35.603469
+          }
+        },
+        {
+          "name": "Mizonokuchi",
+          "station_id": "00002454",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.610652,
+            "lat": 35.599937
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Oimachi",
+          "from_id": "00005517",
+          "to": "Shimo-shimmei",
+          "to_id": "00000948",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shimo-shimmei",
+          "from_id": "00000948",
+          "to": "Togoshi-koen",
+          "to_id": "00002187",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Togoshi-koen",
+          "from_id": "00002187",
+          "to": "Nakanobu",
+          "to_id": "00006021",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nakanobu",
+          "from_id": "00006021",
+          "to": "Ebara-machi",
+          "to_id": "00000644",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ebara-machi",
+          "from_id": "00000644",
+          "to": "Hatanodai",
+          "to_id": "00001472",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Hatanodai",
+          "from_id": "00001472",
+          "to": "Kita-senzoku",
+          "to_id": "00008356",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kita-senzoku",
+          "from_id": "00008356",
+          "to": "Ookayama",
+          "to_id": "00005529",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ookayama",
+          "from_id": "00005529",
+          "to": "Midorigaoka(Tokyo)",
+          "to_id": "00009027",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Midorigaoka(Tokyo)",
+          "from_id": "00009027",
+          "to": "Jiyugaoka(Tokyo)",
+          "to_id": "00003330",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Jiyugaoka(Tokyo)",
+          "from_id": "00003330",
+          "to": "Kuhombutsu",
+          "to_id": "00001924",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kuhombutsu",
+          "from_id": "00001924",
+          "to": "Oyamadai",
+          "to_id": "00007727",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Oyamadai",
+          "from_id": "00007727",
+          "to": "Todoroki",
+          "to_id": "00006919",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Todoroki",
+          "from_id": "00006919",
+          "to": "Kaminoge",
+          "to_id": "00004076",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kaminoge",
+          "from_id": "00004076",
+          "to": "Futako-tamagawa",
+          "to_id": "00007197",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Futako-tamagawa",
+          "from_id": "00007197",
+          "to": "Futako-shinchi",
+          "to_id": "00007198",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Futako-shinchi",
+          "from_id": "00007198",
+          "to": "Takatsu(Kanagawa)",
+          "to_id": "00002605",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Takatsu(Kanagawa)",
+          "from_id": "00002605",
+          "to": "Mizonokuchi",
+          "to_id": "00002454",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:55:39.062Z"
+}

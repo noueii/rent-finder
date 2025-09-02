@@ -1,0 +1,83 @@
+Realestate.co.jp Scraping Summary
+=================================
+
+Search URL: https://realestate.co.jp/en/rent?prefecture=JP-13&max_price=160000&min_meter=25&page=1
+Scraped At: 2025-07-15T11:35:47.137Z
+Execution Time: 4.98s
+
+Total Apartments: 30
+Pages Scraped: 2
+
+Price Statistics:
+  Min: ¥53,000/month
+  Max: ¥160,000/month
+  Avg: ¥121,197/month
+
+Size Statistics:
+  Min: 25.0m²
+  Max: 103.5m²
+  Avg: 35.2m²
+
+Average Walking Time: 8.6 minutes
+
+Layout Distribution:
+  1K: 9 (30.0%)
+  1DK: 7 (23.3%)
+  2K: 4 (13.3%)
+  1LDK: 3 (10.0%)
+  3DK: 3 (10.0%)
+  2DK: 2 (6.7%)
+  2LDK: 1 (3.3%)
+  3LDK: 1 (3.3%)
+
+Top Districts:
+  Tokyo: 30
+
+Top Stations:
+  Sakurashinmachi Station: 2
+  Yutenji Station: 2
+  Kinshichou Station: 2
+  Hiroo Station: 1
+  Chitosefunabashi Station: 1
+  Kishibojinmae Station: 1
+  Nishigahara Station: 1
+  Minamiosawa Station: 1
+  Kiyosumi Shirakawa Station: 1
+  Hamachou Station: 1
+
+Sample Listings:
+
+1. 1K Apartment in HirooShibuya-ku
+   Price: ¥154,450/month (¥145,000 deposit)
+   Size: 25.64m² | Floor: 7 / 14F
+   Station: Hiroo Station (7 min walk)
+   Available: Early Aug 2025
+   URL: https://realestate.co.jp/en/rent/view/1249374
+
+2. 1DK Apartment in KyodoSetagaya-ku
+   Price: ¥74,000/month (¥69,000 deposit)
+   Size: 25.2m² | Floor: 2 / 5F
+   Station: Chitosefunabashi Station (7 min walk)
+   Available: 
+   URL: https://realestate.co.jp/en/rent/view/1249999
+
+3. 1LDK Apartment in ZoshigayaToshima-ku
+   Price: ¥137,700/month (¥0 deposit)
+   Size: 37.6m² | Floor: 3 / 3F
+   Station: Kishibojinmae Station (3 min walk)
+   Available: Aug 20, 2025
+   URL: https://realestate.co.jp/en/rent/view/1251410
+
+4. 1DK Apartment in KomagomeToshima-ku
+   Price: ¥131,000/month (¥0 deposit)
+   Size: 30.4m² | Floor: 4 / 5F
+   Station: Nishigahara Station (7 min walk)
+   Available: Oct 15, 2025
+   URL: https://realestate.co.jp/en/rent/view/1249627
+
+5. 2LDK Apartment in ShimoyugiHachioji-shi
+   Price: ¥93,000/month (¥90,000 deposit)
+   Size: 58.39m² | Floor: 2 / 2F
+   Station: Minamiosawa Station (18 min walk)
+   Available: Jul 31, 2025
+   URL: https://realestate.co.jp/en/rent/view/1247656

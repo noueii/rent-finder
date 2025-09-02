@@ -1,0 +1,350 @@
+{
+  "line": "Nippori-Toneri Liner",
+  "operator": "Toei",
+  "navitime_id": "00001092",
+  "first_station_id": "00007293",
+  "stations": [
+    {
+      "name": "Nippori",
+      "japanese_name": "日暮里",
+      "station_id": "00007293",
+      "order": 1,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Yamanote Line",
+        "JR Joban Line",
+        "Keisei Main Line"
+      ]
+    },
+    {
+      "name": "Nishi-nippori",
+      "japanese_name": "西日暮里",
+      "station_id": "00004905",
+      "order": 2,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Yamanote Line",
+        "Tokyo Metro Chiyoda Line"
+      ]
+    },
+    {
+      "name": "Akado-Shōgakkō",
+      "japanese_name": "赤土小学校前",
+      "station_id": "00009520",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Kumano-mae",
+      "japanese_name": "熊野前",
+      "station_id": "00001975",
+      "order": 4,
+      "transfers": [
+        "Toden Arakawa Line"
+      ]
+    },
+    {
+      "name": "Adachi-odai",
+      "japanese_name": "足立小台",
+      "station_id": "00009521",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Ogi-ohashi",
+      "japanese_name": "扇大橋",
+      "station_id": "00009522",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Koya(Tokyo)",
+      "japanese_name": "高野(東京都)",
+      "station_id": "00009523",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Kohoku (Tokyo)",
+      "japanese_name": "江北(東京都)",
+      "station_id": "00009524",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Nishiaraidaishi-nishi",
+      "japanese_name": "西新井大師西",
+      "station_id": "00009525",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Yazaike",
+      "japanese_name": "谷在家",
+      "station_id": "00009526",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Toneri-koen",
+      "japanese_name": "舎人公園",
+      "station_id": "00009527",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Toneri",
+      "japanese_name": "舎人",
+      "station_id": "00009528",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Minumadai-shinsuikoen",
+      "japanese_name": "見沼代親水公園",
+      "station_id": "00009529",
+      "order": 13,
+      "transfers": []
+    }
+  ],
+  "train_types": [
+    "Local"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "8322004a",
+      "trainName": "Toei Nippori Toneri Liner",
+      "destination": "Minumadai-shinsuikoen",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "01",
+      "type": "Local"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Nippori-Toneri Liner",
+      "train_type": "Local",
+      "total_stops": 13,
+      "stops": [
+        {
+          "name": "Nippori",
+          "station_id": "00007293",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.771357,
+            "lat": 35.728941
+          }
+        },
+        {
+          "name": "Nishi-nippori",
+          "station_id": "00004905",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.768115,
+            "lat": 35.733757
+          }
+        },
+        {
+          "name": "Akado-Shōgakkō",
+          "station_id": "00009520",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.769029,
+            "lat": 35.742859
+          }
+        },
+        {
+          "name": "Kumano-mae",
+          "station_id": "00001975",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.76985,
+            "lat": 35.748518
+          }
+        },
+        {
+          "name": "Adachi-odai",
+          "station_id": "00009521",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770389,
+            "lat": 35.754643
+          }
+        },
+        {
+          "name": "Ogi-ohashi",
+          "station_id": "00009522",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.77081,
+            "lat": 35.76389
+          }
+        },
+        {
+          "name": "Koya(Tokyo)",
+          "station_id": "00009523",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770686,
+            "lat": 35.768447
+          }
+        },
+        {
+          "name": "Kohoku (Tokyo)",
+          "station_id": "00009524",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770308,
+            "lat": 35.773956
+          }
+        },
+        {
+          "name": "Nishiaraidaishi-nishi",
+          "station_id": "00009525",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770093,
+            "lat": 35.781484
+          }
+        },
+        {
+          "name": "Yazaike",
+          "station_id": "00009526",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770053,
+            "lat": 35.788763
+          }
+        },
+        {
+          "name": "Toneri-koen",
+          "station_id": "00009527",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770165,
+            "lat": 35.796409
+          }
+        },
+        {
+          "name": "Toneri",
+          "station_id": "00009528",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770104,
+            "lat": 35.805651
+          }
+        },
+        {
+          "name": "Minumadai-shinsuikoen",
+          "station_id": "00009529",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770719,
+            "lat": 35.814516
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Nippori",
+          "from_id": "00007293",
+          "to": "Nishi-nippori",
+          "to_id": "00004905",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nishi-nippori",
+          "from_id": "00004905",
+          "to": "Akado-Shōgakkō",
+          "to_id": "00009520",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Akado-Shōgakkō",
+          "from_id": "00009520",
+          "to": "Kumano-mae",
+          "to_id": "00001975",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kumano-mae",
+          "from_id": "00001975",
+          "to": "Adachi-odai",
+          "to_id": "00009521",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Adachi-odai",
+          "from_id": "00009521",
+          "to": "Ogi-ohashi",
+          "to_id": "00009522",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ogi-ohashi",
+          "from_id": "00009522",
+          "to": "Koya(Tokyo)",
+          "to_id": "00009523",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Koya(Tokyo)",
+          "from_id": "00009523",
+          "to": "Kohoku (Tokyo)",
+          "to_id": "00009524",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kohoku (Tokyo)",
+          "from_id": "00009524",
+          "to": "Nishiaraidaishi-nishi",
+          "to_id": "00009525",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nishiaraidaishi-nishi",
+          "from_id": "00009525",
+          "to": "Yazaike",
+          "to_id": "00009526",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Yazaike",
+          "from_id": "00009526",
+          "to": "Toneri-koen",
+          "to_id": "00009527",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Toneri-koen",
+          "from_id": "00009527",
+          "to": "Toneri",
+          "to_id": "00009528",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Toneri",
+          "from_id": "00009528",
+          "to": "Minumadai-shinsuikoen",
+          "to_id": "00009529",
+          "travel_time_minutes": 2
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:57:16.461Z"
+}

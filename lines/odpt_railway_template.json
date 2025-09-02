@@ -1,0 +1,183 @@
+{
+	"3": {
+		"@id": "urn:ucode:_00001c00000000000001000003100e74",
+		"@type": "odpt:Railway",
+		"dc:date": "2024-06-27T08:00:00+09:00",
+		"@context": "http://vocab.odpt.org/context_odpt_Railway.jsonld",
+		"dc:title": "ゆりかもめ",
+		"odpt:color": "#0065A6",
+		"owl:sameAs": "odpt.Railway:Yurikamome.Yurikamome",
+		"odpt:lineCode": "U",
+		"odpt:operator": "odpt.Operator:Yurikamome",
+		"odpt:railwayTitle": {
+			"en": "Yurikamome line",
+			"ja": "ゆりかもめ",
+			"ko": "유리카모메선",
+			"zh-Hans": "百合鸥线"
+		},
+		"odpt:stationOrder": [
+			{
+				"odpt:index": 1,
+				"odpt:station": "odpt.Station:Yurikamome.Yurikamome.Shimbashi",
+				"odpt:stationTitle": {
+					"en": "Shimbashi",
+					"ja": "新橋",
+					"ko": "신바시",
+					"zh-Hans": "新桥"
+				}
+			},
+			{
+				"odpt:index": 2,
+				"odpt:station": "odpt.Station:Yurikamome.Yurikamome.Shiodome",
+				"odpt:stationTitle": {
+					"en": "Shiodome",
+					"ja": "汐留",
+					"ko": "시오도메",
+					"zh-Hans": "汐留"
+				}
+			},
+			{
+				"odpt:index": 3,
+				"odpt:station": "odpt.Station:Yurikamome.Yurikamome.Takeshiba",
+				"odpt:stationTitle": {
+					"en": "Takeshiba",
+					"ja": "竹芝",
+					"ko": "다케시바",
+					"zh-Hans": "竹芝"
+				}
+			},
+			{
+				"odpt:index": 4,
+				"odpt:station": "odpt.Station:Yurikamome.Yurikamome.Hinode",
+				"odpt:stationTitle": {
+					"en": "Hinode",
+					"ja": "日の出",
+					"ko": "히노데",
+					"zh-Hans": "日之出"
+				}
+			},
+			{
+				"odpt:index": 5,
+				"odpt:station": "odpt.Station:Yurikamome.Yurikamome.ShibauraFuto",
+				"odpt:stationTitle": {
+					"en": "Shibaura-futō",
+					"ja": "芝浦ふ頭",
+					"ko": "시바우라후토",
+					"zh-Hans": "芝浦埠头"
+				}
+			},
+			{
+				"odpt:index": 6,
+				"odpt:station": "odpt.Station:Yurikamome.Yurikamome.OdaibaKaihinkoen",
+				"odpt:stationTitle": {
+					"en": "Odaiba-kaihinkōen",
+					"ja": "お台場海浜公園",
+					"ko": "오다이바카이힌코엔",
+					"zh-Hans": "御台场海滨公园"
+				}
+			},
+			{
+				"odpt:index": 7,
+				"odpt:station": "odpt.Station:Yurikamome.Yurikamome.Daiba",
+				"odpt:stationTitle": {
+					"en": "Daiba",
+					"ja": "台場",
+					"ko": "다이바",
+					"zh-Hans": "台场"
+				}
+			},
+			{
+				"odpt:index": 8,
+				"odpt:station": "odpt.Station:Yurikamome.Yurikamome.TokyoInternationalCruiseTerminal",
+				"odpt:stationTitle": {
+					"en": "Tokyo International Cruise Terminal",
+					"ja": "東京国際クルーズターミナル",
+					"ko": "도쿄국제크루즈터미널",
+					"zh-Hans": "东京国际邮轮码头"
+				}
+			},
+			{
+				"odpt:index": 9,
+				"odpt:station": "odpt.Station:Yurikamome.Yurikamome.TelecomCenter",
+				"odpt:stationTitle": {
+					"en": "Telecom Center",
+					"ja": "テレコムセンター",
+					"ko": "텔레콤센터",
+					"zh-Hans": "远程通信中心"
+				}
+			},
+			{
+				"odpt:index": 10,
+				"odpt:station": "odpt.Station:Yurikamome.Yurikamome.Aomi",
+				"odpt:stationTitle": {
+					"en": "Aomi",
+					"ja": "青海",
+					"ko": "아오미",
+					"zh-Hans": "青海"
+				}
+			},
+			{
+				"odpt:index": 11,
+				"odpt:station": "odpt.Station:Yurikamome.Yurikamome.TokyoBigSight",
+				"odpt:stationTitle": {
+					"en": "Tokyo Big Sight",
+					"ja": "東京ビッグサイト",
+					"ko": "도쿄빅사이트",
+					"zh-Hans": "东京国际展览中心"
+				}
+			},
+			{
+				"odpt:index": 12,
+				"odpt:station": "odpt.Station:Yurikamome.Yurikamome.Ariake",
+				"odpt:stationTitle": {
+					"en": "Ariake",
+					"ja": "有明",
+					"ko": "아리아케",
+					"zh-Hans": "有明"
+				}
+			},
+			{
+				"odpt:index": 13,
+				"odpt:station": "odpt.Station:Yurikamome.Yurikamome.AriakeTennisNoMori",
+				"odpt:stationTitle": {
+					"en": "Ariake-tennis-no-mori",
+					"ja": "有明テニスの森",
+					"ko": "아리아케테니스노모리",
+					"zh-Hans": "有明网球之森"
+				}
+			},
+			{
+				"odpt:index": 14,
+				"odpt:station": "odpt.Station:Yurikamome.Yurikamome.ShijoMae",
+				"odpt:stationTitle": {
+					"en": "Shijō-mae",
+					"ja": "市場前",
+					"ko": "시조마에",
+					"zh-Hans": "市场前"
+				}
+			},
+			{
+				"odpt:index": 15,
+				"odpt:station": "odpt.Station:Yurikamome.Yurikamome.ShinToyosu",
+				"odpt:stationTitle": {
+					"en": "Shin-Toyosu",
+					"ja": "新豊洲",
+					"ko": "신토요스",
+					"zh-Hans": "新丰洲"
+				}
+			},
+			{
+				"odpt:index": 16,
+				"odpt:station": "odpt.Station:Yurikamome.Yurikamome.Toyosu",
+				"odpt:stationTitle": {
+					"en": "Toyosu",
+					"ja": "豊洲",
+					"ko": "도요스",
+					"zh-Hans": "丰洲"
+				}
+			}
+		],
+		"odpt:ascendingRailDirection": "odpt.RailDirection:Outbound",
+		"odpt:descendingRailDirection": "odpt.RailDirection:Inbound"
+	}
+}

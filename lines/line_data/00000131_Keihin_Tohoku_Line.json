@@ -1,0 +1,1529 @@
+{
+  "line": "Keihin–Tohoku Line",
+  "operator": "JR East",
+  "navitime_id": "00000131",
+  "first_station_id": "00005564",
+  "stations": [
+    {
+      "name": "Omiya (Saitama)",
+      "japanese_name": "大宮(埼玉県)",
+      "station_id": "00005564",
+      "order": 1,
+      "transfers": [
+        "JR Takasaki Line",
+        "JR Saikyo Line",
+        "JR Joetsu Shinkansen",
+        "JR Kawagoe Line",
+        "JR Hokuriku Shinkansen(via Nagano)",
+        "JR Tohoku Shinkansen",
+        "JR Utsunomiya Line[Tohoku Main Line]‧JR Ueno Tokyo Line",
+        "Saitama New Urban Transit New Shuttle",
+        "Tobu Noda Line (Urban Park Line)",
+        "JR Musashino Line(Omiya)"
+      ]
+    },
+    {
+      "name": "Saitama-Shintoshin",
+      "japanese_name": "さいたま新都心",
+      "station_id": "00000058",
+      "order": 2,
+      "transfers": [
+        "JR Utsunomiya Line[Tohoku Main Line]‧JR Ueno Tokyo Line"
+      ]
+    },
+    {
+      "name": "Yono",
+      "japanese_name": "与野",
+      "station_id": "00008882",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Kita-Urawa",
+      "japanese_name": "北浦和",
+      "station_id": "00008277",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Urawa",
+      "japanese_name": "浦和",
+      "station_id": "00000634",
+      "order": 5,
+      "transfers": [
+        "JR Utsunomiya Line[Tohoku Main Line]‧JR Ueno Tokyo Line"
+      ]
+    },
+    {
+      "name": "Minami-Urawa",
+      "japanese_name": "南浦和",
+      "station_id": "00007046",
+      "order": 6,
+      "transfers": [
+        "JR Musashino Line(Fuchuhommachi-Minamifunabashi)"
+      ]
+    },
+    {
+      "name": "Warabi",
+      "japanese_name": "蕨",
+      "station_id": "00009144",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Nishi-Kawaguchi",
+      "japanese_name": "西川口",
+      "station_id": "00004829",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Kawaguchi",
+      "japanese_name": "川口",
+      "station_id": "00005199",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Akabane",
+      "japanese_name": "赤羽",
+      "station_id": "00005069",
+      "order": 10,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Utsunomiya Line[Tohoku Main Line]‧JR Ueno Tokyo Line",
+        "JR Shonan-Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Higashi-Jujo",
+      "japanese_name": "東十条",
+      "station_id": "00006718",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Oji",
+      "japanese_name": "王子",
+      "station_id": "00000840",
+      "order": 12,
+      "transfers": [
+        "Tokyo Metro Namboku Line"
+      ]
+    },
+    {
+      "name": "Kami-Nakazato",
+      "japanese_name": "上中里",
+      "station_id": "00004018",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Tabata",
+      "japanese_name": "田端",
+      "station_id": "00006491",
+      "order": 14,
+      "transfers": [
+        "JR Yamanote Line"
+      ]
+    },
+    {
+      "name": "Nishi-nippori",
+      "japanese_name": "西日暮里",
+      "station_id": "00004905",
+      "order": 15,
+      "transfers": [
+        "JR Yamanote Line",
+        "Tokyo Metro Chiyoda Line",
+        "Toei Nippori Toneri Liner"
+      ]
+    },
+    {
+      "name": "Nippori",
+      "japanese_name": "日暮里",
+      "station_id": "00007293",
+      "order": 16,
+      "transfers": [
+        "JR Yamanote Line",
+        "JR Joban Line",
+        "Keisei Main Line",
+        "Toei Nippori Toneri Liner"
+      ]
+    },
+    {
+      "name": "Uguisudani",
+      "japanese_name": "鶯谷",
+      "station_id": "00009194",
+      "order": 17,
+      "transfers": [
+        "JR Yamanote Line"
+      ]
+    },
+    {
+      "name": "Ueno",
+      "japanese_name": "上野",
+      "station_id": "00004067",
+      "order": 18,
+      "transfers": [
+        "JR Yamanote Line",
+        "JR Joetsu Shinkansen",
+        "JR Joban Line",
+        "JR Hokuriku Shinkansen(via Nagano)",
+        "JR Tohoku Shinkansen",
+        "JR Utsunomiya Line[Tohoku Main Line]‧JR Ueno Tokyo Line",
+        "Tokyo Metro Ginza Line",
+        "Tokyo Metro Hibiya Line"
+      ]
+    },
+    {
+      "name": "Okachimachi",
+      "japanese_name": "御徒町",
+      "station_id": "00002300",
+      "order": 19,
+      "transfers": [
+        "JR Yamanote Line"
+      ]
+    },
+    {
+      "name": "Akihabara",
+      "japanese_name": "秋葉原",
+      "station_id": "00003494",
+      "order": 20,
+      "transfers": [
+        "JR Yamanote Line",
+        "JR Sobu Line Local (Ochanomizu-Kinshicho)",
+        "Tokyo Metro Hibiya Line",
+        "Tsukuba Express"
+      ]
+    },
+    {
+      "name": "Kanda(Tokyo)",
+      "japanese_name": "神田(東京都)",
+      "station_id": "00004464",
+      "order": 21,
+      "transfers": [
+        "JR Yamanote Line",
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "Tokyo Metro Ginza Line"
+      ]
+    },
+    {
+      "name": "Tokyo",
+      "japanese_name": "東京",
+      "station_id": "00006668",
+      "order": 22,
+      "transfers": [
+        "JR Tokaido Shinkansen",
+        "JR Yokosuka Line",
+        "JR Keiyo Line",
+        "JR Yamanote Line",
+        "JR Joetsu Shinkansen",
+        "JR Sobu Main Line(Tokyo-Choshi)",
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "JR Hokuriku Shinkansen(via Nagano)",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "JR Tohoku Shinkansen",
+        "JR Utsunomiya Line[Tohoku Main Line]‧JR Ueno Tokyo Line",
+        "Tokyo Metro Marunouchi Line"
+      ]
+    },
+    {
+      "name": "Yurakucho",
+      "japanese_name": "有楽町",
+      "station_id": "00008837",
+      "order": 23,
+      "transfers": [
+        "JR Yamanote Line",
+        "Tokyo Metro Yurakucho Line"
+      ]
+    },
+    {
+      "name": "Shimbashi",
+      "japanese_name": "新橋",
+      "station_id": "00004212",
+      "order": 24,
+      "transfers": [
+        "JR Yokosuka Line",
+        "JR Yamanote Line",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "Yurikamome",
+        "Tokyo Metro Ginza Line",
+        "Toei Asakusa Line"
+      ]
+    },
+    {
+      "name": "Hamamatsucho",
+      "japanese_name": "浜松町",
+      "station_id": "00007843",
+      "order": 25,
+      "transfers": [
+        "JR Yamanote Line",
+        "Tokyo Monorail"
+      ]
+    },
+    {
+      "name": "Tamachi(Tokyo)",
+      "japanese_name": "田町(東京都)",
+      "station_id": "00006495",
+      "order": 26,
+      "transfers": [
+        "JR Yamanote Line"
+      ]
+    },
+    {
+      "name": "Takanawa Gateway",
+      "japanese_name": "高輪ゲートウェイ",
+      "station_id": "00009773",
+      "order": 27,
+      "transfers": [
+        "JR Yamanote Line"
+      ]
+    },
+    {
+      "name": "Shinagawa",
+      "japanese_name": "品川",
+      "station_id": "00007825",
+      "order": 28,
+      "transfers": [
+        "JR Tokaido Shinkansen",
+        "JR Yokosuka Line",
+        "JR Yamanote Line",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "Keikyu Main Line"
+      ]
+    },
+    {
+      "name": "Oimachi",
+      "japanese_name": "大井町",
+      "station_id": "00005517",
+      "order": 29,
+      "transfers": [
+        "Tokyu Oimachi Line",
+        "Rinkai Line"
+      ]
+    },
+    {
+      "name": "Omori(Tokyo)",
+      "japanese_name": "大森(東京都)",
+      "station_id": "00005641",
+      "order": 30,
+      "transfers": []
+    },
+    {
+      "name": "Kamata",
+      "japanese_name": "蒲田",
+      "station_id": "00001277",
+      "order": 31,
+      "transfers": [
+        "Tokyu Ikegami Line",
+        "Tokyu Tamagawa Line"
+      ]
+    },
+    {
+      "name": "Kawasaki",
+      "japanese_name": "川崎",
+      "station_id": "00005203",
+      "order": 32,
+      "transfers": [
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "JR Nambu Line(Kawasaki-Tachikawa)"
+      ]
+    },
+    {
+      "name": "Tsurumi",
+      "japanese_name": "鶴見",
+      "station_id": "00006386",
+      "order": 33,
+      "transfers": [
+        "JR Tsurumi Line(Tsurumi-Ogimachi)",
+        "JR Yokosukamusashinorenraku Line",
+        "JR Sotetsu Direct Line"
+      ]
+    },
+    {
+      "name": "Shin-Koyasu",
+      "japanese_name": "新子安",
+      "station_id": "00004241",
+      "order": 34,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-Kanagawa",
+      "japanese_name": "東神奈川",
+      "station_id": "00006744",
+      "order": 35,
+      "transfers": [
+        "JR Yokohama Line"
+      ]
+    },
+    {
+      "name": "Yokohama",
+      "japanese_name": "横浜",
+      "station_id": "00000838",
+      "order": 36,
+      "transfers": [
+        "JR Yokosuka Line",
+        "JR Negishi Line",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "Yokohama City Subway Blue Line",
+        "Keikyu Main Line",
+        "Sotetsu Main Line",
+        "Tokyu Toyoko Line",
+        "Yokohamakosoku Railway Minatomirai Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Rapid"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "80740131",
+      "trainName": "JR Keihintohoku Line-Negishi Line",
+      "destination": "Sakuragicho",
+      "hour": 14,
+      "date": "2025-07-11",
+      "time": "59",
+      "type": "Local"
+    },
+    "Rapid": {
+      "trainId": "8074010a",
+      "trainName": "JR Keihintohoku Line-Negishi Line Rapid",
+      "destination": "Ofuna",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "07",
+      "type": "Rapid"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Keihin–Tohoku Line",
+      "train_type": "Local",
+      "total_stops": 36,
+      "stops": [
+        {
+          "name": "Omiya (Saitama)",
+          "station_id": "00005564",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.623602,
+            "lat": 35.906266
+          }
+        },
+        {
+          "name": "Saitama-Shintoshin",
+          "station_id": "00000058",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.633772,
+            "lat": 35.893868
+          }
+        },
+        {
+          "name": "Yono",
+          "station_id": "00008882",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.639078,
+            "lat": 35.884397
+          }
+        },
+        {
+          "name": "Kita-Urawa",
+          "station_id": "00008277",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.646137,
+            "lat": 35.872131
+          }
+        },
+        {
+          "name": "Urawa",
+          "station_id": "00000634",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.657399,
+            "lat": 35.858664
+          }
+        },
+        {
+          "name": "Minami-Urawa",
+          "station_id": "00007046",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.669146,
+            "lat": 35.847729
+          }
+        },
+        {
+          "name": "Warabi",
+          "station_id": "00009144",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.690493,
+            "lat": 35.828039
+          }
+        },
+        {
+          "name": "Nishi-Kawaguchi",
+          "station_id": "00004829",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.704478,
+            "lat": 35.815598
+          }
+        },
+        {
+          "name": "Kawaguchi",
+          "station_id": "00005199",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.717542,
+            "lat": 35.801891
+          }
+        },
+        {
+          "name": "Akabane",
+          "station_id": "00005069",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.720649,
+            "lat": 35.778199
+          }
+        },
+        {
+          "name": "Higashi-Jujo",
+          "station_id": "00006718",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.726696,
+            "lat": 35.764163
+          }
+        },
+        {
+          "name": "Oji",
+          "station_id": "00000840",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.738024,
+            "lat": 35.752608
+          }
+        },
+        {
+          "name": "Kami-Nakazato",
+          "station_id": "00004018",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.746934,
+            "lat": 35.746598
+          }
+        },
+        {
+          "name": "Tabata",
+          "station_id": "00006491",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.761165,
+            "lat": 35.737815
+          }
+        },
+        {
+          "name": "Nishi-nippori",
+          "station_id": "00004905",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.766696,
+            "lat": 35.732119
+          }
+        },
+        {
+          "name": "Nippori",
+          "station_id": "00007293",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770639,
+            "lat": 35.72817
+          }
+        },
+        {
+          "name": "Uguisudani",
+          "station_id": "00009194",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.778116,
+            "lat": 35.721522
+          }
+        },
+        {
+          "name": "Ueno",
+          "station_id": "00004067",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.776703,
+            "lat": 35.713365
+          }
+        },
+        {
+          "name": "Okachimachi",
+          "station_id": "00002300",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.774723,
+            "lat": 35.707464
+          }
+        },
+        {
+          "name": "Akihabara",
+          "station_id": "00003494",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.773131,
+            "lat": 35.698327
+          }
+        },
+        {
+          "name": "Kanda(Tokyo)",
+          "station_id": "00004464",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770931,
+            "lat": 35.691808
+          }
+        },
+        {
+          "name": "Tokyo",
+          "station_id": "00006668",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.767106,
+            "lat": 35.681041
+          }
+        },
+        {
+          "name": "Yurakucho",
+          "station_id": "00008837",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.762861,
+            "lat": 35.674778
+          }
+        },
+        {
+          "name": "Shimbashi",
+          "station_id": "00004212",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.758177,
+            "lat": 35.666536
+          }
+        },
+        {
+          "name": "Hamamatsucho",
+          "station_id": "00007843",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.757074,
+            "lat": 35.655148
+          }
+        },
+        {
+          "name": "Tamachi(Tokyo)",
+          "station_id": "00006495",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.747687,
+            "lat": 35.645741
+          }
+        },
+        {
+          "name": "Takanawa Gateway",
+          "station_id": "00009773",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.740662,
+            "lat": 35.635407
+          }
+        },
+        {
+          "name": "Shinagawa",
+          "station_id": "00007825",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.73903,
+            "lat": 35.628431
+          }
+        },
+        {
+          "name": "Oimachi",
+          "station_id": "00005517",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.734938,
+            "lat": 35.606663
+          }
+        },
+        {
+          "name": "Omori(Tokyo)",
+          "station_id": "00005641",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.727891,
+            "lat": 35.588433
+          }
+        },
+        {
+          "name": "Kamata",
+          "station_id": "00001277",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.715977,
+            "lat": 35.562472
+          }
+        },
+        {
+          "name": "Kawasaki",
+          "station_id": "00005203",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.69686,
+            "lat": 35.53142
+          }
+        },
+        {
+          "name": "Tsurumi",
+          "station_id": "00006386",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.676128,
+            "lat": 35.508521
+          }
+        },
+        {
+          "name": "Shin-Koyasu",
+          "station_id": "00004241",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.654792,
+            "lat": 35.487058
+          }
+        },
+        {
+          "name": "Higashi-Kanagawa",
+          "station_id": "00006744",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.633313,
+            "lat": 35.477897
+          }
+        },
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.622249,
+            "lat": 35.465767
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Omiya (Saitama)",
+          "from_id": "00005564",
+          "to": "Saitama-Shintoshin",
+          "to_id": "00000058",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Saitama-Shintoshin",
+          "from_id": "00000058",
+          "to": "Yono",
+          "to_id": "00008882",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yono",
+          "from_id": "00008882",
+          "to": "Kita-Urawa",
+          "to_id": "00008277",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kita-Urawa",
+          "from_id": "00008277",
+          "to": "Urawa",
+          "to_id": "00000634",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Urawa",
+          "from_id": "00000634",
+          "to": "Minami-Urawa",
+          "to_id": "00007046",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Minami-Urawa",
+          "from_id": "00007046",
+          "to": "Warabi",
+          "to_id": "00009144",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Warabi",
+          "from_id": "00009144",
+          "to": "Nishi-Kawaguchi",
+          "to_id": "00004829",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nishi-Kawaguchi",
+          "from_id": "00004829",
+          "to": "Kawaguchi",
+          "to_id": "00005199",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kawaguchi",
+          "from_id": "00005199",
+          "to": "Akabane",
+          "to_id": "00005069",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Akabane",
+          "from_id": "00005069",
+          "to": "Higashi-Jujo",
+          "to_id": "00006718",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Higashi-Jujo",
+          "from_id": "00006718",
+          "to": "Oji",
+          "to_id": "00000840",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Oji",
+          "from_id": "00000840",
+          "to": "Kami-Nakazato",
+          "to_id": "00004018",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kami-Nakazato",
+          "from_id": "00004018",
+          "to": "Tabata",
+          "to_id": "00006491",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Tabata",
+          "from_id": "00006491",
+          "to": "Nishi-nippori",
+          "to_id": "00004905",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nishi-nippori",
+          "from_id": "00004905",
+          "to": "Nippori",
+          "to_id": "00007293",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nippori",
+          "from_id": "00007293",
+          "to": "Uguisudani",
+          "to_id": "00009194",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Uguisudani",
+          "from_id": "00009194",
+          "to": "Ueno",
+          "to_id": "00004067",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ueno",
+          "from_id": "00004067",
+          "to": "Okachimachi",
+          "to_id": "00002300",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Okachimachi",
+          "from_id": "00002300",
+          "to": "Akihabara",
+          "to_id": "00003494",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Akihabara",
+          "from_id": "00003494",
+          "to": "Kanda(Tokyo)",
+          "to_id": "00004464",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kanda(Tokyo)",
+          "from_id": "00004464",
+          "to": "Tokyo",
+          "to_id": "00006668",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Tokyo",
+          "from_id": "00006668",
+          "to": "Yurakucho",
+          "to_id": "00008837",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yurakucho",
+          "from_id": "00008837",
+          "to": "Shimbashi",
+          "to_id": "00004212",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shimbashi",
+          "from_id": "00004212",
+          "to": "Hamamatsucho",
+          "to_id": "00007843",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hamamatsucho",
+          "from_id": "00007843",
+          "to": "Tamachi(Tokyo)",
+          "to_id": "00006495",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tamachi(Tokyo)",
+          "from_id": "00006495",
+          "to": "Takanawa Gateway",
+          "to_id": "00009773",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Takanawa Gateway",
+          "from_id": "00009773",
+          "to": "Shinagawa",
+          "to_id": "00007825",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shinagawa",
+          "from_id": "00007825",
+          "to": "Oimachi",
+          "to_id": "00005517",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Oimachi",
+          "from_id": "00005517",
+          "to": "Omori(Tokyo)",
+          "to_id": "00005641",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Omori(Tokyo)",
+          "from_id": "00005641",
+          "to": "Kamata",
+          "to_id": "00001277",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Kamata",
+          "from_id": "00001277",
+          "to": "Kawasaki",
+          "to_id": "00005203",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Kawasaki",
+          "from_id": "00005203",
+          "to": "Tsurumi",
+          "to_id": "00006386",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Tsurumi",
+          "from_id": "00006386",
+          "to": "Shin-Koyasu",
+          "to_id": "00004241",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Shin-Koyasu",
+          "from_id": "00004241",
+          "to": "Higashi-Kanagawa",
+          "to_id": "00006744",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Higashi-Kanagawa",
+          "from_id": "00006744",
+          "to": "Yokohama",
+          "to_id": "00000838",
+          "travel_time_minutes": 4
+        }
+      ]
+    },
+    "Rapid": {
+      "line": "Keihin–Tohoku Line",
+      "train_type": "Rapid",
+      "total_stops": 30,
+      "stops": [
+        {
+          "name": "Omiya (Saitama)",
+          "station_id": "00005564",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.623602,
+            "lat": 35.906266
+          }
+        },
+        {
+          "name": "Saitama-Shintoshin",
+          "station_id": "00000058",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.633772,
+            "lat": 35.893868
+          }
+        },
+        {
+          "name": "Yono",
+          "station_id": "00008882",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.639078,
+            "lat": 35.884397
+          }
+        },
+        {
+          "name": "Kita-Urawa",
+          "station_id": "00008277",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.646137,
+            "lat": 35.872131
+          }
+        },
+        {
+          "name": "Urawa",
+          "station_id": "00000634",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.657399,
+            "lat": 35.858664
+          }
+        },
+        {
+          "name": "Minami-Urawa",
+          "station_id": "00007046",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.669146,
+            "lat": 35.847729
+          }
+        },
+        {
+          "name": "Warabi",
+          "station_id": "00009144",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.690493,
+            "lat": 35.828039
+          }
+        },
+        {
+          "name": "Nishi-Kawaguchi",
+          "station_id": "00004829",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.704478,
+            "lat": 35.815598
+          }
+        },
+        {
+          "name": "Kawaguchi",
+          "station_id": "00005199",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.717542,
+            "lat": 35.801891
+          }
+        },
+        {
+          "name": "Akabane",
+          "station_id": "00005069",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.720649,
+            "lat": 35.778199
+          }
+        },
+        {
+          "name": "Higashi-Jujo",
+          "station_id": "00006718",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.726696,
+            "lat": 35.764163
+          }
+        },
+        {
+          "name": "Oji",
+          "station_id": "00000840",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.738024,
+            "lat": 35.752608
+          }
+        },
+        {
+          "name": "Kami-Nakazato",
+          "station_id": "00004018",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.746934,
+            "lat": 35.746598
+          }
+        },
+        {
+          "name": "Tabata",
+          "station_id": "00006491",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.761165,
+            "lat": 35.737815
+          }
+        },
+        {
+          "name": "Ueno",
+          "station_id": "00004067",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.776703,
+            "lat": 35.713365
+          }
+        },
+        {
+          "name": "Akihabara",
+          "station_id": "00003494",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.773131,
+            "lat": 35.698327
+          }
+        },
+        {
+          "name": "Kanda(Tokyo)",
+          "station_id": "00004464",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.770931,
+            "lat": 35.691808
+          }
+        },
+        {
+          "name": "Tokyo",
+          "station_id": "00006668",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.767106,
+            "lat": 35.681041
+          }
+        },
+        {
+          "name": "Hamamatsucho",
+          "station_id": "00007843",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.757074,
+            "lat": 35.655148
+          }
+        },
+        {
+          "name": "Tamachi(Tokyo)",
+          "station_id": "00006495",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.747687,
+            "lat": 35.645741
+          }
+        },
+        {
+          "name": "Takanawa Gateway",
+          "station_id": "00009773",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.740662,
+            "lat": 35.635407
+          }
+        },
+        {
+          "name": "Shinagawa",
+          "station_id": "00007825",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.73903,
+            "lat": 35.628431
+          }
+        },
+        {
+          "name": "Oimachi",
+          "station_id": "00005517",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.734938,
+            "lat": 35.606663
+          }
+        },
+        {
+          "name": "Omori(Tokyo)",
+          "station_id": "00005641",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.727891,
+            "lat": 35.588433
+          }
+        },
+        {
+          "name": "Kamata",
+          "station_id": "00001277",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.715977,
+            "lat": 35.562472
+          }
+        },
+        {
+          "name": "Kawasaki",
+          "station_id": "00005203",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.69686,
+            "lat": 35.53142
+          }
+        },
+        {
+          "name": "Tsurumi",
+          "station_id": "00006386",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.676128,
+            "lat": 35.508521
+          }
+        },
+        {
+          "name": "Shin-Koyasu",
+          "station_id": "00004241",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.654792,
+            "lat": 35.487058
+          }
+        },
+        {
+          "name": "Higashi-Kanagawa",
+          "station_id": "00006744",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.633313,
+            "lat": 35.477897
+          }
+        },
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.622249,
+            "lat": 35.465767
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Omiya (Saitama)",
+          "from_id": "00005564",
+          "to": "Saitama-Shintoshin",
+          "to_id": "00000058",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Saitama-Shintoshin",
+          "from_id": "00000058",
+          "to": "Yono",
+          "to_id": "00008882",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yono",
+          "from_id": "00008882",
+          "to": "Kita-Urawa",
+          "to_id": "00008277",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kita-Urawa",
+          "from_id": "00008277",
+          "to": "Urawa",
+          "to_id": "00000634",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Urawa",
+          "from_id": "00000634",
+          "to": "Minami-Urawa",
+          "to_id": "00007046",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Minami-Urawa",
+          "from_id": "00007046",
+          "to": "Warabi",
+          "to_id": "00009144",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Warabi",
+          "from_id": "00009144",
+          "to": "Nishi-Kawaguchi",
+          "to_id": "00004829",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nishi-Kawaguchi",
+          "from_id": "00004829",
+          "to": "Kawaguchi",
+          "to_id": "00005199",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kawaguchi",
+          "from_id": "00005199",
+          "to": "Akabane",
+          "to_id": "00005069",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Akabane",
+          "from_id": "00005069",
+          "to": "Higashi-Jujo",
+          "to_id": "00006718",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Higashi-Jujo",
+          "from_id": "00006718",
+          "to": "Oji",
+          "to_id": "00000840",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Oji",
+          "from_id": "00000840",
+          "to": "Kami-Nakazato",
+          "to_id": "00004018",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kami-Nakazato",
+          "from_id": "00004018",
+          "to": "Tabata",
+          "to_id": "00006491",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Tabata",
+          "from_id": "00006491",
+          "to": "Ueno",
+          "to_id": "00004067",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Ueno",
+          "from_id": "00004067",
+          "to": "Akihabara",
+          "to_id": "00003494",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Akihabara",
+          "from_id": "00003494",
+          "to": "Kanda(Tokyo)",
+          "to_id": "00004464",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kanda(Tokyo)",
+          "from_id": "00004464",
+          "to": "Tokyo",
+          "to_id": "00006668",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tokyo",
+          "from_id": "00006668",
+          "to": "Hamamatsucho",
+          "to_id": "00007843",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Hamamatsucho",
+          "from_id": "00007843",
+          "to": "Tamachi(Tokyo)",
+          "to_id": "00006495",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Tamachi(Tokyo)",
+          "from_id": "00006495",
+          "to": "Takanawa Gateway",
+          "to_id": "00009773",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Takanawa Gateway",
+          "from_id": "00009773",
+          "to": "Shinagawa",
+          "to_id": "00007825",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shinagawa",
+          "from_id": "00007825",
+          "to": "Oimachi",
+          "to_id": "00005517",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Oimachi",
+          "from_id": "00005517",
+          "to": "Omori(Tokyo)",
+          "to_id": "00005641",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Omori(Tokyo)",
+          "from_id": "00005641",
+          "to": "Kamata",
+          "to_id": "00001277",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Kamata",
+          "from_id": "00001277",
+          "to": "Kawasaki",
+          "to_id": "00005203",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Kawasaki",
+          "from_id": "00005203",
+          "to": "Tsurumi",
+          "to_id": "00006386",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Tsurumi",
+          "from_id": "00006386",
+          "to": "Shin-Koyasu",
+          "to_id": "00004241",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Shin-Koyasu",
+          "from_id": "00004241",
+          "to": "Higashi-Kanagawa",
+          "to_id": "00006744",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Higashi-Kanagawa",
+          "from_id": "00006744",
+          "to": "Yokohama",
+          "to_id": "00000838",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:51:28.900Z"
+}

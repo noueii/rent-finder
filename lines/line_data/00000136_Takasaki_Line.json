@@ -1,0 +1,1052 @@
+{
+  "line": "Takasaki Line",
+  "operator": "JR East",
+  "navitime_id": "00000136",
+  "first_station_id": "00005564",
+  "stations": [
+    {
+      "name": "Omiya (Saitama)",
+      "japanese_name": "大宮(埼玉県)",
+      "station_id": "00005564",
+      "order": 1,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Saikyo Line",
+        "JR Joetsu Shinkansen",
+        "JR Kawagoe Line",
+        "JR Hokuriku Shinkansen(via Nagano)",
+        "JR Tohoku Shinkansen",
+        "JR Utsunomiya Line[Tohoku Main Line]‧JR Ueno Tokyo Line",
+        "Saitama New Urban Transit New Shuttle",
+        "Tobu Noda Line (Urban Park Line)",
+        "JR Musashino Line(Omiya)"
+      ]
+    },
+    {
+      "name": "Miyahara",
+      "japanese_name": "宮原",
+      "station_id": "00001642",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Ageo",
+      "japanese_name": "上尾",
+      "station_id": "00004040",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Kita-Ageo",
+      "japanese_name": "北上尾",
+      "station_id": "00008336",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Okegawa",
+      "japanese_name": "桶川",
+      "station_id": "00000886",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Kitamoto",
+      "japanese_name": "北本",
+      "station_id": "00008406",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Konosu",
+      "japanese_name": "鴻巣",
+      "station_id": "00002648",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Kitakonosu",
+      "japanese_name": "北鴻巣",
+      "station_id": "00008310",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Fukiage(Saitama)",
+      "japanese_name": "吹上(埼玉県)",
+      "station_id": "00004538",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Gyoda",
+      "japanese_name": "行田",
+      "station_id": "00002511",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Kumagaya",
+      "japanese_name": "熊谷",
+      "station_id": "00001968",
+      "order": 11,
+      "transfers": [
+        "JR Joetsu Shinkansen",
+        "JR Hokuriku Shinkansen(via Nagano)",
+        "Chichibu Railway Line"
+      ]
+    },
+    {
+      "name": "Kagohara",
+      "japanese_name": "籠原",
+      "station_id": "00009167",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Fukaya",
+      "japanese_name": "深谷",
+      "station_id": "00004413",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Okabe",
+      "japanese_name": "岡部",
+      "station_id": "00000870",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Honjo",
+      "japanese_name": "本庄",
+      "station_id": "00008472",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Jimbohara",
+      "japanese_name": "神保原",
+      "station_id": "00004472",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Shimmachi(Gumma)",
+      "japanese_name": "新町(群馬県)",
+      "station_id": "00004314",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Kuragano",
+      "japanese_name": "倉賀野",
+      "station_id": "00005349",
+      "order": 18,
+      "transfers": [
+        "JR Hachiko Line(Komagawa-Kuragano)"
+      ]
+    },
+    {
+      "name": "Takasaki",
+      "japanese_name": "高崎",
+      "station_id": "00002569",
+      "order": 19,
+      "transfers": [
+        "JR Joetsu Shinkansen",
+        "JR Joetsu Line",
+        "JR Shin'etsu Main Line(Takasaki-Yokokawa)",
+        "JR Hokuriku Shinkansen(via Nagano)",
+        "Joshin-Dentetsu"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Rapid",
+    "Limited Express",
+    "Special Rapid"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "807900c9",
+      "trainName": "JR Takasaki Line",
+      "destination": "Takasaki",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "11",
+      "type": "Local"
+    },
+    "Rapid": {
+      "trainId": "807900b4",
+      "trainName": "JR Takasaki Line Rapid (Urban)",
+      "destination": "Takasaki",
+      "hour": 9,
+      "date": "2025-07-11",
+      "time": "01",
+      "type": "Rapid"
+    },
+    "Limited Express": {
+      "trainId": "80790024",
+      "trainName": "Kusatsu-Shima 1 Go",
+      "destination": "Naganoharakusatsuguchi",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "26",
+      "type": "Limited Express"
+    },
+    "Special Rapid": {
+      "trainId": "8079004d",
+      "trainName": "JR Takasaki Line Special Rapid",
+      "destination": "Takasaki",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "45",
+      "type": "Special Rapid"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Takasaki Line",
+      "train_type": "Local",
+      "total_stops": 19,
+      "stops": [
+        {
+          "name": "Omiya (Saitama)",
+          "station_id": "00005564",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.623602,
+            "lat": 35.906266
+          }
+        },
+        {
+          "name": "Miyahara",
+          "station_id": "00001642",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.609503,
+            "lat": 35.940198
+          }
+        },
+        {
+          "name": "Ageo",
+          "station_id": "00004040",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.588424,
+            "lat": 35.973448
+          }
+        },
+        {
+          "name": "Kita-Ageo",
+          "station_id": "00008336",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.577169,
+            "lat": 35.9856
+          }
+        },
+        {
+          "name": "Okegawa",
+          "station_id": "00000886",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.563907,
+            "lat": 35.998701
+          }
+        },
+        {
+          "name": "Kitamoto",
+          "station_id": "00008406",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.533968,
+            "lat": 36.031557
+          }
+        },
+        {
+          "name": "Konosu",
+          "station_id": "00002648",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.509601,
+            "lat": 36.059197
+          }
+        },
+        {
+          "name": "Kitakonosu",
+          "station_id": "00008310",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.476895,
+            "lat": 36.085569
+          }
+        },
+        {
+          "name": "Fukiage(Saitama)",
+          "station_id": "00004538",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.453149,
+            "lat": 36.103196
+          }
+        },
+        {
+          "name": "Gyoda",
+          "station_id": "00002511",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.432211,
+            "lat": 36.113818
+          }
+        },
+        {
+          "name": "Kumagaya",
+          "station_id": "00001968",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.389531,
+            "lat": 36.139534
+          }
+        },
+        {
+          "name": "Kagohara",
+          "station_id": "00009167",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.330486,
+            "lat": 36.174439
+          }
+        },
+        {
+          "name": "Fukaya",
+          "station_id": "00004413",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.281025,
+            "lat": 36.191466
+          }
+        },
+        {
+          "name": "Okabe",
+          "station_id": "00000870",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.237528,
+            "lat": 36.205744
+          }
+        },
+        {
+          "name": "Honjo",
+          "station_id": "00008472",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.188606,
+            "lat": 36.236089
+          }
+        },
+        {
+          "name": "Jimbohara",
+          "station_id": "00004472",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.149303,
+            "lat": 36.253561
+          }
+        },
+        {
+          "name": "Shimmachi(Gumma)",
+          "station_id": "00004314",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.105469,
+            "lat": 36.272983
+          }
+        },
+        {
+          "name": "Kuragano",
+          "station_id": "00005349",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.049164,
+            "lat": 36.300437
+          }
+        },
+        {
+          "name": "Takasaki",
+          "station_id": "00002569",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.012631,
+            "lat": 36.322466
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Omiya (Saitama)",
+          "from_id": "00005564",
+          "to": "Miyahara",
+          "to_id": "00001642",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Miyahara",
+          "from_id": "00001642",
+          "to": "Ageo",
+          "to_id": "00004040",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Ageo",
+          "from_id": "00004040",
+          "to": "Kita-Ageo",
+          "to_id": "00008336",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kita-Ageo",
+          "from_id": "00008336",
+          "to": "Okegawa",
+          "to_id": "00000886",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Okegawa",
+          "from_id": "00000886",
+          "to": "Kitamoto",
+          "to_id": "00008406",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Kitamoto",
+          "from_id": "00008406",
+          "to": "Konosu",
+          "to_id": "00002648",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Konosu",
+          "from_id": "00002648",
+          "to": "Kitakonosu",
+          "to_id": "00008310",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Kitakonosu",
+          "from_id": "00008310",
+          "to": "Fukiage(Saitama)",
+          "to_id": "00004538",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Fukiage(Saitama)",
+          "from_id": "00004538",
+          "to": "Gyoda",
+          "to_id": "00002511",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Gyoda",
+          "from_id": "00002511",
+          "to": "Kumagaya",
+          "to_id": "00001968",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Kumagaya",
+          "from_id": "00001968",
+          "to": "Kagohara",
+          "to_id": "00009167",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Kagohara",
+          "from_id": "00009167",
+          "to": "Fukaya",
+          "to_id": "00004413",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Fukaya",
+          "from_id": "00004413",
+          "to": "Okabe",
+          "to_id": "00000870",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Okabe",
+          "from_id": "00000870",
+          "to": "Honjo",
+          "to_id": "00008472",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Honjo",
+          "from_id": "00008472",
+          "to": "Jimbohara",
+          "to_id": "00004472",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Jimbohara",
+          "from_id": "00004472",
+          "to": "Shimmachi(Gumma)",
+          "to_id": "00004314",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Shimmachi(Gumma)",
+          "from_id": "00004314",
+          "to": "Kuragano",
+          "to_id": "00005349",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Kuragano",
+          "from_id": "00005349",
+          "to": "Takasaki",
+          "to_id": "00002569",
+          "travel_time_minutes": 6
+        }
+      ]
+    },
+    "Rapid": {
+      "line": "Takasaki Line",
+      "train_type": "Rapid",
+      "total_stops": 13,
+      "stops": [
+        {
+          "name": "Omiya (Saitama)",
+          "station_id": "00005564",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.623602,
+            "lat": 35.906266
+          }
+        },
+        {
+          "name": "Ageo",
+          "station_id": "00004040",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.588424,
+            "lat": 35.973448
+          }
+        },
+        {
+          "name": "Okegawa",
+          "station_id": "00000886",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.563907,
+            "lat": 35.998701
+          }
+        },
+        {
+          "name": "Konosu",
+          "station_id": "00002648",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.509601,
+            "lat": 36.059197
+          }
+        },
+        {
+          "name": "Kumagaya",
+          "station_id": "00001968",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.389531,
+            "lat": 36.139534
+          }
+        },
+        {
+          "name": "Kagohara",
+          "station_id": "00009167",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.330486,
+            "lat": 36.174439
+          }
+        },
+        {
+          "name": "Fukaya",
+          "station_id": "00004413",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.281025,
+            "lat": 36.191466
+          }
+        },
+        {
+          "name": "Okabe",
+          "station_id": "00000870",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.237528,
+            "lat": 36.205744
+          }
+        },
+        {
+          "name": "Honjo",
+          "station_id": "00008472",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.188606,
+            "lat": 36.236089
+          }
+        },
+        {
+          "name": "Jimbohara",
+          "station_id": "00004472",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.149303,
+            "lat": 36.253561
+          }
+        },
+        {
+          "name": "Shimmachi(Gumma)",
+          "station_id": "00004314",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.105469,
+            "lat": 36.272983
+          }
+        },
+        {
+          "name": "Kuragano",
+          "station_id": "00005349",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.049164,
+            "lat": 36.300437
+          }
+        },
+        {
+          "name": "Takasaki",
+          "station_id": "00002569",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.012631,
+            "lat": 36.322466
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Omiya (Saitama)",
+          "from_id": "00005564",
+          "to": "Ageo",
+          "to_id": "00004040",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Ageo",
+          "from_id": "00004040",
+          "to": "Okegawa",
+          "to_id": "00000886",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Okegawa",
+          "from_id": "00000886",
+          "to": "Konosu",
+          "to_id": "00002648",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Konosu",
+          "from_id": "00002648",
+          "to": "Kumagaya",
+          "to_id": "00001968",
+          "travel_time_minutes": 11
+        },
+        {
+          "from": "Kumagaya",
+          "from_id": "00001968",
+          "to": "Kagohara",
+          "to_id": "00009167",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Kagohara",
+          "from_id": "00009167",
+          "to": "Fukaya",
+          "to_id": "00004413",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Fukaya",
+          "from_id": "00004413",
+          "to": "Okabe",
+          "to_id": "00000870",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Okabe",
+          "from_id": "00000870",
+          "to": "Honjo",
+          "to_id": "00008472",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Honjo",
+          "from_id": "00008472",
+          "to": "Jimbohara",
+          "to_id": "00004472",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Jimbohara",
+          "from_id": "00004472",
+          "to": "Shimmachi(Gumma)",
+          "to_id": "00004314",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Shimmachi(Gumma)",
+          "from_id": "00004314",
+          "to": "Kuragano",
+          "to_id": "00005349",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Kuragano",
+          "from_id": "00005349",
+          "to": "Takasaki",
+          "to_id": "00002569",
+          "travel_time_minutes": 5
+        }
+      ]
+    },
+    "Limited Express": {
+      "line": "Takasaki Line",
+      "train_type": "Limited Express",
+      "total_stops": 3,
+      "stops": [
+        {
+          "name": "Omiya (Saitama)",
+          "station_id": "00005564",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.623602,
+            "lat": 35.906266
+          }
+        },
+        {
+          "name": "Kumagaya",
+          "station_id": "00001968",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.389531,
+            "lat": 36.139534
+          }
+        },
+        {
+          "name": "Takasaki",
+          "station_id": "00002569",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.012631,
+            "lat": 36.322466
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Omiya (Saitama)",
+          "from_id": "00005564",
+          "to": "Kumagaya",
+          "to_id": "00001968",
+          "travel_time_minutes": 25
+        },
+        {
+          "from": "Kumagaya",
+          "from_id": "00001968",
+          "to": "Takasaki",
+          "to_id": "00002569",
+          "travel_time_minutes": 27
+        }
+      ]
+    },
+    "Special Rapid": {
+      "line": "Takasaki Line",
+      "train_type": "Special Rapid",
+      "total_stops": 14,
+      "stops": [
+        {
+          "name": "Omiya (Saitama)",
+          "station_id": "00005564",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.623602,
+            "lat": 35.906266
+          }
+        },
+        {
+          "name": "Ageo",
+          "station_id": "00004040",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.588424,
+            "lat": 35.973448
+          }
+        },
+        {
+          "name": "Okegawa",
+          "station_id": "00000886",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.563907,
+            "lat": 35.998701
+          }
+        },
+        {
+          "name": "Kitamoto",
+          "station_id": "00008406",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.533968,
+            "lat": 36.031557
+          }
+        },
+        {
+          "name": "Konosu",
+          "station_id": "00002648",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.509601,
+            "lat": 36.059197
+          }
+        },
+        {
+          "name": "Kumagaya",
+          "station_id": "00001968",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.389531,
+            "lat": 36.139534
+          }
+        },
+        {
+          "name": "Kagohara",
+          "station_id": "00009167",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.330486,
+            "lat": 36.174439
+          }
+        },
+        {
+          "name": "Fukaya",
+          "station_id": "00004413",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.281025,
+            "lat": 36.191466
+          }
+        },
+        {
+          "name": "Okabe",
+          "station_id": "00000870",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.237528,
+            "lat": 36.205744
+          }
+        },
+        {
+          "name": "Honjo",
+          "station_id": "00008472",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.188606,
+            "lat": 36.236089
+          }
+        },
+        {
+          "name": "Jimbohara",
+          "station_id": "00004472",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.149303,
+            "lat": 36.253561
+          }
+        },
+        {
+          "name": "Shimmachi(Gumma)",
+          "station_id": "00004314",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.105469,
+            "lat": 36.272983
+          }
+        },
+        {
+          "name": "Kuragano",
+          "station_id": "00005349",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.049164,
+            "lat": 36.300437
+          }
+        },
+        {
+          "name": "Takasaki",
+          "station_id": "00002569",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.012631,
+            "lat": 36.322466
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Omiya (Saitama)",
+          "from_id": "00005564",
+          "to": "Ageo",
+          "to_id": "00004040",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Ageo",
+          "from_id": "00004040",
+          "to": "Okegawa",
+          "to_id": "00000886",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Okegawa",
+          "from_id": "00000886",
+          "to": "Kitamoto",
+          "to_id": "00008406",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kitamoto",
+          "from_id": "00008406",
+          "to": "Konosu",
+          "to_id": "00002648",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Konosu",
+          "from_id": "00002648",
+          "to": "Kumagaya",
+          "to_id": "00001968",
+          "travel_time_minutes": 10
+        },
+        {
+          "from": "Kumagaya",
+          "from_id": "00001968",
+          "to": "Kagohara",
+          "to_id": "00009167",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Kagohara",
+          "from_id": "00009167",
+          "to": "Fukaya",
+          "to_id": "00004413",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Fukaya",
+          "from_id": "00004413",
+          "to": "Okabe",
+          "to_id": "00000870",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Okabe",
+          "from_id": "00000870",
+          "to": "Honjo",
+          "to_id": "00008472",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Honjo",
+          "from_id": "00008472",
+          "to": "Jimbohara",
+          "to_id": "00004472",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Jimbohara",
+          "from_id": "00004472",
+          "to": "Shimmachi(Gumma)",
+          "to_id": "00004314",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Shimmachi(Gumma)",
+          "from_id": "00004314",
+          "to": "Kuragano",
+          "to_id": "00005349",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Kuragano",
+          "from_id": "00005349",
+          "to": "Takasaki",
+          "to_id": "00002569",
+          "travel_time_minutes": 5
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:51:43.439Z"
+}

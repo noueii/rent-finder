@@ -1,0 +1,407 @@
+{
+  "line": "Keisei Oshiage Line",
+  "operator": "Keisei Electric Railway",
+  "navitime_id": "00000286",
+  "first_station_id": "00000813",
+  "stations": [
+    {
+      "name": "Oshiage(SKYTREE)",
+      "japanese_name": "押上[スカイツリー前]",
+      "station_id": "00000813",
+      "order": 1,
+      "transfers": [
+        "Tokyo Metro Hanzomon Line",
+        "Toei Asakusa Line",
+        "Tobu Isesaki Line (SKYTREE Line)( Oshiage-Hikifune)"
+      ]
+    },
+    {
+      "name": "Keisei-Hikifune",
+      "japanese_name": "京成曳舟",
+      "station_id": "00001733",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Yahiro",
+      "japanese_name": "八広",
+      "station_id": "00007522",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Yotsugi",
+      "japanese_name": "四ツ木",
+      "station_id": "00003177",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Keisei-Tateishi",
+      "japanese_name": "京成立石",
+      "station_id": "00001752",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Aoto",
+      "japanese_name": "青砥",
+      "station_id": "00004980",
+      "order": 6,
+      "transfers": [
+        "Keisei Main Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "AC Special Express",
+    "Rapid",
+    "Limited Express",
+    "Rapid Express",
+    "Commuter S-Express"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "80fa009a",
+      "trainName": "Keisei Oshiage Line",
+      "destination": "Keisei-Takasago",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "02",
+      "type": "Local"
+    },
+    "AC Special Express": {
+      "trainId": "80fa009f",
+      "trainName": "Keisei Oshiage Line ACCESS Limited Express",
+      "destination": "Narita Airport Terminal 1",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "27",
+      "type": "AC Special Express"
+    },
+    "Rapid": {
+      "trainId": "80fa0003",
+      "trainName": "Keisei Oshiage Line Rapid",
+      "destination": "Narita Airport Terminal 1",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "13",
+      "type": "Rapid"
+    },
+    "Limited Express": {
+      "trainId": "80fa00a9",
+      "trainName": "Keisei Oshiage Line Limited Express",
+      "destination": "Keisei-Takasago",
+      "hour": 11,
+      "date": "2025-07-11",
+      "time": "23",
+      "type": "Limited Express"
+    },
+    "Rapid Express": {
+      "trainId": "80fa0018",
+      "trainName": "Keisei Oshiage Line Rapid Limited Express",
+      "destination": "Narita Airport Terminal 1",
+      "hour": 17,
+      "date": "2025-07-11",
+      "time": "30",
+      "type": "Rapid Express"
+    },
+    "Commuter S-Express": {
+      "trainId": "80fa002f",
+      "trainName": "Keisei Oshiage Line Commuter Limited Express",
+      "destination": "Narita Airport Terminal 1",
+      "hour": 21,
+      "date": "2025-07-11",
+      "time": "49",
+      "type": "Commuter S-Express"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Keisei Oshiage Line",
+      "train_type": "Local",
+      "total_stops": 6,
+      "stops": [
+        {
+          "name": "Oshiage(SKYTREE)",
+          "station_id": "00000813",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.813093,
+            "lat": 35.710888
+          }
+        },
+        {
+          "name": "Keisei-Hikifune",
+          "station_id": "00001733",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.819679,
+            "lat": 35.718087
+          }
+        },
+        {
+          "name": "Yahiro",
+          "station_id": "00007522",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.828307,
+            "lat": 35.72715
+          }
+        },
+        {
+          "name": "Yotsugi",
+          "station_id": "00003177",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.834931,
+            "lat": 35.731804
+          }
+        },
+        {
+          "name": "Keisei-Tateishi",
+          "station_id": "00001752",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.848462,
+            "lat": 35.738237
+          }
+        },
+        {
+          "name": "Aoto",
+          "station_id": "00004980",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.856081,
+            "lat": 35.745571
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Oshiage(SKYTREE)",
+          "from_id": "00000813",
+          "to": "Keisei-Hikifune",
+          "to_id": "00001733",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Keisei-Hikifune",
+          "from_id": "00001733",
+          "to": "Yahiro",
+          "to_id": "00007522",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yahiro",
+          "from_id": "00007522",
+          "to": "Yotsugi",
+          "to_id": "00003177",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Yotsugi",
+          "from_id": "00003177",
+          "to": "Keisei-Tateishi",
+          "to_id": "00001752",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Keisei-Tateishi",
+          "from_id": "00001752",
+          "to": "Aoto",
+          "to_id": "00004980",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "AC Special Express": {
+      "line": "Keisei Oshiage Line",
+      "train_type": "AC Special Express",
+      "total_stops": 2,
+      "stops": [
+        {
+          "name": "Oshiage(SKYTREE)",
+          "station_id": "00000813",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.813093,
+            "lat": 35.710888
+          }
+        },
+        {
+          "name": "Aoto",
+          "station_id": "00004980",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.856081,
+            "lat": 35.745571
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Oshiage(SKYTREE)",
+          "from_id": "00000813",
+          "to": "Aoto",
+          "to_id": "00004980",
+          "travel_time_minutes": 6
+        }
+      ]
+    },
+    "Rapid": {
+      "line": "Keisei Oshiage Line",
+      "train_type": "Rapid",
+      "total_stops": 2,
+      "stops": [
+        {
+          "name": "Oshiage(SKYTREE)",
+          "station_id": "00000813",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.813093,
+            "lat": 35.710888
+          }
+        },
+        {
+          "name": "Aoto",
+          "station_id": "00004980",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.856081,
+            "lat": 35.745571
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Oshiage(SKYTREE)",
+          "from_id": "00000813",
+          "to": "Aoto",
+          "to_id": "00004980",
+          "travel_time_minutes": 5
+        }
+      ]
+    },
+    "Limited Express": {
+      "line": "Keisei Oshiage Line",
+      "train_type": "Limited Express",
+      "total_stops": 2,
+      "stops": [
+        {
+          "name": "Oshiage(SKYTREE)",
+          "station_id": "00000813",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.813093,
+            "lat": 35.710888
+          }
+        },
+        {
+          "name": "Aoto",
+          "station_id": "00004980",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.856081,
+            "lat": 35.745571
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Oshiage(SKYTREE)",
+          "from_id": "00000813",
+          "to": "Aoto",
+          "to_id": "00004980",
+          "travel_time_minutes": 5
+        }
+      ]
+    },
+    "Rapid Express": {
+      "line": "Keisei Oshiage Line",
+      "train_type": "Rapid Express",
+      "total_stops": 2,
+      "stops": [
+        {
+          "name": "Oshiage(SKYTREE)",
+          "station_id": "00000813",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.813093,
+            "lat": 35.710888
+          }
+        },
+        {
+          "name": "Aoto",
+          "station_id": "00004980",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.856081,
+            "lat": 35.745571
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Oshiage(SKYTREE)",
+          "from_id": "00000813",
+          "to": "Aoto",
+          "to_id": "00004980",
+          "travel_time_minutes": 6
+        }
+      ]
+    },
+    "Commuter S-Express": {
+      "line": "Keisei Oshiage Line",
+      "train_type": "Commuter S-Express",
+      "total_stops": 2,
+      "stops": [
+        {
+          "name": "Oshiage(SKYTREE)",
+          "station_id": "00000813",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.813093,
+            "lat": 35.710888
+          }
+        },
+        {
+          "name": "Aoto",
+          "station_id": "00004980",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.856081,
+            "lat": 35.745571
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Oshiage(SKYTREE)",
+          "from_id": "00000813",
+          "to": "Aoto",
+          "to_id": "00004980",
+          "travel_time_minutes": 5
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:53:35.671Z"
+}

@@ -1,0 +1,5479 @@
+{
+	"properties": [
+		{
+			"id": 142800,
+			"building_id": 42125,
+			"kind": "apartment",
+			"building_name": "King House Higashikoiwa",
+			"prefecture": "Tokyo",
+			"city": "Edogawa-ku",
+			"address1": "Higashikoiwa",
+			"address2": "6-21-3",
+			"year": null,
+			"rooms": [
+				{
+					"id": 142800,
+					"p": "142800-king-house-higashikoiwa-0101a",
+					"unit_number": "0101A",
+					"rent": "80,000",
+					"rawRent": 80000,
+					"bedroom": "S",
+					"area": "20.47",
+					"area_ft2": "220"
+				},
+				{
+					"id": 142801,
+					"p": "142801-king-house-higashikoiwa-0101b",
+					"unit_number": "0101B",
+					"rent": "85,000",
+					"rawRent": 85000,
+					"bedroom": "S",
+					"area": "20.47",
+					"area_ft2": "220"
+				}
+			],
+			"lat": 35.7348929,
+			"lng": 139.8893722,
+			"icon": null,
+			"building_station": {
+				"station_name": "Edogawa",
+				"distance_in_minute": 10
+			},
+			"room": {
+				"unit_number": "0101A",
+				"rent": "80,000",
+				"rawRent": 80000,
+				"bedroom": "S",
+				"area": "20.47",
+				"area_ft2": "220",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Pet Friendly",
+				"pet": true,
+				"parking": false,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/142800-king-house-higashikoiwa-0101a",
+				"path": "/properties/142800-king-house-higashikoiwa-0101a",
+				"image_url": "https://apts.jp/system/property_image/image/376101/king-house-higashikoiwa-property.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2442575/property_image_3413_0101_0_2.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182686,
+			"building_id": 148118,
+			"kind": "apartment",
+			"building_name": "Realize Tateishi",
+			"prefecture": "Tokyo",
+			"city": "Katsushika-ku",
+			"address1": "Tateishi",
+			"address2": "3-19-5",
+			"year": 2017,
+			"rooms": [
+				{
+					"id": 182686,
+					"p": "182686-realize-tateishi-107",
+					"unit_number": "107",
+					"rent": "80,000",
+					"rawRent": 80000,
+					"bedroom": "S",
+					"area": "20.73",
+					"area_ft2": "223"
+				}
+			],
+			"lat": 35.73863026,
+			"lng": 139.844699,
+			"icon": null,
+			"building_station": {
+				"station_name": "Keisei Tateishi",
+				"distance_in_minute": 5
+			},
+			"room": {
+				"unit_number": "107",
+				"rent": "80,000",
+				"rawRent": 80000,
+				"bedroom": "S",
+				"area": "20.73",
+				"area_ft2": "223",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": null,
+				"parking": null,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/182686-realize-tateishi-107",
+				"path": "/properties/182686-realize-tateishi-107",
+				"image_url": "https://apts.jp/system/property_image/image/1949727/property_image_01j4vs548wdz19sv2m9qahkwa9.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2443759/property_image_01jyrxhanzb918vddjfy7357hq.jpg#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 181294,
+			"building_id": 162082,
+			"kind": "apartment",
+			"building_name": "Tiger Yotsugi",
+			"prefecture": "Tokyo",
+			"city": "Katsushika-ku",
+			"address1": "Higashiyotsugi",
+			"address2": "3-34-18",
+			"year": null,
+			"rooms": [
+				{
+					"id": 181294,
+					"p": "181294-tiger-yotsugi-0202",
+					"unit_number": "0202",
+					"rent": "80,000",
+					"rawRent": 80000,
+					"bedroom": "S",
+					"area": "20.02",
+					"area_ft2": "215"
+				}
+			],
+			"lat": 35.7316799,
+			"lng": 139.8382015,
+			"icon": null,
+			"building_station": {
+				"station_name": "Yotsugi",
+				"distance_in_minute": 3
+			},
+			"room": {
+				"unit_number": "0202",
+				"rent": "80,000",
+				"rawRent": 80000,
+				"bedroom": "S",
+				"area": "20.02",
+				"area_ft2": "215",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning",
+				"pet": false,
+				"parking": false,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/181294-tiger-yotsugi-0202",
+				"path": "/properties/181294-tiger-yotsugi-0202",
+				"image_url": "https://apts.jp/system/property_image/image/2149968/property_image_4858_1.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2421648/property_image_4858_0202_0_15.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182821,
+			"building_id": 182821,
+			"kind": "apartment",
+			"building_name": "Kent",
+			"prefecture": "Tokyo",
+			"city": "Adachi-ku",
+			"address1": "Shimmeiminami",
+			"address2": "1-3-15",
+			"year": 2000,
+			"rooms": [
+				{
+					"id": 182821,
+					"p": "182821-kent-203",
+					"unit_number": "203",
+					"rent": "82,000",
+					"rawRent": 82000,
+					"bedroom": "1",
+					"area": "36.43",
+					"area_ft2": "392"
+				}
+			],
+			"lat": 35.7891587,
+			"lng": 139.8306403,
+			"icon": null,
+			"building_station": {
+				"station_name": "Kita Ayase",
+				"distance_in_minute": 18
+			},
+			"room": {
+				"unit_number": "203",
+				"rent": "82,000",
+				"rawRent": 82000,
+				"bedroom": "1",
+				"area": "36.43",
+				"area_ft2": "392",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/182821-kent-203",
+				"path": "/properties/182821-kent-203",
+				"image_url": "https://apts.jp/system/property_image/image/2445837/property_image_193_436820_1_640_480.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2445839/property_image_193_436820_3_640_480.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 178886,
+			"building_id": 41928,
+			"kind": "apartment",
+			"building_name": "Sunflower 6th",
+			"prefecture": "Tokyo",
+			"city": "Edogawa-ku",
+			"address1": "Nakakasai",
+			"address2": "6-21-10",
+			"year": 2001,
+			"rooms": [
+				{
+					"id": 178886,
+					"p": "178886-sunflower-6th-0303",
+					"unit_number": "0303",
+					"rent": "83,000",
+					"rawRent": 83000,
+					"bedroom": "S",
+					"area": "26.04",
+					"area_ft2": "280"
+				}
+			],
+			"lat": 35.6603285,
+			"lng": 139.8706339,
+			"icon": null,
+			"building_station": {
+				"station_name": "Kasai",
+				"distance_in_minute": 6
+			},
+			"room": {
+				"unit_number": "0303",
+				"rent": "83,000",
+				"rawRent": 83000,
+				"bedroom": "S",
+				"area": "26.04",
+				"area_ft2": "280",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/178886-sunflower-6th-0303",
+				"path": "/properties/178886-sunflower-6th-0303",
+				"image_url": "https://apts.jp/system/property_image/image/373819/sunflower-6th-building.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2380497/property_image_08000060_08001276_020.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 183015,
+			"building_id": 41445,
+			"kind": "apartment",
+			"building_name": "SQUARE Shiomi",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Shiomi",
+			"address2": "2-9-16",
+			"year": 2007,
+			"rooms": [
+				{
+					"id": 183015,
+					"p": "183015-square-shiomi-0405",
+					"unit_number": "0405",
+					"rent": "85,000",
+					"rawRent": 85000,
+					"bedroom": "S",
+					"area": "22.5",
+					"area_ft2": "242"
+				},
+				{
+					"id": 69842,
+					"p": "69842-square-shiomi-0401",
+					"unit_number": "0401",
+					"rent": "86,000",
+					"rawRent": 86000,
+					"bedroom": "S",
+					"area": "22.5",
+					"area_ft2": "242"
+				},
+				{
+					"id": 79822,
+					"p": "79822-square-shiomi-0502",
+					"unit_number": "0502",
+					"rent": "86,000",
+					"rawRent": 86000,
+					"bedroom": "S",
+					"area": "22.5",
+					"area_ft2": "242"
+				},
+				{
+					"id": 180095,
+					"p": "180095-square-shiomi-0806",
+					"unit_number": "0806",
+					"rent": "89,000",
+					"rawRent": 89000,
+					"bedroom": "S",
+					"area": "22.5",
+					"area_ft2": "242"
+				}
+			],
+			"lat": 35.656047,
+			"lng": 139.8187869,
+			"icon": null,
+			"building_station": {
+				"station_name": "Shiomi",
+				"distance_in_minute": 5
+			},
+			"room": {
+				"unit_number": "0405",
+				"rent": "85,000",
+				"rawRent": 85000,
+				"bedroom": "S",
+				"area": "22.5",
+				"area_ft2": "242",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Pet Friendly · Bicycle Storage",
+				"pet": true,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/183015-square-shiomi-0405",
+				"path": "/properties/183015-square-shiomi-0405",
+				"image_url": "https://apts.jp/system/property_image/image/368712/square-shiomi-property.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2448197/property_image_2025_0405_0_2.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 174052,
+			"building_id": 173988,
+			"kind": "apartment",
+			"building_name": "Toneri Park Front 2",
+			"prefecture": "Tokyo",
+			"city": "Adachi-ku",
+			"address1": "Nishiiko",
+			"address2": "2-8-18",
+			"year": 2025,
+			"rooms": [
+				{
+					"id": 174052,
+					"p": "174052-toneri-park-front-2-0502",
+					"unit_number": "0502",
+					"rent": "87,000",
+					"rawRent": 87000,
+					"bedroom": "S",
+					"area": "20.12",
+					"area_ft2": "217"
+				},
+				{
+					"id": 174020,
+					"p": "174020-toneri-park-front-2-0402",
+					"unit_number": "0402",
+					"rent": "88,000",
+					"rawRent": 88000,
+					"bedroom": "S",
+					"area": "20.12",
+					"area_ft2": "217"
+				},
+				{
+					"id": 174059,
+					"p": "174059-toneri-park-front-2-0503",
+					"unit_number": "0503",
+					"rent": "88,000",
+					"rawRent": 88000,
+					"bedroom": "S",
+					"area": "20.12",
+					"area_ft2": "217"
+				},
+				{
+					"id": 174086,
+					"p": "174086-toneri-park-front-2-0302",
+					"unit_number": "0302",
+					"rent": "88,000",
+					"rawRent": 88000,
+					"bedroom": "S",
+					"area": "20.12",
+					"area_ft2": "217"
+				},
+				{
+					"id": 174092,
+					"p": "174092-toneri-park-front-2-0501",
+					"unit_number": "0501",
+					"rent": "88,000",
+					"rawRent": 88000,
+					"bedroom": "S",
+					"area": "20.12",
+					"area_ft2": "217"
+				},
+				{
+					"id": 173988,
+					"p": "173988-toneri-park-front-2-0301",
+					"unit_number": "0301",
+					"rent": "89,000",
+					"rawRent": 89000,
+					"bedroom": "S",
+					"area": "20.12",
+					"area_ft2": "217"
+				},
+				{
+					"id": 174040,
+					"p": "174040-toneri-park-front-2-0303",
+					"unit_number": "0303",
+					"rent": "89,000",
+					"rawRent": 89000,
+					"bedroom": "S",
+					"area": "20.12",
+					"area_ft2": "217"
+				},
+				{
+					"id": 174070,
+					"p": "174070-toneri-park-front-2-0401",
+					"unit_number": "0401",
+					"rent": "89,000",
+					"rawRent": 89000,
+					"bedroom": "S",
+					"area": "20.12",
+					"area_ft2": "217"
+				},
+				{
+					"id": 174079,
+					"p": "174079-toneri-park-front-2-0403",
+					"unit_number": "0403",
+					"rent": "89,000",
+					"rawRent": 89000,
+					"bedroom": "S",
+					"area": "20.12",
+					"area_ft2": "217"
+				}
+			],
+			"lat": 35.7955859,
+			"lng": 139.7761184,
+			"icon": null,
+			"building_station": {
+				"station_name": "Toneri Koen",
+				"distance_in_minute": 7
+			},
+			"room": {
+				"unit_number": "0502",
+				"rent": "87,000",
+				"rawRent": 87000,
+				"bedroom": "S",
+				"area": "20.12",
+				"area_ft2": "217",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Pet Friendly",
+				"pet": true,
+				"parking": false,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/174052-toneri-park-front-2-0502",
+				"path": "/properties/174052-toneri-park-front-2-0502",
+				"image_url": "https://apts.jp/system/property_image/image/2305469/property_image_5572_1.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2306056/property_image_5572_0502_0_1.jpg#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 179406,
+			"building_id": 179406,
+			"kind": "apartment",
+			"building_name": "AZEST Ohanajaya VI",
+			"prefecture": "Tokyo",
+			"city": "Katsushika-ku",
+			"address1": "Ohanajaya",
+			"address2": "3-20-5",
+			"year": 2024,
+			"rooms": [
+				{
+					"id": 179406,
+					"p": "179406-azest-ohanajaya-vi-101",
+					"unit_number": "101",
+					"rent": "87,000",
+					"rawRent": 87000,
+					"bedroom": "S",
+					"area": "22.44",
+					"area_ft2": "242"
+				}
+			],
+			"lat": 35.75359515,
+			"lng": 139.84069307,
+			"icon": null,
+			"building_station": {
+				"station_name": "Ohanajaya",
+				"distance_in_minute": 10
+			},
+			"room": {
+				"unit_number": "101",
+				"rent": "87,000",
+				"rawRent": 87000,
+				"bedroom": "S",
+				"area": "22.44",
+				"area_ft2": "242",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning",
+				"pet": null,
+				"parking": null,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/179406-azest-ohanajaya-vi-101",
+				"path": "/properties/179406-azest-ohanajaya-vi-101",
+				"image_url": "https://apts.jp/system/property_image/image/2387436/property_image_0000000001113666967450000011375_10.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2387437/property_image_0000000001113666967450000011375_2.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 67415,
+			"building_id": 41918,
+			"kind": "apartment",
+			"building_name": "Ichibankan Hamano",
+			"prefecture": "Tokyo",
+			"city": "Taito-ku",
+			"address1": "Imado",
+			"address2": "2-36-3",
+			"year": 2006,
+			"rooms": [
+				{
+					"id": 67415,
+					"p": "67415-ichibankan-hamano-501",
+					"unit_number": "501",
+					"rent": "88,000",
+					"rawRent": 88000,
+					"bedroom": "1",
+					"area": "33.88",
+					"area_ft2": "365"
+				}
+			],
+			"lat": 35.7223035,
+			"lng": 139.803089,
+			"icon": null,
+			"building_station": {
+				"station_name": "Asakusa",
+				"distance_in_minute": 18
+			},
+			"room": {
+				"unit_number": "501",
+				"rent": "88,000",
+				"rawRent": 88000,
+				"bedroom": "1",
+				"area": "33.88",
+				"area_ft2": "365",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning",
+				"pet": false,
+				"parking": false,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/67415-ichibankan-hamano-501",
+				"path": "/properties/67415-ichibankan-hamano-501",
+				"image_url": "https://apts.jp/system/property_image/image/1340195/property_image_001.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/685993/property_image_002.jpg#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 168171,
+			"building_id": 144332,
+			"kind": "apartment",
+			"building_name": "Arba Heights Ogi Ohashi",
+			"prefecture": "Tokyo",
+			"city": "Adachi-ku",
+			"address1": "Ogi",
+			"address2": "2-9-20",
+			"year": null,
+			"rooms": [
+				{
+					"id": 168171,
+					"p": "168171-arba-heights-ogi-ohashi-106",
+					"unit_number": "106",
+					"rent": "88,000",
+					"rawRent": 88000,
+					"bedroom": "S",
+					"area": "25.37",
+					"area_ft2": "273"
+				},
+				{
+					"id": 148789,
+					"p": "148789-arba-heights-ogi-ohashi-204",
+					"unit_number": "204",
+					"rent": "89,000",
+					"rawRent": 89000,
+					"bedroom": "S",
+					"area": "25.37",
+					"area_ft2": "273"
+				},
+				{
+					"id": 176187,
+					"p": "176187-arba-heights-ogi-ohashi-403",
+					"unit_number": "403",
+					"rent": "91,000",
+					"rawRent": 91000,
+					"bedroom": "S",
+					"area": "25.26",
+					"area_ft2": "272"
+				}
+			],
+			"lat": 35.7626731,
+			"lng": 139.7693149,
+			"icon": null,
+			"building_station": {
+				"station_name": "Ogi Ohashi",
+				"distance_in_minute": 3
+			},
+			"room": {
+				"unit_number": "106",
+				"rent": "88,000",
+				"rawRent": 88000,
+				"bedroom": "S",
+				"area": "25.37",
+				"area_ft2": "273",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Parking",
+				"pet": false,
+				"parking": true,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/168171-arba-heights-ogi-ohashi-106",
+				"path": "/properties/168171-arba-heights-ogi-ohashi-106",
+				"image_url": "https://apts.jp/system/property_image/image/1894669/property_image_bpa_10002785_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2229395/property_image_bpr_10002785_20_20ar_20_20_2001.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 179288,
+			"building_id": 149152,
+			"kind": "apartment",
+			"building_name": "Corporate Takenotsuka 2-Chome",
+			"prefecture": "Tokyo",
+			"city": "Adachi-ku",
+			"address1": "Takenotsuka",
+			"address2": "2-29-10",
+			"year": 1997,
+			"rooms": [
+				{
+					"id": 179288,
+					"p": "179288-corporate-takenotsuka-2-chome-404",
+					"unit_number": "404",
+					"rent": "88,000",
+					"rawRent": 88000,
+					"bedroom": "1",
+					"area": "37.72",
+					"area_ft2": "406"
+				},
+				{
+					"id": 181912,
+					"p": "181912-corporate-takenotsuka-2-chome-603",
+					"unit_number": "603",
+					"rent": "88,000",
+					"rawRent": 88000,
+					"bedroom": "1",
+					"area": "37.72",
+					"area_ft2": "406"
+				}
+			],
+			"lat": 35.7926623,
+			"lng": 139.7965841,
+			"icon": null,
+			"building_station": {
+				"station_name": "Takenotsuka",
+				"distance_in_minute": 7
+			},
+			"room": {
+				"unit_number": "404",
+				"rent": "88,000",
+				"rawRent": 88000,
+				"bedroom": "1",
+				"area": "37.72",
+				"area_ft2": "406",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/179288-corporate-takenotsuka-2-chome-404",
+				"path": "/properties/179288-corporate-takenotsuka-2-chome-404",
+				"image_url": "https://apts.jp/system/property_image/image/1963482/property_image_08017131_013.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2386014/property_image_08017131_00000008_003.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 177353,
+			"building_id": 166945,
+			"kind": "apartment",
+			"building_name": "Struth Kameari",
+			"prefecture": "Tokyo",
+			"city": "Katsushika-ku",
+			"address1": "Nishikameari(3.4-chome)",
+			"address2": "4-12-3",
+			"year": 2022,
+			"rooms": [
+				{
+					"id": 177353,
+					"p": "177353-struth-kameari-110",
+					"unit_number": "110",
+					"rent": "89,000",
+					"rawRent": 89000,
+					"bedroom": "S",
+					"area": "21.6",
+					"area_ft2": "233"
+				},
+				{
+					"id": 179645,
+					"p": "179645-struth-kameari-304",
+					"unit_number": "304",
+					"rent": "91,000",
+					"rawRent": 91000,
+					"bedroom": "S",
+					"area": "21.54",
+					"area_ft2": "232"
+				}
+			],
+			"lat": 35.7648802,
+			"lng": 139.8399351,
+			"icon": null,
+			"building_station": {
+				"station_name": "Kameari",
+				"distance_in_minute": 9
+			},
+			"room": {
+				"unit_number": "110",
+				"rent": "89,000",
+				"rawRent": 89000,
+				"bedroom": "S",
+				"area": "21.6",
+				"area_ft2": "233",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": null,
+				"parking": null,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/177353-struth-kameari-110",
+				"path": "/properties/177353-struth-kameari-110",
+				"image_url": "https://apts.jp/system/property_image/image/2215790/property_image_01h434ph7na5dycyy98s7p841k.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2358558/property_image_01hw70rxe3sfpfhmxtxsgrvrhk.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 180592,
+			"building_id": 173862,
+			"kind": "apartment",
+			"building_name": "RJR Recross Takasago",
+			"prefecture": "Tokyo",
+			"city": "Katsushika-ku",
+			"address1": "Takasago",
+			"address2": "6-5-15",
+			"year": 2022,
+			"rooms": [
+				{
+					"id": 180592,
+					"p": "180592-rjr-recross-takasago-539",
+					"unit_number": "539",
+					"rent": "89,000",
+					"rawRent": 89000,
+					"bedroom": "S",
+					"area": "20.44",
+					"area_ft2": "220"
+				}
+			],
+			"lat": 35.7541068,
+			"lng": 139.8607292,
+			"icon": null,
+			"building_station": {
+				"station_name": "Keisei Takasago",
+				"distance_in_minute": 11
+			},
+			"room": {
+				"unit_number": "539",
+				"rent": "89,000",
+				"rawRent": 89000,
+				"bedroom": "S",
+				"area": "20.44",
+				"area_ft2": "220",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "",
+				"pet": false,
+				"parking": false,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/180592-rjr-recross-takasago-539",
+				"path": "/properties/180592-rjr-recross-takasago-539",
+				"image_url": "https://apts.jp/system/property_image/image/2303746/property_image_bpa_10006822_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2406789/property_image_bpr_10006822_20_20a_20_20_20_2001.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182902,
+			"building_id": 182902,
+			"kind": "apartment",
+			"building_name": "SK Garden Nishikasai III",
+			"prefecture": "Tokyo",
+			"city": "Edogawa-ku",
+			"address1": "Nishikasai",
+			"address2": "5-8-15",
+			"year": 2004,
+			"rooms": [
+				{
+					"id": 182902,
+					"p": "182902-sk-garden-nishikasai-iii-501",
+					"unit_number": "501",
+					"rent": "89,000",
+					"rawRent": 89000,
+					"bedroom": "S",
+					"area": "24.9",
+					"area_ft2": "268"
+				}
+			],
+			"lat": 35.6680443,
+			"lng": 139.861092,
+			"icon": null,
+			"building_station": {
+				"station_name": "Nishi Kasai",
+				"distance_in_minute": 8
+			},
+			"room": {
+				"unit_number": "501",
+				"rent": "89,000",
+				"rawRent": 89000,
+				"bedroom": "S",
+				"area": "24.9",
+				"area_ft2": "268",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": null,
+				"parking": null,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/182902-sk-garden-nishikasai-iii-501",
+				"path": "/properties/182902-sk-garden-nishikasai-iii-501",
+				"image_url": "https://apts.jp/system/property_image/image/2446769/property_image_01jz019zkadzz75qht39g6g1a5.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2446768/property_image_01jz019ra909rypcq11m1wj8bz.jpg#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 177563,
+			"building_id": 177563,
+			"kind": "apartment",
+			"building_name": "Bamboo House Building",
+			"prefecture": "Tokyo",
+			"city": "Adachi-ku",
+			"address1": "Umejima",
+			"address2": "2-38-9",
+			"year": 1982,
+			"rooms": [
+				{
+					"id": 177563,
+					"p": "177563-bamboo-house-building-201",
+					"unit_number": "201",
+					"rent": "89,650",
+					"rawRent": 89650,
+					"bedroom": "S",
+					"area": "33.29",
+					"area_ft2": "358"
+				}
+			],
+			"lat": 35.7784141,
+			"lng": 139.7978079,
+			"icon": null,
+			"building_station": {
+				"station_name": "Umejima",
+				"distance_in_minute": 8
+			},
+			"room": {
+				"unit_number": "201",
+				"rent": "89,650",
+				"rawRent": 89650,
+				"bedroom": "S",
+				"area": "33.29",
+				"area_ft2": "358",
+				"deposit": {
+					"source": "2.0",
+					"parsedValue": 2
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "",
+				"pet": null,
+				"parking": null,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/177563-bamboo-house-building-201",
+				"path": "/properties/177563-bamboo-house-building-201",
+				"image_url": "https://apts.jp/system/property_image/image/2361214/property_image_01jt8031cbs86945atjqy3tt26.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2361209/property_image_01jt8031h8mnqas3jnntr78863.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 183046,
+			"building_id": 153995,
+			"kind": "apartment",
+			"building_name": "Aoto Dot",
+			"prefecture": "Tokyo",
+			"city": "Katsushika-ku",
+			"address1": "Aoto",
+			"address2": "1-20-11",
+			"year": 2021,
+			"rooms": [
+				{
+					"id": 183046,
+					"p": "183046-aoto-dot-303",
+					"unit_number": "303",
+					"rent": "91,000",
+					"rawRent": 91000,
+					"bedroom": "S",
+					"area": "21.75",
+					"area_ft2": "234"
+				}
+			],
+			"lat": 35.7416378,
+			"lng": 139.8561566,
+			"icon": null,
+			"building_station": {
+				"station_name": "Aoto",
+				"distance_in_minute": 6
+			},
+			"room": {
+				"unit_number": "303",
+				"rent": "91,000",
+				"rawRent": 91000,
+				"bedroom": "S",
+				"area": "21.75",
+				"area_ft2": "234",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/183046-aoto-dot-303",
+				"path": "/properties/183046-aoto-dot-303",
+				"image_url": "https://apts.jp/system/property_image/image/2033363/property_image_193_1603779_1_640_480.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2448493/property_image_193_1603787_3_640_480.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 180025,
+			"building_id": 156750,
+			"kind": "apartment",
+			"building_name": "AZEST Kameari II",
+			"prefecture": "Tokyo",
+			"city": "Katsushika-ku",
+			"address1": "Nishikameari(3.4-chome)",
+			"address2": "4-21-8",
+			"year": 2021,
+			"rooms": [
+				{
+					"id": 180025,
+					"p": "180025-azest-kameari-ii-210",
+					"unit_number": "210",
+					"rent": "91,000",
+					"rawRent": 91000,
+					"bedroom": "S",
+					"area": "22.62",
+					"area_ft2": "243"
+				}
+			],
+			"lat": 35.7643493,
+			"lng": 139.84218136,
+			"icon": null,
+			"building_station": {
+				"station_name": "Kameari",
+				"distance_in_minute": 7
+			},
+			"room": {
+				"unit_number": "210",
+				"rent": "91,000",
+				"rawRent": 91000,
+				"bedroom": "S",
+				"area": "22.62",
+				"area_ft2": "243",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning",
+				"pet": null,
+				"parking": null,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/180025-azest-kameari-ii-210",
+				"path": "/properties/180025-azest-kameari-ii-210",
+				"image_url": "https://apts.jp/system/property_image/image/2080405/property_image_0000000001113666967450000009317_10.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2398757/property_image_0000000001113666967450000009481_5.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 143985,
+			"building_id": 143985,
+			"kind": "apartment",
+			"building_name": "La Douceur Ohanajaya II",
+			"prefecture": "Tokyo",
+			"city": "Katsushika-ku",
+			"address1": "Ohanajaya",
+			"address2": "1-9-5",
+			"year": 2021,
+			"rooms": [
+				{
+					"id": 143985,
+					"p": "143985-la-douceur-ohanajaya-ii-309",
+					"unit_number": "309",
+					"rent": "92,000",
+					"rawRent": 92000,
+					"bedroom": "S",
+					"area": "21.75",
+					"area_ft2": "234"
+				},
+				{
+					"id": 152346,
+					"p": "152346-la-douceur-ohanajaya-ii-403",
+					"unit_number": "403",
+					"rent": "93,000",
+					"rawRent": 93000,
+					"bedroom": "S",
+					"area": "21.46",
+					"area_ft2": "231"
+				},
+				{
+					"id": 153834,
+					"p": "153834-la-douceur-ohanajaya-ii-517",
+					"unit_number": "517",
+					"rent": "93,000",
+					"rawRent": 93000,
+					"bedroom": "S",
+					"area": "21.75",
+					"area_ft2": "234"
+				},
+				{
+					"id": 178788,
+					"p": "178788-la-douceur-ohanajaya-ii-423",
+					"unit_number": "423",
+					"rent": "93,000",
+					"rawRent": 93000,
+					"bedroom": "S",
+					"area": "21.75",
+					"area_ft2": "234"
+				},
+				{
+					"id": 179961,
+					"p": "179961-la-douceur-ohanajaya-ii-513",
+					"unit_number": "513",
+					"rent": "93,000",
+					"rawRent": 93000,
+					"bedroom": "S",
+					"area": "21.75",
+					"area_ft2": "234"
+				},
+				{
+					"id": 183109,
+					"p": "183109-la-douceur-ohanajaya-ii-433",
+					"unit_number": "433",
+					"rent": "93,000",
+					"rawRent": 93000,
+					"bedroom": "S",
+					"area": "21.46",
+					"area_ft2": "231"
+				},
+				{
+					"id": 183178,
+					"p": "183178-la-douceur-ohanajaya-ii-410",
+					"unit_number": "410",
+					"rent": "93,000",
+					"rawRent": 93000,
+					"bedroom": "S",
+					"area": "21.75",
+					"area_ft2": "234"
+				}
+			],
+			"lat": 35.7495946,
+			"lng": 139.8374119,
+			"icon": null,
+			"building_station": {
+				"station_name": "Ohanajaya",
+				"distance_in_minute": 6
+			},
+			"room": {
+				"unit_number": "309",
+				"rent": "92,000",
+				"rawRent": 92000,
+				"bedroom": "S",
+				"area": "21.75",
+				"area_ft2": "234",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Parking",
+				"pet": false,
+				"parking": true,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/143985-la-douceur-ohanajaya-ii-309",
+				"path": "/properties/143985-la-douceur-ohanajaya-ii-309",
+				"image_url": "https://apts.jp/system/property_image/image/1933256/property_image_bpa_10006689_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/1933257/property_image_bpr_10006689_20_20b_20_20_20_20030901.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 183079,
+			"building_id": 144799,
+			"kind": "apartment",
+			"building_name": "La Douceur Takasago",
+			"prefecture": "Tokyo",
+			"city": "Katsushika-ku",
+			"address1": "Takasago",
+			"address2": "3-28-15",
+			"year": null,
+			"rooms": [
+				{
+					"id": 183079,
+					"p": "183079-la-douceur-takasago-402",
+					"unit_number": "402",
+					"rent": "92,000",
+					"rawRent": 92000,
+					"bedroom": "S",
+					"area": "21.14",
+					"area_ft2": "228"
+				},
+				{
+					"id": 183034,
+					"p": "183034-la-douceur-takasago-406",
+					"unit_number": "406",
+					"rent": "96,500",
+					"rawRent": 96500,
+					"bedroom": "S",
+					"area": "21.37",
+					"area_ft2": "230"
+				}
+			],
+			"lat": 35.7471551,
+			"lng": 139.8697462,
+			"icon": null,
+			"building_station": {
+				"station_name": "Keisei Takasago",
+				"distance_in_minute": 10
+			},
+			"room": {
+				"unit_number": "402",
+				"rent": "92,000",
+				"rawRent": 92000,
+				"bedroom": "S",
+				"area": "21.14",
+				"area_ft2": "228",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "",
+				"pet": false,
+				"parking": false,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/183079-la-douceur-takasago-402",
+				"path": "/properties/183079-la-douceur-takasago-402",
+				"image_url": "https://apts.jp/system/property_image/image/2019928/property_image_bpa_10006735_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2448830/property_image_bpr_10006735_20_20a2_20_20_2001.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 180915,
+			"building_id": 41531,
+			"kind": "apartment",
+			"building_name": "Milia Vita NO.22",
+			"prefecture": "Tokyo",
+			"city": "Edogawa-ku",
+			"address1": "Nishikoiwa",
+			"address2": "5-14-15",
+			"year": 2013,
+			"rooms": [
+				{
+					"id": 180915,
+					"p": "180915-milia-vita-no-22-0302a",
+					"unit_number": "0302A",
+					"rent": "93,000",
+					"rawRent": 93000,
+					"bedroom": "S",
+					"area": "25.05",
+					"area_ft2": "270"
+				},
+				{
+					"id": 177887,
+					"p": "177887-milia-vita-no-22-0602a",
+					"unit_number": "0602A",
+					"rent": "95,000",
+					"rawRent": 95000,
+					"bedroom": "S",
+					"area": "25.05",
+					"area_ft2": "270"
+				},
+				{
+					"id": 180894,
+					"p": "180894-milia-vita-no-22-0302b",
+					"unit_number": "0302B",
+					"rent": "98,000",
+					"rawRent": 98000,
+					"bedroom": "S",
+					"area": "25.05",
+					"area_ft2": "270"
+				},
+				{
+					"id": 177862,
+					"p": "177862-milia-vita-no-22-0602b",
+					"unit_number": "0602B",
+					"rent": "100,000",
+					"rawRent": 100000,
+					"bedroom": "S",
+					"area": "25.05",
+					"area_ft2": "270"
+				}
+			],
+			"lat": 35.7394299,
+			"lng": 139.883189,
+			"icon": null,
+			"building_station": {
+				"station_name": "Keisei Koiwa",
+				"distance_in_minute": 5
+			},
+			"room": {
+				"unit_number": "0302A",
+				"rent": "93,000",
+				"rawRent": 93000,
+				"bedroom": "S",
+				"area": "25.05",
+				"area_ft2": "270",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "2.0",
+					"parsedValue": 2
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/180915-milia-vita-no-22-0302a",
+				"path": "/properties/180915-milia-vita-no-22-0302a",
+				"image_url": "https://apts.jp/system/property_image/image/369719/milia-vita-no-22-building.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2411315/property_image_2168_0302_0_2.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182712,
+			"building_id": 67398,
+			"kind": "apartment",
+			"building_name": "Ground Dukes Nishi Ojima",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Ojima",
+			"address2": "1-20-8",
+			"year": 2020,
+			"rooms": [
+				{
+					"id": 182712,
+					"p": "182712-ground-dukes-nishi-ojima-0303",
+					"unit_number": "0303",
+					"rent": "93,000",
+					"rawRent": 93000,
+					"bedroom": "S",
+					"area": "22.8",
+					"area_ft2": "245"
+				},
+				{
+					"id": 182742,
+					"p": "182742-ground-dukes-nishi-ojima-0503",
+					"unit_number": "0503",
+					"rent": "97,000",
+					"rawRent": 97000,
+					"bedroom": "S",
+					"area": "22.8",
+					"area_ft2": "245"
+				}
+			],
+			"lat": 35.6863022,
+			"lng": 139.8247989,
+			"icon": null,
+			"building_station": {
+				"station_name": "Nishi Ojima",
+				"distance_in_minute": 5
+			},
+			"room": {
+				"unit_number": "0303",
+				"rent": "93,000",
+				"rawRent": 93000,
+				"bedroom": "S",
+				"area": "22.8",
+				"area_ft2": "245",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Pet Friendly · Bicycle Storage",
+				"pet": true,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/182712-ground-dukes-nishi-ojima-0303",
+				"path": "/properties/182712-ground-dukes-nishi-ojima-0303",
+				"image_url": "https://apts.jp/system/property_image/image/685759/property_image_813086_001315_03.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2444485/property_image_4702_0303_0_2.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 180909,
+			"building_id": 44107,
+			"kind": "apartment",
+			"building_name": "Welt Kameido",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Kameido",
+			"address2": "7-50-12",
+			"year": 2005,
+			"rooms": [
+				{
+					"id": 180909,
+					"p": "180909-welt-kameido-0201a",
+					"unit_number": "0201A",
+					"rent": "94,000",
+					"rawRent": 94000,
+					"bedroom": "S",
+					"area": "25.25",
+					"area_ft2": "272"
+				},
+				{
+					"id": 180910,
+					"p": "180910-welt-kameido-0201b",
+					"unit_number": "0201B",
+					"rent": "99,000",
+					"rawRent": 99000,
+					"bedroom": "S",
+					"area": "25.25",
+					"area_ft2": "272"
+				}
+			],
+			"lat": 35.6950132,
+			"lng": 139.8344944,
+			"icon": null,
+			"building_station": {
+				"station_name": "Ojima",
+				"distance_in_minute": 9
+			},
+			"room": {
+				"unit_number": "0201A",
+				"rent": "94,000",
+				"rawRent": 94000,
+				"bedroom": "S",
+				"area": "25.25",
+				"area_ft2": "272",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Pet Friendly · Bicycle Storage",
+				"pet": true,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/180909-welt-kameido-0201a",
+				"path": "/properties/180909-welt-kameido-0201a",
+				"image_url": "https://apts.jp/system/property_image/image/2411243/property_image_3023_0201_0_1.jpg#fp",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2411246/property_image_3023_0201_0_2.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 181935,
+			"building_id": 144837,
+			"kind": "apartment",
+			"building_name": "THE Palms Shinkoiwa",
+			"prefecture": "Tokyo",
+			"city": "Katsushika-ku",
+			"address1": "Higashishinkoiwa",
+			"address2": "3-1-16",
+			"year": null,
+			"rooms": [
+				{
+					"id": 181935,
+					"p": "181935-the-palms-shinkoiwa-406",
+					"unit_number": "406",
+					"rent": "94,000",
+					"rawRent": 94000,
+					"bedroom": "S",
+					"area": "20.63",
+					"area_ft2": "222"
+				},
+				{
+					"id": 182623,
+					"p": "182623-the-palms-shinkoiwa-508",
+					"unit_number": "508",
+					"rent": "95,000",
+					"rawRent": 95000,
+					"bedroom": "S",
+					"area": "21.62",
+					"area_ft2": "233"
+				}
+			],
+			"lat": 35.7200038,
+			"lng": 139.8576284,
+			"icon": null,
+			"building_station": {
+				"station_name": "Shin Koiwa",
+				"distance_in_minute": 6
+			},
+			"room": {
+				"unit_number": "406",
+				"rent": "94,000",
+				"rawRent": 94000,
+				"bedroom": "S",
+				"area": "20.63",
+				"area_ft2": "222",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Parking",
+				"pet": false,
+				"parking": true,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/181935-the-palms-shinkoiwa-406",
+				"path": "/properties/181935-the-palms-shinkoiwa-406",
+				"image_url": "https://apts.jp/system/property_image/image/1901902/property_image_bpa_10007282_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2432725/property_image_bpr_10007282_20_20b1_20_20_2001.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 177767,
+			"building_id": 143934,
+			"kind": "apartment",
+			"building_name": "Azest Horikiri Iris Garden II",
+			"prefecture": "Tokyo",
+			"city": "Katsushika-ku",
+			"address1": "Horikiri",
+			"address2": "3-4-10",
+			"year": 2019,
+			"rooms": [
+				{
+					"id": 177767,
+					"p": "177767-azest-horikiri-iris-garden-ii-103",
+					"unit_number": "103",
+					"rent": "95,000",
+					"rawRent": 95000,
+					"bedroom": "S",
+					"area": "25.65",
+					"area_ft2": "276"
+				}
+			],
+			"lat": 35.7462986,
+			"lng": 139.828064,
+			"icon": null,
+			"building_station": {
+				"station_name": "Horikiri Shobuen",
+				"distance_in_minute": 3
+			},
+			"room": {
+				"unit_number": "103",
+				"rent": "95,000",
+				"rawRent": 95000,
+				"bedroom": "S",
+				"area": "25.65",
+				"area_ft2": "276",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/177767-azest-horikiri-iris-garden-ii-103",
+				"path": "/properties/177767-azest-horikiri-iris-garden-ii-103",
+				"image_url": "https://apts.jp/system/property_image/image/1889396/property_image_193_427164_1_640_480.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2363983/property_image_193_503257_13_640_480.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 152171,
+			"building_id": 144175,
+			"kind": "apartment",
+			"building_name": "Ecology Shiomi Residence",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Shiomi",
+			"address2": "2-1-5",
+			"year": null,
+			"rooms": [
+				{
+					"id": 152171,
+					"p": "152171-ecology-shiomi-residence-105",
+					"unit_number": "105",
+					"rent": "95,000",
+					"rawRent": 95000,
+					"bedroom": "S",
+					"area": "21.2",
+					"area_ft2": "228"
+				},
+				{
+					"id": 183121,
+					"p": "183121-ecology-shiomi-residence-405",
+					"unit_number": "405",
+					"rent": "99,000",
+					"rawRent": 99000,
+					"bedroom": "S",
+					"area": "21.69",
+					"area_ft2": "233"
+				},
+				{
+					"id": 183106,
+					"p": "183106-ecology-shiomi-residence-511",
+					"unit_number": "511",
+					"rent": "100,000",
+					"rawRent": 100000,
+					"bedroom": "S",
+					"area": "21.2",
+					"area_ft2": "228"
+				},
+				{
+					"id": 183124,
+					"p": "183124-ecology-shiomi-residence-711",
+					"unit_number": "711",
+					"rent": "100,000",
+					"rawRent": 100000,
+					"bedroom": "S",
+					"area": "21.2",
+					"area_ft2": "228"
+				},
+				{
+					"id": 183139,
+					"p": "183139-ecology-shiomi-residence-508",
+					"unit_number": "508",
+					"rent": "100,000",
+					"rawRent": 100000,
+					"bedroom": "S",
+					"area": "21.2",
+					"area_ft2": "228"
+				},
+				{
+					"id": 183184,
+					"p": "183184-ecology-shiomi-residence-911",
+					"unit_number": "911",
+					"rent": "101,000",
+					"rawRent": 101000,
+					"bedroom": "S",
+					"area": "21.2",
+					"area_ft2": "228"
+				},
+				{
+					"id": 183200,
+					"p": "183200-ecology-shiomi-residence-1311",
+					"unit_number": "1311",
+					"rent": "102,000",
+					"rawRent": 102000,
+					"bedroom": "S",
+					"area": "21.2",
+					"area_ft2": "228"
+				},
+				{
+					"id": 183202,
+					"p": "183202-ecology-shiomi-residence-513",
+					"unit_number": "513",
+					"rent": "102,000",
+					"rawRent": 102000,
+					"bedroom": "S",
+					"area": "23.28",
+					"area_ft2": "251"
+				},
+				{
+					"id": 183104,
+					"p": "183104-ecology-shiomi-residence-1213",
+					"unit_number": "1213",
+					"rent": "104,000",
+					"rawRent": 104000,
+					"bedroom": "S",
+					"area": "23.28",
+					"area_ft2": "251"
+				},
+				{
+					"id": 171598,
+					"p": "171598-ecology-shiomi-residence-308",
+					"unit_number": "308",
+					"rent": "116,000",
+					"rawRent": 116000,
+					"bedroom": "S",
+					"area": "21.2",
+					"area_ft2": "228"
+				}
+			],
+			"lat": 35.6606165,
+			"lng": 139.8164069,
+			"icon": null,
+			"building_station": {
+				"station_name": "Shiomi",
+				"distance_in_minute": 8
+			},
+			"room": {
+				"unit_number": "105",
+				"rent": "95,000",
+				"rawRent": 95000,
+				"bedroom": "S",
+				"area": "21.2",
+				"area_ft2": "228",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Parking",
+				"pet": false,
+				"parking": true,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/152171-ecology-shiomi-residence-105",
+				"path": "/properties/152171-ecology-shiomi-residence-105",
+				"image_url": "https://apts.jp/system/property_image/image/1892381/property_image_bpa_10001542_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2003539/property_image_bpr_10001542_20_20b_20_20_20_2003.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 181510,
+			"building_id": 166272,
+			"kind": "apartment",
+			"building_name": "MAXIV Ichinoe",
+			"prefecture": "Tokyo",
+			"city": "Edogawa-ku",
+			"address1": "Ichinoe",
+			"address2": "4-17-9",
+			"year": 2017,
+			"rooms": [
+				{
+					"id": 181510,
+					"p": "181510-maxiv-ichinoe-503",
+					"unit_number": "503",
+					"rent": "96,000",
+					"rawRent": 96000,
+					"bedroom": "S",
+					"area": "26.8",
+					"area_ft2": "288"
+				}
+			],
+			"lat": 35.69225127,
+			"lng": 139.88241414,
+			"icon": null,
+			"building_station": {
+				"station_name": "Ichinoe",
+				"distance_in_minute": 9
+			},
+			"room": {
+				"unit_number": "503",
+				"rent": "96,000",
+				"rawRent": 96000,
+				"bedroom": "S",
+				"area": "26.8",
+				"area_ft2": "288",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning",
+				"pet": null,
+				"parking": null,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/181510-maxiv-ichinoe-503",
+				"path": "/properties/181510-maxiv-ichinoe-503",
+				"image_url": "https://apts.jp/system/property_image/image/2206236/property_image_0000000001113666967450000005762_10.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2426494/property_image_0000000001113666967450000005779_2.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182897,
+			"building_id": 44537,
+			"kind": "apartment",
+			"building_name": "Prime Urban Kameido",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Kameido",
+			"address2": "2-38-2",
+			"year": 2004,
+			"rooms": [
+				{
+					"id": 182897,
+					"p": "182897-prime-urban-kameido-206",
+					"unit_number": "206",
+					"rent": "97,000",
+					"rawRent": 97000,
+					"bedroom": "S",
+					"area": "21.0",
+					"area_ft2": "226"
+				}
+			],
+			"lat": 35.7008763,
+			"lng": 139.8244314,
+			"icon": null,
+			"building_station": {
+				"station_name": "Kameido",
+				"distance_in_minute": 4
+			},
+			"room": {
+				"unit_number": "206",
+				"rent": "97,000",
+				"rawRent": 97000,
+				"bedroom": "S",
+				"area": "21.0",
+				"area_ft2": "226",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/182897-prime-urban-kameido-206",
+				"path": "/properties/182897-prime-urban-kameido-206",
+				"image_url": "https://apts.jp/system/property_image/image/401457/property_image_119_78931_1_640_480.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2446720/property_image_119_539917_10_640_480.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 88871,
+			"building_id": 11997,
+			"kind": "apartment",
+			"building_name": "Napoleone KAITO",
+			"prefecture": "Tokyo",
+			"city": "Sumida-ku",
+			"address1": "Kamezawa",
+			"address2": "4-19-9",
+			"year": 2006,
+			"rooms": [
+				{
+					"id": 88871,
+					"p": "88871-napoleone-kaito-210",
+					"unit_number": "210",
+					"rent": "98,000",
+					"rawRent": 98000,
+					"bedroom": "S",
+					"area": "24.6",
+					"area_ft2": "265"
+				}
+			],
+			"lat": 35.6990732,
+			"lng": 139.8079733,
+			"icon": null,
+			"building_station": {
+				"station_name": "Kinshicho",
+				"distance_in_minute": 9
+			},
+			"room": {
+				"unit_number": "210",
+				"rent": "98,000",
+				"rawRent": 98000,
+				"bedroom": "S",
+				"area": "24.6",
+				"area_ft2": "265",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning",
+				"pet": false,
+				"parking": false,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/88871-napoleone-kaito-210",
+				"path": "/properties/88871-napoleone-kaito-210",
+				"image_url": "https://apts.jp/system/property_image/image/120555/napoleone-kaito-property.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/1017695/property_image_697ece11-9ef1-4a6b-9ce5-587c34058c04_property_picture_2072_large.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 174986,
+			"building_id": 14597,
+			"kind": "apartment",
+			"building_name": "Comforia Tachibana Sumida",
+			"prefecture": "Tokyo",
+			"city": "Sumida-ku",
+			"address1": "Tachibana",
+			"address2": "5-18-7",
+			"year": 2007,
+			"rooms": [
+				{
+					"id": 174986,
+					"p": "174986-comforia-tachibana-sumida-0301",
+					"unit_number": "0301",
+					"rent": "98,000",
+					"rawRent": 98000,
+					"bedroom": "S",
+					"area": "26.01",
+					"area_ft2": "280"
+				}
+			],
+			"lat": 35.7129624,
+			"lng": 139.8305651,
+			"icon": null,
+			"building_station": {
+				"station_name": "Omurai",
+				"distance_in_minute": 6
+			},
+			"room": {
+				"unit_number": "0301",
+				"rent": "98,000",
+				"rawRent": 98000,
+				"bedroom": "S",
+				"area": "26.01",
+				"area_ft2": "280",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/174986-comforia-tachibana-sumida-0301",
+				"path": "/properties/174986-comforia-tachibana-sumida-0301",
+				"image_url": "https://apts.jp/system/property_image/image/139083/comforia-tachibana-sumida-property.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2320464/property_image_07001999_07030535_005.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 176644,
+			"building_id": 144102,
+			"kind": "apartment",
+			"building_name": "Ecology Toyocho",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Shiohama",
+			"address2": "2-22-10",
+			"year": null,
+			"rooms": [
+				{
+					"id": 176644,
+					"p": "176644-ecology-toyocho-907",
+					"unit_number": "907",
+					"rent": "98,000",
+					"rawRent": 98000,
+					"bedroom": "S",
+					"area": "22.19",
+					"area_ft2": "239"
+				},
+				{
+					"id": 182676,
+					"p": "182676-ecology-toyocho-1013",
+					"unit_number": "1013",
+					"rent": "105,000",
+					"rawRent": 105000,
+					"bedroom": "S",
+					"area": "23.71",
+					"area_ft2": "255"
+				}
+			],
+			"lat": 35.6640996,
+			"lng": 139.8139352,
+			"icon": null,
+			"building_station": {
+				"station_name": "Toyocho",
+				"distance_in_minute": 11
+			},
+			"room": {
+				"unit_number": "907",
+				"rent": "98,000",
+				"rawRent": 98000,
+				"bedroom": "S",
+				"area": "22.19",
+				"area_ft2": "239",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Parking",
+				"pet": false,
+				"parking": true,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/176644-ecology-toyocho-907",
+				"path": "/properties/176644-ecology-toyocho-907",
+				"image_url": "https://apts.jp/system/property_image/image/1891469/property_image_bpa_10006104_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2347907/property_image_bpr_10006104_20_20b2_20_20_2005.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182632,
+			"building_id": 150849,
+			"kind": "apartment",
+			"building_name": "Realize Shinkoiwa",
+			"prefecture": "Tokyo",
+			"city": "Katsushika-ku",
+			"address1": "Higashishinkoiwa",
+			"address2": "5-17-5",
+			"year": 2020,
+			"rooms": [
+				{
+					"id": 182632,
+					"p": "182632-realize-shinkoiwa-201",
+					"unit_number": "201",
+					"rent": "98,000",
+					"rawRent": 98000,
+					"bedroom": "S",
+					"area": "25.64",
+					"area_ft2": "276"
+				}
+			],
+			"lat": 35.72294572,
+			"lng": 139.85627381,
+			"icon": null,
+			"building_station": {
+				"station_name": "Shin Koiwa",
+				"distance_in_minute": 10
+			},
+			"room": {
+				"unit_number": "201",
+				"rent": "98,000",
+				"rawRent": 98000,
+				"bedroom": "S",
+				"area": "25.64",
+				"area_ft2": "276",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": null,
+				"parking": null,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/182632-realize-shinkoiwa-201",
+				"path": "/properties/182632-realize-shinkoiwa-201",
+				"image_url": "https://apts.jp/system/property_image/image/1986225/property_image_01j7bm92v9xacps8gmtvhrcp7c.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2443198/property_image_01jyrxh8fyvm9y7sj89cmmv2w5.jpg#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182217,
+			"building_id": 143715,
+			"kind": "apartment",
+			"building_name": "Wilterrace Nishi Ojima",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Ojima",
+			"address2": "3-1-14",
+			"year": null,
+			"rooms": [
+				{
+					"id": 182217,
+					"p": "182217-wilterrace-nishi-ojima-504",
+					"unit_number": "504",
+					"rent": "99,000",
+					"rawRent": 99000,
+					"bedroom": "S",
+					"area": "22.0",
+					"area_ft2": "237"
+				},
+				{
+					"id": 180706,
+					"p": "180706-wilterrace-nishi-ojima-607",
+					"unit_number": "607",
+					"rent": "101,000",
+					"rawRent": 101000,
+					"bedroom": "S",
+					"area": "22.07",
+					"area_ft2": "238"
+				}
+			],
+			"lat": 35.6901237,
+			"lng": 139.826637,
+			"icon": null,
+			"building_station": {
+				"station_name": "Nishi Ojima",
+				"distance_in_minute": 1
+			},
+			"room": {
+				"unit_number": "504",
+				"rent": "99,000",
+				"rawRent": 99000,
+				"bedroom": "S",
+				"area": "22.0",
+				"area_ft2": "237",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Parking",
+				"pet": false,
+				"parking": true,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/182217-wilterrace-nishi-ojima-504",
+				"path": "/properties/182217-wilterrace-nishi-ojima-504",
+				"image_url": "https://apts.jp/system/property_image/image/1884277/property_image_bpa_10006051_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2437067/property_image_bpr_10006051_20_20b2_20_20_2003.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182965,
+			"building_id": 42404,
+			"kind": "apartment",
+			"building_name": "Prime Urban Kasai East",
+			"prefecture": "Tokyo",
+			"city": "Edogawa-ku",
+			"address1": "Higashikasai",
+			"address2": "6-16-9",
+			"year": 2006,
+			"rooms": [
+				{
+					"id": 182965,
+					"p": "182965-prime-urban-kasai-east-608",
+					"unit_number": "608",
+					"rent": "100,000",
+					"rawRent": 100000,
+					"bedroom": "S",
+					"area": "24.22",
+					"area_ft2": "261"
+				}
+			],
+			"lat": 35.66272579,
+			"lng": 139.87614365,
+			"icon": null,
+			"building_station": {
+				"station_name": "Kasai",
+				"distance_in_minute": 4
+			},
+			"room": {
+				"unit_number": "608",
+				"rent": "100,000",
+				"rawRent": 100000,
+				"bedroom": "S",
+				"area": "24.22",
+				"area_ft2": "261",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "2.0",
+					"parsedValue": 2
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/182965-prime-urban-kasai-east-608",
+				"path": "/properties/182965-prime-urban-kasai-east-608",
+				"image_url": "https://apts.jp/system/property_image/image/378084/prime-urban-kasai-east-building.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2447606/property_image_119_140653_5_640_480.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182932,
+			"building_id": 45631,
+			"kind": "apartment",
+			"building_name": "Jewel Parfe Hirai",
+			"prefecture": "Tokyo",
+			"city": "Sumida-ku",
+			"address1": "Tachibana",
+			"address2": "6-12-18",
+			"year": null,
+			"rooms": [
+				{
+					"id": 182932,
+					"p": "182932-jewel-parfe-hirai-0301a",
+					"unit_number": "0301A",
+					"rent": "100,000",
+					"rawRent": 100000,
+					"bedroom": "S",
+					"area": "25.72",
+					"area_ft2": "277"
+				},
+				{
+					"id": 182933,
+					"p": "182933-jewel-parfe-hirai-0301b",
+					"unit_number": "0301B",
+					"rent": "110,000",
+					"rawRent": 110000,
+					"bedroom": "S",
+					"area": "25.72",
+					"area_ft2": "277"
+				}
+			],
+			"lat": 35.7092809,
+			"lng": 139.8376813,
+			"icon": null,
+			"building_station": {
+				"station_name": "Hirai",
+				"distance_in_minute": 8
+			},
+			"room": {
+				"unit_number": "0301A",
+				"rent": "100,000",
+				"rawRent": 100000,
+				"bedroom": "S",
+				"area": "25.72",
+				"area_ft2": "277",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "2.0",
+					"parsedValue": 2
+				},
+				"features": "Air Conditioning · Pet Friendly · Bicycle Storage",
+				"pet": true,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/182932-jewel-parfe-hirai-0301a",
+				"path": "/properties/182932-jewel-parfe-hirai-0301a",
+				"image_url": "https://apts.jp/system/property_image/image/413403/property_image_813086_000898_02.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2447327/property_image_3717_0301_0_3.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 180126,
+			"building_id": 144041,
+			"kind": "apartment",
+			"building_name": "Due Nishi Oshima",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Ojima",
+			"address2": "2-13-17",
+			"year": null,
+			"rooms": [
+				{
+					"id": 180126,
+					"p": "180126-due-nishi-oshima-607",
+					"unit_number": "607",
+					"rent": "100,000",
+					"rawRent": 100000,
+					"bedroom": "S",
+					"area": "23.24",
+					"area_ft2": "250"
+				}
+			],
+			"lat": 35.691285,
+			"lng": 139.8228303,
+			"icon": null,
+			"building_station": {
+				"station_name": "Nishi Ojima",
+				"distance_in_minute": 6
+			},
+			"room": {
+				"unit_number": "607",
+				"rent": "100,000",
+				"rawRent": 100000,
+				"bedroom": "S",
+				"area": "23.24",
+				"area_ft2": "250",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Parking",
+				"pet": false,
+				"parking": true,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/180126-due-nishi-oshima-607",
+				"path": "/properties/180126-due-nishi-oshima-607",
+				"image_url": "https://apts.jp/system/property_image/image/1890730/property_image_bpa_10001570_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2400474/property_image_bpr_10001570_20_20f2_20_20_2002.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 149433,
+			"building_id": 145416,
+			"kind": "apartment",
+			"building_name": "Alpha Coat Aoto",
+			"prefecture": "Tokyo",
+			"city": "Katsushika-ku",
+			"address1": "Tateishi",
+			"address2": "8-34-6",
+			"year": 2021,
+			"rooms": [
+				{
+					"id": 149433,
+					"p": "149433-alpha-coat-aoto-411",
+					"unit_number": "411",
+					"rent": "101,000",
+					"rawRent": 101000,
+					"bedroom": "S",
+					"area": "22.0",
+					"area_ft2": "237"
+				}
+			],
+			"lat": 35.7415353,
+			"lng": 139.8551483,
+			"icon": null,
+			"building_station": {
+				"station_name": "Aoto",
+				"distance_in_minute": 6
+			},
+			"room": {
+				"unit_number": "411",
+				"rent": "101,000",
+				"rawRent": 101000,
+				"bedroom": "S",
+				"area": "22.0",
+				"area_ft2": "237",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/149433-alpha-coat-aoto-411",
+				"path": "/properties/149433-alpha-coat-aoto-411",
+				"image_url": "https://apts.jp/system/property_image/image/1909096/property_image_08025017_012.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/1968295/property_image_813054_025017_0056_01.jpg#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182955,
+			"building_id": 151757,
+			"kind": "apartment",
+			"building_name": "Muse Ryogoku II",
+			"prefecture": "Tokyo",
+			"city": "Sumida-ku",
+			"address1": "Ryogoku",
+			"address2": "2-2-6",
+			"year": null,
+			"rooms": [
+				{
+					"id": 182955,
+					"p": "182955-muse-ryogoku-ii-303",
+					"unit_number": "303",
+					"rent": "101,000",
+					"rawRent": 101000,
+					"bedroom": "S",
+					"area": "24.96",
+					"area_ft2": "269"
+				}
+			],
+			"lat": 35.6924841,
+			"lng": 139.7918934,
+			"icon": null,
+			"building_station": {
+				"station_name": "Ryogoku",
+				"distance_in_minute": 7
+			},
+			"room": {
+				"unit_number": "303",
+				"rent": "101,000",
+				"rawRent": 101000,
+				"bedroom": "S",
+				"area": "24.96",
+				"area_ft2": "269",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "",
+				"pet": false,
+				"parking": false,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/182955-muse-ryogoku-ii-303",
+				"path": "/properties/182955-muse-ryogoku-ii-303",
+				"image_url": "https://apts.jp/system/property_image/image/1997641/property_image_bpa_10006744_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2447519/property_image_bpr_10006744_20_20a_20_20_20_2001.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 179481,
+			"building_id": 35210,
+			"kind": "apartment",
+			"building_name": "Grand Park Tokyo EAST",
+			"prefecture": "Tokyo",
+			"city": "Edogawa-ku",
+			"address1": "Hirai",
+			"address2": "5-25-4",
+			"year": 2017,
+			"rooms": [
+				{
+					"id": 179481,
+					"p": "179481-grand-park-tokyo-east-0303a",
+					"unit_number": "0303A",
+					"rent": "102,000",
+					"rawRent": 102000,
+					"bedroom": "S",
+					"area": "25.78",
+					"area_ft2": "277"
+				},
+				{
+					"id": 179455,
+					"p": "179455-grand-park-tokyo-east-1003a",
+					"unit_number": "1003A",
+					"rent": "108,000",
+					"rawRent": 108000,
+					"bedroom": "S",
+					"area": "25.78",
+					"area_ft2": "277"
+				},
+				{
+					"id": 179511,
+					"p": "179511-grand-park-tokyo-east-0303b",
+					"unit_number": "0303B",
+					"rent": "112,000",
+					"rawRent": 112000,
+					"bedroom": "S",
+					"area": "25.78",
+					"area_ft2": "277"
+				},
+				{
+					"id": 179442,
+					"p": "179442-grand-park-tokyo-east-1003b",
+					"unit_number": "1003B",
+					"rent": "118,000",
+					"rawRent": 118000,
+					"bedroom": "S",
+					"area": "25.78",
+					"area_ft2": "277"
+				}
+			],
+			"lat": 35.7079695,
+			"lng": 139.8435696,
+			"icon": null,
+			"building_station": {
+				"station_name": "Hirai",
+				"distance_in_minute": 3
+			},
+			"room": {
+				"unit_number": "0303A",
+				"rent": "102,000",
+				"rawRent": 102000,
+				"bedroom": "S",
+				"area": "25.78",
+				"area_ft2": "277",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "2.0",
+					"parsedValue": 2
+				},
+				"features": "Air Conditioning · Pet Friendly · Bicycle Storage",
+				"pet": true,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/179481-grand-park-tokyo-east-0303a",
+				"path": "/properties/179481-grand-park-tokyo-east-0303a",
+				"image_url": "https://apts.jp/system/property_image/image/754223/property_image_113121_10945_1.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2388678/property_image_3803_0303_0_2.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 183063,
+			"building_id": 147536,
+			"kind": "apartment",
+			"building_name": "Shoei Building",
+			"prefecture": "Tokyo",
+			"city": "Edogawa-ku",
+			"address1": "Nishikasai",
+			"address2": "6-10-14",
+			"year": null,
+			"rooms": [
+				{
+					"id": 183063,
+					"p": "183063-shoei-building-306",
+					"unit_number": "306",
+					"rent": "102,000",
+					"rawRent": 102000,
+					"bedroom": "2",
+					"area": "45.9",
+					"area_ft2": "494"
+				}
+			],
+			"lat": 35.6634735,
+			"lng": 139.8585706,
+			"icon": null,
+			"building_station": {
+				"station_name": "Nishi Kasai",
+				"distance_in_minute": 2
+			},
+			"room": {
+				"unit_number": "306",
+				"rent": "102,000",
+				"rawRent": 102000,
+				"bedroom": "2",
+				"area": "45.9",
+				"area_ft2": "494",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "",
+				"pet": false,
+				"parking": false,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/183063-shoei-building-306",
+				"path": "/properties/183063-shoei-building-306",
+				"image_url": "https://apts.jp/system/property_image/image/1939983/property_image_bpa_10006036_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2448646/property_image_bpr_10006036_20_20c_20_20_20_2004.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 181709,
+			"building_id": 163893,
+			"kind": "apartment",
+			"building_name": "Alpha Court Gotanno",
+			"prefecture": "Tokyo",
+			"city": "Adachi-ku",
+			"address1": "Nishiaraihoncho",
+			"address2": "4-5-4",
+			"year": 2025,
+			"rooms": [
+				{
+					"id": 181709,
+					"p": "181709-alpha-court-gotanno-0501",
+					"unit_number": "0501",
+					"rent": "102,000",
+					"rawRent": 102000,
+					"bedroom": "1",
+					"area": "25.83",
+					"area_ft2": "278"
+				},
+				{
+					"id": 183128,
+					"p": "183128-alpha-court-gotanno-0503",
+					"unit_number": "0503",
+					"rent": "103,000",
+					"rawRent": 103000,
+					"bedroom": "1",
+					"area": "25.99",
+					"area_ft2": "280"
+				},
+				{
+					"id": 183166,
+					"p": "183166-alpha-court-gotanno-0602",
+					"unit_number": "0602",
+					"rent": "104,000",
+					"rawRent": 104000,
+					"bedroom": "1",
+					"area": "25.93",
+					"area_ft2": "279"
+				},
+				{
+					"id": 181719,
+					"p": "181719-alpha-court-gotanno-0702",
+					"unit_number": "0702",
+					"rent": "105,000",
+					"rawRent": 105000,
+					"bedroom": "1",
+					"area": "25.93",
+					"area_ft2": "279"
+				},
+				{
+					"id": 181728,
+					"p": "181728-alpha-court-gotanno-0703",
+					"unit_number": "0703",
+					"rent": "105,000",
+					"rawRent": 105000,
+					"bedroom": "1",
+					"area": "25.99",
+					"area_ft2": "280"
+				},
+				{
+					"id": 181720,
+					"p": "181720-alpha-court-gotanno-0803",
+					"unit_number": "0803",
+					"rent": "106,000",
+					"rawRent": 106000,
+					"bedroom": "1",
+					"area": "25.99",
+					"area_ft2": "280"
+				}
+			],
+			"lat": 35.7725188,
+			"lng": 139.7808584,
+			"icon": null,
+			"building_station": {
+				"station_name": "Daishi Mae",
+				"distance_in_minute": 11
+			},
+			"room": {
+				"unit_number": "0501",
+				"rent": "102,000",
+				"rawRent": 102000,
+				"bedroom": "1",
+				"area": "25.83",
+				"area_ft2": "278",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/181709-alpha-court-gotanno-0501",
+				"path": "/properties/181709-alpha-court-gotanno-0501",
+				"image_url": "https://apts.jp/system/property_image/image/2205079/property_image_08034518_003.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2429710/property_image_08034518_00000012_002.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 161676,
+			"building_id": 155384,
+			"kind": "apartment",
+			"building_name": "MAXIV Nishi Oshima",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Kitasuna",
+			"address2": "3-28-7",
+			"year": 2021,
+			"rooms": [
+				{
+					"id": 161676,
+					"p": "161676-maxiv-nishi-oshima-101",
+					"unit_number": "101",
+					"rent": "102,500",
+					"rawRent": 102500,
+					"bedroom": "S",
+					"area": "25.81",
+					"area_ft2": "278"
+				}
+			],
+			"lat": 35.68141089,
+			"lng": 139.82830013,
+			"icon": null,
+			"building_station": {
+				"station_name": "Nishi Ojima",
+				"distance_in_minute": 12
+			},
+			"room": {
+				"unit_number": "101",
+				"rent": "102,500",
+				"rawRent": 102500,
+				"bedroom": "S",
+				"area": "25.81",
+				"area_ft2": "278",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning",
+				"pet": null,
+				"parking": null,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/161676-maxiv-nishi-oshima-101",
+				"path": "/properties/161676-maxiv-nishi-oshima-101",
+				"image_url": "https://apts.jp/system/property_image/image/2061833/property_image_0000000001113666967450000009256_10.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2145117/property_image_0000000001113666967450000009187_2.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 142494,
+			"building_id": 50920,
+			"kind": "apartment",
+			"building_name": "Rosewood Heights Monzen Nakamachi",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Eitai",
+			"address2": "2-30-5",
+			"year": 2005,
+			"rooms": [
+				{
+					"id": 142494,
+					"p": "142494-rosewood-heights-monzen-nakamachi-0211",
+					"unit_number": "0211",
+					"rent": "103,000",
+					"rawRent": 103000,
+					"bedroom": "S",
+					"area": "23.14",
+					"area_ft2": "249"
+				},
+				{
+					"id": 182485,
+					"p": "182485-rosewood-heights-monzen-nakamachi-0803",
+					"unit_number": "0803",
+					"rent": "106,000",
+					"rawRent": 106000,
+					"bedroom": "S",
+					"area": "22.77",
+					"area_ft2": "245"
+				},
+				{
+					"id": 182498,
+					"p": "182498-rosewood-heights-monzen-nakamachi-1301",
+					"unit_number": "1301",
+					"rent": "107,000",
+					"rawRent": 107000,
+					"bedroom": "S",
+					"area": "23.12",
+					"area_ft2": "249"
+				}
+			],
+			"lat": 35.6731523,
+			"lng": 139.7924931,
+			"icon": null,
+			"building_station": {
+				"station_name": "Monzen Nakacho",
+				"distance_in_minute": 5
+			},
+			"room": {
+				"unit_number": "0211",
+				"rent": "103,000",
+				"rawRent": 103000,
+				"bedroom": "S",
+				"area": "23.14",
+				"area_ft2": "249",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/142494-rosewood-heights-monzen-nakamachi-0211",
+				"path": "/properties/142494-rosewood-heights-monzen-nakamachi-0211",
+				"image_url": "https://apts.jp/system/property_image/image/1434156/property_image_08023326_001.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/1868366/property_image_08023326_00000103_001.jpg#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 171004,
+			"building_id": 144260,
+			"kind": "apartment",
+			"building_name": "Deems Kameari",
+			"prefecture": "Tokyo",
+			"city": "Katsushika-ku",
+			"address1": "Nishikameari(3.4-chome)",
+			"address2": "4-11-20",
+			"year": 2021,
+			"rooms": [
+				{
+					"id": 171004,
+					"p": "171004-deems-kameari-305",
+					"unit_number": "305",
+					"rent": "103,000",
+					"rawRent": 103000,
+					"bedroom": "S",
+					"area": "22.08",
+					"area_ft2": "238"
+				}
+			],
+			"lat": 35.7639939,
+			"lng": 139.8399307,
+			"icon": null,
+			"building_station": {
+				"station_name": "Kameari",
+				"distance_in_minute": 10
+			},
+			"room": {
+				"unit_number": "305",
+				"rent": "103,000",
+				"rawRent": 103000,
+				"bedroom": "S",
+				"area": "22.08",
+				"area_ft2": "238",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Pet Friendly · Bicycle Storage",
+				"pet": true,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/171004-deems-kameari-305",
+				"path": "/properties/171004-deems-kameari-305",
+				"image_url": "https://apts.jp/system/property_image/image/1893910/property_image_08026369_001.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2255284/property_image_08026369_00000022_021.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 35117,
+			"building_id": 17512,
+			"kind": "apartment",
+			"building_name": "BPR Residence Kuramae",
+			"prefecture": "Tokyo",
+			"city": "Taito-ku",
+			"address1": "Kuramae",
+			"address2": "3-17-4",
+			"year": 2006,
+			"rooms": [
+				{
+					"id": 35117,
+					"p": "35117-bpr-residence-kuramae-0404",
+					"unit_number": "0404",
+					"rent": "104,000",
+					"rawRent": 104000,
+					"bedroom": "S",
+					"area": "25.65",
+					"area_ft2": "276"
+				}
+			],
+			"lat": 35.7057198,
+			"lng": 139.7909361,
+			"icon": null,
+			"building_station": {
+				"station_name": "Kuramae",
+				"distance_in_minute": 4
+			},
+			"room": {
+				"unit_number": "0404",
+				"rent": "104,000",
+				"rawRent": 104000,
+				"bedroom": "S",
+				"area": "25.65",
+				"area_ft2": "276",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/35117-bpr-residence-kuramae-0404",
+				"path": "/properties/35117-bpr-residence-kuramae-0404",
+				"image_url": "https://apts.jp/system/property_image/image/312914/bpr-residence-kuramae-building.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/300556/property_image_08012891_00000008_011.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 183003,
+			"building_id": 154737,
+			"kind": "apartment",
+			"building_name": "Profit Link Takenotsuka",
+			"prefecture": "Tokyo",
+			"city": "Adachi-ku",
+			"address1": "Takenotsuka",
+			"address2": "3-5-18",
+			"year": null,
+			"rooms": [
+				{
+					"id": 183003,
+					"p": "183003-profit-link-takenotsuka-107",
+					"unit_number": "107",
+					"rent": "104,000",
+					"rawRent": 104000,
+					"bedroom": "2",
+					"area": "54.1",
+					"area_ft2": "582"
+				}
+			],
+			"lat": 35.789702,
+			"lng": 139.7981753,
+			"icon": null,
+			"building_station": {
+				"station_name": "Takenotsuka",
+				"distance_in_minute": 13
+			},
+			"room": {
+				"unit_number": "107",
+				"rent": "104,000",
+				"rawRent": 104000,
+				"bedroom": "2",
+				"area": "54.1",
+				"area_ft2": "582",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Parking",
+				"pet": false,
+				"parking": true,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/183003-profit-link-takenotsuka-107",
+				"path": "/properties/183003-profit-link-takenotsuka-107",
+				"image_url": "https://apts.jp/system/property_image/image/2046137/property_image_bpa_10002519_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2448038/property_image_bpl_10002519_20_20d_20_20_20_20.jpg#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182723,
+			"building_id": 175104,
+			"kind": "apartment",
+			"building_name": "Timone Oshiage Toure",
+			"prefecture": "Tokyo",
+			"city": "Sumida-ku",
+			"address1": "Bunka",
+			"address2": "1-18-12",
+			"year": 2018,
+			"rooms": [
+				{
+					"id": 182723,
+					"p": "182723-timone-oshiage-toure-203",
+					"unit_number": "203",
+					"rent": "104,000",
+					"rawRent": 104000,
+					"bedroom": "S",
+					"area": "25.87",
+					"area_ft2": "278"
+				}
+			],
+			"lat": 35.7115852,
+			"lng": 139.8236814,
+			"icon": null,
+			"building_station": {
+				"station_name": "Omurai",
+				"distance_in_minute": 7
+			},
+			"room": {
+				"unit_number": "203",
+				"rent": "104,000",
+				"rawRent": 104000,
+				"bedroom": "S",
+				"area": "25.87",
+				"area_ft2": "278",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": null,
+				"parking": null,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/182723-timone-oshiage-toure-203",
+				"path": "/properties/182723-timone-oshiage-toure-203",
+				"image_url": "https://apts.jp/system/property_image/image/2322520/property_image_01h436s0e2ndz02f59krf0x5zh.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2444609/property_image_01hty2xzkt6ghta388a6k2hg35.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 183117,
+			"building_id": 33310,
+			"kind": "apartment",
+			"building_name": "Urban Fort Sumiyoshi",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Sarue",
+			"address2": "1-4-2",
+			"year": 2006,
+			"rooms": [
+				{
+					"id": 183117,
+					"p": "183117-urban-fort-sumiyoshi-703",
+					"unit_number": "703",
+					"rent": "105,000",
+					"rawRent": 105000,
+					"bedroom": "S",
+					"area": "25.56",
+					"area_ft2": "275"
+				}
+			],
+			"lat": 35.685571,
+			"lng": 139.8119382,
+			"icon": null,
+			"building_station": {
+				"station_name": "Sumiyoshi",
+				"distance_in_minute": 9
+			},
+			"room": {
+				"unit_number": "703",
+				"rent": "105,000",
+				"rawRent": 105000,
+				"bedroom": "S",
+				"area": "25.56",
+				"area_ft2": "275",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/183117-urban-fort-sumiyoshi-703",
+				"path": "/properties/183117-urban-fort-sumiyoshi-703",
+				"image_url": "https://apts.jp/system/property_image/image/282996/urban-fort-sumiyoshi-building.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2449752/property_image_08022374_00000013_001.jpg#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182332,
+			"building_id": 85654,
+			"kind": "apartment",
+			"building_name": "Esty Maison Oshima",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Ojima",
+			"address2": "5-32-5",
+			"year": null,
+			"rooms": [
+				{
+					"id": 182332,
+					"p": "182332-esty-maison-oshima-417",
+					"unit_number": "417",
+					"rent": "105,000",
+					"rawRent": 105000,
+					"bedroom": "S",
+					"area": "22.12",
+					"area_ft2": "238"
+				},
+				{
+					"id": 178666,
+					"p": "178666-esty-maison-oshima-524",
+					"unit_number": "524",
+					"rent": "106,000",
+					"rawRent": 106000,
+					"bedroom": "S",
+					"area": "22.12",
+					"area_ft2": "238"
+				}
+			],
+			"lat": 35.6888104,
+			"lng": 139.8357459,
+			"icon": null,
+			"building_station": {
+				"station_name": "Ojima",
+				"distance_in_minute": 2
+			},
+			"room": {
+				"unit_number": "417",
+				"rent": "105,000",
+				"rawRent": 105000,
+				"bedroom": "S",
+				"area": "22.12",
+				"area_ft2": "238",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Parking",
+				"pet": false,
+				"parking": true,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/182332-esty-maison-oshima-417",
+				"path": "/properties/182332-esty-maison-oshima-417",
+				"image_url": "https://apts.jp/system/property_image/image/972869/property_image_bpa_10001575_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2439057/property_image_bpr_10001575_20_20e_20_20_20_2006.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 177013,
+			"building_id": 123198,
+			"kind": "apartment",
+			"building_name": "Green Heim Heisei",
+			"prefecture": "Tokyo",
+			"city": "Adachi-ku",
+			"address1": "Senju-midoricho",
+			"address2": "2-23-20",
+			"year": 1989,
+			"rooms": [
+				{
+					"id": 177013,
+					"p": "177013-green-heim-heisei-402",
+					"unit_number": "402",
+					"rent": "105,000",
+					"rawRent": 105000,
+					"bedroom": "2",
+					"area": "50.32",
+					"area_ft2": "542"
+				}
+			],
+			"lat": 35.7457357,
+			"lng": 139.7920494,
+			"icon": null,
+			"building_station": {
+				"station_name": "Senju Ohashi",
+				"distance_in_minute": 7
+			},
+			"room": {
+				"unit_number": "402",
+				"rent": "105,000",
+				"rawRent": 105000,
+				"bedroom": "2",
+				"area": "50.32",
+				"area_ft2": "542",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "",
+				"pet": false,
+				"parking": false,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/177013-green-heim-heisei-402",
+				"path": "/properties/177013-green-heim-heisei-402",
+				"image_url": "https://apts.jp/system/property_image/image/1552979/property_image_001.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2353542/property_image_002.jpg#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 183056,
+			"building_id": 144817,
+			"kind": "apartment",
+			"building_name": "CAVANA Higashikomagata",
+			"prefecture": "Tokyo",
+			"city": "Sumida-ku",
+			"address1": "Higashikomagata",
+			"address2": "4-13-4",
+			"year": null,
+			"rooms": [
+				{
+					"id": 183056,
+					"p": "183056-cavana-higashikomagata-607",
+					"unit_number": "607",
+					"rent": "105,000",
+					"rawRent": 105000,
+					"bedroom": "S",
+					"area": "23.85",
+					"area_ft2": "257"
+				},
+				{
+					"id": 144886,
+					"p": "144886-cavana-higashikomagata-502",
+					"unit_number": "502",
+					"rent": "110,000",
+					"rawRent": 110000,
+					"bedroom": "S",
+					"area": "23.85",
+					"area_ft2": "257"
+				}
+			],
+			"lat": 35.7058873,
+			"lng": 139.8072017,
+			"icon": null,
+			"building_station": {
+				"station_name": "Honjo Azumabashi",
+				"distance_in_minute": 6
+			},
+			"room": {
+				"unit_number": "607",
+				"rent": "105,000",
+				"rawRent": 105000,
+				"bedroom": "S",
+				"area": "23.85",
+				"area_ft2": "257",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Parking",
+				"pet": false,
+				"parking": true,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/183056-cavana-higashikomagata-607",
+				"path": "/properties/183056-cavana-higashikomagata-607",
+				"image_url": "https://apts.jp/system/property_image/image/1901682/property_image_bpa_10006830_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2448563/property_image_bpr_10006830_20_206c1re02.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 154557,
+			"building_id": 143745,
+			"kind": "apartment",
+			"building_name": "Joy City Sumiyoshi II",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Mori",
+			"address2": "1-10-13",
+			"year": null,
+			"rooms": [
+				{
+					"id": 154557,
+					"p": "154557-joy-city-sumiyoshi-ii-505",
+					"unit_number": "505",
+					"rent": "106,000",
+					"rawRent": 106000,
+					"bedroom": "S",
+					"area": "21.77",
+					"area_ft2": "234"
+				},
+				{
+					"id": 180530,
+					"p": "180530-joy-city-sumiyoshi-ii-301",
+					"unit_number": "301",
+					"rent": "112,000",
+					"rawRent": 112000,
+					"bedroom": "S",
+					"area": "24.01",
+					"area_ft2": "258"
+				}
+			],
+			"lat": 35.6906206,
+			"lng": 139.8142467,
+			"icon": null,
+			"building_station": {
+				"station_name": "Sumiyoshi",
+				"distance_in_minute": 3
+			},
+			"room": {
+				"unit_number": "505",
+				"rent": "106,000",
+				"rawRent": 106000,
+				"bedroom": "S",
+				"area": "21.77",
+				"area_ft2": "234",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Parking",
+				"pet": false,
+				"parking": true,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/154557-joy-city-sumiyoshi-ii-505",
+				"path": "/properties/154557-joy-city-sumiyoshi-ii-505",
+				"image_url": "https://apts.jp/system/property_image/image/1884630/property_image_bpa_10003181_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2043217/property_image_bpr_10003181_20_20c_20_20_20_2001.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 179705,
+			"building_id": 144379,
+			"kind": "apartment",
+			"building_name": "Groban Morishita",
+			"prefecture": "Tokyo",
+			"city": "Sumida-ku",
+			"address1": "Tatekawa",
+			"address2": "2-5-12",
+			"year": null,
+			"rooms": [
+				{
+					"id": 179705,
+					"p": "179705-groban-morishita-702",
+					"unit_number": "702",
+					"rent": "107,000",
+					"rawRent": 107000,
+					"bedroom": "S",
+					"area": "20.74",
+					"area_ft2": "223"
+				}
+			],
+			"lat": 35.6908319,
+			"lng": 139.8027481,
+			"icon": null,
+			"building_station": {
+				"station_name": "Kikukawa",
+				"distance_in_minute": 7
+			},
+			"room": {
+				"unit_number": "702",
+				"rent": "107,000",
+				"rawRent": 107000,
+				"bedroom": "S",
+				"area": "20.74",
+				"area_ft2": "223",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "",
+				"pet": false,
+				"parking": false,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/179705-groban-morishita-702",
+				"path": "/properties/179705-groban-morishita-702",
+				"image_url": "https://apts.jp/system/property_image/image/1895301/property_image_bpa_10001748_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2393242/property_image_bpr_10001748_20_20b_20_20_20_2001.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182894,
+			"building_id": 181077,
+			"kind": "apartment",
+			"building_name": "Champ De Fleurs",
+			"prefecture": "Tokyo",
+			"city": "Edogawa-ku",
+			"address1": "Kamishinozaki",
+			"address2": "2-25-7",
+			"year": 2002,
+			"rooms": [
+				{
+					"id": 182894,
+					"p": "182894-champ-de-fleurs-204",
+					"unit_number": "204",
+					"rent": "108,000",
+					"rawRent": 108000,
+					"bedroom": "2",
+					"area": "48.34",
+					"area_ft2": "520"
+				}
+			],
+			"lat": 35.711247,
+			"lng": 139.906854,
+			"icon": null,
+			"building_station": {
+				"station_name": "Shinozaki",
+				"distance_in_minute": 10
+			},
+			"room": {
+				"unit_number": "204",
+				"rent": "108,000",
+				"rawRent": 108000,
+				"bedroom": "2",
+				"area": "48.34",
+				"area_ft2": "520",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": null,
+				"parking": null,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/182894-champ-de-fleurs-204",
+				"path": "/properties/182894-champ-de-fleurs-204",
+				"image_url": "https://apts.jp/system/property_image/image/2416955/property_image_01jxc7m6c59bef8h86xkx9s1ds.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2446688/property_image_01jwjpmff7b8q8fxbyg5f1dyf4.jpg#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 173647,
+			"building_id": 41420,
+			"kind": "apartment",
+			"building_name": "Residia Ojima",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Ojima",
+			"address2": "5-41-11",
+			"year": 2007,
+			"rooms": [
+				{
+					"id": 173647,
+					"p": "173647-residia-ojima-0207",
+					"unit_number": "0207",
+					"rent": "110,000",
+					"rawRent": 110000,
+					"bedroom": "S",
+					"area": "22.65",
+					"area_ft2": "244"
+				},
+				{
+					"id": 176817,
+					"p": "176817-residia-ojima-0301",
+					"unit_number": "0301",
+					"rent": "111,000",
+					"rawRent": 111000,
+					"bedroom": "S",
+					"area": "22.65",
+					"area_ft2": "244"
+				},
+				{
+					"id": 178767,
+					"p": "178767-residia-ojima-0409",
+					"unit_number": "0409",
+					"rent": "111,000",
+					"rawRent": 111000,
+					"bedroom": "S",
+					"area": "20.13",
+					"area_ft2": "217"
+				},
+				{
+					"id": 41645,
+					"p": "41645-residia-ojima-0601",
+					"unit_number": "0601",
+					"rent": "112,000",
+					"rawRent": 112000,
+					"bedroom": "S",
+					"area": "22.65",
+					"area_ft2": "244"
+				},
+				{
+					"id": 174460,
+					"p": "174460-residia-ojima-0707",
+					"unit_number": "0707",
+					"rent": "113,000",
+					"rawRent": 113000,
+					"bedroom": "S",
+					"area": "22.65",
+					"area_ft2": "244"
+				},
+				{
+					"id": 182136,
+					"p": "182136-residia-ojima-0108",
+					"unit_number": "0108",
+					"rent": "115,000",
+					"rawRent": 115000,
+					"bedroom": "S",
+					"area": "20.13",
+					"area_ft2": "217"
+				}
+			],
+			"lat": 35.68765203,
+			"lng": 139.8370017,
+			"icon": null,
+			"building_station": {
+				"station_name": "Ojima",
+				"distance_in_minute": 4
+			},
+			"room": {
+				"unit_number": "0207",
+				"rent": "110,000",
+				"rawRent": 110000,
+				"bedroom": "S",
+				"area": "22.65",
+				"area_ft2": "244",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Pet Friendly · Bicycle Storage",
+				"pet": true,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/173647-residia-ojima-0207",
+				"path": "/properties/173647-residia-ojima-0207",
+				"image_url": "https://apts.jp/system/property_image/image/368418/residia-ojima-architecture.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2300767/property_image_00010466885_007.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 180932,
+			"building_id": 146361,
+			"kind": "apartment",
+			"building_name": "Joy City Sumiyoshi",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Sarue",
+			"address2": "1-10-7",
+			"year": null,
+			"rooms": [
+				{
+					"id": 180932,
+					"p": "180932-joy-city-sumiyoshi-305",
+					"unit_number": "305",
+					"rent": "110,000",
+					"rawRent": 110000,
+					"bedroom": "S",
+					"area": "22.62",
+					"area_ft2": "243"
+				}
+			],
+			"lat": 35.6859147,
+			"lng": 139.8132476,
+			"icon": null,
+			"building_station": {
+				"station_name": "Sumiyoshi",
+				"distance_in_minute": 7
+			},
+			"room": {
+				"unit_number": "305",
+				"rent": "110,000",
+				"rawRent": 110000,
+				"bedroom": "S",
+				"area": "22.62",
+				"area_ft2": "243",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Parking",
+				"pet": false,
+				"parking": true,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/180932-joy-city-sumiyoshi-305",
+				"path": "/properties/180932-joy-city-sumiyoshi-305",
+				"image_url": "https://apts.jp/system/property_image/image/1922018/property_image_bpa_10003180_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2415219/property_image_bpl_10003180_20_20b_20_20_20_20.jpg#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182650,
+			"building_id": 178006,
+			"kind": "apartment",
+			"building_name": "Plane Socie Nishiarai",
+			"prefecture": "Tokyo",
+			"city": "Adachi-ku",
+			"address1": "Nishiaraisakaecho",
+			"address2": "2-8-22",
+			"year": 2022,
+			"rooms": [
+				{
+					"id": 182650,
+					"p": "182650-plane-socie-nishiarai-804",
+					"unit_number": "804",
+					"rent": "110,000",
+					"rawRent": 110000,
+					"bedroom": "S",
+					"area": "25.52",
+					"area_ft2": "275"
+				}
+			],
+			"lat": 35.7841428,
+			"lng": 139.7811037,
+			"icon": null,
+			"building_station": {
+				"station_name": "Daishi Mae",
+				"distance_in_minute": 9
+			},
+			"room": {
+				"unit_number": "804",
+				"rent": "110,000",
+				"rawRent": 110000,
+				"bedroom": "S",
+				"area": "25.52",
+				"area_ft2": "275",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": null,
+				"parking": null,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/182650-plane-socie-nishiarai-804",
+				"path": "/properties/182650-plane-socie-nishiarai-804",
+				"image_url": "https://apts.jp/system/property_image/image/2367576/property_image_01hdqct1jpsb5twcdp4z0h12a0.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2443375/property_image_01jynr0agxdythjwgvfvg810qr.jpg#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182316,
+			"building_id": 182316,
+			"kind": "apartment",
+			"building_name": "GROWS Honjo Azumabashi",
+			"prefecture": "Tokyo",
+			"city": "Sumida-ku",
+			"address1": "Honjo",
+			"address2": "3-12-2",
+			"year": 2013,
+			"rooms": [
+				{
+					"id": 182316,
+					"p": "182316-grows-honjo-azumabashi-603",
+					"unit_number": "603",
+					"rent": "110,000",
+					"rawRent": 110000,
+					"bedroom": "S",
+					"area": "25.3",
+					"area_ft2": "272"
+				}
+			],
+			"lat": 35.7034831,
+			"lng": 139.8030671,
+			"icon": null,
+			"building_station": {
+				"station_name": "Honjo Azumabashi",
+				"distance_in_minute": 9
+			},
+			"room": {
+				"unit_number": "603",
+				"rent": "110,000",
+				"rawRent": 110000,
+				"bedroom": "S",
+				"area": "25.3",
+				"area_ft2": "272",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": null,
+				"parking": null,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/182316-grows-honjo-azumabashi-603",
+				"path": "/properties/182316-grows-honjo-azumabashi-603",
+				"image_url": "https://apts.jp/system/property_image/image/2448987/property_image_01jz267skjfga5927xhb9g51gs.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2448983/property_image_01jz26aa23sq7bj8qdjbe4zrrm.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 180163,
+			"building_id": 146620,
+			"kind": "apartment",
+			"building_name": "HF Kinshicho Residence",
+			"prefecture": "Tokyo",
+			"city": "Sumida-ku",
+			"address1": "Kotobashi",
+			"address2": "2-10-2",
+			"year": null,
+			"rooms": [
+				{
+					"id": 180163,
+					"p": "180163-hf-kinshicho-residence-404",
+					"unit_number": "404",
+					"rent": "111,000",
+					"rawRent": 111000,
+					"bedroom": "S",
+					"area": "25.26",
+					"area_ft2": "272"
+				}
+			],
+			"lat": 35.6947435,
+			"lng": 139.8121001,
+			"icon": null,
+			"building_station": {
+				"station_name": "Kinshicho",
+				"distance_in_minute": 7
+			},
+			"room": {
+				"unit_number": "404",
+				"rent": "111,000",
+				"rawRent": 111000,
+				"bedroom": "S",
+				"area": "25.26",
+				"area_ft2": "272",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "",
+				"pet": false,
+				"parking": false,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/180163-hf-kinshicho-residence-404",
+				"path": "/properties/180163-hf-kinshicho-residence-404",
+				"image_url": "https://apts.jp/system/property_image/image/1926102/property_image_bpa_10001554_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2400988/BPL_10001554B2.gif#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 179325,
+			"building_id": 20663,
+			"kind": "apartment",
+			"building_name": "Ravient Asakusa Discourse",
+			"prefecture": "Tokyo",
+			"city": "Taito-ku",
+			"address1": "Asakusa",
+			"address2": "6-26-11",
+			"year": 2016,
+			"rooms": [
+				{
+					"id": 179325,
+					"p": "179325-ravient-asakusa-discourse-0306a",
+					"unit_number": "0306A",
+					"rent": "112,000",
+					"rawRent": 112000,
+					"bedroom": "S",
+					"area": "25.08",
+					"area_ft2": "270"
+				}
+			],
+			"lat": 35.717375,
+			"lng": 139.8007947,
+			"icon": null,
+			"building_station": {
+				"station_name": "Asakusa Tsukuba Express",
+				"distance_in_minute": 9
+			},
+			"room": {
+				"unit_number": "0306A",
+				"rent": "112,000",
+				"rawRent": 112000,
+				"bedroom": "S",
+				"area": "25.08",
+				"area_ft2": "270",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "2.0",
+					"parsedValue": 2
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/179325-ravient-asakusa-discourse-0306a",
+				"path": "/properties/179325-ravient-asakusa-discourse-0306a",
+				"image_url": "https://apts.jp/system/property_image/image/178162/ravient-asakusa-discourse-sky.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2386366/property_image_3585_0306_0_2.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 156306,
+			"building_id": 85705,
+			"kind": "apartment",
+			"building_name": "CASSIA Oshiage",
+			"prefecture": "Tokyo",
+			"city": "Sumida-ku",
+			"address1": "Oshiage",
+			"address2": "1-41-10",
+			"year": 2008,
+			"rooms": [
+				{
+					"id": 156306,
+					"p": "156306-cassia-oshiage-404",
+					"unit_number": "404",
+					"rent": "113,000",
+					"rawRent": 113000,
+					"bedroom": "S",
+					"area": "21.83",
+					"area_ft2": "235"
+				}
+			],
+			"lat": 35.7091246,
+			"lng": 139.8159937,
+			"icon": null,
+			"building_station": {
+				"station_name": "Oshiage",
+				"distance_in_minute": 5
+			},
+			"room": {
+				"unit_number": "404",
+				"rent": "113,000",
+				"rawRent": 113000,
+				"bedroom": "S",
+				"area": "21.83",
+				"area_ft2": "235",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Parking",
+				"pet": false,
+				"parking": true,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/156306-cassia-oshiage-404",
+				"path": "/properties/156306-cassia-oshiage-404",
+				"image_url": "https://apts.jp/system/property_image/image/973486/property_image_bpa_10002739_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2073212/property_image_bpr_10002739_20_20a3_20_20_2002.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 180743,
+			"building_id": 92046,
+			"kind": "apartment",
+			"building_name": "Villa Claire Asakusa",
+			"prefecture": "Tokyo",
+			"city": "Taito-ku",
+			"address1": "Asakusa",
+			"address2": "6-47-5",
+			"year": 2022,
+			"rooms": [
+				{
+					"id": 180743,
+					"p": "180743-villa-claire-asakusa-0205",
+					"unit_number": "0205",
+					"rent": "113,000",
+					"rawRent": 113000,
+					"bedroom": "S",
+					"area": "25.18",
+					"area_ft2": "271"
+				}
+			],
+			"lat": 35.7203972,
+			"lng": 139.8002501,
+			"icon": null,
+			"building_station": {
+				"station_name": "Asakusa",
+				"distance_in_minute": 14
+			},
+			"room": {
+				"unit_number": "0205",
+				"rent": "113,000",
+				"rawRent": 113000,
+				"bedroom": "S",
+				"area": "25.18",
+				"area_ft2": "271",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Pet Friendly · Bicycle Storage",
+				"pet": true,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/180743-villa-claire-asakusa-0205",
+				"path": "/properties/180743-villa-claire-asakusa-0205",
+				"image_url": "https://apts.jp/system/property_image/image/1110492/property_image_08025752_008.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2409110/property_image_08025752_00000016_008.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 174160,
+			"building_id": 157252,
+			"kind": "apartment",
+			"building_name": "MFPR Court Kiba Park",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Toyo",
+			"address2": "6-2-13",
+			"year": 2007,
+			"rooms": [
+				{
+					"id": 174160,
+					"p": "174160-mfpr-court-kiba-park-416",
+					"unit_number": "416",
+					"rent": "113,000",
+					"rawRent": 113000,
+					"bedroom": "S",
+					"area": "23.41",
+					"area_ft2": "252"
+				},
+				{
+					"id": 182221,
+					"p": "182221-mfpr-court-kiba-park-420",
+					"unit_number": "420",
+					"rent": "113,000",
+					"rawRent": 113000,
+					"bedroom": "S",
+					"area": "23.41",
+					"area_ft2": "252"
+				},
+				{
+					"id": 180355,
+					"p": "180355-mfpr-court-kiba-park-614",
+					"unit_number": "614",
+					"rent": "115,000",
+					"rawRent": 115000,
+					"bedroom": "S",
+					"area": "23.41",
+					"area_ft2": "252"
+				}
+			],
+			"lat": 35.6742679,
+			"lng": 139.8122955,
+			"icon": null,
+			"building_station": {
+				"station_name": "Kiba",
+				"distance_in_minute": 11
+			},
+			"room": {
+				"unit_number": "416",
+				"rent": "113,000",
+				"rawRent": 113000,
+				"bedroom": "S",
+				"area": "23.41",
+				"area_ft2": "252",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": null,
+				"parking": null,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/174160-mfpr-court-kiba-park-416",
+				"path": "/properties/174160-mfpr-court-kiba-park-416",
+				"image_url": "https://apts.jp/system/property_image/image/2088149/property_image_01jd3s6wrm4etf8v41f77kmnrs.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2308664/property_image_01jqej3qkv8t6wr5rfcjqhzm2y.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 65752,
+			"building_id": 65438,
+			"kind": "apartment",
+			"building_name": "BLAU Honjo Kasuga Street",
+			"prefecture": "Tokyo",
+			"city": "Sumida-ku",
+			"address1": "Honjo",
+			"address2": "1-25-10",
+			"year": 2021,
+			"rooms": [
+				{
+					"id": 65752,
+					"p": "65752-blau-honjo-kasuga-street-206",
+					"unit_number": "206",
+					"rent": "114,000",
+					"rawRent": 114000,
+					"bedroom": "S",
+					"area": "25.8",
+					"area_ft2": "278"
+				}
+			],
+			"lat": 35.7038269,
+			"lng": 139.7996707,
+			"icon": null,
+			"building_station": {
+				"station_name": "Honjo Azumabashi",
+				"distance_in_minute": 10
+			},
+			"room": {
+				"unit_number": "206",
+				"rent": "114,000",
+				"rawRent": 114000,
+				"bedroom": "S",
+				"area": "25.8",
+				"area_ft2": "278",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/65752-blau-honjo-kasuga-street-206",
+				"path": "/properties/65752-blau-honjo-kasuga-street-206",
+				"image_url": "https://apts.jp/system/property_image/image/665050/property_image_08023987_004.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/665280/property_image_08023987_00000001_008.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182834,
+			"building_id": 143705,
+			"kind": "apartment",
+			"building_name": "Due Aoto",
+			"prefecture": "Tokyo",
+			"city": "Katsushika-ku",
+			"address1": "Tateishi",
+			"address2": "8-36-1",
+			"year": 2024,
+			"rooms": [
+				{
+					"id": 182834,
+					"p": "182834-due-aoto-205",
+					"unit_number": "205",
+					"rent": "115,000",
+					"rawRent": 115000,
+					"bedroom": "1",
+					"area": "25.45",
+					"area_ft2": "274"
+				},
+				{
+					"id": 145191,
+					"p": "145191-due-aoto-406",
+					"unit_number": "406",
+					"rent": "120,000",
+					"rawRent": 120000,
+					"bedroom": "1",
+					"area": "25.44",
+					"area_ft2": "274"
+				}
+			],
+			"lat": 35.7402041,
+			"lng": 139.8553822,
+			"icon": null,
+			"building_station": {
+				"station_name": "Aoto",
+				"distance_in_minute": 9
+			},
+			"room": {
+				"unit_number": "205",
+				"rent": "115,000",
+				"rawRent": 115000,
+				"bedroom": "1",
+				"area": "25.45",
+				"area_ft2": "274",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Pet Friendly · Bicycle Storage",
+				"pet": true,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/182834-due-aoto-205",
+				"path": "/properties/182834-due-aoto-205",
+				"image_url": "https://apts.jp/system/property_image/image/1884132/property_image_08033047_002.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2446011/property_image_08033047_00000029_016.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 180721,
+			"building_id": 3761,
+			"kind": "apartment",
+			"building_name": "Comforia Ueno Iriya",
+			"prefecture": "Tokyo",
+			"city": "Taito-ku",
+			"address1": "Ryusen",
+			"address2": "2-6-8",
+			"year": 2016,
+			"rooms": [
+				{
+					"id": 180721,
+					"p": "180721-comforia-ueno-iriya-0806",
+					"unit_number": "0806",
+					"rent": "116,000",
+					"rawRent": 116000,
+					"bedroom": "S",
+					"area": "25.76",
+					"area_ft2": "277"
+				}
+			],
+			"lat": 35.7247896,
+			"lng": 139.7879637,
+			"icon": null,
+			"building_station": {
+				"station_name": "Iriya",
+				"distance_in_minute": 8
+			},
+			"room": {
+				"unit_number": "0806",
+				"rent": "116,000",
+				"rawRent": 116000,
+				"bedroom": "S",
+				"area": "25.76",
+				"area_ft2": "277",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Pet Friendly · Bicycle Storage",
+				"pet": true,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/180721-comforia-ueno-iriya-0806",
+				"path": "/properties/180721-comforia-ueno-iriya-0806",
+				"image_url": "https://apts.jp/system/property_image/image/47683/08014372_002.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2408942/property_image_08014372_00000062_017.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 80040,
+			"building_id": 14399,
+			"kind": "apartment",
+			"building_name": "Comforia Monzennakacho South",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Botan",
+			"address2": "1-13-2",
+			"year": 2019,
+			"rooms": [
+				{
+					"id": 80040,
+					"p": "80040-comforia-monzennakacho-south-101",
+					"unit_number": "101",
+					"rent": "116,000",
+					"rawRent": 116000,
+					"bedroom": "S",
+					"area": "25.74",
+					"area_ft2": "277"
+				}
+			],
+			"lat": 35.6708415,
+			"lng": 139.7940371,
+			"icon": null,
+			"building_station": {
+				"station_name": "Monzen Nakacho",
+				"distance_in_minute": 3
+			},
+			"room": {
+				"unit_number": "101",
+				"rent": "116,000",
+				"rawRent": 116000,
+				"bedroom": "S",
+				"area": "25.74",
+				"area_ft2": "277",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Pet Friendly · Bicycle Storage",
+				"pet": true,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/80040-comforia-monzennakacho-south-101",
+				"path": "/properties/80040-comforia-monzennakacho-south-101",
+				"image_url": "https://apts.jp/system/property_image/image/136524/comforia-monzennakacho-south-property.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/881721/property_image_08021349_00000019_003.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 183042,
+			"building_id": 86115,
+			"kind": "apartment",
+			"building_name": "Gran Casa Hikifune",
+			"prefecture": "Tokyo",
+			"city": "Sumida-ku",
+			"address1": "Yahiro",
+			"address2": "2-47-12",
+			"year": null,
+			"rooms": [
+				{
+					"id": 183042,
+					"p": "183042-gran-casa-hikifune-504",
+					"unit_number": "504",
+					"rent": "116,000",
+					"rawRent": 116000,
+					"bedroom": "1",
+					"area": "26.14",
+					"area_ft2": "281"
+				}
+			],
+			"lat": 35.7144017,
+			"lng": 139.8263778,
+			"icon": null,
+			"building_station": {
+				"station_name": "Omurai",
+				"distance_in_minute": 8
+			},
+			"room": {
+				"unit_number": "504",
+				"rent": "116,000",
+				"rawRent": 116000,
+				"bedroom": "1",
+				"area": "26.14",
+				"area_ft2": "281",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Pet Friendly · Parking",
+				"pet": true,
+				"parking": true,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/183042-gran-casa-hikifune-504",
+				"path": "/properties/183042-gran-casa-hikifune-504",
+				"image_url": "https://apts.jp/system/property_image/image/980984/property_image_bpa_10002562_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2448451/property_image_bpr_10002562_20_20d2_20_20_2001.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 179628,
+			"building_id": 121084,
+			"kind": "apartment",
+			"building_name": "City Spire Morishita",
+			"prefecture": "Tokyo",
+			"city": "Sumida-ku",
+			"address1": "Chitose",
+			"address2": "1-5-24",
+			"year": null,
+			"rooms": [
+				{
+					"id": 179628,
+					"p": "179628-city-spire-morishita-405",
+					"unit_number": "405",
+					"rent": "116,000",
+					"rawRent": 116000,
+					"bedroom": "S",
+					"area": "22.78",
+					"area_ft2": "245"
+				}
+			],
+			"lat": 35.6902328,
+			"lng": 139.7919776,
+			"icon": null,
+			"building_station": {
+				"station_name": "Hamacho",
+				"distance_in_minute": 6
+			},
+			"room": {
+				"unit_number": "405",
+				"rent": "116,000",
+				"rawRent": 116000,
+				"bedroom": "S",
+				"area": "22.78",
+				"area_ft2": "245",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Parking",
+				"pet": false,
+				"parking": true,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/179628-city-spire-morishita-405",
+				"path": "/properties/179628-city-spire-morishita-405",
+				"image_url": "https://apts.jp/system/property_image/image/1515844/property_image_bpa_10006360_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2391470/property_image_bpr_10006360_20_20d2_20_20_2005.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182599,
+			"building_id": 134587,
+			"kind": "apartment",
+			"building_name": "Comforia Live Senju",
+			"prefecture": "Tokyo",
+			"city": "Adachi-ku",
+			"address1": "Senju-kawaracho",
+			"address2": "1-6",
+			"year": 2024,
+			"rooms": [
+				{
+					"id": 182599,
+					"p": "182599-comforia-live-senju-0901",
+					"unit_number": "0901",
+					"rent": "116,000",
+					"rawRent": 116000,
+					"bedroom": "S",
+					"area": "25.39",
+					"area_ft2": "273"
+				},
+				{
+					"id": 148104,
+					"p": "148104-comforia-live-senju-1001",
+					"unit_number": "1001",
+					"rent": "117,000",
+					"rawRent": 117000,
+					"bedroom": "S",
+					"area": "25.39",
+					"area_ft2": "273"
+				}
+			],
+			"lat": 35.7429374,
+			"lng": 139.7973825,
+			"icon": null,
+			"building_station": {
+				"station_name": "Senju Ohashi",
+				"distance_in_minute": 1
+			},
+			"room": {
+				"unit_number": "0901",
+				"rent": "116,000",
+				"rawRent": 116000,
+				"bedroom": "S",
+				"area": "25.39",
+				"area_ft2": "273",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/182599-comforia-live-senju-0901",
+				"path": "/properties/182599-comforia-live-senju-0901",
+				"image_url": "https://apts.jp/system/property_image/image/1733058/property_image_08032106_003.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2442874/property_image_08032106_00000020_012.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182625,
+			"building_id": 111269,
+			"kind": "apartment",
+			"building_name": "Sky View Terrace Honjo Azumabashi",
+			"prefecture": "Tokyo",
+			"city": "Sumida-ku",
+			"address1": "Honjo",
+			"address2": "3-10-9",
+			"year": null,
+			"rooms": [
+				{
+					"id": 182625,
+					"p": "182625-sky-view-terrace-honjo-azumabashi-402",
+					"unit_number": "402",
+					"rent": "118,000",
+					"rawRent": 118000,
+					"bedroom": "S",
+					"area": "25.0",
+					"area_ft2": "269"
+				}
+			],
+			"lat": 35.7035511,
+			"lng": 139.8039762,
+			"icon": null,
+			"building_station": {
+				"station_name": "Honjo Azumabashi",
+				"distance_in_minute": 8
+			},
+			"room": {
+				"unit_number": "402",
+				"rent": "118,000",
+				"rawRent": 118000,
+				"bedroom": "S",
+				"area": "25.0",
+				"area_ft2": "269",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "",
+				"pet": false,
+				"parking": false,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/182625-sky-view-terrace-honjo-azumabashi-402",
+				"path": "/properties/182625-sky-view-terrace-honjo-azumabashi-402",
+				"image_url": "https://apts.jp/system/property_image/image/1362585/property_image_bpa_10007333_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2443122/property_image_bpr_10007333_20_20b1_20_20_2001.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 179117,
+			"building_id": 146292,
+			"kind": "apartment",
+			"building_name": "Cerise Monzen-Nakacho",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Fukagawa",
+			"address2": "2-2-4",
+			"year": null,
+			"rooms": [
+				{
+					"id": 179117,
+					"p": "179117-cerise-monzen-nakacho-101",
+					"unit_number": "101",
+					"rent": "118,000",
+					"rawRent": 118000,
+					"bedroom": "S",
+					"area": "25.93",
+					"area_ft2": "279"
+				}
+			],
+			"lat": 35.674308,
+			"lng": 139.7979226,
+			"icon": null,
+			"building_station": {
+				"station_name": "Monzen Nakacho",
+				"distance_in_minute": 5
+			},
+			"room": {
+				"unit_number": "101",
+				"rent": "118,000",
+				"rawRent": 118000,
+				"bedroom": "S",
+				"area": "25.93",
+				"area_ft2": "279",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Parking",
+				"pet": false,
+				"parking": true,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/179117-cerise-monzen-nakacho-101",
+				"path": "/properties/179117-cerise-monzen-nakacho-101",
+				"image_url": "https://apts.jp/system/property_image/image/1921163/property_image_bpa_10004064_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2384022/property_image_bpl_10004064_20_20a0_20_20_20.jpg#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 11942,
+			"building_id": 11942,
+			"kind": "apartment",
+			"building_name": "Park Axis Kinshicho Shinsui-Kouen",
+			"prefecture": "Tokyo",
+			"city": "Sumida-ku",
+			"address1": "Kamezawa",
+			"address2": "4-22-8",
+			"year": 2012,
+			"rooms": [
+				{
+					"id": 11942,
+					"p": "11942-park-axis-kinshicho-shinsui-kouen-102",
+					"unit_number": "102",
+					"rent": "119,000",
+					"rawRent": 119000,
+					"bedroom": "S",
+					"area": "25.1",
+					"area_ft2": "270"
+				}
+			],
+			"lat": 35.69906,
+			"lng": 139.8067674,
+			"icon": null,
+			"building_station": {
+				"station_name": "Kinshicho",
+				"distance_in_minute": 10
+			},
+			"room": {
+				"unit_number": "102",
+				"rent": "119,000",
+				"rawRent": 119000,
+				"bedroom": "S",
+				"area": "25.1",
+				"area_ft2": "270",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Pet Friendly",
+				"pet": true,
+				"parking": false,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/11942-park-axis-kinshicho-shinsui-kouen-102",
+				"path": "/properties/11942-park-axis-kinshicho-shinsui-kouen-102",
+				"image_url": "https://apts.jp/system/property_image/image/120237/park-axis-kinshicho-shinsui-kouen-building.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/120242/park-axis-kinshicho-shinsui-kouen-property.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 95208,
+			"building_id": 12818,
+			"kind": "apartment",
+			"building_name": "Park Axis Oshiage / Sumida Park",
+			"prefecture": "Tokyo",
+			"city": "Sumida-ku",
+			"address1": "Mukojima",
+			"address2": "1-11-2",
+			"year": 2014,
+			"rooms": [
+				{
+					"id": 95208,
+					"p": "95208-park-axis-oshiage-sumida-park-501",
+					"unit_number": "501",
+					"rent": "119,000",
+					"rawRent": 119000,
+					"bedroom": "S",
+					"area": "25.6",
+					"area_ft2": "276"
+				}
+			],
+			"lat": 35.7125261,
+			"lng": 139.8056306,
+			"icon": null,
+			"building_station": {
+				"station_name": "Narihirabashi",
+				"distance_in_minute": 6
+			},
+			"room": {
+				"unit_number": "501",
+				"rent": "119,000",
+				"rawRent": 119000,
+				"bedroom": "S",
+				"area": "25.6",
+				"area_ft2": "276",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Pet Friendly",
+				"pet": true,
+				"parking": false,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/95208-park-axis-oshiage-sumida-park-501",
+				"path": "/properties/95208-park-axis-oshiage-sumida-park-501",
+				"image_url": "https://apts.jp/system/property_image/image/125609/park-axis-oshiage-sumida-park-building.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/1113516/property_image_87e674be-c5a2-43be-b188-8a71bf4efaa9_property_picture_2075_large.jpg#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 183115,
+			"building_id": 20195,
+			"kind": "apartment",
+			"building_name": "Comforia Monzennakacho",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Fuyuki",
+			"address2": "16-8",
+			"year": 2008,
+			"rooms": [
+				{
+					"id": 155400,
+					"p": "155400-comforia-monzennakacho-0212",
+					"unit_number": "0212",
+					"rent": "119,000",
+					"rawRent": 119000,
+					"bedroom": "S",
+					"area": "26.1",
+					"area_ft2": "281"
+				},
+				{
+					"id": 183115,
+					"p": "183115-comforia-monzennakacho-0509",
+					"unit_number": "0509",
+					"rent": "119,000",
+					"rawRent": 119000,
+					"bedroom": "S",
+					"area": "25.65",
+					"area_ft2": "276"
+				},
+				{
+					"id": 183126,
+					"p": "183126-comforia-monzennakacho-0601",
+					"unit_number": "0601",
+					"rent": "120,000",
+					"rawRent": 120000,
+					"bedroom": "S",
+					"area": "26.81",
+					"area_ft2": "289"
+				},
+				{
+					"id": 183133,
+					"p": "183133-comforia-monzennakacho-0811",
+					"unit_number": "0811",
+					"rent": "120,000",
+					"rawRent": 120000,
+					"bedroom": "S",
+					"area": "25.65",
+					"area_ft2": "276"
+				},
+				{
+					"id": 183195,
+					"p": "183195-comforia-monzennakacho-0507",
+					"unit_number": "0507",
+					"rent": "120,000",
+					"rawRent": 120000,
+					"bedroom": "S",
+					"area": "26.1",
+					"area_ft2": "281"
+				},
+				{
+					"id": 183207,
+					"p": "183207-comforia-monzennakacho-0506",
+					"unit_number": "0506",
+					"rent": "120,000",
+					"rawRent": 120000,
+					"bedroom": "S",
+					"area": "26.81",
+					"area_ft2": "289"
+				}
+			],
+			"lat": 35.675014,
+			"lng": 139.8014285,
+			"icon": null,
+			"building_station": {
+				"station_name": "Monzen Nakacho",
+				"distance_in_minute": 9
+			},
+			"room": {
+				"unit_number": "0509",
+				"rent": "119,000",
+				"rawRent": 119000,
+				"bedroom": "S",
+				"area": "25.65",
+				"area_ft2": "276",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Pet Friendly · Bicycle Storage",
+				"pet": true,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/183115-comforia-monzennakacho-0509",
+				"path": "/properties/183115-comforia-monzennakacho-0509",
+				"image_url": "https://apts.jp/system/property_image/image/175002/comforia-monzennakacho-condominium.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2449731/property_image_07001888_07022994_006.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182125,
+			"building_id": 34315,
+			"kind": "apartment",
+			"building_name": "Estime Maison Oshiage",
+			"prefecture": "Tokyo",
+			"city": "Sumida-ku",
+			"address1": "Narihira",
+			"address2": "5-11-5",
+			"year": 2010,
+			"rooms": [
+				{
+					"id": 182125,
+					"p": "182125-estime-maison-oshiage-202",
+					"unit_number": "202",
+					"rent": "119,000",
+					"rawRent": 119000,
+					"bedroom": "S",
+					"area": "28.06",
+					"area_ft2": "302"
+				}
+			],
+			"lat": 35.708148,
+			"lng": 139.8163069,
+			"icon": null,
+			"building_station": {
+				"station_name": "Oshiage",
+				"distance_in_minute": 7
+			},
+			"room": {
+				"unit_number": "202",
+				"rent": "119,000",
+				"rawRent": 119000,
+				"bedroom": "S",
+				"area": "28.06",
+				"area_ft2": "302",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Pet Friendly · Parking · Bicycle Storage",
+				"pet": true,
+				"parking": true,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/182125-estime-maison-oshiage-202",
+				"path": "/properties/182125-estime-maison-oshiage-202",
+				"image_url": "https://apts.jp/system/property_image/image/292018/property_image_0100000000000000000000002354801_10.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2435891/property_image_0100000000000000000000002354485_13.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 97925,
+			"building_id": 34384,
+			"kind": "apartment",
+			"building_name": "Comforia Kiba Water Park",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Kiba",
+			"address2": "3-11-13",
+			"year": 2014,
+			"rooms": [
+				{
+					"id": 97925,
+					"p": "97925-comforia-kiba-water-park-0806",
+					"unit_number": "0806",
+					"rent": "119,000",
+					"rawRent": 119000,
+					"bedroom": "S",
+					"area": "25.96",
+					"area_ft2": "279"
+				}
+			],
+			"lat": 35.6744478,
+			"lng": 139.805212,
+			"icon": null,
+			"building_station": {
+				"station_name": "Kiba",
+				"distance_in_minute": 8
+			},
+			"room": {
+				"unit_number": "0806",
+				"rent": "119,000",
+				"rawRent": 119000,
+				"bedroom": "S",
+				"area": "25.96",
+				"area_ft2": "279",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/97925-comforia-kiba-water-park-0806",
+				"path": "/properties/97925-comforia-kiba-water-park-0806",
+				"image_url": "https://apts.jp/system/property_image/image/568307/property_image_08021301_004.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/1731077/property_image_08021301_00000052_008.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 181724,
+			"building_id": 40804,
+			"kind": "apartment",
+			"building_name": "Gala Place Kinshicho",
+			"prefecture": "Tokyo",
+			"city": "Sumida-ku",
+			"address1": "Kinshi",
+			"address2": "1-6-11",
+			"year": 2007,
+			"rooms": [
+				{
+					"id": 181724,
+					"p": "181724-gala-place-kinshicho-0902",
+					"unit_number": "0902",
+					"rent": "119,000",
+					"rawRent": 119000,
+					"bedroom": "S",
+					"area": "23.38",
+					"area_ft2": "252"
+				}
+			],
+			"lat": 35.6978079,
+			"lng": 139.8094105,
+			"icon": null,
+			"building_station": {
+				"station_name": "Kinshicho",
+				"distance_in_minute": 7
+			},
+			"room": {
+				"unit_number": "0902",
+				"rent": "119,000",
+				"rawRent": 119000,
+				"bedroom": "S",
+				"area": "23.38",
+				"area_ft2": "252",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/181724-gala-place-kinshicho-0902",
+				"path": "/properties/181724-gala-place-kinshicho-0902",
+				"image_url": "https://apts.jp/system/property_image/image/439750/property_image_08022908_015.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2429896/property_image_08022908_00000023_001.jpg#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 181224,
+			"building_id": 110905,
+			"kind": "apartment",
+			"building_name": "Prime Urban Taito Negishi",
+			"prefecture": "Tokyo",
+			"city": "Taito-ku",
+			"address1": "Negishi",
+			"address2": "3-21-8",
+			"year": null,
+			"rooms": [
+				{
+					"id": 181224,
+					"p": "181224-prime-urban-taito-negishi-503",
+					"unit_number": "503",
+					"rent": "119,000",
+					"rawRent": 119000,
+					"bedroom": "S",
+					"area": "25.23",
+					"area_ft2": "272"
+				}
+			],
+			"lat": 35.7245084,
+			"lng": 139.7828663,
+			"icon": null,
+			"building_station": {
+				"station_name": "Iriya",
+				"distance_in_minute": 7
+			},
+			"room": {
+				"unit_number": "503",
+				"rent": "119,000",
+				"rawRent": 119000,
+				"bedroom": "S",
+				"area": "25.23",
+				"area_ft2": "272",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Pet Friendly · Parking",
+				"pet": true,
+				"parking": true,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/181224-prime-urban-taito-negishi-503",
+				"path": "/properties/181224-prime-urban-taito-negishi-503",
+				"image_url": "https://apts.jp/system/property_image/image/1993893/property_image_bpa_10006879_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2420462/property_image_bpr_10006879_20_20b2_20_20_2001.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 181829,
+			"building_id": 2566,
+			"kind": "apartment",
+			"building_name": "Park Axis Kameido",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Kameido",
+			"address2": "1-8-6",
+			"year": 2008,
+			"rooms": [
+				{
+					"id": 181829,
+					"p": "181829-park-axis-kameido-910",
+					"unit_number": "910",
+					"rent": "120,000",
+					"rawRent": 120000,
+					"bedroom": "S",
+					"area": "25.94",
+					"area_ft2": "279"
+				}
+			],
+			"lat": 35.6960813,
+			"lng": 139.8222258,
+			"icon": null,
+			"building_station": {
+				"station_name": "Kameido",
+				"distance_in_minute": 6
+			},
+			"room": {
+				"unit_number": "910",
+				"rent": "120,000",
+				"rawRent": 120000,
+				"bedroom": "S",
+				"area": "25.94",
+				"area_ft2": "279",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Pet Friendly",
+				"pet": true,
+				"parking": false,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/181829-park-axis-kameido-910",
+				"path": "/properties/181829-park-axis-kameido-910",
+				"image_url": "https://apts.jp/system/property_image/image/1541999/property_image_406f9fe0-2b46-4e21-ae21-37aa81f733a4_property_picture_2075_large.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2431209/property_image_dadc4d90-6c36-4fa5-8bb5-0cdbc248334d_property_picture_2075_large.jpg#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 19420,
+			"building_id": 7082,
+			"kind": "apartment",
+			"building_name": "Park Axis Taito Negishi",
+			"prefecture": "Tokyo",
+			"city": "Taito-ku",
+			"address1": "Negishi",
+			"address2": "5-2-1",
+			"year": 2009,
+			"rooms": [
+				{
+					"id": 19420,
+					"p": "19420-park-axis-taito-negishi-702",
+					"unit_number": "702",
+					"rent": "120,000",
+					"rawRent": 120000,
+					"bedroom": "S",
+					"area": "25.09",
+					"area_ft2": "270"
+				}
+			],
+			"lat": 35.7256838,
+			"lng": 139.7859794,
+			"icon": null,
+			"building_station": {
+				"station_name": "Iriya",
+				"distance_in_minute": 9
+			},
+			"room": {
+				"unit_number": "702",
+				"rent": "120,000",
+				"rawRent": 120000,
+				"bedroom": "S",
+				"area": "25.09",
+				"area_ft2": "270",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"features": "Air Conditioning · Pet Friendly",
+				"pet": true,
+				"parking": false,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/19420-park-axis-taito-negishi-702",
+				"path": "/properties/19420-park-axis-taito-negishi-702",
+				"image_url": "https://apts.jp/system/property_image/image/82415/park-axis-taito-negishi-architecture.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/169659/park-axis-taito-negishi-diagram.jpg#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 173632,
+			"building_id": 22115,
+			"kind": "apartment",
+			"building_name": "CASSIA",
+			"prefecture": "Tokyo",
+			"city": "Sumida-ku",
+			"address1": "Kamezawa",
+			"address2": "3-27-7",
+			"year": 2008,
+			"rooms": [
+				{
+					"id": 173632,
+					"p": "173632-cassia-0603",
+					"unit_number": "0603",
+					"rent": "120,000",
+					"rawRent": 120000,
+					"bedroom": "S",
+					"area": "24.95",
+					"area_ft2": "269"
+				}
+			],
+			"lat": 35.6988616,
+			"lng": 139.8048995,
+			"icon": null,
+			"building_station": {
+				"station_name": "Kinshicho",
+				"distance_in_minute": 13
+			},
+			"room": {
+				"unit_number": "0603",
+				"rent": "120,000",
+				"rawRent": 120000,
+				"bedroom": "S",
+				"area": "24.95",
+				"area_ft2": "269",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Pet Friendly · Bicycle Storage",
+				"pet": true,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/173632-cassia-0603",
+				"path": "/properties/173632-cassia-0603",
+				"image_url": "https://apts.jp/system/property_image/image/1003054/property_image_08017019_003.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2300616/property_image_08017019_00000027_015.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 183049,
+			"building_id": 26239,
+			"kind": "apartment",
+			"building_name": "Comforia Kinshicho DEUX",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Mori",
+			"address2": "2-10-20",
+			"year": 2016,
+			"rooms": [
+				{
+					"id": 183049,
+					"p": "183049-comforia-kinshicho-deux-0309",
+					"unit_number": "0309",
+					"rent": "120,000",
+					"rawRent": 120000,
+					"bedroom": "S",
+					"area": "25.6",
+					"area_ft2": "276"
+				}
+			],
+			"lat": 35.69288402,
+			"lng": 139.8158435,
+			"icon": null,
+			"building_station": {
+				"station_name": "Sumiyoshi",
+				"distance_in_minute": 6
+			},
+			"room": {
+				"unit_number": "0309",
+				"rent": "120,000",
+				"rawRent": 120000,
+				"bedroom": "S",
+				"area": "25.6",
+				"area_ft2": "276",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Pet Friendly · Bicycle Storage",
+				"pet": true,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/183049-comforia-kinshicho-deux-0309",
+				"path": "/properties/183049-comforia-kinshicho-deux-0309",
+				"image_url": "https://apts.jp/system/property_image/image/214939/comforia-kinshicho-deux-building.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2448519/property_image_08015538_00000086_002.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 91947,
+			"building_id": 91858,
+			"kind": "apartment",
+			"building_name": "Park Axis Iriya",
+			"prefecture": "Tokyo",
+			"city": "Taito-ku",
+			"address1": "Iriya",
+			"address2": "2-38-2",
+			"year": 2022,
+			"rooms": [
+				{
+					"id": 91947,
+					"p": "91947-park-axis-iriya-301",
+					"unit_number": "301",
+					"rent": "120,000",
+					"rawRent": 120000,
+					"bedroom": "S",
+					"area": "25.89",
+					"area_ft2": "279"
+				}
+			],
+			"lat": 35.7222605,
+			"lng": 139.7887435,
+			"icon": null,
+			"building_station": {
+				"station_name": "Iriya",
+				"distance_in_minute": 6
+			},
+			"room": {
+				"unit_number": "301",
+				"rent": "120,000",
+				"rawRent": 120000,
+				"bedroom": "S",
+				"area": "25.89",
+				"area_ft2": "279",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Pet Friendly · Parking",
+				"pet": true,
+				"parking": true,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/91947-park-axis-iriya-301",
+				"path": "/properties/91947-park-axis-iriya-301",
+				"image_url": "https://apts.jp/system/property_image/image/1060101/property_image_8137da70-7a06-428a-9c6c-d8ceedb0bf51_property_picture_2074_large.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/1060653/property_image_77df9799-731e-4c49-bd15-cf4ff8cdff48_property_picture_2074_large.jpg#fp",
+				"tilde": false
+			}
+		},
+		{
+			"id": 183025,
+			"building_id": 99968,
+			"kind": "apartment",
+			"building_name": "Reterrace Ueno Iriya",
+			"prefecture": "Tokyo",
+			"city": "Taito-ku",
+			"address1": "Ryusen",
+			"address2": "1-2-2",
+			"year": 2022,
+			"rooms": [
+				{
+					"id": 183025,
+					"p": "183025-reterrace-ueno-iriya-0203",
+					"unit_number": "0203",
+					"rent": "120,000",
+					"rawRent": 120000,
+					"bedroom": "S",
+					"area": "25.04",
+					"area_ft2": "270"
+				}
+			],
+			"lat": 35.7228736,
+			"lng": 139.7902021,
+			"icon": null,
+			"building_station": {
+				"station_name": "Iriya",
+				"distance_in_minute": 9
+			},
+			"room": {
+				"unit_number": "0203",
+				"rent": "120,000",
+				"rawRent": 120000,
+				"bedroom": "S",
+				"area": "25.04",
+				"area_ft2": "270",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": false,
+				"parking": false,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/183025-reterrace-ueno-iriya-0203",
+				"path": "/properties/183025-reterrace-ueno-iriya-0203",
+				"image_url": "https://apts.jp/system/property_image/image/1203901/property_image_08026449_004.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2448307/property_image_08026449_00000008_002.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 183088,
+			"building_id": 113659,
+			"kind": "apartment",
+			"building_name": "Arden Monzen Nakacho",
+			"prefecture": "Tokyo",
+			"city": "Koto-ku",
+			"address1": "Furuishiba",
+			"address2": "2-12-6",
+			"year": null,
+			"rooms": [
+				{
+					"id": 183088,
+					"p": "183088-arden-monzen-nakacho-605",
+					"unit_number": "605",
+					"rent": "120,000",
+					"rawRent": 120000,
+					"bedroom": "S",
+					"area": "21.47",
+					"area_ft2": "231"
+				}
+			],
+			"lat": 35.6665254,
+			"lng": 139.798955,
+			"icon": null,
+			"building_station": {
+				"station_name": "Etchu Jima",
+				"distance_in_minute": 9
+			},
+			"room": {
+				"unit_number": "605",
+				"rent": "120,000",
+				"rawRent": 120000,
+				"bedroom": "S",
+				"area": "21.47",
+				"area_ft2": "231",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Pet Friendly · Parking",
+				"pet": true,
+				"parking": true,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/183088-arden-monzen-nakacho-605",
+				"path": "/properties/183088-arden-monzen-nakacho-605",
+				"image_url": "https://apts.jp/system/property_image/image/1391526/property_image_bpa_10002741_20_20.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2448918/property_image_bpr_10002741_20_20d1_20_20_2001.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 180697,
+			"building_id": 180685,
+			"kind": "apartment",
+			"building_name": "Atrio Flats Kitasenju South",
+			"prefecture": "Tokyo",
+			"city": "Adachi-ku",
+			"address1": "Senju-kawaracho",
+			"address2": "20-13",
+			"year": 2025,
+			"rooms": [
+				{
+					"id": 180697,
+					"p": "180697-atrio-flats-kitasenju-south-203",
+					"unit_number": "203",
+					"rent": "120,000",
+					"rawRent": 120000,
+					"bedroom": "S",
+					"area": "25.02",
+					"area_ft2": "269"
+				},
+				{
+					"id": 180710,
+					"p": "180710-atrio-flats-kitasenju-south-303",
+					"unit_number": "303",
+					"rent": "120,000",
+					"rawRent": 120000,
+					"bedroom": "S",
+					"area": "25.02",
+					"area_ft2": "269"
+				}
+			],
+			"lat": 35.7431308,
+			"lng": 139.7988961,
+			"icon": null,
+			"building_station": {
+				"station_name": "Senju Ohashi",
+				"distance_in_minute": 4
+			},
+			"room": {
+				"unit_number": "203",
+				"rent": "120,000",
+				"rawRent": 120000,
+				"bedroom": "S",
+				"area": "25.02",
+				"area_ft2": "269",
+				"deposit": {
+					"source": "1.0",
+					"parsedValue": 1
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning",
+				"pet": false,
+				"parking": false,
+				"bicycle": null,
+				"url": "https://apts.jp/properties/180697-atrio-flats-kitasenju-south-203",
+				"path": "/properties/180697-atrio-flats-kitasenju-south-203",
+				"image_url": "https://apts.jp/system/property_image/image/2408589/property_image_003.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2437441/property_image_022.jpg#i",
+				"tilde": false
+			}
+		},
+		{
+			"id": 182754,
+			"building_id": 182754,
+			"kind": "apartment",
+			"building_name": "KNOTS Asakusa",
+			"prefecture": "Tokyo",
+			"city": "Taito-ku",
+			"address1": "Asakusa",
+			"address2": "6-33-5",
+			"year": 2020,
+			"rooms": [
+				{
+					"id": 182754,
+					"p": "182754-knots-asakusa-303",
+					"unit_number": "303",
+					"rent": "120,000",
+					"rawRent": 120000,
+					"bedroom": "S",
+					"area": "25.88",
+					"area_ft2": "279"
+				}
+			],
+			"lat": 35.7182872,
+			"lng": 139.8007148,
+			"icon": null,
+			"building_station": {
+				"station_name": "Asakusa Tsukuba Express",
+				"distance_in_minute": 9
+			},
+			"room": {
+				"unit_number": "303",
+				"rent": "120,000",
+				"rawRent": 120000,
+				"bedroom": "S",
+				"area": "25.88",
+				"area_ft2": "279",
+				"deposit": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"key_money": {
+					"source": "0.0",
+					"parsedValue": 0
+				},
+				"features": "Air Conditioning · Bicycle Storage",
+				"pet": null,
+				"parking": null,
+				"bicycle": true,
+				"url": "https://apts.jp/properties/182754-knots-asakusa-303",
+				"path": "/properties/182754-knots-asakusa-303",
+				"image_url": "https://apts.jp/system/property_image/image/2444901/property_image_d38d6cf4-4b39-4ef8-9cc0-b51b00956ce6.jpg#e",
+				"sub_image_url": "https://apts.jp/system/property_image/image/2444902/property_image_357bf642-ec63-4db9-bff7-2aaf35362518.jpg#i",
+				"tilde": false
+			}
+		}
+	]
+}

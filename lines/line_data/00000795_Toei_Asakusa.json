@@ -1,0 +1,1730 @@
+{
+  "line": "Toei Asakusa",
+  "operator": "Toei",
+  "navitime_id": "00000795",
+  "first_station_id": "00004908",
+  "stations": [
+    {
+      "name": "Nishi-magome",
+      "japanese_name": "西馬込",
+      "station_id": "00004908",
+      "order": 1,
+      "transfers": []
+    },
+    {
+      "name": "Magome",
+      "japanese_name": "馬込",
+      "station_id": "00007374",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Nakanobu",
+      "japanese_name": "中延",
+      "station_id": "00006021",
+      "order": 3,
+      "transfers": [
+        "Tokyu Oimachi Line"
+      ]
+    },
+    {
+      "name": "Togoshi",
+      "japanese_name": "戸越",
+      "station_id": "00002185",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Gotanda",
+      "japanese_name": "五反田",
+      "station_id": "00002244",
+      "order": 5,
+      "transfers": [
+        "JR Yamanote Line",
+        "Tokyu Ikegami Line"
+      ]
+    },
+    {
+      "name": "Takanawadai",
+      "japanese_name": "高輪台",
+      "station_id": "00002643",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Sengakuji",
+      "japanese_name": "泉岳寺",
+      "station_id": "00005252",
+      "order": 7,
+      "transfers": [
+        "Keikyu Main Line"
+      ]
+    },
+    {
+      "name": "Mita",
+      "japanese_name": "三田(東京都)",
+      "station_id": "00003053",
+      "order": 8,
+      "transfers": [
+        "Toei Mita Line"
+      ]
+    },
+    {
+      "name": "Daimon(Tokyo)",
+      "japanese_name": "大門(東京都)",
+      "station_id": "00005767",
+      "order": 9,
+      "transfers": [
+        "Toeioedo Line(Loop)"
+      ]
+    },
+    {
+      "name": "Shimbashi",
+      "japanese_name": "新橋",
+      "station_id": "00004212",
+      "order": 10,
+      "transfers": [
+        "JR Yokosuka Line",
+        "JR Keihintohoku Line",
+        "JR Yamanote Line",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "Yurikamome",
+        "Tokyo Metro Ginza Line"
+      ]
+    },
+    {
+      "name": "Higashi-ginza",
+      "japanese_name": "東銀座",
+      "station_id": "00006676",
+      "order": 11,
+      "transfers": [
+        "Tokyo Metro Hibiya Line"
+      ]
+    },
+    {
+      "name": "Takaracho",
+      "japanese_name": "宝町(東京都)",
+      "station_id": "00008178",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Nihombashi",
+      "japanese_name": "日本橋(東京都)",
+      "station_id": "00007297",
+      "order": 13,
+      "transfers": [
+        "Tokyo Metro Ginza Line",
+        "Tokyo Metro Tozai Line"
+      ]
+    },
+    {
+      "name": "Ningyocho",
+      "japanese_name": "人形町",
+      "station_id": "00004492",
+      "order": 14,
+      "transfers": [
+        "Tokyo Metro Hibiya Line"
+      ]
+    },
+    {
+      "name": "Higashi-nihombashi",
+      "japanese_name": "東日本橋",
+      "station_id": "00006811",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Asakusabashi",
+      "japanese_name": "浅草橋",
+      "station_id": "00005271",
+      "order": 16,
+      "transfers": [
+        "JR Sobu Line Local (Ochanomizu-Kinshicho)"
+      ]
+    },
+    {
+      "name": "Kuramae",
+      "japanese_name": "蔵前",
+      "station_id": "00005419",
+      "order": 17,
+      "transfers": [
+        "Toeioedo Line(Loop)"
+      ]
+    },
+    {
+      "name": "Asakusa",
+      "japanese_name": "浅草",
+      "station_id": "00005270",
+      "order": 18,
+      "transfers": [
+        "Tokyo Metro Ginza Line",
+        "Tobu Isesaki Line (SKYTREE Line)"
+      ]
+    },
+    {
+      "name": "Honjo-Azumabashi",
+      "japanese_name": "本所吾妻橋",
+      "station_id": "00008471",
+      "order": 19,
+      "transfers": []
+    },
+    {
+      "name": "Oshiage(SKYTREE)",
+      "japanese_name": "押上[スカイツリー前]",
+      "station_id": "00000813",
+      "order": 20,
+      "transfers": [
+        "Keisei Oshiage Line",
+        "Tokyo Metro Hanzomon Line",
+        "Tobu Isesaki Line (SKYTREE Line)( Oshiage-Hikifune)"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "AC Special Express",
+    "Rapid",
+    "Limited Express",
+    "Rapid Express"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "825f0066",
+      "trainName": "Toei Asakusa Line",
+      "destination": "Sengakuji",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "23",
+      "type": "Local"
+    },
+    "AC Special Express": {
+      "trainId": "825f0025",
+      "trainName": "Toei Asakusa Line ACCESS Limited Express",
+      "destination": "Narita Airport Terminal 1",
+      "hour": 7,
+      "date": "2025-07-11",
+      "time": "14",
+      "type": "AC Special Express"
+    },
+    "Rapid": {
+      "trainId": "825f0062",
+      "trainName": "Toei Asakusa Line Rapid",
+      "destination": "Aoto",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "03",
+      "type": "Rapid"
+    },
+    "Limited Express": {
+      "trainId": "825f00ce",
+      "trainName": "Toei Asakusa Line Limited Express",
+      "destination": "Narita Airport Terminal 1",
+      "hour": 16,
+      "date": "2025-07-11",
+      "time": "58",
+      "type": "Limited Express"
+    },
+    "Rapid Express": {
+      "trainId": "825f00db",
+      "trainName": "Toei Asakusa Line Limited Express",
+      "destination": "Keisei-Narita",
+      "hour": 17,
+      "date": "2025-07-11",
+      "time": "31",
+      "type": "Rapid Express"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Toei Asakusa",
+      "train_type": "Local",
+      "total_stops": 7,
+      "stops": [
+        {
+          "name": "Nishi-magome",
+          "station_id": "00004908",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.706024,
+            "lat": 35.586971
+          }
+        },
+        {
+          "name": "Magome",
+          "station_id": "00007374",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.711861,
+            "lat": 35.596593
+          }
+        },
+        {
+          "name": "Nakanobu",
+          "station_id": "00006021",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.713663,
+            "lat": 35.605383
+          }
+        },
+        {
+          "name": "Togoshi",
+          "station_id": "00002185",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.716404,
+            "lat": 35.614582
+          }
+        },
+        {
+          "name": "Gotanda",
+          "station_id": "00002244",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.723843,
+            "lat": 35.626886
+          }
+        },
+        {
+          "name": "Takanawadai",
+          "station_id": "00002643",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.730418,
+            "lat": 35.631745
+          }
+        },
+        {
+          "name": "Sengakuji",
+          "station_id": "00005252",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.739946,
+            "lat": 35.638664
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Nishi-magome",
+          "from_id": "00004908",
+          "to": "Magome",
+          "to_id": "00007374",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Magome",
+          "from_id": "00007374",
+          "to": "Nakanobu",
+          "to_id": "00006021",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nakanobu",
+          "from_id": "00006021",
+          "to": "Togoshi",
+          "to_id": "00002185",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Togoshi",
+          "from_id": "00002185",
+          "to": "Gotanda",
+          "to_id": "00002244",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Gotanda",
+          "from_id": "00002244",
+          "to": "Takanawadai",
+          "to_id": "00002643",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Takanawadai",
+          "from_id": "00002643",
+          "to": "Sengakuji",
+          "to_id": "00005252",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "AC Special Express": {
+      "line": "Toei Asakusa",
+      "train_type": "AC Special Express",
+      "total_stops": 20,
+      "stops": [
+        {
+          "name": "Nishi-magome",
+          "station_id": "00004908",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.706024,
+            "lat": 35.586971
+          }
+        },
+        {
+          "name": "Magome",
+          "station_id": "00007374",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.711861,
+            "lat": 35.596593
+          }
+        },
+        {
+          "name": "Nakanobu",
+          "station_id": "00006021",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.713663,
+            "lat": 35.605383
+          }
+        },
+        {
+          "name": "Togoshi",
+          "station_id": "00002185",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.716404,
+            "lat": 35.614582
+          }
+        },
+        {
+          "name": "Gotanda",
+          "station_id": "00002244",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.723843,
+            "lat": 35.626886
+          }
+        },
+        {
+          "name": "Takanawadai",
+          "station_id": "00002643",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.730418,
+            "lat": 35.631745
+          }
+        },
+        {
+          "name": "Sengakuji",
+          "station_id": "00005252",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.739946,
+            "lat": 35.638664
+          }
+        },
+        {
+          "name": "Mita",
+          "station_id": "00003053",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.747432,
+            "lat": 35.646962
+          }
+        },
+        {
+          "name": "Daimon(Tokyo)",
+          "station_id": "00005767",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.754657,
+            "lat": 35.656561
+          }
+        },
+        {
+          "name": "Shimbashi",
+          "station_id": "00004212",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.759376,
+            "lat": 35.665427
+          }
+        },
+        {
+          "name": "Higashi-ginza",
+          "station_id": "00006676",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.767274,
+            "lat": 35.669859
+          }
+        },
+        {
+          "name": "Takaracho",
+          "station_id": "00008178",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.772004,
+            "lat": 35.675622
+          }
+        },
+        {
+          "name": "Nihombashi",
+          "station_id": "00007297",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.775776,
+            "lat": 35.681724
+          }
+        },
+        {
+          "name": "Ningyocho",
+          "station_id": "00004492",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.782489,
+            "lat": 35.686456
+          }
+        },
+        {
+          "name": "Higashi-nihombashi",
+          "station_id": "00006811",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.784893,
+            "lat": 35.692117
+          }
+        },
+        {
+          "name": "Asakusabashi",
+          "station_id": "00005271",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.78643,
+            "lat": 35.697656
+          }
+        },
+        {
+          "name": "Kuramae",
+          "station_id": "00005419",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.790762,
+            "lat": 35.703099
+          }
+        },
+        {
+          "name": "Asakusa",
+          "station_id": "00005270",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.796381,
+            "lat": 35.708814
+          }
+        },
+        {
+          "name": "Honjo-Azumabashi",
+          "station_id": "00008471",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.804353,
+            "lat": 35.708568
+          }
+        },
+        {
+          "name": "Oshiage(SKYTREE)",
+          "station_id": "00000813",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.813093,
+            "lat": 35.710888
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Nishi-magome",
+          "from_id": "00004908",
+          "to": "Magome",
+          "to_id": "00007374",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Magome",
+          "from_id": "00007374",
+          "to": "Nakanobu",
+          "to_id": "00006021",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nakanobu",
+          "from_id": "00006021",
+          "to": "Togoshi",
+          "to_id": "00002185",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Togoshi",
+          "from_id": "00002185",
+          "to": "Gotanda",
+          "to_id": "00002244",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Gotanda",
+          "from_id": "00002244",
+          "to": "Takanawadai",
+          "to_id": "00002643",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Takanawadai",
+          "from_id": "00002643",
+          "to": "Sengakuji",
+          "to_id": "00005252",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Sengakuji",
+          "from_id": "00005252",
+          "to": "Mita",
+          "to_id": "00003053",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Mita",
+          "from_id": "00003053",
+          "to": "Daimon(Tokyo)",
+          "to_id": "00005767",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Daimon(Tokyo)",
+          "from_id": "00005767",
+          "to": "Shimbashi",
+          "to_id": "00004212",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shimbashi",
+          "from_id": "00004212",
+          "to": "Higashi-ginza",
+          "to_id": "00006676",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Higashi-ginza",
+          "from_id": "00006676",
+          "to": "Takaracho",
+          "to_id": "00008178",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Takaracho",
+          "from_id": "00008178",
+          "to": "Nihombashi",
+          "to_id": "00007297",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nihombashi",
+          "from_id": "00007297",
+          "to": "Ningyocho",
+          "to_id": "00004492",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ningyocho",
+          "from_id": "00004492",
+          "to": "Higashi-nihombashi",
+          "to_id": "00006811",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Higashi-nihombashi",
+          "from_id": "00006811",
+          "to": "Asakusabashi",
+          "to_id": "00005271",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Asakusabashi",
+          "from_id": "00005271",
+          "to": "Kuramae",
+          "to_id": "00005419",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kuramae",
+          "from_id": "00005419",
+          "to": "Asakusa",
+          "to_id": "00005270",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Asakusa",
+          "from_id": "00005270",
+          "to": "Honjo-Azumabashi",
+          "to_id": "00008471",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Honjo-Azumabashi",
+          "from_id": "00008471",
+          "to": "Oshiage(SKYTREE)",
+          "to_id": "00000813",
+          "travel_time_minutes": 1
+        }
+      ]
+    },
+    "Rapid": {
+      "line": "Toei Asakusa",
+      "train_type": "Rapid",
+      "total_stops": 20,
+      "stops": [
+        {
+          "name": "Nishi-magome",
+          "station_id": "00004908",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.706024,
+            "lat": 35.586971
+          }
+        },
+        {
+          "name": "Magome",
+          "station_id": "00007374",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.711861,
+            "lat": 35.596593
+          }
+        },
+        {
+          "name": "Nakanobu",
+          "station_id": "00006021",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.713663,
+            "lat": 35.605383
+          }
+        },
+        {
+          "name": "Togoshi",
+          "station_id": "00002185",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.716404,
+            "lat": 35.614582
+          }
+        },
+        {
+          "name": "Gotanda",
+          "station_id": "00002244",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.723843,
+            "lat": 35.626886
+          }
+        },
+        {
+          "name": "Takanawadai",
+          "station_id": "00002643",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.730418,
+            "lat": 35.631745
+          }
+        },
+        {
+          "name": "Sengakuji",
+          "station_id": "00005252",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.739946,
+            "lat": 35.638664
+          }
+        },
+        {
+          "name": "Mita",
+          "station_id": "00003053",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.747432,
+            "lat": 35.646962
+          }
+        },
+        {
+          "name": "Daimon(Tokyo)",
+          "station_id": "00005767",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.754657,
+            "lat": 35.656561
+          }
+        },
+        {
+          "name": "Shimbashi",
+          "station_id": "00004212",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.759376,
+            "lat": 35.665427
+          }
+        },
+        {
+          "name": "Higashi-ginza",
+          "station_id": "00006676",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.767274,
+            "lat": 35.669859
+          }
+        },
+        {
+          "name": "Takaracho",
+          "station_id": "00008178",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.772004,
+            "lat": 35.675622
+          }
+        },
+        {
+          "name": "Nihombashi",
+          "station_id": "00007297",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.775776,
+            "lat": 35.681724
+          }
+        },
+        {
+          "name": "Ningyocho",
+          "station_id": "00004492",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.782489,
+            "lat": 35.686456
+          }
+        },
+        {
+          "name": "Higashi-nihombashi",
+          "station_id": "00006811",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.784893,
+            "lat": 35.692117
+          }
+        },
+        {
+          "name": "Asakusabashi",
+          "station_id": "00005271",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.78643,
+            "lat": 35.697656
+          }
+        },
+        {
+          "name": "Kuramae",
+          "station_id": "00005419",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.790762,
+            "lat": 35.703099
+          }
+        },
+        {
+          "name": "Asakusa",
+          "station_id": "00005270",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.796381,
+            "lat": 35.708814
+          }
+        },
+        {
+          "name": "Honjo-Azumabashi",
+          "station_id": "00008471",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.804353,
+            "lat": 35.708568
+          }
+        },
+        {
+          "name": "Oshiage(SKYTREE)",
+          "station_id": "00000813",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.813093,
+            "lat": 35.710888
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Nishi-magome",
+          "from_id": "00004908",
+          "to": "Magome",
+          "to_id": "00007374",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Magome",
+          "from_id": "00007374",
+          "to": "Nakanobu",
+          "to_id": "00006021",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nakanobu",
+          "from_id": "00006021",
+          "to": "Togoshi",
+          "to_id": "00002185",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Togoshi",
+          "from_id": "00002185",
+          "to": "Gotanda",
+          "to_id": "00002244",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Gotanda",
+          "from_id": "00002244",
+          "to": "Takanawadai",
+          "to_id": "00002643",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Takanawadai",
+          "from_id": "00002643",
+          "to": "Sengakuji",
+          "to_id": "00005252",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Sengakuji",
+          "from_id": "00005252",
+          "to": "Mita",
+          "to_id": "00003053",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Mita",
+          "from_id": "00003053",
+          "to": "Daimon(Tokyo)",
+          "to_id": "00005767",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Daimon(Tokyo)",
+          "from_id": "00005767",
+          "to": "Shimbashi",
+          "to_id": "00004212",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shimbashi",
+          "from_id": "00004212",
+          "to": "Higashi-ginza",
+          "to_id": "00006676",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Higashi-ginza",
+          "from_id": "00006676",
+          "to": "Takaracho",
+          "to_id": "00008178",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Takaracho",
+          "from_id": "00008178",
+          "to": "Nihombashi",
+          "to_id": "00007297",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nihombashi",
+          "from_id": "00007297",
+          "to": "Ningyocho",
+          "to_id": "00004492",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ningyocho",
+          "from_id": "00004492",
+          "to": "Higashi-nihombashi",
+          "to_id": "00006811",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Higashi-nihombashi",
+          "from_id": "00006811",
+          "to": "Asakusabashi",
+          "to_id": "00005271",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Asakusabashi",
+          "from_id": "00005271",
+          "to": "Kuramae",
+          "to_id": "00005419",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kuramae",
+          "from_id": "00005419",
+          "to": "Asakusa",
+          "to_id": "00005270",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Asakusa",
+          "from_id": "00005270",
+          "to": "Honjo-Azumabashi",
+          "to_id": "00008471",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Honjo-Azumabashi",
+          "from_id": "00008471",
+          "to": "Oshiage(SKYTREE)",
+          "to_id": "00000813",
+          "travel_time_minutes": 1
+        }
+      ]
+    },
+    "Limited Express": {
+      "line": "Toei Asakusa",
+      "train_type": "Limited Express",
+      "total_stops": 20,
+      "stops": [
+        {
+          "name": "Nishi-magome",
+          "station_id": "00004908",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.706024,
+            "lat": 35.586971
+          }
+        },
+        {
+          "name": "Magome",
+          "station_id": "00007374",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.711861,
+            "lat": 35.596593
+          }
+        },
+        {
+          "name": "Nakanobu",
+          "station_id": "00006021",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.713663,
+            "lat": 35.605383
+          }
+        },
+        {
+          "name": "Togoshi",
+          "station_id": "00002185",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.716404,
+            "lat": 35.614582
+          }
+        },
+        {
+          "name": "Gotanda",
+          "station_id": "00002244",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.723843,
+            "lat": 35.626886
+          }
+        },
+        {
+          "name": "Takanawadai",
+          "station_id": "00002643",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.730418,
+            "lat": 35.631745
+          }
+        },
+        {
+          "name": "Sengakuji",
+          "station_id": "00005252",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.739946,
+            "lat": 35.638664
+          }
+        },
+        {
+          "name": "Mita",
+          "station_id": "00003053",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.747432,
+            "lat": 35.646962
+          }
+        },
+        {
+          "name": "Daimon(Tokyo)",
+          "station_id": "00005767",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.754657,
+            "lat": 35.656561
+          }
+        },
+        {
+          "name": "Shimbashi",
+          "station_id": "00004212",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.759376,
+            "lat": 35.665427
+          }
+        },
+        {
+          "name": "Higashi-ginza",
+          "station_id": "00006676",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.767274,
+            "lat": 35.669859
+          }
+        },
+        {
+          "name": "Takaracho",
+          "station_id": "00008178",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.772004,
+            "lat": 35.675622
+          }
+        },
+        {
+          "name": "Nihombashi",
+          "station_id": "00007297",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.775776,
+            "lat": 35.681724
+          }
+        },
+        {
+          "name": "Ningyocho",
+          "station_id": "00004492",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.782489,
+            "lat": 35.686456
+          }
+        },
+        {
+          "name": "Higashi-nihombashi",
+          "station_id": "00006811",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.784893,
+            "lat": 35.692117
+          }
+        },
+        {
+          "name": "Asakusabashi",
+          "station_id": "00005271",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.78643,
+            "lat": 35.697656
+          }
+        },
+        {
+          "name": "Kuramae",
+          "station_id": "00005419",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.790762,
+            "lat": 35.703099
+          }
+        },
+        {
+          "name": "Asakusa",
+          "station_id": "00005270",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.796381,
+            "lat": 35.708814
+          }
+        },
+        {
+          "name": "Honjo-Azumabashi",
+          "station_id": "00008471",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.804353,
+            "lat": 35.708568
+          }
+        },
+        {
+          "name": "Oshiage(SKYTREE)",
+          "station_id": "00000813",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.813093,
+            "lat": 35.710888
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Nishi-magome",
+          "from_id": "00004908",
+          "to": "Magome",
+          "to_id": "00007374",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Magome",
+          "from_id": "00007374",
+          "to": "Nakanobu",
+          "to_id": "00006021",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nakanobu",
+          "from_id": "00006021",
+          "to": "Togoshi",
+          "to_id": "00002185",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Togoshi",
+          "from_id": "00002185",
+          "to": "Gotanda",
+          "to_id": "00002244",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Gotanda",
+          "from_id": "00002244",
+          "to": "Takanawadai",
+          "to_id": "00002643",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Takanawadai",
+          "from_id": "00002643",
+          "to": "Sengakuji",
+          "to_id": "00005252",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Sengakuji",
+          "from_id": "00005252",
+          "to": "Mita",
+          "to_id": "00003053",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Mita",
+          "from_id": "00003053",
+          "to": "Daimon(Tokyo)",
+          "to_id": "00005767",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Daimon(Tokyo)",
+          "from_id": "00005767",
+          "to": "Shimbashi",
+          "to_id": "00004212",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shimbashi",
+          "from_id": "00004212",
+          "to": "Higashi-ginza",
+          "to_id": "00006676",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Higashi-ginza",
+          "from_id": "00006676",
+          "to": "Takaracho",
+          "to_id": "00008178",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Takaracho",
+          "from_id": "00008178",
+          "to": "Nihombashi",
+          "to_id": "00007297",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nihombashi",
+          "from_id": "00007297",
+          "to": "Ningyocho",
+          "to_id": "00004492",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ningyocho",
+          "from_id": "00004492",
+          "to": "Higashi-nihombashi",
+          "to_id": "00006811",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Higashi-nihombashi",
+          "from_id": "00006811",
+          "to": "Asakusabashi",
+          "to_id": "00005271",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Asakusabashi",
+          "from_id": "00005271",
+          "to": "Kuramae",
+          "to_id": "00005419",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kuramae",
+          "from_id": "00005419",
+          "to": "Asakusa",
+          "to_id": "00005270",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Asakusa",
+          "from_id": "00005270",
+          "to": "Honjo-Azumabashi",
+          "to_id": "00008471",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Honjo-Azumabashi",
+          "from_id": "00008471",
+          "to": "Oshiage(SKYTREE)",
+          "to_id": "00000813",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Rapid Express": {
+      "line": "Toei Asakusa",
+      "train_type": "Rapid Express",
+      "total_stops": 20,
+      "stops": [
+        {
+          "name": "Nishi-magome",
+          "station_id": "00004908",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.706024,
+            "lat": 35.586971
+          }
+        },
+        {
+          "name": "Magome",
+          "station_id": "00007374",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.711861,
+            "lat": 35.596593
+          }
+        },
+        {
+          "name": "Nakanobu",
+          "station_id": "00006021",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.713663,
+            "lat": 35.605383
+          }
+        },
+        {
+          "name": "Togoshi",
+          "station_id": "00002185",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.716404,
+            "lat": 35.614582
+          }
+        },
+        {
+          "name": "Gotanda",
+          "station_id": "00002244",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.723843,
+            "lat": 35.626886
+          }
+        },
+        {
+          "name": "Takanawadai",
+          "station_id": "00002643",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.730418,
+            "lat": 35.631745
+          }
+        },
+        {
+          "name": "Sengakuji",
+          "station_id": "00005252",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.739946,
+            "lat": 35.638664
+          }
+        },
+        {
+          "name": "Mita",
+          "station_id": "00003053",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.747432,
+            "lat": 35.646962
+          }
+        },
+        {
+          "name": "Daimon(Tokyo)",
+          "station_id": "00005767",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.754657,
+            "lat": 35.656561
+          }
+        },
+        {
+          "name": "Shimbashi",
+          "station_id": "00004212",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.759376,
+            "lat": 35.665427
+          }
+        },
+        {
+          "name": "Higashi-ginza",
+          "station_id": "00006676",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.767274,
+            "lat": 35.669859
+          }
+        },
+        {
+          "name": "Takaracho",
+          "station_id": "00008178",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.772004,
+            "lat": 35.675622
+          }
+        },
+        {
+          "name": "Nihombashi",
+          "station_id": "00007297",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.775776,
+            "lat": 35.681724
+          }
+        },
+        {
+          "name": "Ningyocho",
+          "station_id": "00004492",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.782489,
+            "lat": 35.686456
+          }
+        },
+        {
+          "name": "Higashi-nihombashi",
+          "station_id": "00006811",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.784893,
+            "lat": 35.692117
+          }
+        },
+        {
+          "name": "Asakusabashi",
+          "station_id": "00005271",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.78643,
+            "lat": 35.697656
+          }
+        },
+        {
+          "name": "Kuramae",
+          "station_id": "00005419",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.790762,
+            "lat": 35.703099
+          }
+        },
+        {
+          "name": "Asakusa",
+          "station_id": "00005270",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.796381,
+            "lat": 35.708814
+          }
+        },
+        {
+          "name": "Honjo-Azumabashi",
+          "station_id": "00008471",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.804353,
+            "lat": 35.708568
+          }
+        },
+        {
+          "name": "Oshiage(SKYTREE)",
+          "station_id": "00000813",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.813093,
+            "lat": 35.710888
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Nishi-magome",
+          "from_id": "00004908",
+          "to": "Magome",
+          "to_id": "00007374",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Magome",
+          "from_id": "00007374",
+          "to": "Nakanobu",
+          "to_id": "00006021",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nakanobu",
+          "from_id": "00006021",
+          "to": "Togoshi",
+          "to_id": "00002185",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Togoshi",
+          "from_id": "00002185",
+          "to": "Gotanda",
+          "to_id": "00002244",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Gotanda",
+          "from_id": "00002244",
+          "to": "Takanawadai",
+          "to_id": "00002643",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Takanawadai",
+          "from_id": "00002643",
+          "to": "Sengakuji",
+          "to_id": "00005252",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Sengakuji",
+          "from_id": "00005252",
+          "to": "Mita",
+          "to_id": "00003053",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Mita",
+          "from_id": "00003053",
+          "to": "Daimon(Tokyo)",
+          "to_id": "00005767",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Daimon(Tokyo)",
+          "from_id": "00005767",
+          "to": "Shimbashi",
+          "to_id": "00004212",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shimbashi",
+          "from_id": "00004212",
+          "to": "Higashi-ginza",
+          "to_id": "00006676",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Higashi-ginza",
+          "from_id": "00006676",
+          "to": "Takaracho",
+          "to_id": "00008178",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Takaracho",
+          "from_id": "00008178",
+          "to": "Nihombashi",
+          "to_id": "00007297",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nihombashi",
+          "from_id": "00007297",
+          "to": "Ningyocho",
+          "to_id": "00004492",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ningyocho",
+          "from_id": "00004492",
+          "to": "Higashi-nihombashi",
+          "to_id": "00006811",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Higashi-nihombashi",
+          "from_id": "00006811",
+          "to": "Asakusabashi",
+          "to_id": "00005271",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Asakusabashi",
+          "from_id": "00005271",
+          "to": "Kuramae",
+          "to_id": "00005419",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kuramae",
+          "from_id": "00005419",
+          "to": "Asakusa",
+          "to_id": "00005270",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Asakusa",
+          "from_id": "00005270",
+          "to": "Honjo-Azumabashi",
+          "to_id": "00008471",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Honjo-Azumabashi",
+          "from_id": "00008471",
+          "to": "Oshiage(SKYTREE)",
+          "to_id": "00000813",
+          "travel_time_minutes": 2
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:56:16.031Z"
+}

@@ -1,0 +1,607 @@
+{
+  "line": "Tokyo Metro Marunouchi",
+  "operator": "Tokyo Metro",
+  "navitime_id": "00000766",
+  "first_station_id": "00005947",
+  "stations": [
+    {
+      "name": "Ikebukuro",
+      "japanese_name": "池袋",
+      "station_id": "00005947",
+      "order": 1,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "Seibu Ikebukuro Line",
+        "Tokyo Metro Yurakucho Line",
+        "Tokyo Metro Fukutoshin Line",
+        "Tobu Tojo Line",
+        "JR Shonan-Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Shin-Ōtsuka",
+      "japanese_name": "新大塚",
+      "station_id": "00004307",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Myogadani",
+      "japanese_name": "茗荷谷",
+      "station_id": "00009173",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Korakuen",
+      "japanese_name": "後楽園",
+      "station_id": "00002263",
+      "order": 4,
+      "transfers": [
+        "Tokyo Metro Namboku Line"
+      ]
+    },
+    {
+      "name": "Hongo-sanchome",
+      "japanese_name": "本郷三丁目",
+      "station_id": "00008457",
+      "order": 5,
+      "transfers": [
+        "Toeioedo Line(Loop)"
+      ]
+    },
+    {
+      "name": "Ochanomizu",
+      "japanese_name": "御茶ノ水",
+      "station_id": "00002296",
+      "order": 6,
+      "transfers": [
+        "JR Sobu Line Local (Ochanomizu-Kinshicho)",
+        "JR Chuo Main Line(Tokyo-Shiojiri)"
+      ]
+    },
+    {
+      "name": "Awajicho",
+      "japanese_name": "淡路町",
+      "station_id": "00005901",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Ōtemachi",
+      "japanese_name": "大手町(東京都)",
+      "station_id": "00005630",
+      "order": 8,
+      "transfers": [
+        "Tokyo Metro Chiyoda Line",
+        "Tokyo Metro Tozai Line",
+        "Tokyo Metro Hanzomon Line",
+        "Toei Mita Line"
+      ]
+    },
+    {
+      "name": "Tokyo",
+      "japanese_name": "東京",
+      "station_id": "00006668",
+      "order": 9,
+      "transfers": [
+        "JR Tokaido Shinkansen",
+        "JR Yokosuka Line",
+        "JR Keihintohoku Line",
+        "JR Keiyo Line",
+        "JR Yamanote Line",
+        "JR Joetsu Shinkansen",
+        "JR Sobu Main Line(Tokyo-Choshi)",
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "JR Hokuriku Shinkansen(via Nagano)",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "JR Tohoku Shinkansen",
+        "JR Utsunomiya Line[Tohoku Main Line]‧JR Ueno Tokyo Line"
+      ]
+    },
+    {
+      "name": "Ginza",
+      "japanese_name": "銀座",
+      "station_id": "00001908",
+      "order": 10,
+      "transfers": [
+        "Tokyo Metro Ginza Line",
+        "Tokyo Metro Hibiya Line"
+      ]
+    },
+    {
+      "name": "Kasumigaseki(Tokyo)",
+      "japanese_name": "霞ヶ関(東京都)",
+      "station_id": "00001116",
+      "order": 11,
+      "transfers": [
+        "Tokyo Metro Chiyoda Line",
+        "Tokyo Metro Hibiya Line",
+        "Chiyoda Yurakucho Renraku Line"
+      ]
+    },
+    {
+      "name": "Kokkai Gijido Mae",
+      "japanese_name": "国会議事堂前",
+      "station_id": "00002659",
+      "order": 12,
+      "transfers": [
+        "Tokyo Metro Chiyoda Line"
+      ]
+    },
+    {
+      "name": "Akasaka-mitsuke",
+      "japanese_name": "赤坂見附",
+      "station_id": "00005079",
+      "order": 13,
+      "transfers": [
+        "Tokyo Metro Ginza Line"
+      ]
+    },
+    {
+      "name": "Yotsuya",
+      "japanese_name": "四ツ谷",
+      "station_id": "00003176",
+      "order": 14,
+      "transfers": [
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "Tokyo Metro Namboku Line"
+      ]
+    },
+    {
+      "name": "Yotsuya-sanchome",
+      "japanese_name": "四谷三丁目",
+      "station_id": "00003188",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Shinjuku-gyoemmae",
+      "japanese_name": "新宿御苑前",
+      "station_id": "00004255",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Shinjuku Sanchome",
+      "japanese_name": "新宿三丁目",
+      "station_id": "00004256",
+      "order": 17,
+      "transfers": [
+        "Tokyo Metro Fukutoshin Line",
+        "Toei Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Shinjuku",
+      "japanese_name": "新宿",
+      "station_id": "00004254",
+      "order": 18,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "Keio Line",
+        "Keio New Line",
+        "Odakyu Odawara Line",
+        "Toeioedo Line(Loop)",
+        "Toei Shinjuku Line",
+        "JR Shonan-Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Nishi-shinjuku",
+      "japanese_name": "西新宿",
+      "station_id": "00004813",
+      "order": 19,
+      "transfers": []
+    },
+    {
+      "name": "Nakano-Sakaue",
+      "japanese_name": "中野坂上",
+      "station_id": "00006139",
+      "order": 20,
+      "transfers": [
+        "Tokyo Metro Marunouchi Line(Nakanosakaue-Honancho)",
+        "Toei Oedo Line"
+      ]
+    },
+    {
+      "name": "Shin-nakano",
+      "japanese_name": "新中野",
+      "station_id": "00004312",
+      "order": 21,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-koenji",
+      "japanese_name": "東高円寺",
+      "station_id": "00006692",
+      "order": 22,
+      "transfers": []
+    },
+    {
+      "name": "Shin-Kōenji",
+      "japanese_name": "新高円寺",
+      "station_id": "00004228",
+      "order": 23,
+      "transfers": []
+    },
+    {
+      "name": "Minami-asagaya",
+      "japanese_name": "南阿佐ヶ谷",
+      "station_id": "00007038",
+      "order": 24,
+      "transfers": []
+    },
+    {
+      "name": "Ogikubo",
+      "japanese_name": "荻窪",
+      "station_id": "00000877",
+      "order": 25,
+      "transfers": [
+        "JR Chuo Main Line(Tokyo-Shiojiri)"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local Train"
+  ],
+  "example_trains": {
+    "Local Train": {
+      "trainId": "8248007f",
+      "trainName": "Tokyo Metro Marunouchi Line",
+      "destination": "Nakano-fujimicho",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Local Train"
+    }
+  },
+  "train_stop_details": {
+    "Local Train": {
+      "line": "Tokyo Metro Marunouchi",
+      "train_type": "Local Train",
+      "total_stops": 20,
+      "stops": [
+        {
+          "name": "Ikebukuro",
+          "station_id": "00005947",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.711572,
+            "lat": 35.730217
+          }
+        },
+        {
+          "name": "Shin-Ōtsuka",
+          "station_id": "00004307",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.729796,
+            "lat": 35.725874
+          }
+        },
+        {
+          "name": "Myogadani",
+          "station_id": "00009173",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.736813,
+            "lat": 35.717309
+          }
+        },
+        {
+          "name": "Korakuen",
+          "station_id": "00002263",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.7511,
+            "lat": 35.707341
+          }
+        },
+        {
+          "name": "Hongo-sanchome",
+          "station_id": "00008457",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.759944,
+            "lat": 35.70667
+          }
+        },
+        {
+          "name": "Ochanomizu",
+          "station_id": "00002296",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.764026,
+            "lat": 35.700617
+          }
+        },
+        {
+          "name": "Awajicho",
+          "station_id": "00005901",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.767475,
+            "lat": 35.694732
+          }
+        },
+        {
+          "name": "Ōtemachi",
+          "station_id": "00005630",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.76625,
+            "lat": 35.686719
+          }
+        },
+        {
+          "name": "Tokyo",
+          "station_id": "00006668",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.765097,
+            "lat": 35.68255
+          }
+        },
+        {
+          "name": "Ginza",
+          "station_id": "00001908",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.763833,
+            "lat": 35.672996
+          }
+        },
+        {
+          "name": "Kasumigaseki(Tokyo)",
+          "station_id": "00001116",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.752569,
+            "lat": 35.674316
+          }
+        },
+        {
+          "name": "Kokkai Gijido Mae",
+          "station_id": "00002659",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.74553,
+            "lat": 35.674546
+          }
+        },
+        {
+          "name": "Akasaka-mitsuke",
+          "station_id": "00005079",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.737072,
+            "lat": 35.676998
+          }
+        },
+        {
+          "name": "Yotsuya",
+          "station_id": "00003176",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.729971,
+            "lat": 35.684589
+          }
+        },
+        {
+          "name": "Yotsuya-sanchome",
+          "station_id": "00003188",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.720417,
+            "lat": 35.687968
+          }
+        },
+        {
+          "name": "Shinjuku-gyoemmae",
+          "station_id": "00004255",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.710812,
+            "lat": 35.688547
+          }
+        },
+        {
+          "name": "Shinjuku Sanchome",
+          "station_id": "00004256",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.704851,
+            "lat": 35.690868
+          }
+        },
+        {
+          "name": "Shinjuku",
+          "station_id": "00004254",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.701024,
+            "lat": 35.692261
+          }
+        },
+        {
+          "name": "Nishi-shinjuku",
+          "station_id": "00004813",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.693046,
+            "lat": 35.694276
+          }
+        },
+        {
+          "name": "Nakano-Sakaue",
+          "station_id": "00006139",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.681619,
+            "lat": 35.69714
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Ikebukuro",
+          "from_id": "00005947",
+          "to": "Shin-Ōtsuka",
+          "to_id": "00004307",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-Ōtsuka",
+          "from_id": "00004307",
+          "to": "Myogadani",
+          "to_id": "00009173",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Myogadani",
+          "from_id": "00009173",
+          "to": "Korakuen",
+          "to_id": "00002263",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Korakuen",
+          "from_id": "00002263",
+          "to": "Hongo-sanchome",
+          "to_id": "00008457",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hongo-sanchome",
+          "from_id": "00008457",
+          "to": "Ochanomizu",
+          "to_id": "00002296",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ochanomizu",
+          "from_id": "00002296",
+          "to": "Awajicho",
+          "to_id": "00005901",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Awajicho",
+          "from_id": "00005901",
+          "to": "Ōtemachi",
+          "to_id": "00005630",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ōtemachi",
+          "from_id": "00005630",
+          "to": "Tokyo",
+          "to_id": "00006668",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tokyo",
+          "from_id": "00006668",
+          "to": "Ginza",
+          "to_id": "00001908",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ginza",
+          "from_id": "00001908",
+          "to": "Kasumigaseki(Tokyo)",
+          "to_id": "00001116",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kasumigaseki(Tokyo)",
+          "from_id": "00001116",
+          "to": "Kokkai Gijido Mae",
+          "to_id": "00002659",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kokkai Gijido Mae",
+          "from_id": "00002659",
+          "to": "Akasaka-mitsuke",
+          "to_id": "00005079",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Akasaka-mitsuke",
+          "from_id": "00005079",
+          "to": "Yotsuya",
+          "to_id": "00003176",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yotsuya",
+          "from_id": "00003176",
+          "to": "Yotsuya-sanchome",
+          "to_id": "00003188",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yotsuya-sanchome",
+          "from_id": "00003188",
+          "to": "Shinjuku-gyoemmae",
+          "to_id": "00004255",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shinjuku-gyoemmae",
+          "from_id": "00004255",
+          "to": "Shinjuku Sanchome",
+          "to_id": "00004256",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shinjuku Sanchome",
+          "from_id": "00004256",
+          "to": "Shinjuku",
+          "to_id": "00004254",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shinjuku",
+          "from_id": "00004254",
+          "to": "Nishi-shinjuku",
+          "to_id": "00004813",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nishi-shinjuku",
+          "from_id": "00004813",
+          "to": "Nakano-Sakaue",
+          "to_id": "00006139",
+          "travel_time_minutes": 2
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:54:47.761Z"
+}

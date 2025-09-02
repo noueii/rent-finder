@@ -1,0 +1,123 @@
+{
+  "mappings": {
+    "direct_mappings": {
+      "JR Yamanote Line": "00000141_Yamanote_Line",
+      "JR Keihin-Tōhoku Line": "00000131_Keihin_Tohoku_Line",
+      "JR Saikyō Line": "00000139_Saikyo_Line",
+      "JR Musashino Line": "00000202_Musashino_Line",
+      "JR Nambu Line": "00000191_Nambu_Line",
+      "JR Yokosuka Line": "00000123_Yokosuka_Line",
+      "JR Yokohama Line": "00000124_Yokohama_Line",
+      "JR Takasaki Line": "00000136_Takasaki_Line",
+      "JR Keiyō Line": "00000132_Keiyo_Line",
+      "JR Itsukaichi Line": "00000133_Itsukaichi_Line",
+      "JR Hachikō Line (Hachiōji-Komagawa)": "00000197_Hachiko_Line",
+      "JR Ōme Line": "00000162_Ome_Line",
+      "JR Shōnan-Shinjuku Line": "00000910_Shonan_Shinjuku_Line",
+      "JR Chūō Line (Rapid)": "00000176_Chuo_Line__Rapid_",
+      "JR Sōbu Main Line": "00000168_Sobu_Line__Rapid_",
+      "JR Jōban Line (Ueno-Toride)": "00000151_Joban_Line__Rapid_Local_",
+      "JR Tōkaidō Line (Tokyo-Atami)": "00000183_Tokaido_Line",
+      "Utsunomiya Line": "00000188_Utsunomiya_Line",
+      
+      "Tokyo Metro Chiyoda Line": "00000769_Tokyo_Metro_Chiyoda",
+      "Tokyo Metro Ginza Line": "00000768_Tokyo_Metro_Ginza",
+      "Tokyo Metro Marunouchi": "00000766_Tokyo_Metro_Marunouchi",
+      "Tokyo Metro Hibiya Line": "00000773_Tokyo_Metro_Hibiya",
+      "Tokyo Metro Tōzai Line": "00000771_Tokyo_Metro_Tozai",
+      "Tokyo Metro Hanzōmon": "00000774_Tokyo_Metro_Hanzomon",
+      "Tokyo Metro Namboku Line": "00000772_Tokyo_Metro_Namboku",
+      "Tokyo Metro Yūrakuchō Line": "00000775_Tokyo_Metro_Yurakucho",
+      "Tokyo Metro Fukutoshin Line": "00000776_Tokyo_Metro_Fukutoshin",
+      
+      "Toei Asakusa Line": "00000795_Toei_Asakusa",
+      "Toei Mita Line": "00000793_Toei_Mita",
+      "Toei Ōedo Line": "00001015_Toei_Oedo",
+      "Toei Shinjuku Line": "00000794_Toei_Shinjuku",
+      
+      "Keiō Line": "00000274_Keio_Line",
+      "Keiō Inokashira Line": "00000273_Keio_Inokashira_Line",
+      "Keiō New Line": "00000277_Keio_New",
+      "Keiō Takao Line": "00000276_Keio_Takao",
+      "Keiō Dōbutsuen Line": "00000279_Keio_Dobutsuen",
+      
+      "Tōkyū Tōyoko Line": "00000790_Tokyu_Toyoko_Line",
+      "Tōkyū Den-en-toshi Line": "00000789_Tokyu_Den_en_toshi_Line",
+      "Tōkyū Ōimachi": "00000787_Tokyu_Oimachi_Line",
+      "Tōkyū Ikegami Line": "00000788_Tokyu_Ikegami_Line",
+      "Tōkyū Meguro Line": "00000791_Tokyu_Meguro_Line",
+      "Tōkyū Setagaya Line": "00000786_Tokyu_Setagaya_Line",
+      "Tōkyū Tamagawa Line": "00000903_Tokyu_Tamagawa_Line",
+      
+      "Tōbu Tōjō Line": "00000808_Tobu_Tojo_Line",
+      "Tōbu Isesaki Line": "00000798_Tobu_Isesaki_Line__Skytree_Line_",
+      "Tōbu Kameido Line": "00000802_Tobu_Kameido",
+      
+      "Seibu Ikebukuro Line": "00000725_Seibu_Ikebukuro_Line",
+      "Seibu Shinjuku Line": "00000721_Seibu_Shinjuku_Line",
+      "Seibu Kokubunji Line": "00000719_Seibu_Kokubunji",
+      "Seibu Haijima Line": "00000727_Seibu_Haijima",
+      
+      "Odakyū Line": "00000686_Odakyu_Odawara_Line",
+      "Odakyū Tama Line": "00000688_Odakyu_Tama_Line",
+      
+      "Keikyū Main Line": "00000298_Keikyu_Main_Line",
+      "Keisei Main Line": "00000291_Keisei_Main_Line",
+      "Keisei Oshiage Line": "00000286_Keisei_Oshiage_Line",
+      
+      "Rinkai Line": "00000797_Rinkai_Line",
+      "Tokyo Monorail": "00000783_Tokyo_Monorail",
+      "Tama Monorail": "00000738_Tama_Monorail",
+      "Yurikamome": "00000239_Yurikamome",
+      "Tsukuba Express": "00001066_Tsukuba_Express",
+      "Nippori-Toneri Liner": "00001092_Nippori_Toneri_Liner"
+    },
+    
+    "no_mapping_needed": [
+      "Akita Shinkansen",
+      "Hokuriku Shinkansen",
+      "Joetsu Shinkansen",
+      "Tohoku Shinkansen",
+      "Tokaido Shinkansen",
+      "Yamagata Shinkansen",
+      "JR Narita Express",
+      "JR Chūō Line (Tōkyō-Shiojiri)",
+      "JR Chūō-Sōbu Line",
+      "Ueno-Tokyo Line",
+      "Hokusō Railway Hokusō Line",
+      "Keikyū Airport Line",
+      "Keiō Keibajō Line",
+      "Keiō Sagamihara Line",
+      "Keisei Kanamachi Line",
+      "Narita Sky Access",
+      "Saitama Rapid Railway Line",
+      "Seibu Seibu-en Line",
+      "Seibu Tamagawa Line",
+      "Seibu Tamako Line",
+      "Seibu Toshima Line",
+      "Seibu Yamaguchi Line",
+      "Seibu Yurakucho Line",
+      "Tōbu Daishi Line",
+      "Toden Arakawa Line",
+      "Tokyo Metro Yūrakuchō New Line",
+      "Sotetsu・JR chokutsu line"
+    ],
+    
+    "cli_only_lines": [
+      "00000137_Negishi_Line",
+      "00000166_Kawagoe_Line",
+      "00000685_Odakyu_Enoshima",
+      "00000810_Tobu_Noda__Urban_Park_Line_",
+      "00000736_Sotetsu_Main",
+      "00000261_Yokohama_City_Subway_Blue",
+      "00001016_Yokohamakosoku_Railway_Minatomirai"
+    ]
+  },
+  
+  "notes": {
+    "shinkansen": "Shinkansen lines are not included in the CLI tool as they are high-speed rail lines not used for daily commuting",
+    "yokohama": "Yokohama subway lines are not included as they are outside Tokyo prefecture",
+    "duplicates": "CLI tool has duplicate Tobu Isesaki Line files (00000798 and 00000999)",
+    "character_encoding": "Realestate uses proper Japanese romanization (ō, ū) while CLI uses simplified (o, u)"
+  }
+}

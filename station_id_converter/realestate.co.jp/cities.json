@@ -1,0 +1,450 @@
+{
+	"data": {
+		"cities": {
+			"cities": [
+				{
+					"id": "13000",
+					"name": "Tokyo 23 wards",
+					"slug": "tokyo",
+					"name_official": "東京23区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13101",
+					"name": "Chiyoda-ku",
+					"slug": "chiyoda-ku",
+					"name_official": "千代田区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13102",
+					"name": "Chuo-ku",
+					"slug": "chuo-ku",
+					"name_official": "中央区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13103",
+					"name": "Minato-ku",
+					"slug": "minato-ku",
+					"name_official": "港区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13104",
+					"name": "Shinjuku-ku",
+					"slug": "shinjuku-ku",
+					"name_official": "新宿区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13105",
+					"name": "Bunkyo-ku",
+					"slug": "bunkyo-ku",
+					"name_official": "文京区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13106",
+					"name": "Taito-ku",
+					"slug": "taito-ku",
+					"name_official": "台東区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13107",
+					"name": "Sumida-ku",
+					"slug": "sumida-ku",
+					"name_official": "墨田区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13108",
+					"name": "Koto-ku",
+					"slug": "koto-ku",
+					"name_official": "江東区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13109",
+					"name": "Shinagawa-ku",
+					"slug": "shinagawa-ku",
+					"name_official": "品川区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13110",
+					"name": "Meguro-ku",
+					"slug": "meguro-ku",
+					"name_official": "目黒区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13111",
+					"name": "Ota-ku",
+					"slug": "ota-ku",
+					"name_official": "大田区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13112",
+					"name": "Setagaya-ku",
+					"slug": "setagaya-ku",
+					"name_official": "世田谷区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13113",
+					"name": "Shibuya-ku",
+					"slug": "shibuya-ku",
+					"name_official": "渋谷区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13114",
+					"name": "Nakano-ku",
+					"slug": "nakano-ku",
+					"name_official": "中野区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13115",
+					"name": "Suginami-ku",
+					"slug": "suginami-ku",
+					"name_official": "杉並区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13116",
+					"name": "Toshima-ku",
+					"slug": "toshima-ku",
+					"name_official": "豊島区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13117",
+					"name": "Kita-ku",
+					"slug": "kita-ku",
+					"name_official": "北区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13118",
+					"name": "Arakawa-ku",
+					"slug": "arakawa-ku",
+					"name_official": "荒川区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13119",
+					"name": "Itabashi-ku",
+					"slug": "itabashi-ku",
+					"name_official": "板橋区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13120",
+					"name": "Nerima-ku",
+					"slug": "nerima-ku",
+					"name_official": "練馬区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13121",
+					"name": "Adachi-ku",
+					"slug": "adachi-ku",
+					"name_official": "足立区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13122",
+					"name": "Katsushika-ku",
+					"slug": "katsushika-ku",
+					"name_official": "葛飾区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13123",
+					"name": "Edogawa-ku",
+					"slug": "edogawa-ku",
+					"name_official": "江戸川区",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13201",
+					"name": "Hachioji-shi",
+					"slug": "hachioji",
+					"name_official": "八王子市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13202",
+					"name": "Tachikawa-shi",
+					"slug": "tachikawa",
+					"name_official": "立川市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13203",
+					"name": "Musashino-shi",
+					"slug": "musashino-shi",
+					"name_official": "武蔵野市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13204",
+					"name": "Mitaka-shi",
+					"slug": "mitaka-shi",
+					"name_official": "三鷹市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13205",
+					"name": "Ome-shi",
+					"slug": "ome",
+					"name_official": "青梅市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13206",
+					"name": "Fuchu-shi",
+					"slug": "fuchu",
+					"name_official": "府中市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13207",
+					"name": "Akishima-shi",
+					"slug": "akishima-shi",
+					"name_official": "昭島市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13208",
+					"name": "Chofu-shi",
+					"slug": "chofu",
+					"name_official": "調布市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13209",
+					"name": "Machida-shi",
+					"slug": "machida",
+					"name_official": "町田市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13210",
+					"name": "Koganei-shi",
+					"slug": "koganei",
+					"name_official": "小金井市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13211",
+					"name": "Kodaira-shi",
+					"slug": "kodaira",
+					"name_official": "小平市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13212",
+					"name": "Hino-shi",
+					"slug": "hino",
+					"name_official": "日野市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13213",
+					"name": "Higashimurayama-shi",
+					"slug": "higashimurayama-shi",
+					"name_official": "東村山市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13214",
+					"name": "Kokubunji-shi",
+					"slug": "kokubunji-shi",
+					"name_official": "国分寺市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13215",
+					"name": "Kunitachi-shi",
+					"slug": "kunitachi-shi",
+					"name_official": "国立市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13218",
+					"name": "Fussa-shi",
+					"slug": "fussa",
+					"name_official": "福生市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13219",
+					"name": "Komae-shi",
+					"slug": "komae",
+					"name_official": "狛江市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13220",
+					"name": "Higashiyamato-shi",
+					"slug": "higashiyamato-shi",
+					"name_official": "東大和市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13221",
+					"name": "Kiyose-shi",
+					"slug": "kiyose-shi",
+					"name_official": "清瀬市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13222",
+					"name": "Higashikurume-shi",
+					"slug": "higashikurume-shi",
+					"name_official": "東久留米市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13223",
+					"name": "Musashimurayama-shi",
+					"slug": "musashimurayama-shi",
+					"name_official": "武蔵村山市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13224",
+					"name": "Tama-shi",
+					"slug": "tama",
+					"name_official": "多摩市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13225",
+					"name": "Inagi-shi",
+					"slug": "inagi-shi",
+					"name_official": "稲城市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13227",
+					"name": "Hamura-shi",
+					"slug": "hamura",
+					"name_official": "羽村市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13228",
+					"name": "Akiruno-shi",
+					"slug": "akiruno-shi",
+					"name_official": "あきる野市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13229",
+					"name": "Nishitokyo-shi",
+					"slug": "nishitokyo-shi",
+					"name_official": "西東京市",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13303",
+					"name": "Nishitama-gun Mizuho-machi",
+					"slug": "nishitama-gun-mizuho-machi",
+					"name_official": "西多摩郡瑞穂町",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13305",
+					"name": "Nishitama-gun Hinode-machi",
+					"slug": "nishitama-gun-hinode-machi",
+					"name_official": "西多摩郡日の出町",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13307",
+					"name": "Nishitama-gun Hinohara-mura",
+					"slug": "nishitama-gun-hinohara-mura",
+					"name_official": "西多摩郡檜原村",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13308",
+					"name": "Nishitama-gun Okutama-machi",
+					"slug": "nishitama-gun-okutama-machi",
+					"name_official": "西多摩郡奥多摩町",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13361",
+					"name": "Oshima-machi",
+					"slug": "oshima-machi",
+					"name_official": "大島町",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13362",
+					"name": "Toshima-mura",
+					"slug": "toshima-mura",
+					"name_official": "利島村",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13363",
+					"name": "Niijima-mura",
+					"slug": "niijima-mura",
+					"name_official": "新島村",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13364",
+					"name": "Kozushima-mura",
+					"slug": "kozushima-mura",
+					"name_official": "神津島村",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13381",
+					"name": "Miyakejima Miyake-mura",
+					"slug": "miyakejima-miyake-mura",
+					"name_official": "三宅島三宅村",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13382",
+					"name": "Mikurajima-mura",
+					"slug": "mikurajima-mura",
+					"name_official": "御蔵島村",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13401",
+					"name": "Hachijojima Hachijo-machi",
+					"slug": "hachijojima-hachijo-machi",
+					"name_official": "八丈島八丈町",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13402",
+					"name": "Aogashima-mura",
+					"slug": "aogashima-mura",
+					"name_official": "青ヶ島村",
+					"__typename": "FullCityType"
+				},
+				{
+					"id": "13421",
+					"name": "Ogasawara-mura",
+					"slug": "ogasawara-mura",
+					"name_official": "小笠原村",
+					"__typename": "FullCityType"
+				}
+			],
+			"__typename": "CityQuery"
+		}
+	}
+}

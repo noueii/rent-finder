@@ -1,0 +1,12 @@
+services:
+  otp-build:
+    image: opentripplanner/opentripplanner:2.5.0
+    container_name: tokyo-otp-build
+    volumes:
+      - ./data:/var/opentripplanner
+      - ./otp-config.json:/var/opentripplanner/otp-config.json
+      - ./data/build-config.json:/var/opentripplanner/build-config.json
+    # Only build, don't serve - this will save the graph and exit
+    command: --build --save
+    environment:
+      - JAVA_OPTS=-Xmx4G

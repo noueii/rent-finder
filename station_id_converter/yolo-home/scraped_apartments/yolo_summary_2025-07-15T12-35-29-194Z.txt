@@ -1,0 +1,168 @@
+YOLO HOME Scraping Summary
+===========================
+
+Source: YOLO HOME (home.yolo-japan.com)
+Search URL: https://home.yolo-japan.com/en/tokyo/list?municipality_code=13101,13102,13103,13104,13105,13106,13107,13108,13109,13110,13111,13112,13113,13114,13115,13116,13117,13118,13119,13120,13121,13122,13123&priceTo=150&areaFrom=25&perPage=50&page=1
+Generated: 7/15/2025, 3:35:29 PM
+Execution Time: 133.94s
+
+Overview
+--------
+Total Apartments: 2384
+Pages Scraped: 27
+
+Price Analysis
+--------------
+Monthly Rent Range: ¥49,000 - ¥150,000
+Average Monthly Rent: ¥115,808
+
+Size Analysis
+-------------
+Size Range: 25.0m² - 134.1m²
+Average Size: 28.7m²
+
+Layout Distribution
+-------------------
+1K: 1316 apartments (55.2%)
+1DK: 399 apartments (16.7%)
+1R: 250 apartments (10.5%)
+1LDK: 247 apartments (10.4%)
+2K: 74 apartments (3.1%)
+2DK: 54 apartments (2.3%)
+2LDK: 25 apartments (1.0%)
+3DK: 10 apartments (0.4%)
+1SLDK: 2 apartments (0.1%)
+3LDK: 2 apartments (0.1%)
+3K: 1 apartments (0.0%)
+2SLDK: 1 apartments (0.0%)
+
+Buildings (Top 10)
+------------------
+ウエリスアーバン水天宮前: 29 apartments
+Cedar Plaza目黒本町: 27 apartments
+TATSUMIスカイガーデンテラス: 25 apartments
+ユリカロゼ五反野: 25 apartments
+ユリカロゼAZ亀戸: 24 apartments
+ALTERNA神楽坂: 19 apartments
+プレール・ドゥーク高井戸: 17 apartments
+パークアクシス品川天王洲アイル: 16 apartments
+ディアレイシャス市谷薬王寺: 16 apartments
+ジェノヴィア目黒南グリーンヴェール: 15 apartments
+
+Ward Distribution
+-----------------
+
+
+Popular Stations (Top 10)
+-------------------------
+Itabashi: 99 apartments
+Nakacho: 98 apartments
+Ryogoku: 67 apartments
+Akabane: 66 apartments
+Suitengumae: 65 apartments
+Daigaku: 65 apartments
+Kamata: 62 apartments
+Nerima: 60 apartments
+Ikebukuro: 53 apartments
+Kameido: 51 apartments
+
+Sample Listings
+---------------
+
+1. 1DK Apartment
+   Building: ハーモニーレジデンスグローバルキャピタル
+   Room: N/A
+   
+   Price: ¥115,000/month
+   Management Fee: ¥15,000/month
+   Size: 25.35m² | Floor: 7
+   Layout: 1DK
+   
+   Location:  
+   Address: Tokyo Metro-Hibiya line Iriya 5 minutes on foot
+Tsukuba Express Asakusa 14 minutes on foot
+   Stations: Iriya (5min), Asakusa (14min)
+   
+   Features: Autolock, Free internet, Pets allowed/negotiable, Flooring
+   
+   URL: https://home.yolo-japan.com/en/property/1462368
+
+---
+
+2. 1DK Apartment
+   Building: ハーモニーレジデンスグローバルキャピタル
+   Room: N/A
+   
+   Price: ¥109,000/month
+   Management Fee: ¥15,000/month
+   Size: 25.35m² | Floor: 4
+   Layout: 1DK
+   
+   Location:  
+   Address: Tokyo Metro-Hibiya line Iriya 5 minutes on foot
+Tsukuba Express Asakusa 14 minutes on foot
+   Stations: Iriya (5min), Asakusa (14min)
+   
+   Features: Autolock, Free internet, Pets allowed/negotiable, Flooring
+   
+   URL: https://home.yolo-japan.com/en/property/1426524
+
+---
+
+3. 1DK Apartment
+   Building: ハーモニーレジデンスグローバルキャピタル
+   Room: N/A
+   
+   Price: ¥115,000/month
+   Management Fee: ¥15,000/month
+   Size: 25.74m² | Floor: 9
+   Layout: 1DK
+   
+   Location:  
+   Address: Tokyo Metro-Hibiya line Iriya 5 minutes on foot
+Tsukuba Express Asakusa 14 minutes on foot
+   Stations: Iriya (5min), Asakusa (14min)
+   
+   Features: Autolock, Free internet, Pets allowed/negotiable, Flooring
+   
+   URL: https://home.yolo-japan.com/en/property/1387219
+
+---
+
+4. 1DK Apartment
+   Building: ハーモニーレジデンスグローバルキャピタル
+   Room: N/A
+   
+   Price: ¥114,000/month
+   Management Fee: ¥15,000/month
+   Size: 25.74m² | Floor: 7
+   Layout: 1DK
+   
+   Location:  
+   Address: Tokyo Metro-Hibiya line Iriya 5 minutes on foot
+Tsukuba Express Asakusa 14 minutes on foot
+   Stations: Iriya (5min), Asakusa (14min)
+   
+   Features: Autolock, Free internet, Pets allowed/negotiable, Flooring
+   
+   URL: https://home.yolo-japan.com/en/property/1374969
+
+---
+
+5. 1DK Apartment
+   Building: ハーモニーレジデンスグローバルキャピタル
+   Room: N/A
+   
+   Price: ¥108,000/month
+   Management Fee: ¥15,000/month
+   Size: 25.35m² | Floor: 2
+   Layout: 1DK
+   
+   Location:  
+   Address: Tokyo Metro-Hibiya line Iriya 5 minutes on foot
+Tsukuba Express Asakusa 14 minutes on foot
+   Stations: Iriya (5min), Asakusa (14min)
+   
+   Features: Autolock, Free internet, Pets allowed/negotiable, Flooring
+   
+   URL: https://home.yolo-japan.com/en/property/1441600

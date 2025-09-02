@@ -1,0 +1,1530 @@
+{
+  "line": "Odakyu Odawara Line",
+  "operator": "Odakyu Electric Railway",
+  "navitime_id": "00000686",
+  "first_station_id": "00004254",
+  "stations": [
+    {
+      "name": "Shinjuku",
+      "japanese_name": "新宿",
+      "station_id": "00004254",
+      "order": 1,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "Keio Line",
+        "Keio New Line",
+        "Tokyo Metro Marunouchi Line",
+        "Toeioedo Line(Loop)",
+        "Toei Shinjuku Line",
+        "JR Shonan-Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Minami-Shinjuku",
+      "japanese_name": "南新宿",
+      "station_id": "00007111",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Sangubashi",
+      "japanese_name": "参宮橋",
+      "station_id": "00003089",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Yoyogi-Hachiman",
+      "japanese_name": "代々木八幡",
+      "station_id": "00005509",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Yoyogi Uehara",
+      "japanese_name": "代々木上原",
+      "station_id": "00005508",
+      "order": 5,
+      "transfers": [
+        "Tokyo Metro Chiyoda Line"
+      ]
+    },
+    {
+      "name": "Higashi-Kitazawa",
+      "japanese_name": "東北沢",
+      "station_id": "00006851",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Shimo-Kitazawa",
+      "japanese_name": "下北沢",
+      "station_id": "00000997",
+      "order": 7,
+      "transfers": [
+        "Keio Inokashira Line"
+      ]
+    },
+    {
+      "name": "Setagaya-Daita",
+      "japanese_name": "世田谷代田",
+      "station_id": "00004607",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Umegaoka",
+      "japanese_name": "梅ヶ丘",
+      "station_id": "00007389",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Gotokuji",
+      "japanese_name": "豪徳寺",
+      "station_id": "00002655",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Kyodo",
+      "japanese_name": "経堂",
+      "station_id": "00002041",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Chitose-Funabashi",
+      "japanese_name": "千歳船橋",
+      "station_id": "00005137",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Soshigaya-Okura",
+      "japanese_name": "祖師ヶ谷大蔵",
+      "station_id": "00005339",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Seijogakuen-mae",
+      "japanese_name": "成城学園前",
+      "station_id": "00004633",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Kitami",
+      "japanese_name": "喜多見",
+      "station_id": "00001455",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Komae",
+      "japanese_name": "狛江",
+      "station_id": "00002721",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Izumi-Tamagawa",
+      "japanese_name": "和泉多摩川",
+      "station_id": "00009114",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Noborito",
+      "japanese_name": "登戸",
+      "station_id": "00006541",
+      "order": 18,
+      "transfers": [
+        "JR Nambu Line(Kawasaki-Tachikawa)"
+      ]
+    },
+    {
+      "name": "Mukogaoka-yuen",
+      "japanese_name": "向ヶ丘遊園",
+      "station_id": "00002354",
+      "order": 19,
+      "transfers": []
+    },
+    {
+      "name": "Ikuta",
+      "japanese_name": "生田(神奈川県)",
+      "station_id": "00004682",
+      "order": 20,
+      "transfers": []
+    },
+    {
+      "name": "Yomiuri-Land-mae",
+      "japanese_name": "読売ランド前(小田急線)",
+      "station_id": "00006993",
+      "order": 21,
+      "transfers": []
+    },
+    {
+      "name": "Yurigaoka",
+      "japanese_name": "百合ヶ丘",
+      "station_id": "00007810",
+      "order": 22,
+      "transfers": []
+    },
+    {
+      "name": "Shin-Yurigaoka",
+      "japanese_name": "新百合ヶ丘",
+      "station_id": "00004355",
+      "order": 23,
+      "transfers": [
+        "Odakyu Tama Line"
+      ]
+    },
+    {
+      "name": "Kakio",
+      "japanese_name": "柿生",
+      "station_id": "00001201",
+      "order": 24,
+      "transfers": []
+    },
+    {
+      "name": "Tsurukawa",
+      "japanese_name": "鶴川",
+      "station_id": "00006394",
+      "order": 25,
+      "transfers": []
+    },
+    {
+      "name": "Tamagawagakuen-mae",
+      "japanese_name": "玉川学園前",
+      "station_id": "00001803",
+      "order": 26,
+      "transfers": []
+    },
+    {
+      "name": "Machida",
+      "japanese_name": "町田",
+      "station_id": "00006194",
+      "order": 27,
+      "transfers": [
+        "JR Yokohama Line"
+      ]
+    },
+    {
+      "name": "Sagami-Ono",
+      "japanese_name": "相模大野",
+      "station_id": "00005394",
+      "order": 28,
+      "transfers": [
+        "Odakyu Enoshima Line"
+      ]
+    },
+    {
+      "name": "Odakyu Sagamihara",
+      "japanese_name": "小田急相模原",
+      "station_id": "00003740",
+      "order": 29,
+      "transfers": []
+    },
+    {
+      "name": "Sobudai-mae",
+      "japanese_name": "相武台前",
+      "station_id": "00005388",
+      "order": 30,
+      "transfers": []
+    },
+    {
+      "name": "Zama",
+      "japanese_name": "座間",
+      "station_id": "00002813",
+      "order": 31,
+      "transfers": []
+    },
+    {
+      "name": "Ebina(Odakyu-Sotetsu)",
+      "japanese_name": "海老名(小田急・相鉄)",
+      "station_id": "00001174",
+      "order": 32,
+      "transfers": [
+        "Sotetsu Main Line"
+      ]
+    },
+    {
+      "name": "Atsugi",
+      "japanese_name": "厚木",
+      "station_id": "00002350",
+      "order": 33,
+      "transfers": [
+        "JR Sagami Line"
+      ]
+    },
+    {
+      "name": "Hon-Atsugi",
+      "japanese_name": "本厚木",
+      "station_id": "00008462",
+      "order": 34,
+      "transfers": []
+    },
+    {
+      "name": "Aiko-Ishida",
+      "japanese_name": "愛甲石田",
+      "station_id": "00000189",
+      "order": 35,
+      "transfers": []
+    },
+    {
+      "name": "Isehara",
+      "japanese_name": "伊勢原",
+      "station_id": "00000321",
+      "order": 36,
+      "transfers": []
+    },
+    {
+      "name": "Tsurumaki-onsen",
+      "japanese_name": "鶴巻温泉",
+      "station_id": "00006380",
+      "order": 37,
+      "transfers": []
+    },
+    {
+      "name": "Tokaidaigaku-mae",
+      "japanese_name": "東海大学前",
+      "station_id": "00006653",
+      "order": 38,
+      "transfers": []
+    },
+    {
+      "name": "Hadano",
+      "japanese_name": "秦野",
+      "station_id": "00004482",
+      "order": 39,
+      "transfers": []
+    },
+    {
+      "name": "Shibusawa",
+      "japanese_name": "渋沢",
+      "station_id": "00003543",
+      "order": 40,
+      "transfers": [
+        "Odakyu Odawara Line(Shibusawa-Matsuda)"
+      ]
+    },
+    {
+      "name": "Shin-Matsuda",
+      "japanese_name": "新松田",
+      "station_id": "00004265",
+      "order": 41,
+      "transfers": []
+    },
+    {
+      "name": "Kaisei",
+      "japanese_name": "開成",
+      "station_id": "00001184",
+      "order": 42,
+      "transfers": []
+    },
+    {
+      "name": "Kayama",
+      "japanese_name": "栢山",
+      "station_id": "00001300",
+      "order": 43,
+      "transfers": []
+    },
+    {
+      "name": "Tomizu",
+      "japanese_name": "富水",
+      "station_id": "00007892",
+      "order": 44,
+      "transfers": []
+    },
+    {
+      "name": "Hotaruda",
+      "japanese_name": "螢田",
+      "station_id": "00002045",
+      "order": 45,
+      "transfers": []
+    },
+    {
+      "name": "Ashigara(Kanagawa)",
+      "japanese_name": "足柄(神奈川県)",
+      "station_id": "00005429",
+      "order": 46,
+      "transfers": []
+    },
+    {
+      "name": "Odawara",
+      "japanese_name": "小田原",
+      "station_id": "00003742",
+      "order": 47,
+      "transfers": [
+        "JR Tokaido Shinkansen",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "Izuhakone Railway Daiyuzan Line",
+        "Hakone Tozan Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Express",
+    "Limited Express",
+    "Rapid Express"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "820200a5",
+      "trainName": "Odakyu Odawara Line Local",
+      "destination": "Hon-Atsugi",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "04",
+      "type": "Local"
+    },
+    "Express": {
+      "trainId": "820200a7",
+      "trainName": "Odakyu Odawara Line Express",
+      "destination": "Karakida",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "12",
+      "type": "Express"
+    },
+    "Limited Express": {
+      "trainId": "820200a0",
+      "trainName": "Hakone 3 Go",
+      "destination": "Hakone-Yumoto",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Limited Express"
+    },
+    "Rapid Express": {
+      "trainId": "820200a2",
+      "trainName": "Odakyu Odawara Line Rapid Express",
+      "destination": "Odawara",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "01",
+      "type": "Rapid Express"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Odakyu Odawara Line",
+      "train_type": "Local",
+      "total_stops": 34,
+      "stops": [
+        {
+          "name": "Shinjuku",
+          "station_id": "00004254",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.699614,
+            "lat": 35.690636
+          }
+        },
+        {
+          "name": "Minami-Shinjuku",
+          "station_id": "00007111",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.698924,
+            "lat": 35.683729
+          }
+        },
+        {
+          "name": "Sangubashi",
+          "station_id": "00003089",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.693741,
+            "lat": 35.678804
+          }
+        },
+        {
+          "name": "Yoyogi-Hachiman",
+          "station_id": "00005509",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.688616,
+            "lat": 35.669569
+          }
+        },
+        {
+          "name": "Yoyogi Uehara",
+          "station_id": "00005508",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.679751,
+            "lat": 35.668994
+          }
+        },
+        {
+          "name": "Higashi-Kitazawa",
+          "station_id": "00006851",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.673033,
+            "lat": 35.665466
+          }
+        },
+        {
+          "name": "Shimo-Kitazawa",
+          "station_id": "00000997",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.666925,
+            "lat": 35.661227
+          }
+        },
+        {
+          "name": "Setagaya-Daita",
+          "station_id": "00004607",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.661176,
+            "lat": 35.658194
+          }
+        },
+        {
+          "name": "Umegaoka",
+          "station_id": "00007389",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.653267,
+            "lat": 35.655909
+          }
+        },
+        {
+          "name": "Gotokuji",
+          "station_id": "00002655",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.647171,
+            "lat": 35.653661
+          }
+        },
+        {
+          "name": "Kyodo",
+          "station_id": "00002041",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.636921,
+            "lat": 35.651338
+          }
+        },
+        {
+          "name": "Chitose-Funabashi",
+          "station_id": "00005137",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.623877,
+            "lat": 35.647401
+          }
+        },
+        {
+          "name": "Soshigaya-Okura",
+          "station_id": "00005339",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.60921,
+            "lat": 35.643113
+          }
+        },
+        {
+          "name": "Seijogakuen-mae",
+          "station_id": "00004633",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.599164,
+            "lat": 35.640158
+          }
+        },
+        {
+          "name": "Kitami",
+          "station_id": "00001455",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.587578,
+            "lat": 35.636716
+          }
+        },
+        {
+          "name": "Komae",
+          "station_id": "00002721",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.577524,
+            "lat": 35.632387
+          }
+        },
+        {
+          "name": "Izumi-Tamagawa",
+          "station_id": "00009114",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.573522,
+            "lat": 35.627198
+          }
+        },
+        {
+          "name": "Noborito",
+          "station_id": "00006541",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.569513,
+            "lat": 35.621092
+          }
+        },
+        {
+          "name": "Mukogaoka-yuen",
+          "station_id": "00002354",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.564731,
+            "lat": 35.617296
+          }
+        },
+        {
+          "name": "Ikuta",
+          "station_id": "00004682",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.542217,
+            "lat": 35.615009
+          }
+        },
+        {
+          "name": "Yomiuri-Land-mae",
+          "station_id": "00006993",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.527833,
+            "lat": 35.614769
+          }
+        },
+        {
+          "name": "Yurigaoka",
+          "station_id": "00007810",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.516152,
+            "lat": 35.609027
+          }
+        },
+        {
+          "name": "Shin-Yurigaoka",
+          "station_id": "00004355",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.507708,
+            "lat": 35.603822
+          }
+        },
+        {
+          "name": "Kakio",
+          "station_id": "00001201",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.497697,
+            "lat": 35.589749
+          }
+        },
+        {
+          "name": "Tsurukawa",
+          "station_id": "00006394",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.481444,
+            "lat": 35.58309
+          }
+        },
+        {
+          "name": "Tamagawagakuen-mae",
+          "station_id": "00001803",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.463509,
+            "lat": 35.563456
+          }
+        },
+        {
+          "name": "Machida",
+          "station_id": "00006194",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.445186,
+            "lat": 35.544015
+          }
+        },
+        {
+          "name": "Sagami-Ono",
+          "station_id": "00005394",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.43746,
+            "lat": 35.531646
+          }
+        },
+        {
+          "name": "Odakyu Sagamihara",
+          "station_id": "00003740",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.422657,
+            "lat": 35.515171
+          }
+        },
+        {
+          "name": "Sobudai-mae",
+          "station_id": "00005388",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.408366,
+            "lat": 35.49908
+          }
+        },
+        {
+          "name": "Zama",
+          "station_id": "00002813",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.399932,
+            "lat": 35.480621
+          }
+        },
+        {
+          "name": "Ebina(Odakyu-Sotetsu)",
+          "station_id": "00001174",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.391095,
+            "lat": 35.452718
+          }
+        },
+        {
+          "name": "Atsugi",
+          "station_id": "00002350",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.377981,
+            "lat": 35.443037
+          }
+        },
+        {
+          "name": "Hon-Atsugi",
+          "station_id": "00008462",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.36433,
+            "lat": 35.439334
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shinjuku",
+          "from_id": "00004254",
+          "to": "Minami-Shinjuku",
+          "to_id": "00007111",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Minami-Shinjuku",
+          "from_id": "00007111",
+          "to": "Sangubashi",
+          "to_id": "00003089",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Sangubashi",
+          "from_id": "00003089",
+          "to": "Yoyogi-Hachiman",
+          "to_id": "00005509",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yoyogi-Hachiman",
+          "from_id": "00005509",
+          "to": "Yoyogi Uehara",
+          "to_id": "00005508",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yoyogi Uehara",
+          "from_id": "00005508",
+          "to": "Higashi-Kitazawa",
+          "to_id": "00006851",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Higashi-Kitazawa",
+          "from_id": "00006851",
+          "to": "Shimo-Kitazawa",
+          "to_id": "00000997",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shimo-Kitazawa",
+          "from_id": "00000997",
+          "to": "Setagaya-Daita",
+          "to_id": "00004607",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Setagaya-Daita",
+          "from_id": "00004607",
+          "to": "Umegaoka",
+          "to_id": "00007389",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Umegaoka",
+          "from_id": "00007389",
+          "to": "Gotokuji",
+          "to_id": "00002655",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Gotokuji",
+          "from_id": "00002655",
+          "to": "Kyodo",
+          "to_id": "00002041",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kyodo",
+          "from_id": "00002041",
+          "to": "Chitose-Funabashi",
+          "to_id": "00005137",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Chitose-Funabashi",
+          "from_id": "00005137",
+          "to": "Soshigaya-Okura",
+          "to_id": "00005339",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Soshigaya-Okura",
+          "from_id": "00005339",
+          "to": "Seijogakuen-mae",
+          "to_id": "00004633",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Seijogakuen-mae",
+          "from_id": "00004633",
+          "to": "Kitami",
+          "to_id": "00001455",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kitami",
+          "from_id": "00001455",
+          "to": "Komae",
+          "to_id": "00002721",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Komae",
+          "from_id": "00002721",
+          "to": "Izumi-Tamagawa",
+          "to_id": "00009114",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Izumi-Tamagawa",
+          "from_id": "00009114",
+          "to": "Noborito",
+          "to_id": "00006541",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Noborito",
+          "from_id": "00006541",
+          "to": "Mukogaoka-yuen",
+          "to_id": "00002354",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Mukogaoka-yuen",
+          "from_id": "00002354",
+          "to": "Ikuta",
+          "to_id": "00004682",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ikuta",
+          "from_id": "00004682",
+          "to": "Yomiuri-Land-mae",
+          "to_id": "00006993",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yomiuri-Land-mae",
+          "from_id": "00006993",
+          "to": "Yurigaoka",
+          "to_id": "00007810",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yurigaoka",
+          "from_id": "00007810",
+          "to": "Shin-Yurigaoka",
+          "to_id": "00004355",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-Yurigaoka",
+          "from_id": "00004355",
+          "to": "Kakio",
+          "to_id": "00001201",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kakio",
+          "from_id": "00001201",
+          "to": "Tsurukawa",
+          "to_id": "00006394",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tsurukawa",
+          "from_id": "00006394",
+          "to": "Tamagawagakuen-mae",
+          "to_id": "00001803",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tamagawagakuen-mae",
+          "from_id": "00001803",
+          "to": "Machida",
+          "to_id": "00006194",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Machida",
+          "from_id": "00006194",
+          "to": "Sagami-Ono",
+          "to_id": "00005394",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Sagami-Ono",
+          "from_id": "00005394",
+          "to": "Odakyu Sagamihara",
+          "to_id": "00003740",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Odakyu Sagamihara",
+          "from_id": "00003740",
+          "to": "Sobudai-mae",
+          "to_id": "00005388",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Sobudai-mae",
+          "from_id": "00005388",
+          "to": "Zama",
+          "to_id": "00002813",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Zama",
+          "from_id": "00002813",
+          "to": "Ebina(Odakyu-Sotetsu)",
+          "to_id": "00001174",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Ebina(Odakyu-Sotetsu)",
+          "from_id": "00001174",
+          "to": "Atsugi",
+          "to_id": "00002350",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Atsugi",
+          "from_id": "00002350",
+          "to": "Hon-Atsugi",
+          "to_id": "00008462",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Express": {
+      "line": "Odakyu Odawara Line",
+      "train_type": "Express",
+      "total_stops": 8,
+      "stops": [
+        {
+          "name": "Shinjuku",
+          "station_id": "00004254",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.699614,
+            "lat": 35.690636
+          }
+        },
+        {
+          "name": "Yoyogi Uehara",
+          "station_id": "00005508",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.679751,
+            "lat": 35.668994
+          }
+        },
+        {
+          "name": "Shimo-Kitazawa",
+          "station_id": "00000997",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.666925,
+            "lat": 35.661227
+          }
+        },
+        {
+          "name": "Kyodo",
+          "station_id": "00002041",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.636921,
+            "lat": 35.651338
+          }
+        },
+        {
+          "name": "Seijogakuen-mae",
+          "station_id": "00004633",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.599164,
+            "lat": 35.640158
+          }
+        },
+        {
+          "name": "Noborito",
+          "station_id": "00006541",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.569513,
+            "lat": 35.621092
+          }
+        },
+        {
+          "name": "Mukogaoka-yuen",
+          "station_id": "00002354",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.564731,
+            "lat": 35.617296
+          }
+        },
+        {
+          "name": "Shin-Yurigaoka",
+          "station_id": "00004355",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.507708,
+            "lat": 35.603822
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shinjuku",
+          "from_id": "00004254",
+          "to": "Yoyogi Uehara",
+          "to_id": "00005508",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Yoyogi Uehara",
+          "from_id": "00005508",
+          "to": "Shimo-Kitazawa",
+          "to_id": "00000997",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shimo-Kitazawa",
+          "from_id": "00000997",
+          "to": "Kyodo",
+          "to_id": "00002041",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kyodo",
+          "from_id": "00002041",
+          "to": "Seijogakuen-mae",
+          "to_id": "00004633",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Seijogakuen-mae",
+          "from_id": "00004633",
+          "to": "Noborito",
+          "to_id": "00006541",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Noborito",
+          "from_id": "00006541",
+          "to": "Mukogaoka-yuen",
+          "to_id": "00002354",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Mukogaoka-yuen",
+          "from_id": "00002354",
+          "to": "Shin-Yurigaoka",
+          "to_id": "00004355",
+          "travel_time_minutes": 6
+        }
+      ]
+    },
+    "Limited Express": {
+      "line": "Odakyu Odawara Line",
+      "train_type": "Limited Express",
+      "total_stops": 5,
+      "stops": [
+        {
+          "name": "Shinjuku",
+          "station_id": "00004254",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.699614,
+            "lat": 35.690636
+          }
+        },
+        {
+          "name": "Machida",
+          "station_id": "00006194",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.445186,
+            "lat": 35.544015
+          }
+        },
+        {
+          "name": "Ebina(Odakyu-Sotetsu)",
+          "station_id": "00001174",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.391095,
+            "lat": 35.452718
+          }
+        },
+        {
+          "name": "Isehara",
+          "station_id": "00000321",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.313519,
+            "lat": 35.395964
+          }
+        },
+        {
+          "name": "Odawara",
+          "station_id": "00003742",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.155367,
+            "lat": 35.256344
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shinjuku",
+          "from_id": "00004254",
+          "to": "Machida",
+          "to_id": "00006194",
+          "travel_time_minutes": 29
+        },
+        {
+          "from": "Machida",
+          "from_id": "00006194",
+          "to": "Ebina(Odakyu-Sotetsu)",
+          "to_id": "00001174",
+          "travel_time_minutes": 9
+        },
+        {
+          "from": "Ebina(Odakyu-Sotetsu)",
+          "from_id": "00001174",
+          "to": "Isehara",
+          "to_id": "00000321",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Isehara",
+          "from_id": "00000321",
+          "to": "Odawara",
+          "to_id": "00003742",
+          "travel_time_minutes": 24
+        }
+      ]
+    },
+    "Rapid Express": {
+      "line": "Odakyu Odawara Line",
+      "train_type": "Rapid Express",
+      "total_stops": 18,
+      "stops": [
+        {
+          "name": "Shinjuku",
+          "station_id": "00004254",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.699614,
+            "lat": 35.690636
+          }
+        },
+        {
+          "name": "Yoyogi Uehara",
+          "station_id": "00005508",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.679751,
+            "lat": 35.668994
+          }
+        },
+        {
+          "name": "Shimo-Kitazawa",
+          "station_id": "00000997",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.666925,
+            "lat": 35.661227
+          }
+        },
+        {
+          "name": "Noborito",
+          "station_id": "00006541",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.569513,
+            "lat": 35.621092
+          }
+        },
+        {
+          "name": "Shin-Yurigaoka",
+          "station_id": "00004355",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.507708,
+            "lat": 35.603822
+          }
+        },
+        {
+          "name": "Machida",
+          "station_id": "00006194",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.445186,
+            "lat": 35.544015
+          }
+        },
+        {
+          "name": "Sagami-Ono",
+          "station_id": "00005394",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.43746,
+            "lat": 35.531646
+          }
+        },
+        {
+          "name": "Ebina(Odakyu-Sotetsu)",
+          "station_id": "00001174",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.391095,
+            "lat": 35.452718
+          }
+        },
+        {
+          "name": "Hon-Atsugi",
+          "station_id": "00008462",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.36433,
+            "lat": 35.439334
+          }
+        },
+        {
+          "name": "Aiko-Ishida",
+          "station_id": "00000189",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.343962,
+            "lat": 35.417624
+          }
+        },
+        {
+          "name": "Isehara",
+          "station_id": "00000321",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.313519,
+            "lat": 35.395964
+          }
+        },
+        {
+          "name": "Tsurumaki-onsen",
+          "station_id": "00006380",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.277644,
+            "lat": 35.38084
+          }
+        },
+        {
+          "name": "Tokaidaigaku-mae",
+          "station_id": "00006653",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.271302,
+            "lat": 35.373178
+          }
+        },
+        {
+          "name": "Hadano",
+          "station_id": "00004482",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.225816,
+            "lat": 35.370246
+          }
+        },
+        {
+          "name": "Shibusawa",
+          "station_id": "00003543",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.184549,
+            "lat": 35.374155
+          }
+        },
+        {
+          "name": "Shin-Matsuda",
+          "station_id": "00004265",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.139688,
+            "lat": 35.344754
+          }
+        },
+        {
+          "name": "Kaisei",
+          "station_id": "00001184",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.13596,
+            "lat": 35.326341
+          }
+        },
+        {
+          "name": "Odawara",
+          "station_id": "00003742",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.155367,
+            "lat": 35.256344
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shinjuku",
+          "from_id": "00004254",
+          "to": "Yoyogi Uehara",
+          "to_id": "00005508",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Yoyogi Uehara",
+          "from_id": "00005508",
+          "to": "Shimo-Kitazawa",
+          "to_id": "00000997",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shimo-Kitazawa",
+          "from_id": "00000997",
+          "to": "Noborito",
+          "to_id": "00006541",
+          "travel_time_minutes": 9
+        },
+        {
+          "from": "Noborito",
+          "from_id": "00006541",
+          "to": "Shin-Yurigaoka",
+          "to_id": "00004355",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Shin-Yurigaoka",
+          "from_id": "00004355",
+          "to": "Machida",
+          "to_id": "00006194",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Machida",
+          "from_id": "00006194",
+          "to": "Sagami-Ono",
+          "to_id": "00005394",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Sagami-Ono",
+          "from_id": "00005394",
+          "to": "Ebina(Odakyu-Sotetsu)",
+          "to_id": "00001174",
+          "travel_time_minutes": 8
+        },
+        {
+          "from": "Ebina(Odakyu-Sotetsu)",
+          "from_id": "00001174",
+          "to": "Hon-Atsugi",
+          "to_id": "00008462",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Hon-Atsugi",
+          "from_id": "00008462",
+          "to": "Aiko-Ishida",
+          "to_id": "00000189",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Aiko-Ishida",
+          "from_id": "00000189",
+          "to": "Isehara",
+          "to_id": "00000321",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Isehara",
+          "from_id": "00000321",
+          "to": "Tsurumaki-onsen",
+          "to_id": "00006380",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Tsurumaki-onsen",
+          "from_id": "00006380",
+          "to": "Tokaidaigaku-mae",
+          "to_id": "00006653",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tokaidaigaku-mae",
+          "from_id": "00006653",
+          "to": "Hadano",
+          "to_id": "00004482",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Hadano",
+          "from_id": "00004482",
+          "to": "Shibusawa",
+          "to_id": "00003543",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Shibusawa",
+          "from_id": "00003543",
+          "to": "Shin-Matsuda",
+          "to_id": "00004265",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Shin-Matsuda",
+          "from_id": "00004265",
+          "to": "Kaisei",
+          "to_id": "00001184",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kaisei",
+          "from_id": "00001184",
+          "to": "Odawara",
+          "to_id": "00003742",
+          "travel_time_minutes": 8
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:54:05.978Z"
+}

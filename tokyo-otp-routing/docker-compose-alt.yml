@@ -1,0 +1,20 @@
+services:
+  otp:
+    # Using specific version instead of latest
+    image: opentripplanner/opentripplanner:2.5.0
+    container_name: tokyo-otp
+    ports:
+      - "8080:8080"  # OTP API
+      - "8081:8081"  # OTP Web UI
+    volumes:
+      - ./data:/var/opentripplanner
+      - ./otp-config.json:/var/opentripplanner/otp-config.json
+    command: --build --serve
+    environment:
+      - JAVA_OPTS=-Xmx4G
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/otp/actuators/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3

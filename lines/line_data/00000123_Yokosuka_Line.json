@@ -1,0 +1,494 @@
+{
+  "line": "Yokosuka Line",
+  "operator": "JR East",
+  "navitime_id": "00000123",
+  "first_station_id": "00006668",
+  "stations": [
+    {
+      "name": "Tokyo",
+      "japanese_name": "東京",
+      "station_id": "00006668",
+      "order": 1,
+      "transfers": [
+        "JR Tokaido Shinkansen",
+        "JR Keihintohoku Line",
+        "JR Keiyo Line",
+        "JR Yamanote Line",
+        "JR Joetsu Shinkansen",
+        "JR Sobu Main Line(Tokyo-Choshi)",
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "JR Hokuriku Shinkansen(via Nagano)",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "JR Tohoku Shinkansen",
+        "JR Utsunomiya Line[Tohoku Main Line]‧JR Ueno Tokyo Line",
+        "Tokyo Metro Marunouchi Line"
+      ]
+    },
+    {
+      "name": "Shimbashi",
+      "japanese_name": "新橋",
+      "station_id": "00004212",
+      "order": 2,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Yamanote Line",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "Yurikamome",
+        "Tokyo Metro Ginza Line",
+        "Toei Asakusa Line"
+      ]
+    },
+    {
+      "name": "Shinagawa",
+      "japanese_name": "品川",
+      "station_id": "00007825",
+      "order": 3,
+      "transfers": [
+        "JR Tokaido Shinkansen",
+        "JR Keihintohoku Line",
+        "JR Yamanote Line",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "Keikyu Main Line"
+      ]
+    },
+    {
+      "name": "Nishi-Oi",
+      "japanese_name": "西大井",
+      "station_id": "00004848",
+      "order": 4,
+      "transfers": [
+        "JR Shonan-Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Musashi-Kosugi",
+      "japanese_name": "武蔵小杉",
+      "station_id": "00007965",
+      "order": 5,
+      "transfers": [
+        "JR Nambu Line(Kawasaki-Tachikawa)",
+        "Tokyu Toyoko Line",
+        "Tokyu Meguro Line"
+      ]
+    },
+    {
+      "name": "Shin-Kawasaki",
+      "japanese_name": "新川崎",
+      "station_id": "00004293",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Yokohama",
+      "japanese_name": "横浜",
+      "station_id": "00000838",
+      "order": 7,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Negishi Line",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "Yokohama City Subway Blue Line",
+        "Keikyu Main Line",
+        "Sotetsu Main Line",
+        "Tokyu Toyoko Line",
+        "Yokohamakosoku Railway Minatomirai Line"
+      ]
+    },
+    {
+      "name": "Hodogaya",
+      "japanese_name": "保土ヶ谷",
+      "station_id": "00008163",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-Totsuka",
+      "japanese_name": "東戸塚",
+      "station_id": "00006683",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Totsuka",
+      "japanese_name": "戸塚",
+      "station_id": "00002195",
+      "order": 10,
+      "transfers": [
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "Yokohama City Subway Blue Line"
+      ]
+    },
+    {
+      "name": "Ofuna",
+      "japanese_name": "大船",
+      "station_id": "00005672",
+      "order": 11,
+      "transfers": [
+        "JR Negishi Line",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "Shonan Monorail"
+      ]
+    },
+    {
+      "name": "Kita-Kamakura",
+      "japanese_name": "北鎌倉",
+      "station_id": "00008288",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Kamakura",
+      "japanese_name": "鎌倉",
+      "station_id": "00001289",
+      "order": 13,
+      "transfers": [
+        "Enoshima Electric Railway"
+      ]
+    },
+    {
+      "name": "Zushi",
+      "japanese_name": "逗子",
+      "station_id": "00004534",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-Zushi",
+      "japanese_name": "東逗子",
+      "station_id": "00006746",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Taura",
+      "japanese_name": "田浦",
+      "station_id": "00006458",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Yokosuka",
+      "japanese_name": "横須賀",
+      "station_id": "00000826",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Kinugasa",
+      "japanese_name": "衣笠",
+      "station_id": "00000410",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Kurihama",
+      "japanese_name": "久里浜",
+      "station_id": "00001627",
+      "order": 19,
+      "transfers": []
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Limited Express"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "806d016f",
+      "trainName": "JR Yokosuka Line",
+      "destination": "Zushi",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "04",
+      "type": "Local"
+    },
+    "Limited Express": {
+      "trainId": "806d00fc",
+      "trainName": "Narita Express 8 Go",
+      "destination": "Shinjuku",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "19",
+      "type": "Limited Express"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Yokosuka Line",
+      "train_type": "Local",
+      "total_stops": 14,
+      "stops": [
+        {
+          "name": "Tokyo",
+          "station_id": "00006668",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.767106,
+            "lat": 35.681041
+          }
+        },
+        {
+          "name": "Shimbashi",
+          "station_id": "00004212",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.758177,
+            "lat": 35.666536
+          }
+        },
+        {
+          "name": "Shinagawa",
+          "station_id": "00007825",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.73903,
+            "lat": 35.628431
+          }
+        },
+        {
+          "name": "Nishi-Oi",
+          "station_id": "00004848",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.721823,
+            "lat": 35.601777
+          }
+        },
+        {
+          "name": "Musashi-Kosugi",
+          "station_id": "00007965",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.663336,
+            "lat": 35.574819
+          }
+        },
+        {
+          "name": "Shin-Kawasaki",
+          "station_id": "00004293",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.671834,
+            "lat": 35.55146
+          }
+        },
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.622249,
+            "lat": 35.465767
+          }
+        },
+        {
+          "name": "Hodogaya",
+          "station_id": "00008163",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.599643,
+            "lat": 35.446623
+          }
+        },
+        {
+          "name": "Higashi-Totsuka",
+          "station_id": "00006683",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.556758,
+            "lat": 35.430322
+          }
+        },
+        {
+          "name": "Totsuka",
+          "station_id": "00002195",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.53421,
+            "lat": 35.400764
+          }
+        },
+        {
+          "name": "Ofuna",
+          "station_id": "00005672",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.531277,
+            "lat": 35.353868
+          }
+        },
+        {
+          "name": "Kita-Kamakura",
+          "station_id": "00008288",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.545151,
+            "lat": 35.33719
+          }
+        },
+        {
+          "name": "Kamakura",
+          "station_id": "00001289",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.550422,
+            "lat": 35.318934
+          }
+        },
+        {
+          "name": "Zushi",
+          "station_id": "00004534",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.579613,
+            "lat": 35.297506
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Tokyo",
+          "from_id": "00006668",
+          "to": "Shimbashi",
+          "to_id": "00004212",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shimbashi",
+          "from_id": "00004212",
+          "to": "Shinagawa",
+          "to_id": "00007825",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Shinagawa",
+          "from_id": "00007825",
+          "to": "Nishi-Oi",
+          "to_id": "00004848",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Nishi-Oi",
+          "from_id": "00004848",
+          "to": "Musashi-Kosugi",
+          "to_id": "00007965",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Musashi-Kosugi",
+          "from_id": "00007965",
+          "to": "Shin-Kawasaki",
+          "to_id": "00004293",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Shin-Kawasaki",
+          "from_id": "00004293",
+          "to": "Yokohama",
+          "to_id": "00000838",
+          "travel_time_minutes": 9
+        },
+        {
+          "from": "Yokohama",
+          "from_id": "00000838",
+          "to": "Hodogaya",
+          "to_id": "00008163",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Hodogaya",
+          "from_id": "00008163",
+          "to": "Higashi-Totsuka",
+          "to_id": "00006683",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Higashi-Totsuka",
+          "from_id": "00006683",
+          "to": "Totsuka",
+          "to_id": "00002195",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Totsuka",
+          "from_id": "00002195",
+          "to": "Ofuna",
+          "to_id": "00005672",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Ofuna",
+          "from_id": "00005672",
+          "to": "Kita-Kamakura",
+          "to_id": "00008288",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kita-Kamakura",
+          "from_id": "00008288",
+          "to": "Kamakura",
+          "to_id": "00001289",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kamakura",
+          "from_id": "00001289",
+          "to": "Zushi",
+          "to_id": "00004534",
+          "travel_time_minutes": 5
+        }
+      ]
+    },
+    "Limited Express": {
+      "line": "Yokosuka Line",
+      "train_type": "Limited Express",
+      "total_stops": 2,
+      "stops": [
+        {
+          "name": "Tokyo",
+          "station_id": "00006668",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.767106,
+            "lat": 35.681041
+          }
+        },
+        {
+          "name": "Shinagawa",
+          "station_id": "00007825",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.73903,
+            "lat": 35.628431
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Tokyo",
+          "from_id": "00006668",
+          "to": "Shinagawa",
+          "to_id": "00007825",
+          "travel_time_minutes": 6
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:51:20.928Z"
+}

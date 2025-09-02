@@ -1,0 +1,716 @@
+{
+  "line": "Utsunomiya Line",
+  "operator": "JR East",
+  "navitime_id": "00000188",
+  "first_station_id": "00006668",
+  "stations": [
+    {
+      "name": "Tokyo",
+      "japanese_name": "東京",
+      "station_id": "00006668",
+      "order": 1,
+      "transfers": [
+        "JR Tokaido Shinkansen",
+        "JR Yokosuka Line",
+        "JR Keihintohoku Line",
+        "JR Keiyo Line",
+        "JR Yamanote Line",
+        "JR Joetsu Shinkansen",
+        "JR Sobu Main Line(Tokyo-Choshi)",
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "JR Hokuriku Shinkansen(via Nagano)",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "JR Tohoku Shinkansen",
+        "Tokyo Metro Marunouchi Line"
+      ]
+    },
+    {
+      "name": "Ueno",
+      "japanese_name": "上野",
+      "station_id": "00004067",
+      "order": 2,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Yamanote Line",
+        "JR Joetsu Shinkansen",
+        "JR Joban Line",
+        "JR Hokuriku Shinkansen(via Nagano)",
+        "JR Tohoku Shinkansen",
+        "Tokyo Metro Ginza Line",
+        "Tokyo Metro Hibiya Line"
+      ]
+    },
+    {
+      "name": "Oku",
+      "japanese_name": "尾久",
+      "station_id": "00007725",
+      "order": 3,
+      "transfers": []
+    },
+    {
+      "name": "Akabane",
+      "japanese_name": "赤羽",
+      "station_id": "00005069",
+      "order": 4,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Saikyo Line",
+        "JR Shonan-Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Urawa",
+      "japanese_name": "浦和",
+      "station_id": "00000634",
+      "order": 5,
+      "transfers": [
+        "JR Keihintohoku Line"
+      ]
+    },
+    {
+      "name": "Saitama-Shintoshin",
+      "japanese_name": "さいたま新都心",
+      "station_id": "00000058",
+      "order": 6,
+      "transfers": [
+        "JR Keihintohoku Line"
+      ]
+    },
+    {
+      "name": "Omiya (Saitama)",
+      "japanese_name": "大宮(埼玉県)",
+      "station_id": "00005564",
+      "order": 7,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Takasaki Line",
+        "JR Saikyo Line",
+        "JR Joetsu Shinkansen",
+        "JR Kawagoe Line",
+        "JR Hokuriku Shinkansen(via Nagano)",
+        "JR Tohoku Shinkansen",
+        "Saitama New Urban Transit New Shuttle",
+        "Tobu Noda Line (Urban Park Line)",
+        "JR Musashino Line(Omiya)"
+      ]
+    },
+    {
+      "name": "Toro",
+      "japanese_name": "土呂",
+      "station_id": "00006599",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Higashiomiya",
+      "japanese_name": "東大宮",
+      "station_id": "00006776",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Hasuda",
+      "japanese_name": "蓮田",
+      "station_id": "00009071",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Shiraoka",
+      "japanese_name": "白岡",
+      "station_id": "00007441",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Shin-shiraoka",
+      "japanese_name": "新白岡",
+      "station_id": "00004346",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Kuki",
+      "japanese_name": "久喜",
+      "station_id": "00001598",
+      "order": 13,
+      "transfers": [
+        "Tobu Isesaki Line (SKYTREE Line)"
+      ]
+    },
+    {
+      "name": "Higashiwashinomiya",
+      "japanese_name": "東鷲宮",
+      "station_id": "00006871",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Kurihashi",
+      "japanese_name": "栗橋",
+      "station_id": "00001978",
+      "order": 15,
+      "transfers": [
+        "Tobu Nikko Line"
+      ]
+    },
+    {
+      "name": "Koga",
+      "japanese_name": "古河",
+      "station_id": "00002147",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Nogi",
+      "japanese_name": "野木",
+      "station_id": "00008746",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Mamada",
+      "japanese_name": "間々田",
+      "station_id": "00001338",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Oyama",
+      "japanese_name": "小山",
+      "station_id": "00003687",
+      "order": 19,
+      "transfers": [
+        "JR Mito Line",
+        "JR Tohoku Shinkansen",
+        "JR Ryomo Line"
+      ]
+    },
+    {
+      "name": "Koganei",
+      "japanese_name": "小金井",
+      "station_id": "00003665",
+      "order": 20,
+      "transfers": []
+    },
+    {
+      "name": "Jichiidai",
+      "japanese_name": "自治医大",
+      "station_id": "00003327",
+      "order": 21,
+      "transfers": []
+    },
+    {
+      "name": "Ishibashi(Tochigi)",
+      "japanese_name": "石橋(栃木県)",
+      "station_id": "00005014",
+      "order": 22,
+      "transfers": []
+    },
+    {
+      "name": "Suzumenomiya",
+      "japanese_name": "雀宮",
+      "station_id": "00004600",
+      "order": 23,
+      "transfers": []
+    },
+    {
+      "name": "Utsunomiya",
+      "japanese_name": "宇都宮",
+      "station_id": "00000522",
+      "order": 24,
+      "transfers": [
+        "JR Tohoku Shinkansen",
+        "JR Nikkou Line"
+      ]
+    },
+    {
+      "name": "Okamoto(Tochigi)",
+      "japanese_name": "岡本(栃木県)",
+      "station_id": "00000872",
+      "order": 25,
+      "transfers": []
+    },
+    {
+      "name": "Hoshakuji",
+      "japanese_name": "宝積寺",
+      "station_id": "00008175",
+      "order": 26,
+      "transfers": [
+        "JR Karasuyama Line"
+      ]
+    },
+    {
+      "name": "Ujiie",
+      "japanese_name": "氏家",
+      "station_id": "00003287",
+      "order": 27,
+      "transfers": []
+    },
+    {
+      "name": "Kamasusaka",
+      "japanese_name": "蒲須坂",
+      "station_id": "00001272",
+      "order": 28,
+      "transfers": []
+    },
+    {
+      "name": "Kataoka",
+      "japanese_name": "片岡",
+      "station_id": "00008142",
+      "order": 29,
+      "transfers": []
+    },
+    {
+      "name": "Yaita",
+      "japanese_name": "矢板",
+      "station_id": "00008784",
+      "order": 30,
+      "transfers": []
+    },
+    {
+      "name": "Nozaki(Tochigi)",
+      "japanese_name": "野崎(栃木県)",
+      "station_id": "00008716",
+      "order": 31,
+      "transfers": []
+    },
+    {
+      "name": "Nishinasuno",
+      "japanese_name": "西那須野",
+      "station_id": "00004903",
+      "order": 32,
+      "transfers": []
+    },
+    {
+      "name": "Nasushiobara",
+      "japanese_name": "那須塩原",
+      "station_id": "00007009",
+      "order": 33,
+      "transfers": [
+        "JR Tohoku Shinkansen"
+      ]
+    },
+    {
+      "name": "Kuroiso",
+      "japanese_name": "黒磯",
+      "station_id": "00002689",
+      "order": 34,
+      "transfers": [
+        "JR Tohoku Main Line(Kuroiso-Morioka)"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Rapid",
+    "Limited Express",
+    "Special Rapid"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "80a600aa",
+      "trainName": "JR Joban Line Ueno Tokyo Line",
+      "destination": "Tsuchiura",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "01",
+      "type": "Local"
+    },
+    "Rapid": {
+      "trainId": "80a60212",
+      "trainName": "JR Utsunomiya Line[Tohoku Line]Rapid(Rabbit)",
+      "destination": "Utsunomiya",
+      "hour": 6,
+      "date": "2025-07-11",
+      "time": "41",
+      "type": "Rapid"
+    },
+    "Limited Express": {
+      "trainId": "80a60069",
+      "trainName": "Tokiwa 57 Go",
+      "destination": "Katsuta",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "23",
+      "type": "Limited Express"
+    },
+    "Special Rapid": {
+      "trainId": "80a600bb",
+      "trainName": "JR Joban Line Ueno Tokyo Line Special Rapid",
+      "destination": "Tsuchiura",
+      "hour": 15,
+      "date": "2025-07-11",
+      "time": "05",
+      "type": "Special Rapid"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Utsunomiya Line",
+      "train_type": "Local",
+      "total_stops": 2,
+      "stops": [
+        {
+          "name": "Tokyo",
+          "station_id": "00006668",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.767106,
+            "lat": 35.681041
+          }
+        },
+        {
+          "name": "Ueno",
+          "station_id": "00004067",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.777336,
+            "lat": 35.713654
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Tokyo",
+          "from_id": "00006668",
+          "to": "Ueno",
+          "to_id": "00004067",
+          "travel_time_minutes": 5
+        }
+      ]
+    },
+    "Rapid": {
+      "line": "Utsunomiya Line",
+      "train_type": "Rapid",
+      "total_stops": 15,
+      "stops": [
+        {
+          "name": "Tokyo",
+          "station_id": "00006668",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.767106,
+            "lat": 35.681041
+          }
+        },
+        {
+          "name": "Ueno",
+          "station_id": "00004067",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.776703,
+            "lat": 35.713365
+          }
+        },
+        {
+          "name": "Akabane",
+          "station_id": "00005069",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.720649,
+            "lat": 35.778199
+          }
+        },
+        {
+          "name": "Urawa",
+          "station_id": "00000634",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.657399,
+            "lat": 35.858664
+          }
+        },
+        {
+          "name": "Omiya (Saitama)",
+          "station_id": "00005564",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.623602,
+            "lat": 35.906266
+          }
+        },
+        {
+          "name": "Higashiomiya",
+          "station_id": "00006776",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.640288,
+            "lat": 35.948771
+          }
+        },
+        {
+          "name": "Hasuda",
+          "station_id": "00009071",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.652915,
+            "lat": 35.981366
+          }
+        },
+        {
+          "name": "Kuki",
+          "station_id": "00001598",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.67745,
+            "lat": 36.065627
+          }
+        },
+        {
+          "name": "Koga",
+          "station_id": "00002147",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.709572,
+            "lat": 36.194722
+          }
+        },
+        {
+          "name": "Oyama",
+          "station_id": "00003687",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.806449,
+            "lat": 36.313145
+          }
+        },
+        {
+          "name": "Koganei",
+          "station_id": "00003665",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.842145,
+            "lat": 36.37442
+          }
+        },
+        {
+          "name": "Jichiidai",
+          "station_id": "00003327",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.854469,
+            "lat": 36.395188
+          }
+        },
+        {
+          "name": "Ishibashi(Tochigi)",
+          "station_id": "00005014",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.866602,
+            "lat": 36.436469
+          }
+        },
+        {
+          "name": "Suzumenomiya",
+          "station_id": "00004600",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.876934,
+            "lat": 36.493898
+          }
+        },
+        {
+          "name": "Utsunomiya",
+          "station_id": "00000522",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.898357,
+            "lat": 36.559056
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Tokyo",
+          "from_id": "00006668",
+          "to": "Ueno",
+          "to_id": "00004067",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Ueno",
+          "from_id": "00004067",
+          "to": "Akabane",
+          "to_id": "00005069",
+          "travel_time_minutes": 9
+        },
+        {
+          "from": "Akabane",
+          "from_id": "00005069",
+          "to": "Urawa",
+          "to_id": "00000634",
+          "travel_time_minutes": 8
+        },
+        {
+          "from": "Urawa",
+          "from_id": "00000634",
+          "to": "Omiya (Saitama)",
+          "to_id": "00005564",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Omiya (Saitama)",
+          "from_id": "00005564",
+          "to": "Higashiomiya",
+          "to_id": "00006776",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Higashiomiya",
+          "from_id": "00006776",
+          "to": "Hasuda",
+          "to_id": "00009071",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Hasuda",
+          "from_id": "00009071",
+          "to": "Kuki",
+          "to_id": "00001598",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Kuki",
+          "from_id": "00001598",
+          "to": "Koga",
+          "to_id": "00002147",
+          "travel_time_minutes": 12
+        },
+        {
+          "from": "Koga",
+          "from_id": "00002147",
+          "to": "Oyama",
+          "to_id": "00003687",
+          "travel_time_minutes": 11
+        },
+        {
+          "from": "Oyama",
+          "from_id": "00003687",
+          "to": "Koganei",
+          "to_id": "00003665",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Koganei",
+          "from_id": "00003665",
+          "to": "Jichiidai",
+          "to_id": "00003327",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Jichiidai",
+          "from_id": "00003327",
+          "to": "Ishibashi(Tochigi)",
+          "to_id": "00005014",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Ishibashi(Tochigi)",
+          "from_id": "00005014",
+          "to": "Suzumenomiya",
+          "to_id": "00004600",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Suzumenomiya",
+          "from_id": "00004600",
+          "to": "Utsunomiya",
+          "to_id": "00000522",
+          "travel_time_minutes": 6
+        }
+      ]
+    },
+    "Limited Express": {
+      "line": "Utsunomiya Line",
+      "train_type": "Limited Express",
+      "total_stops": 2,
+      "stops": [
+        {
+          "name": "Tokyo",
+          "station_id": "00006668",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.767106,
+            "lat": 35.681041
+          }
+        },
+        {
+          "name": "Ueno",
+          "station_id": "00004067",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.777336,
+            "lat": 35.713654
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Tokyo",
+          "from_id": "00006668",
+          "to": "Ueno",
+          "to_id": "00004067",
+          "travel_time_minutes": 5
+        }
+      ]
+    },
+    "Special Rapid": {
+      "line": "Utsunomiya Line",
+      "train_type": "Special Rapid",
+      "total_stops": 2,
+      "stops": [
+        {
+          "name": "Tokyo",
+          "station_id": "00006668",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.767106,
+            "lat": 35.681041
+          }
+        },
+        {
+          "name": "Ueno",
+          "station_id": "00004067",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.777336,
+            "lat": 35.713654
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Tokyo",
+          "from_id": "00006668",
+          "to": "Ueno",
+          "to_id": "00004067",
+          "travel_time_minutes": 5
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:52:42.518Z"
+}

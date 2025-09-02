@@ -1,0 +1,380 @@
+{
+  "line": "Negishi Line",
+  "operator": "JR East",
+  "navitime_id": "00000137",
+  "first_station_id": "00000838",
+  "stations": [
+    {
+      "name": "Yokohama",
+      "japanese_name": "横浜",
+      "station_id": "00000838",
+      "order": 1,
+      "transfers": [
+        "JR Yokosuka Line",
+        "JR Keihintohoku Line",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "Yokohama City Subway Blue Line",
+        "Keikyu Main Line",
+        "Sotetsu Main Line",
+        "Tokyu Toyoko Line",
+        "Yokohamakosoku Railway Minatomirai Line"
+      ]
+    },
+    {
+      "name": "Sakuragicho",
+      "japanese_name": "桜木町",
+      "station_id": "00002909",
+      "order": 2,
+      "transfers": [
+        "Yokohama City Subway Blue Line"
+      ]
+    },
+    {
+      "name": "Kannai",
+      "japanese_name": "関内",
+      "station_id": "00001358",
+      "order": 3,
+      "transfers": [
+        "Yokohama City Subway Blue Line"
+      ]
+    },
+    {
+      "name": "Ishikawacho",
+      "japanese_name": "石川町",
+      "station_id": "00005047",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Yamate",
+      "japanese_name": "山手",
+      "station_id": "00003116",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Negishi(Kanagawa)",
+      "japanese_name": "根岸(神奈川県)",
+      "station_id": "00002756",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Isogo",
+      "japanese_name": "磯子",
+      "station_id": "00000439",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Shin-Sugita",
+      "japanese_name": "新杉田",
+      "station_id": "00004274",
+      "order": 8,
+      "transfers": [
+        "Kanazawa Seaside Line"
+      ]
+    },
+    {
+      "name": "Yokodai",
+      "japanese_name": "洋光台",
+      "station_id": "00008888",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Konandai",
+      "japanese_name": "港南台",
+      "station_id": "00002452",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Hongodai",
+      "japanese_name": "本郷台",
+      "station_id": "00008458",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Ofuna",
+      "japanese_name": "大船",
+      "station_id": "00005672",
+      "order": 12,
+      "transfers": [
+        "JR Yokosuka Line",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "Shonan Monorail"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Rapid"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "807a00ca",
+      "trainName": "JR Keihintohoku Line-Negishi Line",
+      "destination": "Ofuna",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "02",
+      "type": "Local"
+    },
+    "Rapid": {
+      "trainId": "807a018b",
+      "trainName": "JR Keihintohoku Line-Negishi Line Rapid",
+      "destination": "Sakuragicho",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "22",
+      "type": "Rapid"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Negishi Line",
+      "train_type": "Local",
+      "total_stops": 12,
+      "stops": [
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.622249,
+            "lat": 35.465767
+          }
+        },
+        {
+          "name": "Sakuragicho",
+          "station_id": "00002909",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.630957,
+            "lat": 35.451007
+          }
+        },
+        {
+          "name": "Kannai",
+          "station_id": "00001358",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.63636,
+            "lat": 35.443821
+          }
+        },
+        {
+          "name": "Ishikawacho",
+          "station_id": "00005047",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.642937,
+            "lat": 35.438827
+          }
+        },
+        {
+          "name": "Yamate",
+          "station_id": "00003116",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.646218,
+            "lat": 35.427343
+          }
+        },
+        {
+          "name": "Negishi(Kanagawa)",
+          "station_id": "00002756",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.63505,
+            "lat": 35.415782
+          }
+        },
+        {
+          "name": "Isogo",
+          "station_id": "00000439",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.617934,
+            "lat": 35.399832
+          }
+        },
+        {
+          "name": "Shin-Sugita",
+          "station_id": "00004274",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.619619,
+            "lat": 35.386558
+          }
+        },
+        {
+          "name": "Yokodai",
+          "station_id": "00008888",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.596522,
+            "lat": 35.378684
+          }
+        },
+        {
+          "name": "Konandai",
+          "station_id": "00002452",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.5767,
+            "lat": 35.37527
+          }
+        },
+        {
+          "name": "Hongodai",
+          "station_id": "00008458",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.550255,
+            "lat": 35.367406
+          }
+        },
+        {
+          "name": "Ofuna",
+          "station_id": "00005672",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.531277,
+            "lat": 35.353868
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Yokohama",
+          "from_id": "00000838",
+          "to": "Sakuragicho",
+          "to_id": "00002909",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Sakuragicho",
+          "from_id": "00002909",
+          "to": "Kannai",
+          "to_id": "00001358",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kannai",
+          "from_id": "00001358",
+          "to": "Ishikawacho",
+          "to_id": "00005047",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ishikawacho",
+          "from_id": "00005047",
+          "to": "Yamate",
+          "to_id": "00003116",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yamate",
+          "from_id": "00003116",
+          "to": "Negishi(Kanagawa)",
+          "to_id": "00002756",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Negishi(Kanagawa)",
+          "from_id": "00002756",
+          "to": "Isogo",
+          "to_id": "00000439",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Isogo",
+          "from_id": "00000439",
+          "to": "Shin-Sugita",
+          "to_id": "00004274",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-Sugita",
+          "from_id": "00004274",
+          "to": "Yokodai",
+          "to_id": "00008888",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Yokodai",
+          "from_id": "00008888",
+          "to": "Konandai",
+          "to_id": "00002452",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Konandai",
+          "from_id": "00002452",
+          "to": "Hongodai",
+          "to_id": "00008458",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Hongodai",
+          "from_id": "00008458",
+          "to": "Ofuna",
+          "to_id": "00005672",
+          "travel_time_minutes": 4
+        }
+      ]
+    },
+    "Rapid": {
+      "line": "Negishi Line",
+      "train_type": "Rapid",
+      "total_stops": 2,
+      "stops": [
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.622249,
+            "lat": 35.465767
+          }
+        },
+        {
+          "name": "Sakuragicho",
+          "station_id": "00002909",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.630957,
+            "lat": 35.451007
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Yokohama",
+          "from_id": "00000838",
+          "to": "Sakuragicho",
+          "to_id": "00002909",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:51:47.431Z"
+}

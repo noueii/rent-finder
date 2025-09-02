@@ -1,0 +1,905 @@
+{
+  "line": "Tokyo Metro Hanzomon",
+  "operator": "Tokyo Metro",
+  "navitime_id": "00000774",
+  "first_station_id": "00000813",
+  "stations": [
+    {
+      "name": "Oshiage(SKYTREE)",
+      "japanese_name": "押上[スカイツリー前]",
+      "station_id": "00000813",
+      "order": 1,
+      "transfers": [
+        "Keisei Oshiage Line",
+        "Toei Asakusa Line",
+        "Tobu Isesaki Line (SKYTREE Line)( Oshiage-Hikifune)"
+      ]
+    },
+    {
+      "name": "Kinshicho",
+      "japanese_name": "錦糸町",
+      "station_id": "00001824",
+      "order": 2,
+      "transfers": [
+        "JR Sobu Main Line(Tokyo-Choshi)",
+        "JR Sobu Line Local (Ochanomizu-Kinshicho)"
+      ]
+    },
+    {
+      "name": "Sumiyoshi(Tokyo)",
+      "japanese_name": "住吉(東京都)",
+      "station_id": "00003508",
+      "order": 3,
+      "transfers": [
+        "Toei Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Kiyosumi-shirakawa",
+      "japanese_name": "清澄白河",
+      "station_id": "00009219",
+      "order": 4,
+      "transfers": [
+        "Toeioedo Line(Loop)"
+      ]
+    },
+    {
+      "name": "Suitengu-mae",
+      "japanese_name": "水天宮前",
+      "station_id": "00004569",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Mitsukoshi-mae",
+      "japanese_name": "三越前",
+      "station_id": "00002964",
+      "order": 6,
+      "transfers": [
+        "Tokyo Metro Ginza Line"
+      ]
+    },
+    {
+      "name": "Ōtemachi",
+      "japanese_name": "大手町(東京都)",
+      "station_id": "00005630",
+      "order": 7,
+      "transfers": [
+        "Tokyo Metro Marunouchi Line",
+        "Tokyo Metro Chiyoda Line",
+        "Tokyo Metro Tozai Line",
+        "Toei Mita Line"
+      ]
+    },
+    {
+      "name": "Jimbōchō",
+      "japanese_name": "神保町",
+      "station_id": "00004473",
+      "order": 8,
+      "transfers": [
+        "Toei Mita Line",
+        "Toei Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Kudanshita",
+      "japanese_name": "九段下",
+      "station_id": "00001921",
+      "order": 9,
+      "transfers": [
+        "Tokyo Metro Tozai Line",
+        "Toei Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Hanzōmon",
+      "japanese_name": "半蔵門",
+      "station_id": "00007594",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Nagatacho",
+      "japanese_name": "永田町",
+      "station_id": "00000665",
+      "order": 11,
+      "transfers": [
+        "Tokyo Metro Namboku Line",
+        "Tokyo Metro Yurakucho Line"
+      ]
+    },
+    {
+      "name": "Aoyama-itchome",
+      "japanese_name": "青山一丁目",
+      "station_id": "00004972",
+      "order": 12,
+      "transfers": [
+        "Tokyo Metro Ginza Line",
+        "Toeioedo Line(Loop)"
+      ]
+    },
+    {
+      "name": "Omote-sando",
+      "japanese_name": "表参道",
+      "station_id": "00007820",
+      "order": 13,
+      "transfers": [
+        "Tokyo Metro Ginza Line",
+        "Tokyo Metro Chiyoda Line"
+      ]
+    },
+    {
+      "name": "Shibuya",
+      "japanese_name": "渋谷",
+      "station_id": "00003544",
+      "order": 14,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "Keio Inokashira Line",
+        "Tokyo Metro Ginza Line",
+        "Tokyo Metro Fukutoshin Line",
+        "Tokyu Den-en-toshi Line",
+        "Tokyu Toyoko Line",
+        "JR Shonan-Shinjuku Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local Train",
+    "Express",
+    "Semi Express"
+  ],
+  "example_trains": {
+    "Local Train": {
+      "trainId": "824e009c",
+      "trainName": "Tokyo Metro Hanzomon Line",
+      "destination": "Saginuma",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "06",
+      "type": "Local Train"
+    },
+    "Express": {
+      "trainId": "824e0129",
+      "trainName": "Tokyo Metro Hanzomon Line Express",
+      "destination": "Chuo-Rinkan",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "03",
+      "type": "Express"
+    },
+    "Semi Express": {
+      "trainId": "824e012e",
+      "trainName": "Tokyo Metro Hanzomon Line Semi Express",
+      "destination": "Chuo-Rinkan",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "59",
+      "type": "Semi Express"
+    }
+  },
+  "train_stop_details": {
+    "Local Train": {
+      "line": "Tokyo Metro Hanzomon",
+      "train_type": "Local Train",
+      "total_stops": 14,
+      "stops": [
+        {
+          "name": "Oshiage(SKYTREE)",
+          "station_id": "00000813",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.813287,
+            "lat": 35.710286
+          }
+        },
+        {
+          "name": "Kinshicho",
+          "station_id": "00001824",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.81494,
+            "lat": 35.697327
+          }
+        },
+        {
+          "name": "Sumiyoshi(Tokyo)",
+          "station_id": "00003508",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.815729,
+            "lat": 35.689001
+          }
+        },
+        {
+          "name": "Kiyosumi-shirakawa",
+          "station_id": "00009219",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.799977,
+            "lat": 35.682132
+          }
+        },
+        {
+          "name": "Suitengu-mae",
+          "station_id": "00004569",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.785399,
+            "lat": 35.682818
+          }
+        },
+        {
+          "name": "Mitsukoshi-mae",
+          "station_id": "00002964",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.773372,
+            "lat": 35.684855
+          }
+        },
+        {
+          "name": "Ōtemachi",
+          "station_id": "00005630",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.764941,
+            "lat": 35.686664
+          }
+        },
+        {
+          "name": "Jimbōchō",
+          "station_id": "00004473",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.758061,
+            "lat": 35.695963
+          }
+        },
+        {
+          "name": "Kudanshita",
+          "station_id": "00001921",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.751429,
+            "lat": 35.695476
+          }
+        },
+        {
+          "name": "Hanzōmon",
+          "station_id": "00007594",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.741651,
+            "lat": 35.685676
+          }
+        },
+        {
+          "name": "Nagatacho",
+          "station_id": "00000665",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.739426,
+            "lat": 35.67843
+          }
+        },
+        {
+          "name": "Aoyama-itchome",
+          "station_id": "00004972",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.724031,
+            "lat": 35.672843
+          }
+        },
+        {
+          "name": "Omote-sando",
+          "station_id": "00007820",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.712604,
+            "lat": 35.665295
+          }
+        },
+        {
+          "name": "Shibuya",
+          "station_id": "00003544",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.701293,
+            "lat": 35.659463
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Oshiage(SKYTREE)",
+          "from_id": "00000813",
+          "to": "Kinshicho",
+          "to_id": "00001824",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kinshicho",
+          "from_id": "00001824",
+          "to": "Sumiyoshi(Tokyo)",
+          "to_id": "00003508",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Sumiyoshi(Tokyo)",
+          "from_id": "00003508",
+          "to": "Kiyosumi-shirakawa",
+          "to_id": "00009219",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kiyosumi-shirakawa",
+          "from_id": "00009219",
+          "to": "Suitengu-mae",
+          "to_id": "00004569",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Suitengu-mae",
+          "from_id": "00004569",
+          "to": "Mitsukoshi-mae",
+          "to_id": "00002964",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Mitsukoshi-mae",
+          "from_id": "00002964",
+          "to": "Ōtemachi",
+          "to_id": "00005630",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ōtemachi",
+          "from_id": "00005630",
+          "to": "Jimbōchō",
+          "to_id": "00004473",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Jimbōchō",
+          "from_id": "00004473",
+          "to": "Kudanshita",
+          "to_id": "00001921",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kudanshita",
+          "from_id": "00001921",
+          "to": "Hanzōmon",
+          "to_id": "00007594",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hanzōmon",
+          "from_id": "00007594",
+          "to": "Nagatacho",
+          "to_id": "00000665",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nagatacho",
+          "from_id": "00000665",
+          "to": "Aoyama-itchome",
+          "to_id": "00004972",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Aoyama-itchome",
+          "from_id": "00004972",
+          "to": "Omote-sando",
+          "to_id": "00007820",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Omote-sando",
+          "from_id": "00007820",
+          "to": "Shibuya",
+          "to_id": "00003544",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Express": {
+      "line": "Tokyo Metro Hanzomon",
+      "train_type": "Express",
+      "total_stops": 14,
+      "stops": [
+        {
+          "name": "Oshiage(SKYTREE)",
+          "station_id": "00000813",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.813287,
+            "lat": 35.710286
+          }
+        },
+        {
+          "name": "Kinshicho",
+          "station_id": "00001824",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.81494,
+            "lat": 35.697327
+          }
+        },
+        {
+          "name": "Sumiyoshi(Tokyo)",
+          "station_id": "00003508",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.815729,
+            "lat": 35.689001
+          }
+        },
+        {
+          "name": "Kiyosumi-shirakawa",
+          "station_id": "00009219",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.799977,
+            "lat": 35.682132
+          }
+        },
+        {
+          "name": "Suitengu-mae",
+          "station_id": "00004569",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.785399,
+            "lat": 35.682818
+          }
+        },
+        {
+          "name": "Mitsukoshi-mae",
+          "station_id": "00002964",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.773372,
+            "lat": 35.684855
+          }
+        },
+        {
+          "name": "Ōtemachi",
+          "station_id": "00005630",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.764941,
+            "lat": 35.686664
+          }
+        },
+        {
+          "name": "Jimbōchō",
+          "station_id": "00004473",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.758061,
+            "lat": 35.695963
+          }
+        },
+        {
+          "name": "Kudanshita",
+          "station_id": "00001921",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.751429,
+            "lat": 35.695476
+          }
+        },
+        {
+          "name": "Hanzōmon",
+          "station_id": "00007594",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.741651,
+            "lat": 35.685676
+          }
+        },
+        {
+          "name": "Nagatacho",
+          "station_id": "00000665",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.739426,
+            "lat": 35.67843
+          }
+        },
+        {
+          "name": "Aoyama-itchome",
+          "station_id": "00004972",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.724031,
+            "lat": 35.672843
+          }
+        },
+        {
+          "name": "Omote-sando",
+          "station_id": "00007820",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.712604,
+            "lat": 35.665295
+          }
+        },
+        {
+          "name": "Shibuya",
+          "station_id": "00003544",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.701293,
+            "lat": 35.659463
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Oshiage(SKYTREE)",
+          "from_id": "00000813",
+          "to": "Kinshicho",
+          "to_id": "00001824",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kinshicho",
+          "from_id": "00001824",
+          "to": "Sumiyoshi(Tokyo)",
+          "to_id": "00003508",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Sumiyoshi(Tokyo)",
+          "from_id": "00003508",
+          "to": "Kiyosumi-shirakawa",
+          "to_id": "00009219",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kiyosumi-shirakawa",
+          "from_id": "00009219",
+          "to": "Suitengu-mae",
+          "to_id": "00004569",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Suitengu-mae",
+          "from_id": "00004569",
+          "to": "Mitsukoshi-mae",
+          "to_id": "00002964",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Mitsukoshi-mae",
+          "from_id": "00002964",
+          "to": "Ōtemachi",
+          "to_id": "00005630",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ōtemachi",
+          "from_id": "00005630",
+          "to": "Jimbōchō",
+          "to_id": "00004473",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Jimbōchō",
+          "from_id": "00004473",
+          "to": "Kudanshita",
+          "to_id": "00001921",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kudanshita",
+          "from_id": "00001921",
+          "to": "Hanzōmon",
+          "to_id": "00007594",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hanzōmon",
+          "from_id": "00007594",
+          "to": "Nagatacho",
+          "to_id": "00000665",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nagatacho",
+          "from_id": "00000665",
+          "to": "Aoyama-itchome",
+          "to_id": "00004972",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Aoyama-itchome",
+          "from_id": "00004972",
+          "to": "Omote-sando",
+          "to_id": "00007820",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Omote-sando",
+          "from_id": "00007820",
+          "to": "Shibuya",
+          "to_id": "00003544",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Semi Express": {
+      "line": "Tokyo Metro Hanzomon",
+      "train_type": "Semi Express",
+      "total_stops": 14,
+      "stops": [
+        {
+          "name": "Oshiage(SKYTREE)",
+          "station_id": "00000813",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.813287,
+            "lat": 35.710286
+          }
+        },
+        {
+          "name": "Kinshicho",
+          "station_id": "00001824",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.81494,
+            "lat": 35.697327
+          }
+        },
+        {
+          "name": "Sumiyoshi(Tokyo)",
+          "station_id": "00003508",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.815729,
+            "lat": 35.689001
+          }
+        },
+        {
+          "name": "Kiyosumi-shirakawa",
+          "station_id": "00009219",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.799977,
+            "lat": 35.682132
+          }
+        },
+        {
+          "name": "Suitengu-mae",
+          "station_id": "00004569",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.785399,
+            "lat": 35.682818
+          }
+        },
+        {
+          "name": "Mitsukoshi-mae",
+          "station_id": "00002964",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.773372,
+            "lat": 35.684855
+          }
+        },
+        {
+          "name": "Ōtemachi",
+          "station_id": "00005630",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.764941,
+            "lat": 35.686664
+          }
+        },
+        {
+          "name": "Jimbōchō",
+          "station_id": "00004473",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.758061,
+            "lat": 35.695963
+          }
+        },
+        {
+          "name": "Kudanshita",
+          "station_id": "00001921",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.751429,
+            "lat": 35.695476
+          }
+        },
+        {
+          "name": "Hanzōmon",
+          "station_id": "00007594",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.741651,
+            "lat": 35.685676
+          }
+        },
+        {
+          "name": "Nagatacho",
+          "station_id": "00000665",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.739426,
+            "lat": 35.67843
+          }
+        },
+        {
+          "name": "Aoyama-itchome",
+          "station_id": "00004972",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.724031,
+            "lat": 35.672843
+          }
+        },
+        {
+          "name": "Omote-sando",
+          "station_id": "00007820",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.712604,
+            "lat": 35.665295
+          }
+        },
+        {
+          "name": "Shibuya",
+          "station_id": "00003544",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.701293,
+            "lat": 35.659463
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Oshiage(SKYTREE)",
+          "from_id": "00000813",
+          "to": "Kinshicho",
+          "to_id": "00001824",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kinshicho",
+          "from_id": "00001824",
+          "to": "Sumiyoshi(Tokyo)",
+          "to_id": "00003508",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Sumiyoshi(Tokyo)",
+          "from_id": "00003508",
+          "to": "Kiyosumi-shirakawa",
+          "to_id": "00009219",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kiyosumi-shirakawa",
+          "from_id": "00009219",
+          "to": "Suitengu-mae",
+          "to_id": "00004569",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Suitengu-mae",
+          "from_id": "00004569",
+          "to": "Mitsukoshi-mae",
+          "to_id": "00002964",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Mitsukoshi-mae",
+          "from_id": "00002964",
+          "to": "Ōtemachi",
+          "to_id": "00005630",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ōtemachi",
+          "from_id": "00005630",
+          "to": "Jimbōchō",
+          "to_id": "00004473",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Jimbōchō",
+          "from_id": "00004473",
+          "to": "Kudanshita",
+          "to_id": "00001921",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kudanshita",
+          "from_id": "00001921",
+          "to": "Hanzōmon",
+          "to_id": "00007594",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hanzōmon",
+          "from_id": "00007594",
+          "to": "Nagatacho",
+          "to_id": "00000665",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nagatacho",
+          "from_id": "00000665",
+          "to": "Aoyama-itchome",
+          "to_id": "00004972",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Aoyama-itchome",
+          "from_id": "00004972",
+          "to": "Omote-sando",
+          "to_id": "00007820",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Omote-sando",
+          "from_id": "00007820",
+          "to": "Shibuya",
+          "to_id": "00003544",
+          "travel_time_minutes": 2
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:55:11.928Z"
+}

@@ -1,0 +1,762 @@
+{
+  "line": "Yokohama Line",
+  "operator": "JR East",
+  "navitime_id": "00000124",
+  "first_station_id": "00006744",
+  "stations": [
+    {
+      "name": "Higashi-Kanagawa",
+      "japanese_name": "東神奈川",
+      "station_id": "00006744",
+      "order": 1,
+      "transfers": [
+        "JR Keihintohoku Line"
+      ]
+    },
+    {
+      "name": "Ōguchi",
+      "japanese_name": "大口",
+      "station_id": "00005587",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Kikuna",
+      "japanese_name": "菊名",
+      "station_id": "00001543",
+      "order": 3,
+      "transfers": [
+        "Tokyu Toyoko Line"
+      ]
+    },
+    {
+      "name": "Shin-Yokohama",
+      "japanese_name": "新横浜",
+      "station_id": "00004179",
+      "order": 4,
+      "transfers": [
+        "JR Tokaido Shinkansen",
+        "Yokohama City Subway Blue Line",
+        "Sotetsu Shin-Yokohama Line",
+        "Tokyu Shin-Yokohama Line"
+      ]
+    },
+    {
+      "name": "Kozukue",
+      "japanese_name": "小机",
+      "station_id": "00003661",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Kamoi",
+      "japanese_name": "鴨居",
+      "station_id": "00001294",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Nakayama(Kanagawa)",
+      "japanese_name": "中山(神奈川県)",
+      "station_id": "00006059",
+      "order": 7,
+      "transfers": [
+        "Yokohama City Subway Green Line"
+      ]
+    },
+    {
+      "name": "Tokaichiba(Kanagawa)",
+      "japanese_name": "十日市場(神奈川県)",
+      "station_id": "00003535",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Nagatsuta",
+      "japanese_name": "長津田",
+      "station_id": "00006248",
+      "order": 9,
+      "transfers": [
+        "Tokyu Kodomonokuni Line",
+        "Tokyu Den-en-toshi Line"
+      ]
+    },
+    {
+      "name": "Naruse",
+      "japanese_name": "成瀬",
+      "station_id": "00004634",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Machida",
+      "japanese_name": "町田",
+      "station_id": "00006194",
+      "order": 11,
+      "transfers": [
+        "Odakyu Odawara Line"
+      ]
+    },
+    {
+      "name": "Kobuchi",
+      "japanese_name": "古淵",
+      "station_id": "00002178",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Fuchinobe",
+      "japanese_name": "淵野辺",
+      "station_id": "00008045",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Yabe",
+      "japanese_name": "矢部",
+      "station_id": "00008786",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Sagamihara",
+      "japanese_name": "相模原",
+      "station_id": "00005390",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Hashimoto(Kanagawa)",
+      "japanese_name": "橋本(神奈川県)",
+      "station_id": "00001774",
+      "order": 16,
+      "transfers": [
+        "JR Sagami Line",
+        "Keio Sagamihara Line"
+      ]
+    },
+    {
+      "name": "Aihara",
+      "japanese_name": "相原",
+      "station_id": "00005380",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Hachiojiminamino",
+      "japanese_name": "八王子みなみ野",
+      "station_id": "00007509",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Katakura",
+      "japanese_name": "片倉",
+      "station_id": "00008149",
+      "order": 19,
+      "transfers": []
+    },
+    {
+      "name": "Hachioji",
+      "japanese_name": "八王子",
+      "station_id": "00007508",
+      "order": 20,
+      "transfers": [
+        "JR Chuo Main Line(Tokyo-Shiojiri)",
+        "JR Hachiko Line(Hachioji-Komagawa)"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Rapid"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "806e0015",
+      "trainName": "JR Yokohama Line",
+      "destination": "Hachioji",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Local"
+    },
+    "Rapid": {
+      "trainId": "806e0016",
+      "trainName": "JR Yokohama Line Rapid",
+      "destination": "Hachioji",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "09",
+      "type": "Rapid"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Yokohama Line",
+      "train_type": "Local",
+      "total_stops": 20,
+      "stops": [
+        {
+          "name": "Higashi-Kanagawa",
+          "station_id": "00006744",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.633313,
+            "lat": 35.477897
+          }
+        },
+        {
+          "name": "Ōguchi",
+          "station_id": "00005587",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.646287,
+            "lat": 35.492398
+          }
+        },
+        {
+          "name": "Kikuna",
+          "station_id": "00001543",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.630676,
+            "lat": 35.509642
+          }
+        },
+        {
+          "name": "Shin-Yokohama",
+          "station_id": "00004179",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.617376,
+            "lat": 35.506781
+          }
+        },
+        {
+          "name": "Kozukue",
+          "station_id": "00003661",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.60001,
+            "lat": 35.508494
+          }
+        },
+        {
+          "name": "Kamoi",
+          "station_id": "00001294",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.567099,
+            "lat": 35.510932
+          }
+        },
+        {
+          "name": "Nakayama(Kanagawa)",
+          "station_id": "00006059",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.539323,
+            "lat": 35.514763
+          }
+        },
+        {
+          "name": "Tokaichiba(Kanagawa)",
+          "station_id": "00003535",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.516632,
+            "lat": 35.526279
+          }
+        },
+        {
+          "name": "Nagatsuta",
+          "station_id": "00006248",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.495288,
+            "lat": 35.531698
+          }
+        },
+        {
+          "name": "Naruse",
+          "station_id": "00004634",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.472814,
+            "lat": 35.535392
+          }
+        },
+        {
+          "name": "Machida",
+          "station_id": "00006194",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.445471,
+            "lat": 35.541994
+          }
+        },
+        {
+          "name": "Kobuchi",
+          "station_id": "00002178",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.41927,
+            "lat": 35.555965
+          }
+        },
+        {
+          "name": "Fuchinobe",
+          "station_id": "00008045",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.394982,
+            "lat": 35.568633
+          }
+        },
+        {
+          "name": "Yabe",
+          "station_id": "00008786",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.386741,
+            "lat": 35.57307
+          }
+        },
+        {
+          "name": "Sagamihara",
+          "station_id": "00005390",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.370727,
+            "lat": 35.581438
+          }
+        },
+        {
+          "name": "Hashimoto(Kanagawa)",
+          "station_id": "00001774",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.345035,
+            "lat": 35.594897
+          }
+        },
+        {
+          "name": "Aihara",
+          "station_id": "00005380",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.331694,
+            "lat": 35.606847
+          }
+        },
+        {
+          "name": "Hachiojiminamino",
+          "station_id": "00007509",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.33097,
+            "lat": 35.631306
+          }
+        },
+        {
+          "name": "Katakura",
+          "station_id": "00008149",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.341575,
+            "lat": 35.639843
+          }
+        },
+        {
+          "name": "Hachioji",
+          "station_id": "00007508",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.339275,
+            "lat": 35.655425
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Higashi-Kanagawa",
+          "from_id": "00006744",
+          "to": "Ōguchi",
+          "to_id": "00005587",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Ōguchi",
+          "from_id": "00005587",
+          "to": "Kikuna",
+          "to_id": "00001543",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kikuna",
+          "from_id": "00001543",
+          "to": "Shin-Yokohama",
+          "to_id": "00004179",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-Yokohama",
+          "from_id": "00004179",
+          "to": "Kozukue",
+          "to_id": "00003661",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kozukue",
+          "from_id": "00003661",
+          "to": "Kamoi",
+          "to_id": "00001294",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kamoi",
+          "from_id": "00001294",
+          "to": "Nakayama(Kanagawa)",
+          "to_id": "00006059",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Nakayama(Kanagawa)",
+          "from_id": "00006059",
+          "to": "Tokaichiba(Kanagawa)",
+          "to_id": "00003535",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Tokaichiba(Kanagawa)",
+          "from_id": "00003535",
+          "to": "Nagatsuta",
+          "to_id": "00006248",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nagatsuta",
+          "from_id": "00006248",
+          "to": "Naruse",
+          "to_id": "00004634",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Naruse",
+          "from_id": "00004634",
+          "to": "Machida",
+          "to_id": "00006194",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Machida",
+          "from_id": "00006194",
+          "to": "Kobuchi",
+          "to_id": "00002178",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kobuchi",
+          "from_id": "00002178",
+          "to": "Fuchinobe",
+          "to_id": "00008045",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Fuchinobe",
+          "from_id": "00008045",
+          "to": "Yabe",
+          "to_id": "00008786",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Yabe",
+          "from_id": "00008786",
+          "to": "Sagamihara",
+          "to_id": "00005390",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Sagamihara",
+          "from_id": "00005390",
+          "to": "Hashimoto(Kanagawa)",
+          "to_id": "00001774",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Hashimoto(Kanagawa)",
+          "from_id": "00001774",
+          "to": "Aihara",
+          "to_id": "00005380",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Aihara",
+          "from_id": "00005380",
+          "to": "Hachiojiminamino",
+          "to_id": "00007509",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Hachiojiminamino",
+          "from_id": "00007509",
+          "to": "Katakura",
+          "to_id": "00008149",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Katakura",
+          "from_id": "00008149",
+          "to": "Hachioji",
+          "to_id": "00007508",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Rapid": {
+      "line": "Yokohama Line",
+      "train_type": "Rapid",
+      "total_stops": 13,
+      "stops": [
+        {
+          "name": "Higashi-Kanagawa",
+          "station_id": "00006744",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.633313,
+            "lat": 35.477897
+          }
+        },
+        {
+          "name": "Kikuna",
+          "station_id": "00001543",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.630676,
+            "lat": 35.509642
+          }
+        },
+        {
+          "name": "Shin-Yokohama",
+          "station_id": "00004179",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.617376,
+            "lat": 35.506781
+          }
+        },
+        {
+          "name": "Kamoi",
+          "station_id": "00001294",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.567099,
+            "lat": 35.510932
+          }
+        },
+        {
+          "name": "Nakayama(Kanagawa)",
+          "station_id": "00006059",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.539323,
+            "lat": 35.514763
+          }
+        },
+        {
+          "name": "Nagatsuta",
+          "station_id": "00006248",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.495288,
+            "lat": 35.531698
+          }
+        },
+        {
+          "name": "Machida",
+          "station_id": "00006194",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.445471,
+            "lat": 35.541994
+          }
+        },
+        {
+          "name": "Sagamihara",
+          "station_id": "00005390",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.370727,
+            "lat": 35.581438
+          }
+        },
+        {
+          "name": "Hashimoto(Kanagawa)",
+          "station_id": "00001774",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.345035,
+            "lat": 35.594897
+          }
+        },
+        {
+          "name": "Aihara",
+          "station_id": "00005380",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.331694,
+            "lat": 35.606847
+          }
+        },
+        {
+          "name": "Hachiojiminamino",
+          "station_id": "00007509",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.33097,
+            "lat": 35.631306
+          }
+        },
+        {
+          "name": "Katakura",
+          "station_id": "00008149",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.341575,
+            "lat": 35.639843
+          }
+        },
+        {
+          "name": "Hachioji",
+          "station_id": "00007508",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.339275,
+            "lat": 35.655425
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Higashi-Kanagawa",
+          "from_id": "00006744",
+          "to": "Kikuna",
+          "to_id": "00001543",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Kikuna",
+          "from_id": "00001543",
+          "to": "Shin-Yokohama",
+          "to_id": "00004179",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-Yokohama",
+          "from_id": "00004179",
+          "to": "Kamoi",
+          "to_id": "00001294",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Kamoi",
+          "from_id": "00001294",
+          "to": "Nakayama(Kanagawa)",
+          "to_id": "00006059",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nakayama(Kanagawa)",
+          "from_id": "00006059",
+          "to": "Nagatsuta",
+          "to_id": "00006248",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Nagatsuta",
+          "from_id": "00006248",
+          "to": "Machida",
+          "to_id": "00006194",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Machida",
+          "from_id": "00006194",
+          "to": "Sagamihara",
+          "to_id": "00005390",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Sagamihara",
+          "from_id": "00005390",
+          "to": "Hashimoto(Kanagawa)",
+          "to_id": "00001774",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Hashimoto(Kanagawa)",
+          "from_id": "00001774",
+          "to": "Aihara",
+          "to_id": "00005380",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Aihara",
+          "from_id": "00005380",
+          "to": "Hachiojiminamino",
+          "to_id": "00007509",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Hachiojiminamino",
+          "from_id": "00007509",
+          "to": "Katakura",
+          "to_id": "00008149",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Katakura",
+          "from_id": "00008149",
+          "to": "Hachioji",
+          "to_id": "00007508",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:51:24.903Z"
+}

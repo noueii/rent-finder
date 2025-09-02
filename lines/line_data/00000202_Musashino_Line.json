@@ -1,0 +1,686 @@
+{
+  "line": "Musashino Line",
+  "operator": "JR East",
+  "navitime_id": "00000202",
+  "first_station_id": "00007926",
+  "stations": [
+    {
+      "name": "Fuchuhommachi",
+      "japanese_name": "府中本町",
+      "station_id": "00007926",
+      "order": 1,
+      "transfers": [
+        "JR Nambu Line(Kawasaki-Tachikawa)",
+        "JR Yokosukamusashinorenraku Line"
+      ]
+    },
+    {
+      "name": "Kita-Fuchu",
+      "japanese_name": "北府中",
+      "station_id": "00008398",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Nishi-Kokubunji",
+      "japanese_name": "西国分寺",
+      "station_id": "00004774",
+      "order": 3,
+      "transfers": [
+        "JR Chuo Main Line(Tokyo-Shiojiri)"
+      ]
+    },
+    {
+      "name": "Shin-Kodaira",
+      "japanese_name": "新小平",
+      "station_id": "00004262",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Shin-Akitsu",
+      "japanese_name": "新秋津",
+      "station_id": "00004251",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-Tokorozawa",
+      "japanese_name": "東所沢",
+      "station_id": "00006720",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Niiza",
+      "japanese_name": "新座",
+      "station_id": "00004233",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Kita-Asaka",
+      "japanese_name": "北朝霞",
+      "station_id": "00008374",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Nishi-Urawa",
+      "japanese_name": "西浦和",
+      "station_id": "00004717",
+      "order": 9,
+      "transfers": [
+        "JR Musashino Line(Omiya)"
+      ]
+    },
+    {
+      "name": "Musashi-Urawa",
+      "japanese_name": "武蔵浦和",
+      "station_id": "00007955",
+      "order": 10,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Musashino Line(Omiya)"
+      ]
+    },
+    {
+      "name": "Minami-Urawa",
+      "japanese_name": "南浦和",
+      "station_id": "00007046",
+      "order": 11,
+      "transfers": [
+        "JR Keihintohoku Line"
+      ]
+    },
+    {
+      "name": "Higashi-Urawa",
+      "japanese_name": "東浦和",
+      "station_id": "00006634",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-Kawaguchi",
+      "japanese_name": "東川口",
+      "station_id": "00006764",
+      "order": 13,
+      "transfers": [
+        "Saitamakosoku Railway Line"
+      ]
+    },
+    {
+      "name": "Minami-Koshigaya",
+      "japanese_name": "南越谷",
+      "station_id": "00007049",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Koshigaya-Laketown",
+      "japanese_name": "越谷レイクタウン",
+      "station_id": "00009504",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Yoshikawa",
+      "japanese_name": "吉川",
+      "station_id": "00001559",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Yoshikawaminami",
+      "japanese_name": "吉川美南",
+      "station_id": "00009612",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Shim-Misato",
+      "japanese_name": "新三郷",
+      "station_id": "00004239",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Misato(Saitama)",
+      "japanese_name": "三郷(埼玉県)",
+      "station_id": "00003001",
+      "order": 19,
+      "transfers": []
+    },
+    {
+      "name": "Minami-Nagareyama",
+      "japanese_name": "南流山",
+      "station_id": "00007177",
+      "order": 20,
+      "transfers": [
+        "JR Musashinojobanrenraku Line(Minaminagareyama-Kitakogane)",
+        "Tsukuba Express"
+      ]
+    },
+    {
+      "name": "Shim-Matsudo",
+      "japanese_name": "新松戸",
+      "station_id": "00004264",
+      "order": 21,
+      "transfers": [
+        "JR Joban Line"
+      ]
+    },
+    {
+      "name": "Shin-Yahashira",
+      "japanese_name": "新八柱",
+      "station_id": "00004348",
+      "order": 22,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-Matsudo",
+      "japanese_name": "東松戸",
+      "station_id": "00006726",
+      "order": 23,
+      "transfers": [
+        "Keisei-Narita Sky Access Line Hokuso Line"
+      ]
+    },
+    {
+      "name": "Ichikawaono",
+      "japanese_name": "市川大野",
+      "station_id": "00003217",
+      "order": 24,
+      "transfers": []
+    },
+    {
+      "name": "Funabashihoten",
+      "japanese_name": "船橋法典",
+      "station_id": "00005289",
+      "order": 25,
+      "transfers": []
+    },
+    {
+      "name": "Nishi-Funabashi",
+      "japanese_name": "西船橋",
+      "station_id": "00004837",
+      "order": 26,
+      "transfers": [
+        "JR Sobu Main Line(Tokyo-Choshi)",
+        "JR Musashino Line(Nishifunabashi-Ichikawashiohama)",
+        "Tokyo Metro Tozai Line",
+        "Toyokosoku Line"
+      ]
+    },
+    {
+      "name": "Minami-Funabashi",
+      "japanese_name": "南船橋",
+      "station_id": "00007126",
+      "order": 27,
+      "transfers": [
+        "JR Keiyo Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "80b20132",
+      "trainName": "JR Musashino Line(Fuchuhommachi-Minamifunabashi)",
+      "destination": "Tokyo",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Local"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Musashino Line",
+      "train_type": "Local",
+      "total_stops": 26,
+      "stops": [
+        {
+          "name": "Fuchuhommachi",
+          "station_id": "00007926",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.477036,
+            "lat": 35.666287
+          }
+        },
+        {
+          "name": "Kita-Fuchu",
+          "station_id": "00008398",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.471808,
+            "lat": 35.680769
+          }
+        },
+        {
+          "name": "Nishi-Kokubunji",
+          "station_id": "00004774",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.466068,
+            "lat": 35.699757
+          }
+        },
+        {
+          "name": "Shin-Kodaira",
+          "station_id": "00004262",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.470546,
+            "lat": 35.730817
+          }
+        },
+        {
+          "name": "Shin-Akitsu",
+          "station_id": "00004251",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.493383,
+            "lat": 35.777837
+          }
+        },
+        {
+          "name": "Higashi-Tokorozawa",
+          "station_id": "00006720",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.51379,
+            "lat": 35.794588
+          }
+        },
+        {
+          "name": "Niiza",
+          "station_id": "00004233",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.556336,
+            "lat": 35.803727
+          }
+        },
+        {
+          "name": "Kita-Asaka",
+          "station_id": "00008374",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.587111,
+            "lat": 35.815381
+          }
+        },
+        {
+          "name": "Nishi-Urawa",
+          "station_id": "00004717",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.627982,
+            "lat": 35.844242
+          }
+        },
+        {
+          "name": "Musashi-Urawa",
+          "station_id": "00007955",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.647891,
+            "lat": 35.846066
+          }
+        },
+        {
+          "name": "Minami-Urawa",
+          "station_id": "00007046",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.669142,
+            "lat": 35.847739
+          }
+        },
+        {
+          "name": "Higashi-Urawa",
+          "station_id": "00006634",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.704666,
+            "lat": 35.864117
+          }
+        },
+        {
+          "name": "Higashi-Kawaguchi",
+          "station_id": "00006764",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.744178,
+            "lat": 35.875246
+          }
+        },
+        {
+          "name": "Minami-Koshigaya",
+          "station_id": "00007049",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.790668,
+            "lat": 35.876039
+          }
+        },
+        {
+          "name": "Koshigaya-Laketown",
+          "station_id": "00009504",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.822226,
+            "lat": 35.876279
+          }
+        },
+        {
+          "name": "Yoshikawa",
+          "station_id": "00001559",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.843617,
+            "lat": 35.876559
+          }
+        },
+        {
+          "name": "Yoshikawaminami",
+          "station_id": "00009612",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.858174,
+            "lat": 35.86808
+          }
+        },
+        {
+          "name": "Shim-Misato",
+          "station_id": "00004239",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.869343,
+            "lat": 35.858672
+          }
+        },
+        {
+          "name": "Misato(Saitama)",
+          "station_id": "00003001",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.885739,
+            "lat": 35.845036
+          }
+        },
+        {
+          "name": "Minami-Nagareyama",
+          "station_id": "00007177",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.903966,
+            "lat": 35.838087
+          }
+        },
+        {
+          "name": "Shim-Matsudo",
+          "station_id": "00004264",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.921159,
+            "lat": 35.825515
+          }
+        },
+        {
+          "name": "Shin-Yahashira",
+          "station_id": "00004348",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.938373,
+            "lat": 35.79194
+          }
+        },
+        {
+          "name": "Higashi-Matsudo",
+          "station_id": "00006726",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.943866,
+            "lat": 35.770635
+          }
+        },
+        {
+          "name": "Ichikawaono",
+          "station_id": "00003217",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.951516,
+            "lat": 35.755079
+          }
+        },
+        {
+          "name": "Funabashihoten",
+          "station_id": "00005289",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.966581,
+            "lat": 35.73083
+          }
+        },
+        {
+          "name": "Nishi-Funabashi",
+          "station_id": "00004837",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.959232,
+            "lat": 35.707459
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Fuchuhommachi",
+          "from_id": "00007926",
+          "to": "Kita-Fuchu",
+          "to_id": "00008398",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kita-Fuchu",
+          "from_id": "00008398",
+          "to": "Nishi-Kokubunji",
+          "to_id": "00004774",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Nishi-Kokubunji",
+          "from_id": "00004774",
+          "to": "Shin-Kodaira",
+          "to_id": "00004262",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Shin-Kodaira",
+          "from_id": "00004262",
+          "to": "Shin-Akitsu",
+          "to_id": "00004251",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Shin-Akitsu",
+          "from_id": "00004251",
+          "to": "Higashi-Tokorozawa",
+          "to_id": "00006720",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Higashi-Tokorozawa",
+          "from_id": "00006720",
+          "to": "Niiza",
+          "to_id": "00004233",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Niiza",
+          "from_id": "00004233",
+          "to": "Kita-Asaka",
+          "to_id": "00008374",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Kita-Asaka",
+          "from_id": "00008374",
+          "to": "Nishi-Urawa",
+          "to_id": "00004717",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Nishi-Urawa",
+          "from_id": "00004717",
+          "to": "Musashi-Urawa",
+          "to_id": "00007955",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Musashi-Urawa",
+          "from_id": "00007955",
+          "to": "Minami-Urawa",
+          "to_id": "00007046",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Minami-Urawa",
+          "from_id": "00007046",
+          "to": "Higashi-Urawa",
+          "to_id": "00006634",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Higashi-Urawa",
+          "from_id": "00006634",
+          "to": "Higashi-Kawaguchi",
+          "to_id": "00006764",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Higashi-Kawaguchi",
+          "from_id": "00006764",
+          "to": "Minami-Koshigaya",
+          "to_id": "00007049",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Minami-Koshigaya",
+          "from_id": "00007049",
+          "to": "Koshigaya-Laketown",
+          "to_id": "00009504",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Koshigaya-Laketown",
+          "from_id": "00009504",
+          "to": "Yoshikawa",
+          "to_id": "00001559",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yoshikawa",
+          "from_id": "00001559",
+          "to": "Yoshikawaminami",
+          "to_id": "00009612",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Yoshikawaminami",
+          "from_id": "00009612",
+          "to": "Shim-Misato",
+          "to_id": "00004239",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shim-Misato",
+          "from_id": "00004239",
+          "to": "Misato(Saitama)",
+          "to_id": "00003001",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Misato(Saitama)",
+          "from_id": "00003001",
+          "to": "Minami-Nagareyama",
+          "to_id": "00007177",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Minami-Nagareyama",
+          "from_id": "00007177",
+          "to": "Shim-Matsudo",
+          "to_id": "00004264",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shim-Matsudo",
+          "from_id": "00004264",
+          "to": "Shin-Yahashira",
+          "to_id": "00004348",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Shin-Yahashira",
+          "from_id": "00004348",
+          "to": "Higashi-Matsudo",
+          "to_id": "00006726",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Higashi-Matsudo",
+          "from_id": "00006726",
+          "to": "Ichikawaono",
+          "to_id": "00003217",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Ichikawaono",
+          "from_id": "00003217",
+          "to": "Funabashihoten",
+          "to_id": "00005289",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Funabashihoten",
+          "from_id": "00005289",
+          "to": "Nishi-Funabashi",
+          "to_id": "00004837",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:52:50.306Z"
+}

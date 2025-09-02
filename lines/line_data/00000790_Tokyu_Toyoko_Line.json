@@ -1,0 +1,960 @@
+{
+  "line": "Tokyu Toyoko Line",
+  "operator": "Tokyu Corporation",
+  "navitime_id": "00000790",
+  "first_station_id": "00003544",
+  "stations": [
+    {
+      "name": "Shibuya",
+      "japanese_name": "渋谷",
+      "station_id": "00003544",
+      "order": 1,
+      "transfers": [
+        "JR Saikyo Line",
+        "JR Yamanote Line",
+        "Keio Inokashira Line",
+        "Tokyo Metro Ginza Line",
+        "Tokyo Metro Hanzomon Line",
+        "Tokyo Metro Fukutoshin Line",
+        "Tokyu Den-en-toshi Line",
+        "JR Shonan-Shinjuku Line"
+      ]
+    },
+    {
+      "name": "Daikan-yama",
+      "japanese_name": "代官山",
+      "station_id": "00005504",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Naka-meguro",
+      "japanese_name": "中目黒",
+      "station_id": "00006133",
+      "order": 3,
+      "transfers": [
+        "Tokyo Metro Hibiya Line"
+      ]
+    },
+    {
+      "name": "Yutenji",
+      "japanese_name": "祐天寺",
+      "station_id": "00008866",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Gakugei-daigaku",
+      "japanese_name": "学芸大学",
+      "station_id": "00001216",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Toritsu-daigaku",
+      "japanese_name": "都立大学",
+      "station_id": "00006556",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Jiyugaoka(Tokyo)",
+      "japanese_name": "自由が丘(東京都)",
+      "station_id": "00003330",
+      "order": 7,
+      "transfers": [
+        "Tokyu Oimachi Line"
+      ]
+    },
+    {
+      "name": "Den-en-chofu",
+      "japanese_name": "田園調布",
+      "station_id": "00006459",
+      "order": 8,
+      "transfers": [
+        "Tokyu Meguro Line"
+      ]
+    },
+    {
+      "name": "Tamagawa",
+      "japanese_name": "多摩川",
+      "station_id": "00005463",
+      "order": 9,
+      "transfers": [
+        "Tokyu Meguro Line",
+        "Tokyu Tamagawa Line"
+      ]
+    },
+    {
+      "name": "Shin-maruko",
+      "japanese_name": "新丸子",
+      "station_id": "00004200",
+      "order": 10,
+      "transfers": [
+        "Tokyu Meguro Line"
+      ]
+    },
+    {
+      "name": "Musashi-Kosugi",
+      "japanese_name": "武蔵小杉",
+      "station_id": "00007965",
+      "order": 11,
+      "transfers": [
+        "JR Yokosuka Line",
+        "JR Nambu Line(Kawasaki-Tachikawa)",
+        "Tokyu Meguro Line"
+      ]
+    },
+    {
+      "name": "Motosumiyoshi",
+      "japanese_name": "元住吉",
+      "station_id": "00002117",
+      "order": 12,
+      "transfers": [
+        "Tokyu Meguro Line"
+      ]
+    },
+    {
+      "name": "Hiyoshi(Kanagawa)",
+      "japanese_name": "日吉(神奈川県)",
+      "station_id": "00007245",
+      "order": 13,
+      "transfers": [
+        "Tokyu Meguro Line",
+        "Yokohama City Subway Green Line",
+        "Tokyu Shin-Yokohama Line"
+      ]
+    },
+    {
+      "name": "Tsunashima",
+      "japanese_name": "綱島",
+      "station_id": "00002483",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Okurayama(Kanagawa)",
+      "japanese_name": "大倉山(神奈川県)",
+      "station_id": "00005678",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Kikuna",
+      "japanese_name": "菊名",
+      "station_id": "00001543",
+      "order": 16,
+      "transfers": [
+        "JR Yokohama Line"
+      ]
+    },
+    {
+      "name": "Myorenji",
+      "japanese_name": "妙蓮寺",
+      "station_id": "00008564",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Hakuraku",
+      "japanese_name": "白楽",
+      "station_id": "00007443",
+      "order": 18,
+      "transfers": []
+    },
+    {
+      "name": "Higashi-hakuraku",
+      "japanese_name": "東白楽",
+      "station_id": "00006816",
+      "order": 19,
+      "transfers": []
+    },
+    {
+      "name": "Tanmachi",
+      "japanese_name": "反町",
+      "station_id": "00007597",
+      "order": 20,
+      "transfers": []
+    },
+    {
+      "name": "Yokohama",
+      "japanese_name": "横浜",
+      "station_id": "00000838",
+      "order": 21,
+      "transfers": [
+        "JR Yokosuka Line",
+        "JR Keihintohoku Line",
+        "JR Negishi Line",
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "Yokohama City Subway Blue Line",
+        "Keikyu Main Line",
+        "Sotetsu Main Line",
+        "Yokohamakosoku Railway Minatomirai Line"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Express",
+    "Commuter S-Express",
+    "Limited Express",
+    "F Limited Express"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "825b0068",
+      "trainName": "Tokyu Toyoko Line Local",
+      "destination": "Musashi-Kosugi",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Local"
+    },
+    "Express": {
+      "trainId": "825b006c",
+      "trainName": "Tokyu Toyoko Line Express",
+      "destination": "Motomachi-Chukagai",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "13",
+      "type": "Express"
+    },
+    "Commuter S-Express": {
+      "trainId": "825b0036",
+      "trainName": "Tokyu Toyoko Line Commuter Limited Express",
+      "destination": "Motomachi-Chukagai",
+      "hour": 7,
+      "date": "2025-07-11",
+      "time": "41",
+      "type": "Commuter S-Express"
+    },
+    "Limited Express": {
+      "trainId": "825b006a",
+      "trainName": "Tokyu Toyoko Line Limited Express",
+      "destination": "Motomachi-Chukagai",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "09",
+      "type": "Limited Express"
+    },
+    "F Limited Express": {
+      "trainId": "825b007d",
+      "trainName": "Tokyu Toyoko Line Limited Express (F-Liner)",
+      "destination": "Motomachi-Chukagai",
+      "hour": 11,
+      "date": "2025-07-11",
+      "time": "09",
+      "type": "F Limited Express"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Tokyu Toyoko Line",
+      "train_type": "Local",
+      "total_stops": 11,
+      "stops": [
+        {
+          "name": "Shibuya",
+          "station_id": "00003544",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.702546,
+            "lat": 35.659035
+          }
+        },
+        {
+          "name": "Daikan-yama",
+          "station_id": "00005504",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.703179,
+            "lat": 35.648083
+          }
+        },
+        {
+          "name": "Naka-meguro",
+          "station_id": "00006133",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.698927,
+            "lat": 35.644211
+          }
+        },
+        {
+          "name": "Yutenji",
+          "station_id": "00008866",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.691021,
+            "lat": 35.63753
+          }
+        },
+        {
+          "name": "Gakugei-daigaku",
+          "station_id": "00001216",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.685459,
+            "lat": 35.629098
+          }
+        },
+        {
+          "name": "Toritsu-daigaku",
+          "station_id": "00006556",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.67626,
+            "lat": 35.617605
+          }
+        },
+        {
+          "name": "Jiyugaoka(Tokyo)",
+          "station_id": "00003330",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.668751,
+            "lat": 35.607366
+          }
+        },
+        {
+          "name": "Den-en-chofu",
+          "station_id": "00006459",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.667306,
+            "lat": 35.597173
+          }
+        },
+        {
+          "name": "Tamagawa",
+          "station_id": "00005463",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.668782,
+            "lat": 35.589667
+          }
+        },
+        {
+          "name": "Shin-maruko",
+          "station_id": "00004200",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.662047,
+            "lat": 35.580646
+          }
+        },
+        {
+          "name": "Musashi-Kosugi",
+          "station_id": "00007965",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.659685,
+            "lat": 35.575765
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shibuya",
+          "from_id": "00003544",
+          "to": "Daikan-yama",
+          "to_id": "00005504",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Daikan-yama",
+          "from_id": "00005504",
+          "to": "Naka-meguro",
+          "to_id": "00006133",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Naka-meguro",
+          "from_id": "00006133",
+          "to": "Yutenji",
+          "to_id": "00008866",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Yutenji",
+          "from_id": "00008866",
+          "to": "Gakugei-daigaku",
+          "to_id": "00001216",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Gakugei-daigaku",
+          "from_id": "00001216",
+          "to": "Toritsu-daigaku",
+          "to_id": "00006556",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Toritsu-daigaku",
+          "from_id": "00006556",
+          "to": "Jiyugaoka(Tokyo)",
+          "to_id": "00003330",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Jiyugaoka(Tokyo)",
+          "from_id": "00003330",
+          "to": "Den-en-chofu",
+          "to_id": "00006459",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Den-en-chofu",
+          "from_id": "00006459",
+          "to": "Tamagawa",
+          "to_id": "00005463",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tamagawa",
+          "from_id": "00005463",
+          "to": "Shin-maruko",
+          "to_id": "00004200",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shin-maruko",
+          "from_id": "00004200",
+          "to": "Musashi-Kosugi",
+          "to_id": "00007965",
+          "travel_time_minutes": 2
+        }
+      ]
+    },
+    "Express": {
+      "line": "Tokyu Toyoko Line",
+      "train_type": "Express",
+      "total_stops": 11,
+      "stops": [
+        {
+          "name": "Shibuya",
+          "station_id": "00003544",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.702546,
+            "lat": 35.659035
+          }
+        },
+        {
+          "name": "Naka-meguro",
+          "station_id": "00006133",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.698927,
+            "lat": 35.644211
+          }
+        },
+        {
+          "name": "Gakugei-daigaku",
+          "station_id": "00001216",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.685459,
+            "lat": 35.629098
+          }
+        },
+        {
+          "name": "Jiyugaoka(Tokyo)",
+          "station_id": "00003330",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.668751,
+            "lat": 35.607366
+          }
+        },
+        {
+          "name": "Den-en-chofu",
+          "station_id": "00006459",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.667306,
+            "lat": 35.597173
+          }
+        },
+        {
+          "name": "Tamagawa",
+          "station_id": "00005463",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.668782,
+            "lat": 35.589667
+          }
+        },
+        {
+          "name": "Musashi-Kosugi",
+          "station_id": "00007965",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.659685,
+            "lat": 35.575765
+          }
+        },
+        {
+          "name": "Hiyoshi(Kanagawa)",
+          "station_id": "00007245",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.646909,
+            "lat": 35.553364
+          }
+        },
+        {
+          "name": "Tsunashima",
+          "station_id": "00002483",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.634642,
+            "lat": 35.536657
+          }
+        },
+        {
+          "name": "Kikuna",
+          "station_id": "00001543",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.631343,
+            "lat": 35.510214
+          }
+        },
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.622249,
+            "lat": 35.465767
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shibuya",
+          "from_id": "00003544",
+          "to": "Naka-meguro",
+          "to_id": "00006133",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Naka-meguro",
+          "from_id": "00006133",
+          "to": "Gakugei-daigaku",
+          "to_id": "00001216",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Gakugei-daigaku",
+          "from_id": "00001216",
+          "to": "Jiyugaoka(Tokyo)",
+          "to_id": "00003330",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Jiyugaoka(Tokyo)",
+          "from_id": "00003330",
+          "to": "Den-en-chofu",
+          "to_id": "00006459",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Den-en-chofu",
+          "from_id": "00006459",
+          "to": "Tamagawa",
+          "to_id": "00005463",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tamagawa",
+          "from_id": "00005463",
+          "to": "Musashi-Kosugi",
+          "to_id": "00007965",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Musashi-Kosugi",
+          "from_id": "00007965",
+          "to": "Hiyoshi(Kanagawa)",
+          "to_id": "00007245",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Hiyoshi(Kanagawa)",
+          "from_id": "00007245",
+          "to": "Tsunashima",
+          "to_id": "00002483",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Tsunashima",
+          "from_id": "00002483",
+          "to": "Kikuna",
+          "to_id": "00001543",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kikuna",
+          "from_id": "00001543",
+          "to": "Yokohama",
+          "to_id": "00000838",
+          "travel_time_minutes": 6
+        }
+      ]
+    },
+    "Commuter S-Express": {
+      "line": "Tokyu Toyoko Line",
+      "train_type": "Commuter S-Express",
+      "total_stops": 7,
+      "stops": [
+        {
+          "name": "Shibuya",
+          "station_id": "00003544",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.702546,
+            "lat": 35.659035
+          }
+        },
+        {
+          "name": "Naka-meguro",
+          "station_id": "00006133",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.698927,
+            "lat": 35.644211
+          }
+        },
+        {
+          "name": "Jiyugaoka(Tokyo)",
+          "station_id": "00003330",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.668751,
+            "lat": 35.607366
+          }
+        },
+        {
+          "name": "Musashi-Kosugi",
+          "station_id": "00007965",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.659685,
+            "lat": 35.575765
+          }
+        },
+        {
+          "name": "Hiyoshi(Kanagawa)",
+          "station_id": "00007245",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.646909,
+            "lat": 35.553364
+          }
+        },
+        {
+          "name": "Kikuna",
+          "station_id": "00001543",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.631343,
+            "lat": 35.510214
+          }
+        },
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.622249,
+            "lat": 35.465767
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shibuya",
+          "from_id": "00003544",
+          "to": "Naka-meguro",
+          "to_id": "00006133",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Naka-meguro",
+          "from_id": "00006133",
+          "to": "Jiyugaoka(Tokyo)",
+          "to_id": "00003330",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Jiyugaoka(Tokyo)",
+          "from_id": "00003330",
+          "to": "Musashi-Kosugi",
+          "to_id": "00007965",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Musashi-Kosugi",
+          "from_id": "00007965",
+          "to": "Hiyoshi(Kanagawa)",
+          "to_id": "00007245",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Hiyoshi(Kanagawa)",
+          "from_id": "00007245",
+          "to": "Kikuna",
+          "to_id": "00001543",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Kikuna",
+          "from_id": "00001543",
+          "to": "Yokohama",
+          "to_id": "00000838",
+          "travel_time_minutes": 6
+        }
+      ]
+    },
+    "Limited Express": {
+      "line": "Tokyu Toyoko Line",
+      "train_type": "Limited Express",
+      "total_stops": 6,
+      "stops": [
+        {
+          "name": "Shibuya",
+          "station_id": "00003544",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.702546,
+            "lat": 35.659035
+          }
+        },
+        {
+          "name": "Naka-meguro",
+          "station_id": "00006133",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.698927,
+            "lat": 35.644211
+          }
+        },
+        {
+          "name": "Jiyugaoka(Tokyo)",
+          "station_id": "00003330",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.668751,
+            "lat": 35.607366
+          }
+        },
+        {
+          "name": "Musashi-Kosugi",
+          "station_id": "00007965",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.659685,
+            "lat": 35.575765
+          }
+        },
+        {
+          "name": "Kikuna",
+          "station_id": "00001543",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.631343,
+            "lat": 35.510214
+          }
+        },
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.622249,
+            "lat": 35.465767
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shibuya",
+          "from_id": "00003544",
+          "to": "Naka-meguro",
+          "to_id": "00006133",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Naka-meguro",
+          "from_id": "00006133",
+          "to": "Jiyugaoka(Tokyo)",
+          "to_id": "00003330",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Jiyugaoka(Tokyo)",
+          "from_id": "00003330",
+          "to": "Musashi-Kosugi",
+          "to_id": "00007965",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Musashi-Kosugi",
+          "from_id": "00007965",
+          "to": "Kikuna",
+          "to_id": "00001543",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Kikuna",
+          "from_id": "00001543",
+          "to": "Yokohama",
+          "to_id": "00000838",
+          "travel_time_minutes": 6
+        }
+      ]
+    },
+    "F Limited Express": {
+      "line": "Tokyu Toyoko Line",
+      "train_type": "F Limited Express",
+      "total_stops": 6,
+      "stops": [
+        {
+          "name": "Shibuya",
+          "station_id": "00003544",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.702546,
+            "lat": 35.659035
+          }
+        },
+        {
+          "name": "Naka-meguro",
+          "station_id": "00006133",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.698927,
+            "lat": 35.644211
+          }
+        },
+        {
+          "name": "Jiyugaoka(Tokyo)",
+          "station_id": "00003330",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.668751,
+            "lat": 35.607366
+          }
+        },
+        {
+          "name": "Musashi-Kosugi",
+          "station_id": "00007965",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.659685,
+            "lat": 35.575765
+          }
+        },
+        {
+          "name": "Kikuna",
+          "station_id": "00001543",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.631343,
+            "lat": 35.510214
+          }
+        },
+        {
+          "name": "Yokohama",
+          "station_id": "00000838",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.622249,
+            "lat": 35.465767
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Shibuya",
+          "from_id": "00003544",
+          "to": "Naka-meguro",
+          "to_id": "00006133",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Naka-meguro",
+          "from_id": "00006133",
+          "to": "Jiyugaoka(Tokyo)",
+          "to_id": "00003330",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Jiyugaoka(Tokyo)",
+          "from_id": "00003330",
+          "to": "Musashi-Kosugi",
+          "to_id": "00007965",
+          "travel_time_minutes": 4
+        },
+        {
+          "from": "Musashi-Kosugi",
+          "from_id": "00007965",
+          "to": "Kikuna",
+          "to_id": "00001543",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Kikuna",
+          "from_id": "00001543",
+          "to": "Yokohama",
+          "to_id": "00000838",
+          "travel_time_minutes": 7
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:55:55.857Z"
+}

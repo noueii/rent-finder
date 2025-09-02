@@ -1,0 +1,516 @@
+{
+  "line": "Tokyo Metro Chiyoda",
+  "operator": "Tokyo Metro",
+  "navitime_id": "00000769",
+  "first_station_id": "00005508",
+  "stations": [
+    {
+      "name": "Yoyogi Uehara",
+      "japanese_name": "代々木上原",
+      "station_id": "00005508",
+      "order": 1,
+      "transfers": [
+        "Odakyu Odawara Line"
+      ]
+    },
+    {
+      "name": "Yoyogi-koen",
+      "japanese_name": "代々木公園",
+      "station_id": "00005507",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Meiji-jingumae",
+      "japanese_name": "明治神宮前",
+      "station_id": "00008598",
+      "order": 3,
+      "transfers": [
+        "Tokyo Metro Fukutoshin Line"
+      ]
+    },
+    {
+      "name": "Omote-sando",
+      "japanese_name": "表参道",
+      "station_id": "00007820",
+      "order": 4,
+      "transfers": [
+        "Tokyo Metro Ginza Line",
+        "Tokyo Metro Hanzomon Line"
+      ]
+    },
+    {
+      "name": "Nogizaka",
+      "japanese_name": "乃木坂",
+      "station_id": "00007330",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Akasaka(Tokyo)",
+      "japanese_name": "赤坂(東京都)",
+      "station_id": "00005077",
+      "order": 6,
+      "transfers": []
+    },
+    {
+      "name": "Kokkai Gijido Mae",
+      "japanese_name": "国会議事堂前",
+      "station_id": "00002659",
+      "order": 7,
+      "transfers": [
+        "Tokyo Metro Marunouchi Line"
+      ]
+    },
+    {
+      "name": "Kasumigaseki(Tokyo)",
+      "japanese_name": "霞ヶ関(東京都)",
+      "station_id": "00001116",
+      "order": 8,
+      "transfers": [
+        "Tokyo Metro Marunouchi Line",
+        "Tokyo Metro Hibiya Line",
+        "Chiyoda Yurakucho Renraku Line"
+      ]
+    },
+    {
+      "name": "Hibiya",
+      "japanese_name": "日比谷",
+      "station_id": "00007290",
+      "order": 9,
+      "transfers": [
+        "Tokyo Metro Hibiya Line",
+        "Toei Mita Line"
+      ]
+    },
+    {
+      "name": "Nijubashimae",
+      "japanese_name": "二重橋前",
+      "station_id": "00007201",
+      "order": 10,
+      "transfers": []
+    },
+    {
+      "name": "Ōtemachi",
+      "japanese_name": "大手町(東京都)",
+      "station_id": "00005630",
+      "order": 11,
+      "transfers": [
+        "Tokyo Metro Marunouchi Line",
+        "Tokyo Metro Tozai Line",
+        "Tokyo Metro Hanzomon Line",
+        "Toei Mita Line"
+      ]
+    },
+    {
+      "name": "Shin-ochanomizu",
+      "japanese_name": "新御茶ノ水",
+      "station_id": "00004225",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Yushima",
+      "japanese_name": "湯島",
+      "station_id": "00006907",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Nezu",
+      "japanese_name": "根津",
+      "station_id": "00002762",
+      "order": 14,
+      "transfers": []
+    },
+    {
+      "name": "Sendagi",
+      "japanese_name": "千駄木",
+      "station_id": "00005153",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Nishi-nippori",
+      "japanese_name": "西日暮里",
+      "station_id": "00004905",
+      "order": 16,
+      "transfers": [
+        "JR Keihintohoku Line",
+        "JR Yamanote Line",
+        "Toei Nippori Toneri Liner"
+      ]
+    },
+    {
+      "name": "Machiya(Chiyoda Line)",
+      "japanese_name": "町屋〔千代田線〕",
+      "station_id": "00006190",
+      "order": 17,
+      "transfers": []
+    },
+    {
+      "name": "Kita-senju",
+      "japanese_name": "北千住",
+      "station_id": "00008355",
+      "order": 18,
+      "transfers": [
+        "JR Joban Line",
+        "Tokyo Metro Hibiya Line",
+        "Tobu Isesaki Line (SKYTREE Line)",
+        "Tsukuba Express"
+      ]
+    },
+    {
+      "name": "Ayase",
+      "japanese_name": "綾瀬",
+      "station_id": "00000237",
+      "order": 19,
+      "transfers": [
+        "JR Joban Line",
+        "Tokyo Metro Chiyoda Line(Ayase-Kita Ayase)"
+      ]
+    }
+  ],
+  "train_types": [
+    "Local Train"
+  ],
+  "example_trains": {
+    "Local Train": {
+      "trainId": "808501ee",
+      "trainName": "Tokyo Metro Chiyoda Line",
+      "destination": "Abiko(Chiba)",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Local Train"
+    }
+  },
+  "train_stop_details": {
+    "Local Train": {
+      "line": "Tokyo Metro Chiyoda",
+      "train_type": "Local Train",
+      "total_stops": 19,
+      "stops": [
+        {
+          "name": "Yoyogi Uehara",
+          "station_id": "00005508",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.67959,
+            "lat": 35.668985
+          }
+        },
+        {
+          "name": "Yoyogi-koen",
+          "station_id": "00005507",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.69084,
+            "lat": 35.668962
+          }
+        },
+        {
+          "name": "Meiji-jingumae",
+          "station_id": "00008598",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.703858,
+            "lat": 35.669214
+          }
+        },
+        {
+          "name": "Omote-sando",
+          "station_id": "00007820",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.712002,
+            "lat": 35.665412
+          }
+        },
+        {
+          "name": "Nogizaka",
+          "station_id": "00007330",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.726192,
+            "lat": 35.66653
+          }
+        },
+        {
+          "name": "Akasaka(Tokyo)",
+          "station_id": "00005077",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.736451,
+            "lat": 35.672311
+          }
+        },
+        {
+          "name": "Kokkai Gijido Mae",
+          "station_id": "00002659",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.743961,
+            "lat": 35.673681
+          }
+        },
+        {
+          "name": "Kasumigaseki(Tokyo)",
+          "station_id": "00001116",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.751525,
+            "lat": 35.672589
+          }
+        },
+        {
+          "name": "Hibiya",
+          "station_id": "00007290",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.758945,
+            "lat": 35.674311
+          }
+        },
+        {
+          "name": "Nijubashimae",
+          "station_id": "00007201",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.761822,
+            "lat": 35.680591
+          }
+        },
+        {
+          "name": "Ōtemachi",
+          "station_id": "00005630",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.763602,
+            "lat": 35.686577
+          }
+        },
+        {
+          "name": "Shin-ochanomizu",
+          "station_id": "00004225",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.765376,
+            "lat": 35.696904
+          }
+        },
+        {
+          "name": "Yushima",
+          "station_id": "00006907",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.769986,
+            "lat": 35.707181
+          }
+        },
+        {
+          "name": "Nezu",
+          "station_id": "00002762",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.765749,
+            "lat": 35.71737
+          }
+        },
+        {
+          "name": "Sendagi",
+          "station_id": "00005153",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.763178,
+            "lat": 35.725295
+          }
+        },
+        {
+          "name": "Nishi-nippori",
+          "station_id": "00004905",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.766946,
+            "lat": 35.732405
+          }
+        },
+        {
+          "name": "Machiya(Chiyoda Line)",
+          "station_id": "00006190",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.779848,
+            "lat": 35.741754
+          }
+        },
+        {
+          "name": "Kita-senju",
+          "station_id": "00008355",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.804557,
+            "lat": 35.749763
+          }
+        },
+        {
+          "name": "Ayase",
+          "station_id": "00000237",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.824831,
+            "lat": 35.76222
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Yoyogi Uehara",
+          "from_id": "00005508",
+          "to": "Yoyogi-koen",
+          "to_id": "00005507",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Yoyogi-koen",
+          "from_id": "00005507",
+          "to": "Meiji-jingumae",
+          "to_id": "00008598",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Meiji-jingumae",
+          "from_id": "00008598",
+          "to": "Omote-sando",
+          "to_id": "00007820",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Omote-sando",
+          "from_id": "00007820",
+          "to": "Nogizaka",
+          "to_id": "00007330",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nogizaka",
+          "from_id": "00007330",
+          "to": "Akasaka(Tokyo)",
+          "to_id": "00005077",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Akasaka(Tokyo)",
+          "from_id": "00005077",
+          "to": "Kokkai Gijido Mae",
+          "to_id": "00002659",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Kokkai Gijido Mae",
+          "from_id": "00002659",
+          "to": "Kasumigaseki(Tokyo)",
+          "to_id": "00001116",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Kasumigaseki(Tokyo)",
+          "from_id": "00001116",
+          "to": "Hibiya",
+          "to_id": "00007290",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Hibiya",
+          "from_id": "00007290",
+          "to": "Nijubashimae",
+          "to_id": "00007201",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Nijubashimae",
+          "from_id": "00007201",
+          "to": "Ōtemachi",
+          "to_id": "00005630",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Ōtemachi",
+          "from_id": "00005630",
+          "to": "Shin-ochanomizu",
+          "to_id": "00004225",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Shin-ochanomizu",
+          "from_id": "00004225",
+          "to": "Yushima",
+          "to_id": "00006907",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yushima",
+          "from_id": "00006907",
+          "to": "Nezu",
+          "to_id": "00002762",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nezu",
+          "from_id": "00002762",
+          "to": "Sendagi",
+          "to_id": "00005153",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Sendagi",
+          "from_id": "00005153",
+          "to": "Nishi-nippori",
+          "to_id": "00004905",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Nishi-nippori",
+          "from_id": "00004905",
+          "to": "Machiya(Chiyoda Line)",
+          "to_id": "00006190",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Machiya(Chiyoda Line)",
+          "from_id": "00006190",
+          "to": "Kita-senju",
+          "to_id": "00008355",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Kita-senju",
+          "from_id": "00008355",
+          "to": "Ayase",
+          "to_id": "00000237",
+          "travel_time_minutes": 3
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:54:54.614Z"
+}

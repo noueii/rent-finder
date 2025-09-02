@@ -1,0 +1,704 @@
+{
+  "line": "Odakyu Enoshima",
+  "operator": "Odakyu Electric Railway",
+  "navitime_id": "00000685",
+  "first_station_id": "00005394",
+  "stations": [
+    {
+      "name": "Sagami-Ono",
+      "japanese_name": "相模大野",
+      "station_id": "00005394",
+      "order": 1,
+      "transfers": [
+        "Odakyu Odawara Line"
+      ]
+    },
+    {
+      "name": "Higashi-Rinkan",
+      "japanese_name": "東林間",
+      "station_id": "00006868",
+      "order": 2,
+      "transfers": []
+    },
+    {
+      "name": "Chuo-Rinkan",
+      "japanese_name": "中央林間",
+      "station_id": "00006029",
+      "order": 3,
+      "transfers": [
+        "Tokyu Den-en-toshi Line"
+      ]
+    },
+    {
+      "name": "Minami-Rinkan",
+      "japanese_name": "南林間",
+      "station_id": "00007178",
+      "order": 4,
+      "transfers": []
+    },
+    {
+      "name": "Tsuruma",
+      "japanese_name": "鶴間",
+      "station_id": "00006381",
+      "order": 5,
+      "transfers": []
+    },
+    {
+      "name": "Yamato(Kanagawa)",
+      "japanese_name": "大和(神奈川県)",
+      "station_id": "00005784",
+      "order": 6,
+      "transfers": [
+        "Sotetsu Main Line"
+      ]
+    },
+    {
+      "name": "Sakuragaoka",
+      "japanese_name": "桜ヶ丘",
+      "station_id": "00002881",
+      "order": 7,
+      "transfers": []
+    },
+    {
+      "name": "Koza-Shibuya",
+      "japanese_name": "高座渋谷",
+      "station_id": "00002567",
+      "order": 8,
+      "transfers": []
+    },
+    {
+      "name": "Chogo",
+      "japanese_name": "長後",
+      "station_id": "00006216",
+      "order": 9,
+      "transfers": []
+    },
+    {
+      "name": "Shonandai",
+      "japanese_name": "湘南台",
+      "station_id": "00003894",
+      "order": 10,
+      "transfers": [
+        "Yokohama City Subway Blue Line",
+        "Sotetsu Izumino Line"
+      ]
+    },
+    {
+      "name": "Mutsuai-Nichidai-mae",
+      "japanese_name": "六会日大前",
+      "station_id": "00009078",
+      "order": 11,
+      "transfers": []
+    },
+    {
+      "name": "Zengyo",
+      "japanese_name": "善行",
+      "station_id": "00005322",
+      "order": 12,
+      "transfers": []
+    },
+    {
+      "name": "Fujisawa-hommachi",
+      "japanese_name": "藤沢本町",
+      "station_id": "00006943",
+      "order": 13,
+      "transfers": []
+    },
+    {
+      "name": "Fujisawa",
+      "japanese_name": "藤沢",
+      "station_id": "00006942",
+      "order": 14,
+      "transfers": [
+        "JR Tokaido Main Line(Tokyo-Atami)",
+        "Enoshima Electric Railway"
+      ]
+    },
+    {
+      "name": "Hon-Kugenuma",
+      "japanese_name": "本鵠沼",
+      "station_id": "00008463",
+      "order": 15,
+      "transfers": []
+    },
+    {
+      "name": "Kugenuma-kaigan",
+      "japanese_name": "鵠沼海岸",
+      "station_id": "00002685",
+      "order": 16,
+      "transfers": []
+    },
+    {
+      "name": "Katase-Enoshima",
+      "japanese_name": "片瀬江ノ島",
+      "station_id": "00008146",
+      "order": 17,
+      "transfers": []
+    }
+  ],
+  "train_types": [
+    "Local",
+    "Express",
+    "Rapid Express",
+    "Limited Express"
+  ],
+  "example_trains": {
+    "Local": {
+      "trainId": "820100bc",
+      "trainName": "Odakyu Enoshima Line Local",
+      "destination": "Fujisawa",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "00",
+      "type": "Local"
+    },
+    "Express": {
+      "trainId": "82010085",
+      "trainName": "Odakyu Enoshima Line Express",
+      "destination": "Fujisawa",
+      "hour": 5,
+      "date": "2025-07-11",
+      "time": "30",
+      "type": "Express"
+    },
+    "Rapid Express": {
+      "trainId": "8201000e",
+      "trainName": "Odakyu Enoshima Line Rapid Express",
+      "destination": "Fujisawa",
+      "hour": 10,
+      "date": "2025-07-11",
+      "time": "06",
+      "type": "Rapid Express"
+    },
+    "Limited Express": {
+      "trainId": "82010023",
+      "trainName": "Enoshima 1 Go",
+      "destination": "Katase-Enoshima",
+      "hour": 16,
+      "date": "2025-07-11",
+      "time": "52",
+      "type": "Limited Express"
+    }
+  },
+  "train_stop_details": {
+    "Local": {
+      "line": "Odakyu Enoshima",
+      "train_type": "Local",
+      "total_stops": 14,
+      "stops": [
+        {
+          "name": "Sagami-Ono",
+          "station_id": "00005394",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.43746,
+            "lat": 35.531646
+          }
+        },
+        {
+          "name": "Higashi-Rinkan",
+          "station_id": "00006868",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.438904,
+            "lat": 35.520505
+          }
+        },
+        {
+          "name": "Chuo-Rinkan",
+          "station_id": "00006029",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.444122,
+            "lat": 35.507903
+          }
+        },
+        {
+          "name": "Minami-Rinkan",
+          "station_id": "00007178",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.447992,
+            "lat": 35.49573
+          }
+        },
+        {
+          "name": "Tsuruma",
+          "station_id": "00006381",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.450852,
+            "lat": 35.490208
+          }
+        },
+        {
+          "name": "Yamato(Kanagawa)",
+          "station_id": "00005784",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.461396,
+            "lat": 35.469935
+          }
+        },
+        {
+          "name": "Sakuragaoka",
+          "station_id": "00002881",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.465762,
+            "lat": 35.450482
+          }
+        },
+        {
+          "name": "Koza-Shibuya",
+          "station_id": "00002567",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.464684,
+            "lat": 35.432286
+          }
+        },
+        {
+          "name": "Chogo",
+          "station_id": "00006216",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.465434,
+            "lat": 35.412529
+          }
+        },
+        {
+          "name": "Shonandai",
+          "station_id": "00003894",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.466591,
+            "lat": 35.396282
+          }
+        },
+        {
+          "name": "Mutsuai-Nichidai-mae",
+          "station_id": "00009078",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.470851,
+            "lat": 35.383498
+          }
+        },
+        {
+          "name": "Zengyo",
+          "station_id": "00005322",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.473264,
+            "lat": 35.362803
+          }
+        },
+        {
+          "name": "Fujisawa-hommachi",
+          "station_id": "00006943",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.476261,
+            "lat": 35.347985
+          }
+        },
+        {
+          "name": "Fujisawa",
+          "station_id": "00006942",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.487488,
+            "lat": 35.338565
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Sagami-Ono",
+          "from_id": "00005394",
+          "to": "Higashi-Rinkan",
+          "to_id": "00006868",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Higashi-Rinkan",
+          "from_id": "00006868",
+          "to": "Chuo-Rinkan",
+          "to_id": "00006029",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Chuo-Rinkan",
+          "from_id": "00006029",
+          "to": "Minami-Rinkan",
+          "to_id": "00007178",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Minami-Rinkan",
+          "from_id": "00007178",
+          "to": "Tsuruma",
+          "to_id": "00006381",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Tsuruma",
+          "from_id": "00006381",
+          "to": "Yamato(Kanagawa)",
+          "to_id": "00005784",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yamato(Kanagawa)",
+          "from_id": "00005784",
+          "to": "Sakuragaoka",
+          "to_id": "00002881",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Sakuragaoka",
+          "from_id": "00002881",
+          "to": "Koza-Shibuya",
+          "to_id": "00002567",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Koza-Shibuya",
+          "from_id": "00002567",
+          "to": "Chogo",
+          "to_id": "00006216",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Chogo",
+          "from_id": "00006216",
+          "to": "Shonandai",
+          "to_id": "00003894",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Shonandai",
+          "from_id": "00003894",
+          "to": "Mutsuai-Nichidai-mae",
+          "to_id": "00009078",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Mutsuai-Nichidai-mae",
+          "from_id": "00009078",
+          "to": "Zengyo",
+          "to_id": "00005322",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Zengyo",
+          "from_id": "00005322",
+          "to": "Fujisawa-hommachi",
+          "to_id": "00006943",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Fujisawa-hommachi",
+          "from_id": "00006943",
+          "to": "Fujisawa",
+          "to_id": "00006942",
+          "travel_time_minutes": 3
+        }
+      ]
+    },
+    "Express": {
+      "line": "Odakyu Enoshima",
+      "train_type": "Express",
+      "total_stops": 7,
+      "stops": [
+        {
+          "name": "Sagami-Ono",
+          "station_id": "00005394",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.43746,
+            "lat": 35.531646
+          }
+        },
+        {
+          "name": "Chuo-Rinkan",
+          "station_id": "00006029",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.444122,
+            "lat": 35.507903
+          }
+        },
+        {
+          "name": "Minami-Rinkan",
+          "station_id": "00007178",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.447992,
+            "lat": 35.49573
+          }
+        },
+        {
+          "name": "Yamato(Kanagawa)",
+          "station_id": "00005784",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.461396,
+            "lat": 35.469935
+          }
+        },
+        {
+          "name": "Chogo",
+          "station_id": "00006216",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.465434,
+            "lat": 35.412529
+          }
+        },
+        {
+          "name": "Shonandai",
+          "station_id": "00003894",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.466591,
+            "lat": 35.396282
+          }
+        },
+        {
+          "name": "Fujisawa",
+          "station_id": "00006942",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.487488,
+            "lat": 35.338565
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Sagami-Ono",
+          "from_id": "00005394",
+          "to": "Chuo-Rinkan",
+          "to_id": "00006029",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Chuo-Rinkan",
+          "from_id": "00006029",
+          "to": "Minami-Rinkan",
+          "to_id": "00007178",
+          "travel_time_minutes": 1
+        },
+        {
+          "from": "Minami-Rinkan",
+          "from_id": "00007178",
+          "to": "Yamato(Kanagawa)",
+          "to_id": "00005784",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Yamato(Kanagawa)",
+          "from_id": "00005784",
+          "to": "Chogo",
+          "to_id": "00006216",
+          "travel_time_minutes": 5
+        },
+        {
+          "from": "Chogo",
+          "from_id": "00006216",
+          "to": "Shonandai",
+          "to_id": "00003894",
+          "travel_time_minutes": 2
+        },
+        {
+          "from": "Shonandai",
+          "from_id": "00003894",
+          "to": "Fujisawa",
+          "to_id": "00006942",
+          "travel_time_minutes": 7
+        }
+      ]
+    },
+    "Rapid Express": {
+      "line": "Odakyu Enoshima",
+      "train_type": "Rapid Express",
+      "total_stops": 5,
+      "stops": [
+        {
+          "name": "Sagami-Ono",
+          "station_id": "00005394",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.43746,
+            "lat": 35.531646
+          }
+        },
+        {
+          "name": "Chuo-Rinkan",
+          "station_id": "00006029",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.444122,
+            "lat": 35.507903
+          }
+        },
+        {
+          "name": "Yamato(Kanagawa)",
+          "station_id": "00005784",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.461396,
+            "lat": 35.469935
+          }
+        },
+        {
+          "name": "Shonandai",
+          "station_id": "00003894",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.466591,
+            "lat": 35.396282
+          }
+        },
+        {
+          "name": "Fujisawa",
+          "station_id": "00006942",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.487488,
+            "lat": 35.338565
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Sagami-Ono",
+          "from_id": "00005394",
+          "to": "Chuo-Rinkan",
+          "to_id": "00006029",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Chuo-Rinkan",
+          "from_id": "00006029",
+          "to": "Yamato(Kanagawa)",
+          "to_id": "00005784",
+          "travel_time_minutes": 3
+        },
+        {
+          "from": "Yamato(Kanagawa)",
+          "from_id": "00005784",
+          "to": "Shonandai",
+          "to_id": "00003894",
+          "travel_time_minutes": 6
+        },
+        {
+          "from": "Shonandai",
+          "from_id": "00003894",
+          "to": "Fujisawa",
+          "to_id": "00006942",
+          "travel_time_minutes": 8
+        }
+      ]
+    },
+    "Limited Express": {
+      "line": "Odakyu Enoshima",
+      "train_type": "Limited Express",
+      "total_stops": 4,
+      "stops": [
+        {
+          "name": "Sagami-Ono",
+          "station_id": "00005394",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.43746,
+            "lat": 35.531646
+          }
+        },
+        {
+          "name": "Yamato(Kanagawa)",
+          "station_id": "00005784",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.461396,
+            "lat": 35.469935
+          }
+        },
+        {
+          "name": "Fujisawa",
+          "station_id": "00006942",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.487488,
+            "lat": 35.338565
+          }
+        },
+        {
+          "name": "Katase-Enoshima",
+          "station_id": "00008146",
+          "arrival": null,
+          "departure": null,
+          "coord": {
+            "lon": 139.483502,
+            "lat": 35.308799
+          }
+        }
+      ],
+      "inter_station_times": [
+        {
+          "from": "Sagami-Ono",
+          "from_id": "00005394",
+          "to": "Yamato(Kanagawa)",
+          "to_id": "00005784",
+          "travel_time_minutes": 7
+        },
+        {
+          "from": "Yamato(Kanagawa)",
+          "from_id": "00005784",
+          "to": "Fujisawa",
+          "to_id": "00006942",
+          "travel_time_minutes": 14
+        },
+        {
+          "from": "Fujisawa",
+          "from_id": "00006942",
+          "to": "Katase-Enoshima",
+          "to_id": "00008146",
+          "travel_time_minutes": 5
+        }
+      ]
+    }
+  },
+  "processed_date": "2025-07-11T08:53:58.801Z"
+}
